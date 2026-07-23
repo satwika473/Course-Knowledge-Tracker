@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from typing import List
 
 import requests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, FeatureNotFound
 
 
 USER_AGENT = (
@@ -61,7 +61,14 @@ def scrape_feed(
         print(f"[WARN] Failed to fetch {source_name} ({feed_url}): {exc}")
         return []
 
-    soup = BeautifulSoup(content, "xml")
+    try:
+        soup = BeautifulSoup(content, "xml")
+    except FeatureNotFound:
+        print(
+            f"[WARN] XML parser not available for {source_name}. "
+            "Falling back to html.parser."
+        )
+        soup = BeautifulSoup(content, "html.parser")
     entries = soup.find_all(["item", "entry"])
     if not entries:
         print(f"[WARN] No feed entries found for {source_name} ({feed_url}).")

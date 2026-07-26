@@ -1,31 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-07-25 04:56 UTC_
+_Generated on: 2026-07-26 05:21 UTC_
 
-## 3 Mistakes to Avoid
+## Back Basics · First-Principles Thinking for Career Pivots
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: My Take on: You can build it. Should you? Introduction My Take on: You can build it. Should you? is gaining massive traction in the developer community. Whether you are a beginner or experienced developer, this guide...
-- Link: https://dev.to/qingluan/my-take-on-you-can-build-it-should-you-m72
+- Summary: When You Need to Reset Back Basics · the URX framework for people serious about a career pivot or business reset. Combines: First-principles thinking Backplanning from desired outcomes Reverse-engineering working syst...
+- Link: https://dev.to/brett_zandes_5c560d9b6027/back-basics-first-principles-thinking-for-career-pivots-1j7g
 
 ---
 
-## Async Traits in Rust Still Aren't Object-Safe. Here's What Actually Works
+## Education Minister Resigns Amid Protest Victory | Career Outlook
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Education Minister Resigns Amid Protest Victory | Career Outlook The Cockroach Party, a grassroots movement, galvanized youth and stu...
+- Link: https://dev.to/career_aheadmagazine_0a5/education-minister-resigns-amid-protest-victory-career-outlook-4ccj
+
+---
+
+## Education Policy Overhaul: Pralhad Joshi Leads Charge
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Education Policy Overhaul: Pralhad Joshi Leads Charge Pralhad Joshi's appointment as Education Minister marks a pivotal moment for In...
+- Link: https://dev.to/career_aheadmagazine_0a5/education-policy-overhaul-pralhad-joshi-leads-charge-1d90
+
+---
+
+## Empire LLM for Codex: AI Code Review Without the Chaos
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: If you've written a trait with an async method, implemented it for a couple of types, and then tried to throw them into a Vec>, you've probably seen this: error[E0038]: the trait Notifier cannot be made into an object...
-- Link: https://dev.to/dev_encyclopedia/async-traits-in-rust-still-arent-object-safe-heres-what-actually-works-ild
+- Summary: The single principle that makes this plugin worth installing A clean principle beats a clever feature every time. Empire LLM for Codex ships one: external models contribute evidence, not authority . That sentence is t...
+- Link: https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838
 
 ---
 
-## How I Built an AI Resume Builder Using MERN and GenAI/LLM, https://airesume.info/
+## How to Book the Perfect Furnished Apartment for Business Travel
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: 
-- Link: https://dev.to/pradeep4j/how-i-built-an-ai-resume-builder-using-mern-and-genaillm-3h78
+- Category: Programming Tips
+- Summary: A Practical Guide to Finding a Comfortable, Cost-Effective and Productive Stay in Dhaka Business travel is no longer just about finding a place to sleep. Professionals today need accommodation that supports productivi...
+- Link: https://dev.to/isha_mohammad_034308fdad7/how-to-book-the-perfect-furnished-apartment-for-business-travel-1fan
 
 ---
 
@@ -38,12 +56,12 @@ _Generated on: 2026-07-25 04:56 UTC_
 
 ---
 
-## How to Build an AI Agent with Function Calling in Node.js Using Google Gemini
+## How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Last year, a client asked me to add a conversational interface to their internal reporting tool. Staff would type a question, and the system would pull a live answer from the database. I had the first
-- Link: https://www.freecodecamp.org/news/how-to-build-ai-agent-function-calling-nodejs-gemini/
+- Summary: If you've ever tried to build a robotics system that can actually see, track, and respond to the world around it, you know that the hard part isn't training a detection model. The hard part is making
+- Link: https://www.freecodecamp.org/news/how-to-build-a-real-time-object-detection-and-tracking-pipeline-with-ros-2-and-yolov11/
 
 ---
 
@@ -56,6 +74,15 @@ _Generated on: 2026-07-25 04:56 UTC_
 
 ---
 
+## How to Model Subsurface Oceans and Cryovolcanism for Missions
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Canonical version: https://thelooplet.com/posts/how-to-model-subsurface-oceans-and-cryovolcanism-for-missions How to Model Subsurface Oceans and Cryovolcanism for Missions TL;DR: New constraints on Europa’s ice shell...
+- Link: https://dev.to/dheerajramasahayam/how-to-model-subsurface-oceans-and-cryovolcanism-for-missions-15jh
+
+---
+
 ## How to Use Prompt Engineering and Context Engineering for AI Agents
 
 - Source: freeCodeCamp News
@@ -65,30 +92,12 @@ _Generated on: 2026-07-25 04:56 UTC_
 
 ---
 
-## I Did the Math on Claude Opus 5: Max Effort Cost 94% More Than High Effort
+## I had a blog with no pipeline feeding it
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Claude Opus 5 launched on July 24. The first takes in my feed were predictable: "Same price means the upgrade is free." "Max effort is obviously the best setting." "Migrating from Opus 4.8 is just changing one model s...
-- Link: https://dev.to/tokenmixai/i-did-the-math-on-claude-opus-5-max-effort-cost-94-more-than-high-effort-4ebk
-
----
-
-## I made my voice agent slower on purpose
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: My pipeline was fast enough to interrupt people. Here is what I changed, what it cost, and the second bug that made calls go deaf without anyone noticing. I run a voice AI sales training platform. Users practice cold...
-- Link: https://dev.to/karthik_r_rk/i-made-my-voice-agent-slower-on-purpose-ci
-
----
-
-## Laptop Webcam Privacy: Can Your Camera Be Accessed Remotely?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: As remote work, online learning, and video conferencing continue to grow, webcam privacy has become an increasingly important cybersecurity topic. Questions like "Can someone remotely access my laptop camera?" appear...
-- Link: https://dev.to/zprostudio/laptop-webcam-privacy-can-your-camera-be-accessed-remotely-m14
+- Category: Career Guidance
+- Summary: Building in public is part of how this studio is supposed to work. It's in the go-to-market plan in plain language: don't buy attention, earn it by showing the work. Then I shipped this blog, wrote two posts about how...
+- Link: https://dev.to/bezacorelabs/i-had-a-blog-with-no-pipeline-feeding-it-4enm
 
 ---
 
@@ -98,15 +107,6 @@ _Generated on: 2026-07-25 04:56 UTC_
 - Category: Developer Blog
 - Summary: Learn FastAPI from the ground up. Build REST APIs, serve web pages with Jinja2 templates, and create a complete URL shortener project in Python.
 - Link: https://realpython.com/learning-paths/fastapi/
-
----
-
-## NSE6_FMG_AD-7.6 Preparation Material: Fortinet NSE 6 - FortiManager 7.6 Administrator
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The NSE6_FMG_AD-7.6 Fortinet NSE 6 - FortiManager 7.6 Administrator exam is the updated certification exam that transitioned the former FCP_FMG_AD-7.6 FortiManager 7.6 Administrator exam from the NSE 5 certification l...
-- Link: https://dev.to/victoria_meisel_d65e0bad3/nse6fmgad-76-preparation-material-fortinet-nse-6-fortimanager-76-administrator-3k9f
 
 ---
 
@@ -128,15 +128,6 @@ _Generated on: 2026-07-25 04:56 UTC_
 
 ---
 
-## Segment Trees: The Matrix of Range Queries
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The Quest Begins (The "Why") I still remember the first time I faced a “range query” problem in an interview. The interviewer slid a whiteboard marker across the table and said, “You have an array of size n. You need...
-- Link: https://dev.to/timevolt/segment-trees-the-matrix-of-range-queries-4m45
-
----
-
 ## The Real Python Podcast – Episode #304: Configuring a Versatile LLM Harness & Scraping the Web With Scrapy
 
 - Source: Real Python
@@ -155,12 +146,12 @@ _Generated on: 2026-07-25 04:56 UTC_
 
 ---
 
-## Unlock Your Potential: Mastering AI & Automation for a Competitive Career in India
+## Unlock Your Potential: Mastering AI & Automation for a Competitive India Career
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The pressure is on. Every year, millions of Indian students graduate, fueled by the rigorous demands of the NCERT curriculum and the intense preparation for JEE and other competitive exams. The dream of a bright futur...
-- Link: https://dev.to/dgmh10uk/unlock-your-potential-mastering-ai-automation-for-a-competitive-career-in-india-1c39
+- Summary: The pressure is immense. Every year, millions of Indian students pour their hearts and minds into the NCERT curriculum and the grueling JEE exams. The dream – a prestigious engineering college, a high-paying job – is...
+- Link: https://dev.to/dgmh10uk/unlock-your-potential-mastering-ai-automation-for-a-competitive-india-career-2bf9
 
 ---
 
@@ -173,11 +164,20 @@ _Generated on: 2026-07-25 04:56 UTC_
 
 ---
 
-## Why I'm not worried about AI taking my freelance income (2026-07-25)
+## When Everyday Tech Stops Being Invisible: The Real Engineering Behind “Satisfying” Machines
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Every freelancer I know has had the thought at least once: "If AI can write code this well, who's going to hire me?" Here's why I stopped worrying about it. What clients pay for When a client hires a freelance Python...
-- Link: https://dev.to/hal_gobvan_16a285d49bda97/why-im-not-worried-about-ai-taking-my-freelance-income-2026-07-25-4dcj
+- Category: Programming Tips
+- Summary: When Everyday Tech Stops Being Invisible: The Real Engineering Behind “Satisfying” Machines Technology is usually judged by what it promises on a slide deck. A BoredPanda roundup of “81 satisfying and genius technolog...
+- Link: https://dev.to/james_lin/when-everyday-tech-stops-being-invisible-the-real-engineering-behind-satisfying-machines-4n1
+
+---
+
+## Win iPhone 15 Giveaway 2026 – Free Entry & Eligibility Guide
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Win iPhone 15 Review: My Honest Experience Entering This Premium Smartphone Giveaway – 1500-Word Detailed User Review As a freelance digital marketer and affiliate promoter based in Rajshahi, Bangladesh, I spend a lot...
+- Link: https://dev.to/al_beruni_6f2dfaf29b51d96/win-iphone-15-giveaway-2026-free-entry-eligibility-guide-1j0a
 
 ---

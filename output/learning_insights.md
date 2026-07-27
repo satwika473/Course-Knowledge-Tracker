@@ -1,49 +1,58 @@
 # Learning Insights
 
-_Generated on: 2026-07-26 05:21 UTC_
+_Generated on: 2026-07-27 05:39 UTC_
 
-## Back Basics · First-Principles Thinking for Career Pivots
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: When You Need to Reset Back Basics · the URX framework for people serious about a career pivot or business reset. Combines: First-principles thinking Backplanning from desired outcomes Reverse-engineering working syst...
-- Link: https://dev.to/brett_zandes_5c560d9b6027/back-basics-first-principles-thinking-for-career-pivots-1j7g
-
----
-
-## Education Minister Resigns Amid Protest Victory | Career Outlook
+## # Pro Profile Templates: Create a Professional First Impression That Gets You Hired
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Education Minister Resigns Amid Protest Victory | Career Outlook The Cockroach Party, a grassroots movement, galvanized youth and stu...
-- Link: https://dev.to/career_aheadmagazine_0a5/education-minister-resigns-amid-protest-victory-career-outlook-4ccj
+- Summary: Stand Out with Professionally Designed Profile Templates from YuvaSetu In today's competitive job market, your profile is more than just a collection of personal details—it is your digital identity. Recruiters often s...
+- Link: https://dev.to/savigo_enterprise_3cd7cdc/-pro-profile-templates-create-a-professional-first-impression-that-gets-you-hired-2ke6
 
 ---
 
-## Education Policy Overhaul: Pralhad Joshi Leads Charge
+## **Unlocking Vietnam’s Potential: How AI and Smart Automation Can Drive Your Business and Your Family’s Future**
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Education Policy Overhaul: Pralhad Joshi Leads Charge Pralhad Joshi's appointment as Education Minister marks a pivotal moment for In...
-- Link: https://dev.to/career_aheadmagazine_0a5/education-policy-overhaul-pralhad-joshi-leads-charge-1d90
+- Summary: (Keywords: AI Vietnam, Automation Vietnam, Digital Skills Vietnam, Education Technology Vietnam, Business Automation Vietnam) Vietnam’s growth story is captivating the world. We see it in the gleaming factories of Sam...
+- Link: https://dev.to/dgmh10uk/unlocking-vietnams-potential-how-ai-and-smart-automation-can-drive-your-business-and-your-1fn5
 
 ---
 
-## Empire LLM for Codex: AI Code Review Without the Chaos
+## A Day in the Life of a Project Management Intern: Balancing Project Coordination and Recruitment
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A Day in the Life of a Project Management Intern: Balancing Project Coordination and Recruitment Project management isn't just about Gantt charts and deadlines—it's about communication, coordination, and helping teams...
+- Link: https://dev.to/tech_tales_daa8a7eab515b3/a-day-in-the-life-of-a-project-management-intern-balancing-project-coordination-and-recruitment-5814
+
+---
+
+## Chess & Computer Tech Today – A Programmer’s Take
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The single principle that makes this plugin worth installing A clean principle beats a clever feature every time. Empire LLM for Codex ships one: external models contribute evidence, not authority . That sentence is t...
-- Link: https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838
+- Summary: Chess & Computer Tech Today – A Programmer’s Take Remember when beating a human at chess was the holy grail of AI? In 1972, it was literally the benchmark. Fast forward to today: a random office desktop crushes any gr...
+- Link: https://dev.to/nevmenandr/chess-computer-tech-today-a-programmers-take-2338
 
 ---
 
-## How to Book the Perfect Furnished Apartment for Business Travel
+## Hacknet Mac Free Download Full Version (Pre-Activated DMG)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A Practical Guide to Finding a Comfortable, Cost-Effective and Productive Stay in Dhaka Business travel is no longer just about finding a place to sleep. Professionals today need accommodation that supports productivi...
-- Link: https://dev.to/isha_mohammad_034308fdad7/how-to-book-the-perfect-furnished-apartment-for-business-travel-1fan
+- Summary: Hacknet for MacBook is an immersive, terminal-driven hacking simulator that places you right into the digital underground. Following instructions left by a recently deceased hacker, you will use real UNIX command line...
+- Link: https://dev.to/shahzaib_creates_0095299a/hacknet-mac-free-download-full-version-pre-activated-dmg-10pg
+
+---
+
+## Hacknet Mac Free Download Full Version (Pre-Activated DMG)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Hacknet for MacBook is an immersive, terminal-driven hacking simulator that places you right into the digital underground. Following instructions left by a recently deceased hacker, you will use real UNIX command line...
+- Link: https://dev.to/shahzaib_creates_0095299a/hacknet-mac-free-download-full-version-pre-activated-dmg-128n
 
 ---
 
@@ -74,15 +83,6 @@ _Generated on: 2026-07-26 05:21 UTC_
 
 ---
 
-## How to Model Subsurface Oceans and Cryovolcanism for Missions
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Canonical version: https://thelooplet.com/posts/how-to-model-subsurface-oceans-and-cryovolcanism-for-missions How to Model Subsurface Oceans and Cryovolcanism for Missions TL;DR: New constraints on Europa’s ice shell...
-- Link: https://dev.to/dheerajramasahayam/how-to-model-subsurface-oceans-and-cryovolcanism-for-missions-15jh
-
----
-
 ## How to Use Prompt Engineering and Context Engineering for AI Agents
 
 - Source: freeCodeCamp News
@@ -92,12 +92,30 @@ _Generated on: 2026-07-26 05:21 UTC_
 
 ---
 
-## I had a blog with no pipeline feeding it
+## I built an AI dev harness that isn't allowed to trust itself. Then I checked the part doing the not-trusting.
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A follow-up to I built an AI dev harness that isn't allowed to trust itself . The harness I wrote about isn't allowed to trust itself. That was the whole point, and it rested on one sentence: nothing an agent produces...
+- Link: https://dev.to/agentdev9/i-built-an-ai-dev-harness-that-isnt-allowed-to-trust-itself-then-i-checked-the-part-doing-the-298a
+
+---
+
+## I Ran an AMA on Dev.to. Here Are My Favorite Questions
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Building in public is part of how this studio is supposed to work. It's in the go-to-market plan in plain language: don't buy attention, earn it by showing the work. Then I shipped this blog, wrote two posts about how...
-- Link: https://dev.to/bezacorelabs/i-had-a-blog-with-no-pipeline-feeding-it-4enm
+- Summary: This month, my personal blog turned 8 years old...and my dev.to account turned 7. To celebrate it, I ran [an AMA session: I've Spent 10+ Years in Software Engineering. After Sickness, Burnout, and a Layoff, I'm Rebuil...
+- Link: https://dev.to/canro91/i-ran-an-ama-on-devto-here-are-my-favorite-questions-56o8
+
+---
+
+## I Spent 2.5 Years Building a Productivity Platform. Then I Open-Sourced It.
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: For the last 2.5 years, I've been building Work-Break—a productivity platform designed to help individuals and teams manage work breaks, tasks, meetings, leave requests, and Google Calendar sync. Like many side projec...
+- Link: https://dev.to/workbreak/i-spent-25-years-building-a-productivity-platform-then-i-open-sourced-it-2j8o
 
 ---
 
@@ -107,6 +125,15 @@ _Generated on: 2026-07-26 05:21 UTC_
 - Category: Developer Blog
 - Summary: Learn FastAPI from the ground up. Build REST APIs, serve web pages with Jinja2 templates, and create a complete URL shortener project in Python.
 - Link: https://realpython.com/learning-paths/fastapi/
+
+---
+
+## New-Logo Prospecting for Account Managers: A Repeatable Process, Not a Personality Trait
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most account managers in IT training inherit their book of business. Very few are ever taught how to open a new logo from zero. We just published a course that treats new-logo prospecting as a repeatable process, not...
+- Link: https://dev.to/koenig_academy_9a8f35ff4b/new-logo-prospecting-for-account-managers-a-repeatable-process-not-a-personality-trait-n0n
 
 ---
 
@@ -146,38 +173,11 @@ _Generated on: 2026-07-26 05:21 UTC_
 
 ---
 
-## Unlock Your Potential: Mastering AI & Automation for a Competitive India Career
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The pressure is immense. Every year, millions of Indian students pour their hearts and minds into the NCERT curriculum and the grueling JEE exams. The dream – a prestigious engineering college, a high-paying job – is...
-- Link: https://dev.to/dgmh10uk/unlock-your-potential-mastering-ai-automation-for-a-competitive-india-career-2bf9
-
----
-
 ## What to Do if You've Outgrown Your Cron Job Scheduler
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: Most developers begin their automation journey similarly. They create a script that performs a helpful task, such as pulling data from an API, resizing a batch of images, or emailing a report, and the
 - Link: https://www.freecodecamp.org/news/what-to-do-if-you-ve-outgrown-your-cron-job-scheduler/
-
----
-
-## When Everyday Tech Stops Being Invisible: The Real Engineering Behind “Satisfying” Machines
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: When Everyday Tech Stops Being Invisible: The Real Engineering Behind “Satisfying” Machines Technology is usually judged by what it promises on a slide deck. A BoredPanda roundup of “81 satisfying and genius technolog...
-- Link: https://dev.to/james_lin/when-everyday-tech-stops-being-invisible-the-real-engineering-behind-satisfying-machines-4n1
-
----
-
-## Win iPhone 15 Giveaway 2026 – Free Entry & Eligibility Guide
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Win iPhone 15 Review: My Honest Experience Entering This Premium Smartphone Giveaway – 1500-Word Detailed User Review As a freelance digital marketer and affiliate promoter based in Rajshahi, Bangladesh, I spend a lot...
-- Link: https://dev.to/al_beruni_6f2dfaf29b51d96/win-iphone-15-giveaway-2026-free-entry-eligibility-guide-1j0a
 
 ---

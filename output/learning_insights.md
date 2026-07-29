@@ -1,49 +1,67 @@
 # Learning Insights
 
-_Generated on: 2026-07-28 04:53 UTC_
+_Generated on: 2026-07-29 04:58 UTC_
 
-## Digital Product Portfolio Management: Best Practices for Enterprise Teams
+## 2026 직장인 팁 포털 — 직장인 커리어 승진 & 야근 줄이기 팁 정밀 가이드 (Vol.1)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: 💡 2026 직장인 팁 포털 — 직장인 커리어 승진 & 야근 줄이기 팁 (Vol.1 정밀 칼럼) (공백 제외 한글 1,000자 이상 심층 정밀 가이드) 2026년 현대 사회를 살아가는 직장인, 창업가, 그리고 성장을 지향하는 모든 현대인에게 있어 개인의 업무 생산성 관리, 정서적 멘탈 케어, 그리고 자산의 안정적 운용은 삶의 질과 성패를 결정짓는 가장 핵심적인 요소입니다. 수많은 업무...
+- Link: https://dev.to/chobh1024/2026-jigjangin-tib-poteol-jigjangin-keorieo-seungjin-yageun-juligi-tib-jeongmil-gaideu-vol1-4np8
+
+---
+
+## 2026 직장인 팁 포털 — 직장인 커리어 승진 & 야근 줄이기 팁 핵심 실천 수칙 (Vol.2)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: 💡 2026 직장인 팁 포털 — 직장인 커리어 승진 & 야근 줄이기 팁 (Vol.2 심화 칼럼) (공백 제외 한글 1,000자 이상 심층 정밀 가이드) 2026년 현대 사회를 살아가는 직장인, 창업가, 그리고 성장을 지향하는 모든 현대인에게 있어 개인의 업무 생산성 관리, 정서적 멘탈 케어, 그리고 자산의 안정적 운용은 삶의 질과 성패를 결정짓는 가장 핵심적인 요소입니다. 수많은 업무...
+- Link: https://dev.to/chobh1024/2026-jigjangin-tib-poteol-jigjangin-keorieo-seungjin-yageun-juligi-tib-haegsim-silceon-sucig-vol2-2a6a
+
+---
+
+## A Dependency That's Slow Is Worse Than One That's Down: What Building Circuit Breakers Taught Us
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Digital products have transformed how businesses deliver value. Whether it's a SaaS platform, mobile application, customer portal, or enterprise software, digital products require continuous planning, development, mea...
-- Link: https://dev.to/lara_walker_88/digital-product-portfolio-management-best-practices-for-enterprise-teams-1o3b
+- Summary: We used to think the worst failure mode for a downstream service was an outage. It isn't. An outage is clean — the connection refuses, the request fails fast, your code hits a catch block and moves on. What actually t...
+- Link: https://dev.to/krishnamm/a-dependency-thats-slow-is-worse-than-one-thats-down-what-building-circuit-breakers-taught-us-22pg
 
 ---
 
-## Do I Have to Pay Taxes on Social Security? (Combined Income Explained)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Originally published at https://pay.thicket.sh/blog/do-i-have-to-pay-taxes-on-social-security . By Jamie Reeves , Personal Finance Writer Only if your other income is high enough. The test uses “combined income” — you...
-- Link: https://dev.to/yonatan_naor_5642e43447ea/do-i-have-to-pay-taxes-on-social-security-combined-income-explained-134a
-
----
-
-## GCC Tech Salaries in 2026: How to Track Vision 2030 Hiring & Pay with Live Data
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The Gulf is in the middle of the biggest hiring wave in its history. The six GCC states are projected to hire around 2.5 million skilled professionals over three years , Saudi Arabia is targeting 50,000 new tech jobs...
-- Link: https://dev.to/get_anything/gcc-tech-salaries-in-2026-how-to-track-vision-2030-hiring-pay-with-live-data-j49
-
----
-
-## How to Build a Production-Ready DevSecOps Platform from Homelab to AWS [Full Book]
+## A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: In this book, you'll build a fintech transaction ledger from scratch and progressively transform it into a production-ready DevSecOps platform. You'll also deploy it on AWS. The app processes credit a
-- Link: https://www.freecodecamp.org/news/how-to-build-a-production-ready-devsecops-platform-from-homelab-to-aws-full-book/
+- Summary: Building production-grade forms in React can be a painful experience. It's one of the parts of front-end engineering that most developers are uncomfortable with. Usually, you'll start with a simple co
+- Link: https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/
 
 ---
 
-## How to Build a Real-Time Object Detection and Tracking Pipeline with ROS 2 and YOLOv11
+## How Does an AI Certification Improve Career Opportunities?
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: If you've ever tried to build a robotics system that can actually see, track, and respond to the world around it, you know that the hard part isn't training a detection model. The hard part is making
-- Link: https://www.freecodecamp.org/news/how-to-build-a-real-time-object-detection-and-tracking-pipeline-with-ros-2-and-yolov11/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Artificial intelligence is changing industries. Creating new jobs faster than ever before. Companies over the world are using AI to make work more efficient, automate tasks and offer better service to customers. As mo...
+- Link: https://dev.to/georgiaweston/how-does-an-ai-certification-improve-career-opportunities-1jl8
+
+---
+
+## How New York FinTech Companies Build Better Sales Pipelines
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: New York is one of the world's most competitive financial markets. Every day, FinTech companies compete for the attention of banks, payment providers, investment firms and insurance businesses. The opportunity is enor...
+- Link: https://dev.to/konsyg_6e0b6ddb36b4585/how-new-york-fintech-companies-build-better-sales-pipelines-51fe
+
+---
+
+## How to Become a Data Analyst in Mumbai: Step-by-Step Career Guide
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The first time I opened a "real" company dataset instead of a clean Kaggle CSV, I genuinely wanted to close the laptop and reconsider my life choices. Duplicate customer IDs. A date column that switched between three...
+- Link: https://dev.to/roshan_chaturvedi_256f1f9/how-to-become-a-data-analyst-in-mumbai-step-by-step-career-guide-5c8a
 
 ---
 
@@ -56,24 +74,6 @@ _Generated on: 2026-07-28 04:53 UTC_
 
 ---
 
-## How to Create and Sell Online Courses as a Developer
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: How to Create and Sell Online Courses as a Developer tags: course, teaching, money, career Monetize Your Expertise: Creating and Selling Online Courses as a Developer As developers, we're always looking for ways to sh...
-- Link: https://dev.to/qingluan/how-to-create-and-sell-online-courses-as-a-developer-4pd5
-
----
-
-## How to Diagnose Production Bugs When You Can't Reproduce Them Locally
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Every developer eventually encounters the same frustrating problem. A customer reports that your application is failing in production. You try the exact same workflow on your development machine, but
-- Link: https://www.freecodecamp.org/news/how-to-diagnose-production-bugs-when-you-can-t-reproduce-them-locally/
-
----
-
 ## How to Use Google's Antigravity CLI for AI Code Assistance
 
 - Source: Real Python
@@ -83,21 +83,30 @@ _Generated on: 2026-07-28 04:53 UTC_
 
 ---
 
-## Is Your Organization Wasting Money Maintaining Duplicate Policies for Overlapping Regulations?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Here's a question worth asking honestly inside any compliance function: how many of your organization's policies say roughly the same thing, just written slightly differently to address different regulations? If you'r...
-- Link: https://dev.to/itechgrc_solutions/is-your-organization-wasting-money-maintaining-duplicate-policies-for-overlapping-regulations-2064
-
----
-
-## Quiz: A Guide to Excel Spreadsheets in Python With openpyxl
+## Managing Imports With Python's __all__
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Practice reading, writing, and styling Excel spreadsheets in Python with openpyxl, from cell values and formulas to charts and images.
-- Link: https://realpython.com/quizzes/openpyxl-excel-spreadsheets-python/
+- Summary: Learn how Python's dunder all variable controls wildcard imports and shapes the public API your packages and modules expose.
+- Link: https://realpython.com/courses/managing-imports-dunder-all/
+
+---
+
+## Master 3D Printing & Additive Manufacturing
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Additive manufacturing has evolved into a cornerstone of Industry 4.0 and modern industrial production. Whether it's light-weighting aerospace turbine components, printing custom titanium medical impl
+- Link: https://www.freecodecamp.org/news/master-3d-printing-additive-manufacturing/
+
+---
+
+## Prompt vs Loop Engineering: A Guide for Developers
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: For many developers, the AI workflow looks something like this: write a prompt, get a response, copy what's useful, and move on. This covers a surprising range of tasks, from summarizing a document to
+- Link: https://www.freecodecamp.org/news/prompt-vs-loop-engineering-a-guide-for-developers/
 
 ---
 
@@ -110,21 +119,21 @@ _Generated on: 2026-07-28 04:53 UTC_
 
 ---
 
-## The Empire Strikes Back: Choosing Between Microservices and Monoliths for a Rate Limiter
+## Quiz: Managing Imports With Python's __all__
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The Quest Begins (The "Why") Imagine you’re building a shiny new API that lets users upload cat pictures. Everything’s going great until you notice a rogue client hammering the endpoint with a thousand requests per se...
-- Link: https://dev.to/timevolt/the-empire-strikes-back-choosing-between-microservices-and-monoliths-for-a-rate-limiter-1jnk
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check your understanding of wildcard imports, the dunder all variable, and how to control the public APIs of your Python modules and packages.
+- Link: https://realpython.com/quizzes/managing-imports-dunder-all/
 
 ---
 
-## The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python
+## The Internet's Longest-Running Joke: A Field Guide to the April Fools RFCs
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Tracking flood risk takes one unglamorous but essential thing: clean and structured data. In this tutorial, you'll build a data pipeline yourself. You'll create a Python ETL (Extract, Transform, Load)
-- Link: https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/
+- Summary: Here's a line from an official document published by the people who run the internet: "Readers who cannot distinguish satire by reading the text may have a future in marketing." This line actually s
+- Link: https://www.freecodecamp.org/news/the-internet-s-longest-running-joke-a-field-guide-to-the-april-fools-rfcs/
 
 ---
 
@@ -137,47 +146,38 @@ _Generated on: 2026-07-28 04:53 UTC_
 
 ---
 
-## Tool-Agnostic Python Lock Files With PEP 751 and pylock.toml
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how PEP 751 standardizes Python lock files with pylock.toml: generate one with pip or uv, install it with uv or pdm, and retire requirements.txt.
-- Link: https://realpython.com/python-lock-file-pylock-toml/
-
----
-
-## Top 10 Websites to Find Verified Fresher Job Listings
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Starting a career is one of the most exciting yet challenging phases of life, and finding verified fresher job listings is often the biggest hurdle for new graduates. With thousands of job portals flooding the interne...
-- Link: https://dev.to/geeth_priya_4fdb408cbd69/top-10-websites-to-find-verified-fresher-job-listings-33on
-
----
-
-## Unlock Vietnam’s Export Potential: How AI & Smart Automation Can Drive Your Business Forward
+## The Weekend Gold Rush and the Graveyard It Leaves Behind
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Vietnam’s rise as a manufacturing powerhouse is undeniable. Samsung’s factories, Vingroup’s innovation, and the sheer scale of production – it’s a story of incredible ambition and hard work. But to truly compete in th...
-- Link: https://dev.to/dgmh10uk/unlock-vietnams-export-potential-how-ai-smart-automation-can-drive-your-business-forward-395
+- Summary: I have seen this movie before. Several times. The actors change. The soundtrack improves. The promises get louder. The ending stays the same. Around 2000 it was this. Everyone needs a website. Learn HTML in a weekend....
+- Link: https://dev.to/nahamaalochi/the-weekend-gold-rush-and-the-graveyard-it-leaves-behind-5a51
 
 ---
 
-## What OpenAI's New Task-Crossover Research Can Teach Freelancers About Owning the Handoff in 2026
+## Top AI Test Management Platforms for Agile and DevOps Teams
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The most useful line in today's AI news is not that AI can do more work. It is that AI is changing who does the work. In a new OpenAI Economic Research report , researchers analyzed more than 800,000 work-related mess...
-- Link: https://dev.to/marcusykim/what-openais-new-task-crossover-research-can-teach-freelancers-about-owning-the-handoff-in-2026-36ke
+- Summary: Artificial intelligence is reshaping software testing. From generating test cases and identifying risks to analyzing test results and optimizing regression suites, AI is helping QA teams deliver faster releases with g...
+- Link: https://dev.to/lara_walker_88/top-ai-test-management-platforms-for-agile-and-devops-teams-149d
 
 ---
 
-## Why I stopped using AI for the easy stuff and started using it for the hard stuff (2026-07-28)
+## What Are the Best Platforms for Online EMDR Therapy?
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: When I started using AI for freelance work, I used it for the easy stuff: write a function, fix this typo, format this list. It was fine. It was faster than doing those things by hand. It saved maybe 20 minutes a day....
-- Link: https://dev.to/hal_gobvan_16a285d49bda97/why-i-stopped-using-ai-for-the-easy-stuff-and-started-using-it-for-the-hard-stuff-2026-07-28-111n
+- Category: Programming Tips
+- Summary: If you've been searching for online EMDR therapy, you've probably noticed that not every video call app is built for it. EMDR — Eye Movement Desensitization and Reprocessing — relies on bilateral stimulation, the back...
+- Link: https://dev.to/mindspacecounseling/what-are-the-best-platforms-for-online-emdr-therapy-3i74
+
+---
+
+## What I Learned Building an Export Pipeline for a Transcription App
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: When I started building a transcription app, exporting looked like one of the easiest features. The transcript was already stored in the database. I only needed to turn it into a text file and send it to the browser....
+- Link: https://dev.to/emily_digiplanpro_63dd13f/what-i-learned-building-an-export-pipeline-for-a-transcription-app-p2d
 
 ---

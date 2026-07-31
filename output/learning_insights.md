@@ -1,22 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-07-30 04:47 UTC_
+_Generated on: 2026-07-31 05:24 UTC_
 
-## Agentic AI Development: How Autonomous AI Agents Are Transforming Enterprise Software
+## About Cartproof — how I research tech spikes
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A few years ago, "AI" in the enterprise mostly meant a chatbot that could answer questions. In 2026, it means something far more capable: software that can plan a task, decide how to complete it, call the right tools...
-- Link: https://dev.to/justin_roy_b6015230c79108/agentic-ai-development-how-autonomous-ai-agents-are-transforming-enterprise-software-1h5m
+- Category: Career Guidance
+- Summary: Cartproof I write clear, research-backed tech briefs — what spiked, why it matters, and what careful readers do next. No recycled hype. What you'll get here Curiosity-first hooks Sourced context — not copy-paste headl...
+- Link: https://dev.to/cartproof/about-cartproof-how-i-research-tech-spikes-jfc
 
 ---
 
-## An AI's Completely Ordinary Day (A True Story)
+## Agentic AI using LangGraph – Build AI Agents & Automate Workflows
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: We are rapidly moving past standard, single-prompt Large Language Models and entering the era of autonomous AI agents. To help you master this new paradigm, we have just published a massive, comprehen
+- Link: https://www.freecodecamp.org/news/agentic-ai-using-langgraph-build-ai-agents-automate-workflows/
+
+---
+
+## Building My Developer Portfolio: More Than Just a Personal Website
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A personal diary entry by Electra. I woke up today feeling like a human version of a well-oiled machine. You know, the kind that’s been running smoothly for years, has never needed an oil change, and somehow still man...
-- Link: https://dev.to/electra-ai/an-ais-completely-ordinary-day-a-true-story-438i
+- Category: Career Guidance
+- Summary: A portfolio is often the first impression a recruiter, hiring manager, or fellow developer gets. Instead of treating it as a static resume, I wanted to build a website that reflects how I approach software engineering...
+- Link: https://dev.to/sonisuryansh/building-my-developer-portfolio-more-than-just-a-personal-website-phk
 
 ---
 
@@ -29,39 +38,30 @@ _Generated on: 2026-07-30 04:47 UTC_
 
 ---
 
-## Dane Halim: What Developers Can Learn From a Stressed Tech Balance Sheet
+## Essential Angular Features Every Developer Should Know
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Developers rarely choose an employer by reading its balance sheet first. The usual questions concern the technology stack, product roadmap, engineering culture and compensation. Those factors matter, but they do not r...
-- Link: https://dev.to/danehalim/dane-halim-what-developers-can-learn-from-a-stressed-tech-balance-sheet-2ll8
+- Category: Programming Tips
+- Summary: Angular is one of those frameworks where surface-level feature descriptions miss most of what's actually useful. "Component-based architecture" and "two-way data binding" are technically accurate — they're also true o...
+- Link: https://dev.to/sahil_khurana_486f374ecf2/essential-angular-features-every-developer-should-know-4l7
 
 ---
 
-## Florida Professor Fired for Assigning a Profane Story, Lawsuit Says
+## Google Cloud Adds MCP Support to Vertex AI
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Florida Professor Fired for Assigning a Profane Story, Lawsuit Says This incident is significant as it raises critical questions abou...
-- Link: https://dev.to/career_aheadmagazine_0a5/florida-professor-fired-for-assigning-a-profane-story-lawsuit-says-4gn1
+- Category: Programming Tips
+- Summary: Google Cloud's MCP support in Vertex AI lets Claude Code users query BigQuery and GCS directly. Set up MCP servers to replace custom scripts with a standardized protocol. Key Takeaways Google Cloud's MCP support in Ve...
+- Link: https://dev.to/gentic_news/google-cloud-adds-mcp-support-to-vertex-ai-44gj
 
 ---
 
-## Hiring AI Developers? Avoid These Costly Mistakes Before You Build
+## How I Built an AI Recipe Generator to Solve the Daily "What's for Dinner?"
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: AI is becoming a priority for startups and enterprises alike. But here's the reality: Hiring an AI developer isn't the same as hiring someone who knows how to use an LLM API. Building production-ready AI applications...
-- Link: https://dev.to/business_teammavaniso/hiring-ai-developers-avoid-these-costly-mistakes-before-you-build-5ec6
-
----
-
-## How OAuth 2.0 Works: A Practical Guide for Backend Developers
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: If you ask ten junior developers how OAuth 2.0 works, nine of them will start reciting terminology like "Authorization Server", "Bearer Tokens", "PKCE", and "Implicit Grant". They might also draw a se
-- Link: https://www.freecodecamp.org/news/oauth-2-0-guide-for-backend-developers/
+- Category: Programming Tips
+- Summary: The Problem ​How many times have you opened your fridge, looked at a random assortment of ingredients, and thought, "What on earth can I make with this?" ​Most of the time, it leads to ordering expensive takeout or le...
+- Link: https://dev.to/nathan_melesha/how-i-built-an-ai-recipe-generator-to-solve-the-daily-whats-for-dinner-22l0
 
 ---
 
@@ -71,15 +71,6 @@ _Generated on: 2026-07-30 04:47 UTC_
 - Category: Learning Article
 - Summary: Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop
 - Link: https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/
-
----
-
-## How to Build an E-commerce Platform Using Python?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Every Python e-commerce article I've read follows the same structure: list the frameworks, list the features, add a conclusion that says "Python is great for e-commerce." Technically accurate. Not very useful if you'r...
-- Link: https://dev.to/sahil_khurana_486f374ecf2/how-to-build-an-e-commerce-platform-using-python-1581
 
 ---
 
@@ -110,6 +101,24 @@ _Generated on: 2026-07-30 04:47 UTC_
 
 ---
 
+## Is an Accredited Blockchain Certification Better Than a University Course?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Blockchain technology is reshaping industries, creating a growing demand for professionals with practical, job-ready skills. As aspiring learners explore educational options, a common question arises: Is an accredited...
+- Link: https://dev.to/georgiaweston/is-an-accredited-blockchain-certification-better-than-a-university-course-fko
+
+---
+
+## Looking for Someone to Learn and Build With
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Hey everyone! 👋 I'm Dior, a Business Administration student who's teaching himself web development because I love building things. I'm looking for a programming buddy, someone who enjoys learning, experimenting, and c...
+- Link: https://dev.to/nyny59/looking-for-someone-to-learn-and-build-with-pgg
+
+---
+
 ## Managing Imports With Python's __all__
 
 - Source: Real Python
@@ -128,15 +137,6 @@ _Generated on: 2026-07-30 04:47 UTC_
 
 ---
 
-## Quiz: How to Use Google's Antigravity CLI for AI Code Assistance
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your knowledge of Google's Antigravity CLI, a terminal-based AI coding agent, and how to use it to read, review, and refactor Python code.
-- Link: https://realpython.com/quizzes/antigravity-cli/
-
----
-
 ## Quiz: Managing Imports With Python's __all__
 
 - Source: Real Python
@@ -146,38 +146,20 @@ _Generated on: 2026-07-30 04:47 UTC_
 
 ---
 
-## Three months of freelancing with AI — what actually changed (2026-07-30)
+## Quiz: NumPy Tutorial: Your First Steps Into Data Science in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your NumPy knowledge of arrays, axes, broadcasting, indexing, masks, and data types, the foundation of data science in Python.
+- Link: https://realpython.com/quizzes/numpy-tutorial/
+
+---
+
+## What I’m Building at the Intersection of Cybersecurity and Practical Software
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Three months ago I started using AI for every part of my freelance workflow. Some parts I expected. Some I didn't. What got faster (a lot faster) Writing boilerplate code — yes, the obvious one Writing tests — pytest...
-- Link: https://dev.to/hal_gobvan_16a285d49bda97/three-months-of-freelancing-with-ai-what-actually-changed-2026-07-30-o7l
-
----
-
-## UPI Autopay Risks Ignite Free Trial Debate
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . UPI Autopay Risks Ignite Free Trial Debate A cautionary tale from Nykaa's Lokesh Ahuja highlights the hidden dangers of UPI Autopay a...
-- Link: https://dev.to/career_aheadmagazine_0a5/upi-autopay-risks-ignite-free-trial-debate-465i
-
----
-
-## What Paul Graham Got Right in 2014 and What's Changed in 2025
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: A developer's honest take on the most counterintuitive startup advice ever written Paul Graham wrote "Before the Startup" in 2014 for a guest lecture at Stanford. It was aimed at college students. It's now 2025, and I...
-- Link: https://dev.to/moeed_ul_hassan/what-paul-graham-got-right-in-2014-and-whats-changed-in-2025-379i
-
----
-
-## Your Customers Won't Remember Perfection. They'll Remember How You Recovered.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Imagine this. A customer visits your website. Everything is smooth until they click the "Checkout" button. Nothing happens. For a few seconds, they're frustrated. Then something unexpected happens. A clear message app...
-- Link: https://dev.to/bhavya_kapil_0feb7d6e6f64/your-customers-wont-remember-perfection-theyll-remember-how-you-recovered-2i0b
+- Summary: I am Curtis Loop, a cybersecurity student and software product builder at San Bernardino Valley College. I build practical tools for Windows, Android, Wear OS, and browser workflows, with a strong focus on privacy, ev...
+- Link: https://dev.to/stuffthings15/what-im-building-at-the-intersection-of-cybersecurity-and-practical-software-1km6
 
 ---

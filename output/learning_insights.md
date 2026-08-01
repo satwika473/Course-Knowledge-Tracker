@@ -1,13 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-07-31 05:24 UTC_
+_Generated on: 2026-08-01 05:17 UTC_
 
-## About Cartproof — how I research tech spikes
+## [Advanced Rust] 1.16. Generic Traits - Generic (Type-Parameter) Traits and Associated-Type Traits
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Cartproof I write clear, research-backed tech briefs — what spiked, why it matters, and what careful readers do next. No recycled hype. What you'll get here Curiosity-first hooks Sourced context — not copy-paste headl...
-- Link: https://dev.to/cartproof/about-cartproof-how-i-research-tech-spikes-jfc
+- Category: Programming Tips
+- Summary: 1.16.1. Two Ways to Make a Trait Generic Traits can be generic in two ways: Generic type parameters. Example: trait Foo<T> Associated types. Example: trait Foo { type Bar; } The difference between the two is: With ass...
+- Link: https://dev.to/someb1oody/advanced-rust-116-generic-traits-generic-type-parameter-traits-and-associated-type-traits-4p45
+
+---
+
+## Affiliate and Agent System Design for Web Platforms
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Affiliate and Agent System Design for Web Platforms Multi-tier affiliate systems are common in gaming, e-commerce, and SaaS. Here is how to design one that scales. Core Concepts Agent : Recruits users, earns commissio...
+- Link: https://dev.to/yoo_tao_31d3d572d2d49bfeb/affiliate-and-agent-system-design-for-web-platforms-308n
 
 ---
 
@@ -20,12 +29,12 @@ _Generated on: 2026-07-31 05:24 UTC_
 
 ---
 
-## Building My Developer Portfolio: More Than Just a Personal Website
+## Buy Yahoo Accounts- Verified, Aged & Secure (PVA & …
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: A portfolio is often the first impression a recruiter, hiring manager, or fellow developer gets. Instead of treating it as a static resume, I wanted to build a website that reflects how I approach software engineering...
-- Link: https://dev.to/sonisuryansh/building-my-developer-portfolio-more-than-just-a-personal-website-phk
+- Category: Programming Tips
+- Summary: Buy Yahoo Accounts- Verified, Aged & Secure (PVA & … 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com A Yahoo Mail account can become an important part of...
+- Link: https://dev.to/usasvcit4ws/buy-yahoo-accounts-verified-aged-secure-pva--1b2c
 
 ---
 
@@ -38,42 +47,6 @@ _Generated on: 2026-07-31 05:24 UTC_
 
 ---
 
-## Essential Angular Features Every Developer Should Know
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Angular is one of those frameworks where surface-level feature descriptions miss most of what's actually useful. "Component-based architecture" and "two-way data binding" are technically accurate — they're also true o...
-- Link: https://dev.to/sahil_khurana_486f374ecf2/essential-angular-features-every-developer-should-know-4l7
-
----
-
-## Google Cloud Adds MCP Support to Vertex AI
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Google Cloud's MCP support in Vertex AI lets Claude Code users query BigQuery and GCS directly. Set up MCP servers to replace custom scripts with a standardized protocol. Key Takeaways Google Cloud's MCP support in Ve...
-- Link: https://dev.to/gentic_news/google-cloud-adds-mcp-support-to-vertex-ai-44gj
-
----
-
-## How I Built an AI Recipe Generator to Solve the Daily "What's for Dinner?"
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The Problem ​How many times have you opened your fridge, looked at a random assortment of ingredients, and thought, "What on earth can I make with this?" ​Most of the time, it leads to ordering expensive takeout or le...
-- Link: https://dev.to/nathan_melesha/how-i-built-an-ai-recipe-generator-to-solve-the-daily-whats-for-dinner-22l0
-
----
-
-## How to Build AI Applications That Switch Models Automatically
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Large Language Models (LLMs) have fundamentally changed how we build modern software. But relying on a single AI model for every user request creates serious production risks. API outages happen. Prop
-- Link: https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/
-
----
-
 ## How to Build Kubernetes Operators: A Handbook for Devs
 
 - Source: freeCodeCamp News
@@ -83,39 +56,12 @@ _Generated on: 2026-07-31 05:24 UTC_
 
 ---
 
-## How to Make Your Antigravity Agent Skills Configurable (Without Forking Them)
+## How to Create a Marketing Landing Page Using shadcn/ui
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Antigravity Agent Skills are a great way to teach your AI agent a workflow once and reuse it everywhere. You write a short SKILL.md file, drop it in a folder, and the agent picks it up whenever it's r
-- Link: https://www.freecodecamp.org/news/make-your-antigravity-agent-skills-configurable-without-forking-them/
-
----
-
-## How to Use Google's Antigravity CLI for AI Code Assistance
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Get started with Google's Antigravity CLI, a terminal-based AI coding agent, and use it to read, review, and refactor your Python code.
-- Link: https://realpython.com/antigravity-cli/
-
----
-
-## Is an Accredited Blockchain Certification Better Than a University Course?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Blockchain technology is reshaping industries, creating a growing demand for professionals with practical, job-ready skills. As aspiring learners explore educational options, a common question arises: Is an accredited...
-- Link: https://dev.to/georgiaweston/is-an-accredited-blockchain-certification-better-than-a-university-course-fko
-
----
-
-## Looking for Someone to Learn and Build With
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Hey everyone! 👋 I'm Dior, a Business Administration student who's teaching himself web development because I love building things. I'm looking for a programming buddy, someone who enjoys learning, experimenting, and c...
-- Link: https://dev.to/nyny59/looking-for-someone-to-learn-and-build-with-pgg
+- Summary: Most marketing landing pages start with the same problem: you're staring at a blank screen and rebuilding sections you've already created countless times. A hero section, feature grid, testimonials, p
+- Link: https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/
 
 ---
 
@@ -137,12 +83,21 @@ _Generated on: 2026-07-31 05:24 UTC_
 
 ---
 
-## Quiz: Managing Imports With Python's __all__
+## Prompt Fatigue is Real: Why I Ditched Complex Prompts for This Out-of-the-Box AI Tool
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you are a developer, you probably know the anxiety of posting a question on Stack Overflow. One wrong word, or a tone that sounds slightly too "noob-ish," and your question gets downvoted into oblivion before anyon...
+- Link: https://dev.to/knight_ai/prompt-fatigue-is-real-why-i-ditched-complex-prompts-for-this-out-of-the-box-ai-tool-j2i
+
+---
+
+## Quiz: 11 Beginner Tips for Learning Python Programming
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of wildcard imports, the dunder all variable, and how to control the public APIs of your Python modules and packages.
-- Link: https://realpython.com/quizzes/managing-imports-dunder-all/
+- Summary: Test your knowledge of the habits that help you learn Python, from coding daily to asking good questions and building your first project.
+- Link: https://realpython.com/quizzes/python-beginner-tips/
 
 ---
 
@@ -155,11 +110,74 @@ _Generated on: 2026-07-31 05:24 UTC_
 
 ---
 
-## What I’m Building at the Intersection of Cybersecurity and Practical Software
+## R M Naik Assumes Role as NAU Vice-Chancellor | Career Outlook
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I am Curtis Loop, a cybersecurity student and software product builder at San Bernardino Valley College. I build practical tools for Windows, Android, Wear OS, and browser workflows, with a strong focus on privacy, ev...
-- Link: https://dev.to/stuffthings15/what-im-building-at-the-intersection-of-cybersecurity-and-practical-software-1km6
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . R M Naik Assumes Role as NAU Vice-Chancellor | Career Outlook Naik's appointment by the Gujarat government through a notification fro...
+- Link: https://dev.to/career_aheadmagazine_0a5/r-m-naik-assumes-role-as-nau-vice-chancellor-career-outlook-4mb6
+
+---
+
+## Sunday at 2, Thursday at 8
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Mark and Thando met as teenagers at the United World College of the Adriatic, on a cliffside campus in Italy; a kid from Eswatini (Thando) and an island boy from the Cayman Islands, born and raised in Jamaica (Mark),...
+- Link: https://dev.to/kritim_krijal/sunday-at-2-thursday-at-8-2f15
+
+---
+
+## The Downfall of Leopold Aschenbrenner's AI Investment Strategy
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . The Downfall of Leopold Aschenbrenner's AI Investment Strategy The rapid rise and fall of Leopold Aschenbrenner's AI hedge fund, Situ...
+- Link: https://dev.to/career_aheadmagazine_0a5/the-downfall-of-leopold-aschenbrenners-ai-investment-strategy-4lb9
+
+---
+
+## The Real Python Podcast – Episode #305: Should You Understand Your Entire Python Codebase?
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Should you understand the entirety of your codebase? How familiar are you with Python's built-in functions? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.
+- Link: https://realpython.com/podcasts/rpp/305/
+
+---
+
+## Top 10 JOBS APIs & Scrapers in 2026 — Ranked by Active Users
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Looking for the best jobs tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 1. Indeed Scraper 28K users | 3.7/5 rating | Pay per event Scrape jobs posted on Indeed. Get det...
+- Link: https://dev.to/nick_davies_323125afbb05c/top-10-jobs-apis-scrapers-in-2026-ranked-by-active-users-20i5
+
+---
+
+## Top 10 Trusted Sites to Buy GitHub Accounts.docx
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Top 10 Trusted Sites to Buy GitHub Accounts.docx 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com In today’s technology-driven world, digital platforms pla...
+- Link: https://dev.to/usasvcit4ws/top-10-trusted-sites-to-buy-github-accountsdocx-53i5
+
+---
+
+## What is Agentic AI? How AI Is Evolving From Chatbot to Co-Worker
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to
+- Link: https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/
+
+---
+
+## Why Percentage Calculations Break in Production: Floating-Point, Division by Zero, and Localized Formats
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Calculating percentages seems like middle school arithmetic: (part / total) * 100 . Because the formula is simple, developers rarely give it a second thought when implementing progress bars, analytics dashboards, rate...
+- Link: https://dev.to/rasika_dangamuwa_ed1074fe/why-percentage-calculations-break-in-production-floating-point-division-by-zero-and-localized-5ej3
 
 ---

@@ -1,24 +1,6 @@
 # Learning Insights
 
-_Generated on: 2026-08-02 05:16 UTC_
-
-## [Remote] Physics Expert (AMO / Optical Properties of Materials) ($80 - $160/hour)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Physics Expert (AMO / Optical Properties of Materials) 🌍 100% Remote Position | Micro1 Global Network 💰 Pay Rate: $80 - $160/hour Job Description Required skills: Physics, atomic-structure calculations for Yb-171 / Yb...
-- Link: https://dev.to/geniusquare/remote-physics-expert-amo-optical-properties-of-materials-80-160hour-p6d
-
----
-
-## A 3-Person AI Startup Is Paying $350K for Kernel Work
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: AI infrastructure jobs are where the money in AI has quietly moved, and here's the receipt: a 3-person startup just listed a role paying up to $350K plus 0.40% equity . If you're reading this from Sri Lanka, you can't...
-- Link: https://dev.to/induwara_ashinsana_9e4d5b/a-3-person-ai-startup-is-paying-350k-for-kernel-work-2ln9
-
----
+_Generated on: 2026-08-03 05:30 UTC_
 
 ## Agentic AI using LangGraph – Build AI Agents & Automate Workflows
 
@@ -29,30 +11,21 @@ _Generated on: 2026-08-02 05:16 UTC_
 
 ---
 
-## AI Will Redistribute Programmers, Not Replace Them
+## All Bait and No Fish
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: 1. The Wrong Debate The debate about AI and programming jobs has been running for two years, and it's stuck. One camp says AI will replace programmers. Dario Amodei predicts 50% of white-collar jobs gone within five y...
-- Link: https://dev.to/mariatanbobo/ai-will-redistribute-programmers-not-replace-them-4jcd
+- Summary: I’ve been helping a friend out with their job search for a couple of weeks, and got an email back from them the other day: I applied for a few more with no response still. At this point it feels like throwing out a fi...
+- Link: https://dev.to/leonadato/all-bait-and-no-fish-3fnf
 
 ---
 
-## AI Won't Replace DevOps Engineers—But These 7 Skills Will Make You Irreplaceable in 2026
+## Architectural Patterns for Scaling WebSockets on Heroku and Node.js
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The future of DevOps isn't about competing with AI—it's about learning how to work alongside it. Artificial Intelligence has changed DevOps forever. Today, AI can generate Terraform code, write Dockerfiles, explain Ku...
-- Link: https://dev.to/yash_sonawane25/ai-wont-replace-devops-engineers-but-these-7-skills-will-make-you-irreplaceable-in-2026-46hh
-
----
-
-## Bootstrap
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Bootstrap is a free,open-source front-end framework. It provides the build in CSS templates for developers to create a responsive and mobile-first websites. Bootstrap was originally created by Twitter and now it has b...
-- Link: https://dev.to/mark_tony_160702/bootstrap-4203
+- Summary: Real-time communication applications built with Node.js and WebSockets present unique architectural challenges when deployed on PaaS environments like Heroku. While Heroku simplifies deployment, its router architectur...
+- Link: https://dev.to/muhammad_abdullahiqbal_4/architectural-patterns-for-scaling-websockets-on-heroku-and-nodejs-5aop
 
 ---
 
@@ -65,21 +38,12 @@ _Generated on: 2026-08-02 05:16 UTC_
 
 ---
 
-## From Zero to 500+ Downloads: A Small Milestone for Akhouri Systems
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: few months ago, Akhouri Systems existed only as an idea. Today, our projects have collectively crossed 500+ downloads. 🎉 For many companies, that's a tiny number. For me, it's proof that people are willing to trust so...
-- Link: https://dev.to/akhourianmolkumar/from-zero-to-500-downloads-a-small-milestone-for-akhouri-systems-5561
-
----
-
-## How AI Reshapes Human-Centered Design in Productivity Tools
+## Gujarat University Accelerates PhD Thesis Evaluations
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . How AI Reshapes Human-Centered Design in Productivity Tools The Augmentation Matrix maps human insight, algorithmic leverage, and con...
-- Link: https://dev.to/career_aheadmagazine_0a5/how-ai-reshapes-human-centered-design-in-productivity-tools-30lj
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Gujarat University Accelerates PhD Thesis Evaluations Gujarat University has transitioned to a fully digital PhD thesis evaluation pr...
+- Link: https://dev.to/career_aheadmagazine_0a5/gujarat-university-accelerates-phd-thesis-evaluations-5aek
 
 ---
 
@@ -101,21 +65,39 @@ _Generated on: 2026-08-02 05:16 UTC_
 
 ---
 
-## Inside the London hacker house taking a stand against founder burnout
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Inside the London hacker house taking a stand against founder burnout Lift House is home to six young founders redefining startup cul...
-- Link: https://dev.to/career_aheadmagazine_0a5/inside-the-london-hacker-house-taking-a-stand-against-founder-burnout-3oac
-
----
-
-## Java References vs Values: The Mistake That Confused Me
+## How to Scale Node.js WebSocket Redis Server
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: When I started learning object-oriented programming in Java, I hit a wall that I think a lot of beginners hit: I thought I understood how variables worked, until objects entered the picture. Here's the mistake I made...
-- Link: https://dev.to/majin-dev/java-references-vs-values-the-mistake-that-confused-me-a46
+- Summary: Scaling real-time WebSocket applications in Node.js requires shifting from a simple single-process mindset to a distributed system architecture. A single Node.js process is bound by single-threaded event loop constrai...
+- Link: https://dev.to/abdullah_iqbal_cfcbed6640/how-to-scale-nodejs-websocket-redis-server-31n6
+
+---
+
+## How to Vet an App Developer or Agency: A Non-Technical Founder's Checklist (2026)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: You've done the hard part. You have an idea, a budget, and a shortlist of developers or agencies. Now comes the question that keeps most founders up at night: how do I know if they're actually good? Without a technica...
+- Link: https://dev.to/jhavtech/how-to-vet-an-app-developer-or-agency-a-non-technical-founders-checklist-2026-3hjh
+
+---
+
+## Is PlantUML Outdated in 2026? A Practical Look at Modern Diagram-as-Code
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Every few months, the developer community circles back to the same architectural debate: How should we document our software systems? While visual drag-and-drop tools are easy for quick sketches, text-based diagrams—b...
+- Link: https://dev.to/jimmyzhou/is-plantuml-outdated-in-2026-a-practical-look-at-modern-diagram-as-code-3934
+
+---
+
+## Load Balancing WebSockets in Horizontally Scaled Node.js Architectures
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Scaling real-time socket applications in Node.js introduces core architectural hurdles that standard stateless HTTP services do not face. Traditional REST APIs allow any application node to handle incoming requests in...
+- Link: https://dev.to/gaper-ai/load-balancing-websockets-in-horizontally-scaled-nodejs-architectures-3hbo
 
 ---
 
@@ -125,6 +107,15 @@ _Generated on: 2026-08-02 05:16 UTC_
 - Category: Developer Blog
 - Summary: Learn how Python's dunder all variable controls wildcard imports and shapes the public API your packages and modules expose.
 - Link: https://realpython.com/courses/managing-imports-dunder-all/
+
+---
+
+## NEET-PG Reforms Boost Access, Local Centre Growth
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . NEET-PG Reforms Boost Access, Local Centre Growth The recent announcement comes in response to scrutiny over the conduct of NEET UG b...
+- Link: https://dev.to/career_aheadmagazine_0a5/neet-pg-reforms-boost-access-local-centre-growth-13po
 
 ---
 
@@ -155,12 +146,12 @@ _Generated on: 2026-08-02 05:16 UTC_
 
 ---
 
-## Supabase's Evals Benchmark Just Gave Claude Code a Real-World Report Card
+## The Hour Between Dog and Wolf, and the Hour Between People and AI
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Supabase Evals is an open-source benchmark that scores Claude Code, Codex, and OpenCode on real Supabase tasks. Run supabase eval on your repo to find agent weaknesses. Key Takeaways Supabase Evals is an open-source b...
-- Link: https://dev.to/gentic_news/supabases-evals-benchmark-just-gave-claude-code-a-real-world-report-card-495c
+- Category: Career Guidance
+- Summary: There is a French phrase for it. L'heure entre chien et loup, the hour between dog and wolf. It is that stretch after the sun goes down, when the light has gone soft and a shape coming toward you over the far hill cou...
+- Link: https://dev.to/kansm/the-hour-between-dog-and-wolf-and-the-hour-between-people-and-ai-4ioc
 
 ---
 
@@ -179,5 +170,14 @@ _Generated on: 2026-08-02 05:16 UTC_
 - Category: Learning Article
 - Summary: You ask ChatGPT a question. It answers. You ask another. It answers again. That back-and-forth has been the standard way most people experience AI: a smart, fast assistant that responds when spoken to
 - Link: https://www.freecodecamp.org/news/what-is-agentic-ai-from-chatbot-to-co-worker/
+
+---
+
+## Why I'm not worried about AI taking my freelance income (2026-08-03)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Every freelancer I know has had the thought at least once: "If AI can write code this well, who's going to hire me?" Here's why I stopped worrying about it. What clients pay for When a client hires a freelance Python...
+- Link: https://dev.to/hal_gobvan_16a285d49bda97/why-im-not-worried-about-ai-taking-my-freelance-income-2026-08-03-3mko
 
 ---

@@ -1,22 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-08-08 03:15 UTC_
+_Generated on: 2026-08-09 03:23 UTC_
 
-## AI Agent #2: Requirements-to-Test Mapper — Here's What I Learned
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The Problem You're drowning in requirements. Your product manager hands you a 20-page requirements document. Each requirement has 3-5 acceptance criteria. You need to create test cases for ALL of them. That's 3-4 hour...
-- Link: https://dev.to/govind_raj_9f136507c07899/ai-agent-2-requirements-to-test-mapper-heres-what-i-learned-3o4e
-
----
-
-## Circle Just Entered the Agent Discovery War — Here is What It Means
+## Building a Free Amazon FBA Fee Calculator: The Math Behind the Fees
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Circle Just Entered the Agent Discovery War — Here is What It Means On August 6, 2026, Circle — the issuer of USDC — launched its Agent Discovery API : a public, no-auth endpoint that lets AI agents search a curated c...
-- Link: https://dev.to/minia2a/circle-just-entered-the-agent-discovery-war-here-is-what-it-means-2795
+- Summary: Every Amazon FBA seller needs to understand their fees. But Amazon's fee structure is confusing — referral fees, FBA fees, storage fees, and more. I built a free calculator to make the math transparent. The Challenge...
+- Link: https://dev.to/sellermind/building-a-free-amazon-fba-fee-calculator-the-math-behind-the-fees-298p
 
 ---
 
@@ -29,12 +20,30 @@ _Generated on: 2026-08-08 03:15 UTC_
 
 ---
 
-## Filmyzilla: A Complete Guide to Its Massive Movie Collection and Popular Categories
+## Cx Dev Log — 2026-08-08
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Movies have become one of the most popular forms of online entertainment. With audiences searching for films from Hollywood, Bollywood, regional cinema, and international industries, movie-related websites and online...
-- Link: https://dev.to/segu_nsra_a9c7d06b62ec9de/filmyzilla-a-complete-guide-to-its-massive-movie-collection-and-popular-categories-5epj
+- Summary: Nothing landed today. The last real development commit was on August 2, and the repo has been quiet since then. Clean working tree, no staged changes, no branches moving. The test matrix on main holds at 380 pass, 0 f...
+- Link: https://dev.to/commenterthe9/cx-dev-log-2026-08-08-f0o
+
+---
+
+## how I optimised my energy levels as a developer: 90-day experiment
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Disclosure: This post contains affiliate links. Commission earned at no extra cost to you. TL;DR Energy levels impact coding performance and productivity. I conducted a 90-day experiment to optimize my energy using di...
+- Link: https://dev.to/healthinsidertips/how-i-optimised-my-energy-levels-as-a-developer-90-day-experiment-dgc
+
+---
+
+## How to Ace Behavioural Interviews: Using the STAR Method Like a Jedi
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The Quest Begins (The “Why”) I still remember my first behavioural interview like it was yesterday. I walked in, heart pounding, ready to talk about my projects, and the interviewer hit me with: “Tell me about a time...
+- Link: https://dev.to/timevolt/how-to-ace-behavioural-interviews-using-the-star-method-like-a-jedi-ccn
 
 ---
 
@@ -44,15 +53,6 @@ _Generated on: 2026-08-08 03:15 UTC_
 - Category: Learning Article
 - Summary: Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de
 - Link: https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/
-
----
-
-## How to Build a Profitable Code Review Service
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: How to Build a Profitable Code Review Service tags: freelance, money, programming, career tags: nocode, saas, money, startup tags: nocode, saas, money, startup tags: nocode, saas, money, startup You don’t need to aban...
-- Link: https://dev.to/qingluan/how-to-build-a-profitable-code-review-service-4g7p
 
 ---
 
@@ -74,21 +74,30 @@ _Generated on: 2026-08-08 03:15 UTC_
 
 ---
 
-## Netbeans Quick Outline plugin
+## I Open Sourced a Tool That Lets Your AI Coding Agent Apply to Jobs for You
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Press Ctrl+P, it will scan you java file, you can jump to any func/var https://gitlab.quantr.hk/admin/projects/quantr/toolchain/netbeans-quick-outline
-- Link: https://dev.to/peter_cheung_46712dbb5521/netbeans-quick-outline-plugin-1h32
+- Category: Career Guidance
+- Summary: After months of manually scrolling job boards and filling the same Easy Apply form 200 times, I decided to automate it. But not with a SaaS or a Chrome extension. With the coding agent I already use every day. The pro...
+- Link: https://dev.to/galiprandi/i-open-sourced-a-tool-that-lets-your-ai-coding-agent-apply-to-jobs-for-you-14n
 
 ---
 
-## Pass the CAS-004 Certification Exam with Confidence
+## My Exact Cognizant GenC Interview Experience & Hiring Process (2025–2026)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Well, if you are preparing for Cognizant On-Campus drive, chances are that you already know that it’s a marathon. I went through the entire 2025-2026 GenC hiring process, and it took about three and a half months from...
+- Link: https://dev.to/divyanshuraj/my-exact-cognizant-genc-interview-experience-hiring-process-2025-2026-c49
+
+---
+
+## My Stack: How I Run 4 SaaS Products as a Solo Developer (Tools, Costs, and Lessons)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: CAS-004 Certification Exam A Practical Guide to Advanced Cybersecurity Preparation The CompTIA CAS-004 exam is designed for experienced cybersecurity professionals who want to demonstrate advanced skills in security a...
-- Link: https://dev.to/sonpopo/pass-the-cas-004-certification-exam-with-confidence-33m6
+- Summary: The Products I currently run 4 products, all built and maintained by me alone: SellerMind — Free tools for Amazon FBA sellers (fee calculator, batch label generator) PodCrisp — AI tools for podcasters (title generator...
+- Link: https://dev.to/sellermind/my-stack-how-i-run-4-saas-products-as-a-solo-developer-tools-costs-and-lessons-321c
 
 ---
 
@@ -119,21 +128,21 @@ _Generated on: 2026-08-08 03:15 UTC_
 
 ---
 
-## The Commoditisation of Model Capability
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A commodity is not a cheap thing or a simple thing. It is a thing whose suppliers are interchangeable at the point of purchase. That definition is testable, and applying it carefully gives a much less sweeping answer...
-- Link: https://dev.to/multigrid/the-commoditisation-of-model-capability-7og
-
----
-
 ## The Real Python Podcast – Episode #306: Programmatically Developing LLM Prompts With DSPy
 
 - Source: Real Python
 - Category: Developer Blog
 - Summary: How can you move from manually writing prompts for an LLM application toward defining them programmatically? This week on the show, Brett Kennedy returns to discuss his new book "Building LLM Applications with DSPy."
 - Link: https://realpython.com/podcasts/rpp/306/
+
+---
+
+## Top 10 JOBS APIs & Scrapers in 2026 — Ranked by Active Users
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Looking for the best jobs tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 1. Indeed Scraper 29K users | 3.8/5 rating | Pay per event Scrape jobs posted on Indeed. Get det...
+- Link: https://dev.to/nick_davies_323125afbb05c/top-10-jobs-apis-scrapers-in-2026-ranked-by-active-users-29cd
 
 ---
 
@@ -146,6 +155,15 @@ _Generated on: 2026-08-08 03:15 UTC_
 
 ---
 
+## What AI Agents Actually Are, and Where the Word Ends
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Gartner went looking for AI agents in 2025 and found something worth remembering. Of the thousands of vendors claiming agentic capability, roughly 130 were building anything that deserved the word. Not 130 good ones o...
+- Link: https://dev.to/studiomeyer_io/what-ai-agents-actually-are-and-where-the-word-ends-3olh
+
+---
+
 ## Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures
 
 - Source: freeCodeCamp News
@@ -155,29 +173,11 @@ _Generated on: 2026-08-08 03:15 UTC_
 
 ---
 
-## Your Node.js Stream Is Not Safe Until write() Returns False
+## Why Most Software Marketplace Listings Are Useless to Developers
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Backpressure is not a stream feature you turn on. It is a contract you either honor or silently bypass. In Node.js, the contract is tiny: when writable.write(chunk) returns false , stop producing and wait for drain ....
-- Link: https://dev.to/karuha/your-nodejs-stream-is-not-safe-until-write-returns-false-4jc7
-
----
-
-## 🔥 Weekend Remote Picks: Top High-Paying Roles
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in GENERAL roles this week. We don't do "Easy Apply". Our internal gatekeeper just processed 200+ verified remote jobs from our partn...
-- Link: https://dev.to/devpulse/weekend-remote-picks-top-high-paying-roles-neo
-
----
-
-## 🚀 Only 12 Hours Left to Enroll: GenAI for DevOps Engineers!🚀
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 🚀 Only 12 Hours Left to Enroll: GenAI for DevOps Engineers!🚀 DevOps is evolving again. 📌 We moved from physical servers → cloud. 📌 From manual deployments → CI/CD. 📌 From traditional operations → DevOps, SRE, and Plat...
-- Link: https://dev.to/lakhera2015/only-12-hours-left-to-enroll-genai-for-devops-engineers-26ld
+- Category: Programming Tips
+- Summary: Buying a software project is very different from buying a design template. Yet many software marketplaces present source-code products almost exactly the same way they present themes, UI kits, or graphics. You get a f...
+- Link: https://dev.to/esde_site/why-most-software-marketplace-listings-are-useless-to-developers-eb9
 
 ---

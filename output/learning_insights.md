@@ -1,112 +1,58 @@
 # Learning Insights
 
-_Generated on: 2026-08-10 03:43 UTC_
+_Generated on: 2026-08-11 03:25 UTC_
 
-## AI Image Upscaler Showdown: 9 Tools Tested (with Code Snippets)
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Originally published at ImgShift.blog on 2026-08-09. If you've ever shot a great photo at low resolution, cropped too tightly, or inherited an old family archive at 800×600, you've probably searched for "AI image upsc...
-- Link: https://dev.to/baode/ai-image-upscaler-showdown-9-tools-tested-with-code-snippets-1agc
-
----
-
-## Autoscaling Cold Starts: Maintaining P99 Latency Without Idle Costs
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Key takeaways Optimize cold start strategies to maintain P99 latency. Use pre-warming techniques to minimize latency spikes. Implement intelligent autoscaling policies based on real-time traffic patterns. Reduce idle...
-- Link: https://dev.to/kapil/autoscaling-cold-starts-maintaining-p99-latency-without-idle-costs-3b74
-
----
-
-## Cloud-Based Productivity Apps in 2026: A Practical Guide to Choosing and Migrating
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Cloud-based productivity apps have become a standard part of modern business workflows. From cloud storage and email to calendars, documents, communication, and task management, teams increasingly depend on online pla...
-- Link: https://dev.to/zprostudio/cloud-based-productivity-apps-in-2026-a-practical-guide-to-choosing-and-migrating-59ed
-
----
-
-## Começando minha jornada em Ciência da Computação e registrando minha evolução
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Comecei recentemente minha graduação em Ciência da Computação e decidi usar o DEV Community para registrar parte da minha evolução na área de tecnologia. Minha experiência profissional até aqui foi principalmente com...
-- Link: https://dev.to/cleberpavin/comecando-minha-jornada-em-ciencia-da-computacao-e-registrando-minha-evolucao-44l0
-
----
-
-## CSRF from Scratch: Browser Mechanics, Attacks, and Spring Security Implementation [Full Handbook]
+## AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: If you've ever built a web application or configured Spring Security, you've almost certainly encountered Cross-Site Request Forgery (CSRF). In my previous guide, How OAuth 2.0 Works: A Practical Guid
-- Link: https://www.freecodecamp.org/news/csrf-from-scratch-browser-mechanics-attacks-and-spring-security-implementation-handbook/
+- Summary: The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app
+- Link: https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/
 
 ---
 
-## David Stark: Top High-Paying Roles
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in JAVA roles this week. We don't do "Easy Apply". Our internal gatekeeper just processed 200+ verified remote jobs from our partner...
-- Link: https://dev.to/devpulse/david-stark-top-high-paying-roles-1kcl
-
----
-
-## Grep Without Word Boundaries: 70 Tokens Across 7.68M Words, and os Is Real 0.1% of the Time
+## Document Solutions for Excel: The Cost Past the List Price
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Sources · OpenAI, "GPT-4 Technical Report," arXiv:2303.08774, Appendix C ("Contamination on professional and academic exams") — contamination methodology and its stated limitations, quoted verbatim from the report. ·...
-- Link: https://dev.to/vibeagentmaking/grep-without-word-boundaries-70-tokens-across-768m-words-and-os-is-real-01-of-the-time-4pel
+- Summary: $999 is the list price for Document Solutions for Excel, one developer, one location. It is also the smallest number you will pay. Two costs a feature comparison never shows, an evaluation cap and a per-location multi...
+- Link: https://dev.to/ironsoftware/document-solutions-for-excel-the-cost-past-the-list-price-2ea4
 
 ---
 
-## How I 5x'd My Writing Speed With AI (and Kept It Human)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Two years ago a 2,000-word report took me a full day. Last month I shipped the same kind of report in 90 minutes. The catch everyone warns about — "AI makes it sound robotic" — is real, but it's solvable. Here's the w...
-- Link: https://dev.to/akaicollab/how-i-5xd-my-writing-speed-with-ai-and-kept-it-human-2e1i
-
----
-
-## How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript
+## Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Reading PDF documents for long periods can become tiring, especially when the document contains bright backgrounds or when you're working in a low-light environment. In other situations, designers, de
-- Link: https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/
+- Summary: Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr
+- Link: https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/
 
 ---
 
-## How to Build a Longitude and Latitude Finder with JavaScript and MapLibre
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Longitude and latitude finders look simple from the outside: Search for an address. Get its coordinates. Or click somewhere on a map. Get the address for that point. But building a useful version involves several piec...
-- Link: https://dev.to/echoluoluo/how-to-build-a-longitude-and-latitude-finder-with-javascript-and-maplibre-31ji
-
----
-
-## How to Harden GitHub Actions Permissions with Least Privilege by Default
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: When a workflow has more permissions than it needs, a simple build job can become a path to repository changes, token misuse, or a wider blast radius than the team intended. The problem is easy to mis
-- Link: https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/
-
----
-
-## How to Land AI Agent Jobs in 2026
+## From Hello World to Hello Fluency: Learn Languages Like a Dev
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: How to Land AI Agent Jobs in 2026 The landscape of artificial intelligence engineering is undergoing a rapid, structural shift. While "AI Engineer" has become the fastest-growing job title, a narrower, more specialize...
-- Link: https://dev.to/mhmalvi/how-to-land-ai-agent-jobs-in-2026-1jbg
+- Summary: Every developer remembers their first Hello World: trivial, clumsy, and absolutely necessary. Language learning has an equivalent moment: your first complete sentence spoken out loud to someone, or something, that res...
+- Link: https://dev.to/support_763dd4352904db708/from-hello-world-to-hello-fluency-learn-languages-like-a-dev-4bk1
+
+---
+
+## How to Add Dynamic Features to a Static Site Without a Server
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha
+- Link: https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/
+
+---
+
+## How to Get Your Side Project Seen and Gain Paying Users
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d
+- Link: https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/
 
 ---
 
@@ -116,6 +62,42 @@ _Generated on: 2026-08-10 03:43 UTC_
 - Category: Learning Article
 - Summary: You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse
 - Link: https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/
+
+---
+
+## I got tired of 200 noisy SAST alerts, so I built an AI engine that auto-writes Git patches
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Traditional security tools like SonarQube or Snyk are great at one thing: throwing a wall of 200 warnings at you, half of which are false positives, and leaving you to figure out how to manually fix them. I wanted a f...
+- Link: https://dev.to/kientndev/i-got-tired-of-200-noisy-sast-alerts-so-i-built-an-ai-engine-that-auto-writes-git-patches-1i80
+
+---
+
+## Learn Languages on the Command Line of Life: Daily Reps
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: In programming, nobody becomes an expert by reading about loops. You write them, break them, fix them, and write them again until they are muscle memory. Language fluency works exactly the same way: it is built from d...
+- Link: https://dev.to/support_763dd4352904db708/learn-languages-on-the-command-line-of-life-daily-reps-37ad
+
+---
+
+## Learn Languages with Feedback Loops (Like Debugging Your Speech)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The reason some learners improve fast and others plateau is feedback. Fast learners get accurate, immediate feedback on their speaking, and they act on it. Slow learners practice in a vacuum, repeating the same mistak...
+- Link: https://dev.to/support_763dd4352904db708/learn-languages-with-feedback-loops-like-debugging-your-speech-39np
+
+---
+
+## Qt Designer and Python: Build Your GUI Applications Faster
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use Qt Designer to build Python GUIs with PyQt6. Create your main windows and dialogs visually, then load them in your app.
+- Link: https://realpython.com/qt-designer-python/
 
 ---
 
@@ -137,21 +119,21 @@ _Generated on: 2026-08-10 03:43 UTC_
 
 ---
 
-## Quiz: Validating Data With Pointblank in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Validate data in Python with Pointblank. Declare quality checks, split clean rows from failing ones, and rerun validation plans from YAML.
-- Link: https://realpython.com/quizzes/python-pointblank/
-
----
-
-## Seu time trocou o refinamento pelo plan mode, e ninguém mais precisa se falar
+## Remote Work Fluency: How to Learn Languages for Global Teams
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A BruLethy era gerente sênior de dados numa das maiores empresas de tecnologia do mundo, e pediu demissão depois de oito anos lá dentro. Ela gravou um vídeo contando por quê, e faz questão de dizer, no meio da própria...
-- Link: https://dev.to/marcelofpalladino/seu-time-trocou-o-refinamento-pelo-plan-mode-e-ninguem-mais-precisa-se-falar-3d1k
+- Summary: Remote work has turned language skills into a career superpower. Global teams mean global meetings, and the people who can hold their own in a second language get the visibility, the interesting projects, and the prom...
+- Link: https://dev.to/support_763dd4352904db708/remote-work-fluency-how-to-learn-languages-for-global-teams-j5f
+
+---
+
+## The Kernel Trick Is the Oldest Move in Engineering
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Classic Machine Learning Through the Eyes of an SRE — Part 4 When a computation is too hard, don't compute harder. Change coordinates until it becomes easy. Every engineer has made this move. Pick the right data struc...
+- Link: https://dev.to/nishant_banginwar_80b7dc5/the-kernel-trick-is-the-oldest-move-in-engineering-4ij5
 
 ---
 
@@ -164,6 +146,15 @@ _Generated on: 2026-08-10 03:43 UTC_
 
 ---
 
+## Turning Photos Into Documents: How Image to PDF Conversion Works
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A college student named Alex spent an entire afternoon preparing an application. He photographed certificates, notes, and recommendation letters with his phone. The images looked clear. Everything was ready. Then he s...
+- Link: https://dev.to/lunarose/turning-photos-into-documents-how-image-to-pdf-conversion-works-2e3k
+
+---
+
 ## Validating Data With Pointblank in Python
 
 - Source: Real Python
@@ -173,11 +164,20 @@ _Generated on: 2026-08-10 03:43 UTC_
 
 ---
 
-## Why 2D Trapped-Ion Quantum Computers Could Be Easier to Scale Than 1D Architectures
+## Why HTML Entity Email Obfuscation Fails in 2026 (And 3 Methods That Work)
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: I still remember the first time I ran a Bell-state circuit on a quantum simulator. The code was only a few lines long, but it felt magical. Two qubits became entangled, and the simulator returned almo
-- Link: https://www.freecodecamp.org/news/why-2d-trapped-ion-quantum-computers-could-be-easier-to-scale-than-1d-architectures/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: If you've ever put a plain mailto:contact@example.com link on a public website, you've probably watched your inbox fill up with spam within days. Email harvester bots constantly scan the web, crawling HTML source code...
+- Link: https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa
+
+---
+
+## Why People Still Convert JPG Images Into PDF Files Every Day
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Emma had just finished moving into a new apartment. The landlord asked for several documents: a photo of her ID a signed agreement proof of payment She had everything on her phone. But there was one problem. Every fil...
+- Link: https://dev.to/lunarose/why-people-still-convert-jpg-images-into-pdf-files-every-day-1cob
 
 ---

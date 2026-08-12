@@ -1,6 +1,6 @@
 # Learning Insights
 
-_Generated on: 2026-08-11 03:25 UTC_
+_Generated on: 2026-08-12 03:54 UTC_
 
 ## AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]
 
@@ -11,39 +11,48 @@ _Generated on: 2026-08-11 03:25 UTC_
 
 ---
 
-## Document Solutions for Excel: The Cost Past the List Price
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: $999 is the list price for Document Solutions for Excel, one developer, one location. It is also the smallest number you will pay. Two costs a feature comparison never shows, an evaluation cap and a per-location multi...
-- Link: https://dev.to/ironsoftware/document-solutions-for-excel-the-cost-past-the-list-price-2ea4
-
----
-
-## Flutter Frontend Systems Design: How to Think Like a Senior Engineer in the AI Age
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Systems design has always been treated as a backend problem. Ask a group of Flutter engineers what systems design means, and most will describe server architecture: load balancers, databases, and micr
-- Link: https://www.freecodecamp.org/news/flutter-frontend-systems-design-how-to-think-like-a-senior-engineer-in-the-ai-age/
-
----
-
-## From Hello World to Hello Fluency: Learn Languages Like a Dev
+## AMPP CIP Level 3 NACE-CIP3-001 Practice Tests - Prepare for Senior Certified Coatings Inspector Exam
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Every developer remembers their first Hello World: trivial, clumsy, and absolutely necessary. Language learning has an equivalent moment: your first complete sentence spoken out loud to someone, or something, that res...
-- Link: https://dev.to/support_763dd4352904db708/from-hello-world-to-hello-fluency-learn-languages-like-a-dev-4bk1
+- Summary: The Senior Certified Coatings Inspector Certification (CIP Level 3) NACE-CIP3-001 exam represents the highest level of expertise in the AMPP Coatings Inspector Program, validating advanced knowledge and leadership ski...
+- Link: https://dev.to/victoria_meisel_d65e0bad3/ampp-cip-level-3-nace-cip3-001-practice-tests-prepare-for-senior-certified-coatings-inspector-exam-3aj3
 
 ---
 
-## How to Add Dynamic Features to a Static Site Without a Server
+## Building a Career in SRE: From Junior to Staff
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I've been in SRE for about 10 years. Started as a junior, made my way through mid, senior, and now staff levels. Here's what I learned about growing in this career path. Junior → Mid The main shift: learn to operate w...
+- Link: https://dev.to/samson_tanimawo/building-a-career-in-sre-from-junior-to-staff-4naa
+
+---
+
+## Coding With OpenCode: AI-Assisted Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use OpenCode for AI-assisted Python coding, using a free Gemini API key to analyze and refactor code right in your terminal.
+- Link: https://realpython.com/courses/coding-with-opencode-ai/
+
+---
+
+## Cybersecurity Sales in London: Quality Over Quantity
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: London is one of Europe’s most active cybersecurity markets , but reaching security buyers is becoming harder. Decision-makers are already flooded with emails, LinkedIn messages, and cold calls. For cybersecurity comp...
+- Link: https://dev.to/konsyg_6e0b6ddb36b4585/cybersecurity-sales-in-london-quality-over-quantity-2en8
+
+---
+
+## How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFli...
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Static sites are having a moment, and it makes sense. A folder of HTML, CSS, and JavaScript files is fast to load, cheap to host, and very hard to break. Tools like Astro, Eleventy, and Hugo build tha
-- Link: https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/
+- Summary: Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r
+- Link: https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/
 
 ---
 
@@ -56,39 +65,57 @@ _Generated on: 2026-08-11 03:25 UTC_
 
 ---
 
-## How to Test AI Features in Flutter [Full Handbook]
+## If You're Not Using AI Yet, You'll Be Unemployed Soon (I Learned This While Scrolling Reels)
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: You've spent two weeks building an AI assistant. The streaming chat looks beautiful, the system prompt is tight, and safety filters are configured. You demoed it to the team, and everyone was impresse
-- Link: https://www.freecodecamp.org/news/how-to-test-ai-features-in-flutter-full-handbook/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Let me say something uncomfortable up front, and then I'll prove it with a story: If you build things for the internet and you're still not using AI to do it — you're going to be in trouble. Not "someday." Soon. I did...
+- Link: https://dev.to/dsourav/if-youre-not-using-ai-yet-youll-be-unemployed-soon-i-learned-this-while-scrolling-reels-4el9
 
 ---
 
-## I got tired of 200 noisy SAST alerts, so I built an AI engine that auto-writes Git patches
+## LLM Guard Is Archived. Here Are the Guardrail Tools Still Worth Installing
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Traditional security tools like SonarQube or Snyk are great at one thing: throwing a wall of 200 warnings at you, half of which are false positives, and leaving you to figure out how to manually fix them. I wanted a f...
-- Link: https://dev.to/kientndev/i-got-tired-of-200-noisy-sast-alerts-so-i-built-an-ai-engine-that-auto-writes-git-patches-1i80
+- Summary: If you go looking for protectai/llm-guard right now, GitHub greets you with a read-only notice. The repo went into the archive on July 9, 2026, its last commit landed the day before, and the README says outright that...
+- Link: https://dev.to/moksh/llm-guard-is-archived-here-are-the-guardrail-tools-still-worth-installing-1ifc
 
 ---
 
-## Learn Languages on the Command Line of Life: Daily Reps
+## My type of #FractionalCTO
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: In programming, nobody becomes an expert by reading about loops. You write them, break them, fix them, and write them again until they are muscle memory. Language fluency works exactly the same way: it is built from d...
-- Link: https://dev.to/support_763dd4352904db708/learn-languages-on-the-command-line-of-life-daily-reps-37ad
+- Summary: Let's begin this with, what is a #FractionalCTO? A Fractional CTO is an experienced, executive-level technology leader who provides strategic guidance, engineering team mentorship, and architecture oversight on a part...
+- Link: https://dev.to/andreimerlescu/my-type-of-fractionalcto-2eb7
 
 ---
 
-## Learn Languages with Feedback Loops (Like Debugging Your Speech)
+## Optimizing Committed-Use Savings Plans: Startup Edition
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: The reason some learners improve fast and others plateau is feedback. Fast learners get accurate, immediate feedback on their speaking, and they act on it. Slow learners practice in a vacuum, repeating the same mistak...
-- Link: https://dev.to/support_763dd4352904db708/learn-languages-with-feedback-loops-like-debugging-your-speech-39np
+- Category: Programming Tips
+- Summary: Key takeaways Understanding baseline commitments can save 20-50% in cloud costs. Careful forecasting is crucial for avoiding over-commitment penalties. Mixing committed-use plans with on-demand resources can optimize...
+- Link: https://dev.to/kapil/optimizing-committed-use-savings-plans-startup-edition-2k1p
+
+---
+
+## Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac
+- Link: https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/
+
+---
+
+## Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com
+- Link: https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/
 
 ---
 
@@ -101,6 +128,15 @@ _Generated on: 2026-08-11 03:25 UTC_
 
 ---
 
+## Quiz: Coding With OpenCode: AI-Assisted Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn to install OpenCode, connect it to a free Gemini API key, and refactor a Python project from your terminal using Plan and Build modes.
+- Link: https://realpython.com/quizzes/coding-with-opencode-ai-assisted-python/
+
+---
+
 ## Quiz: How to Use Type Hints for Multiple Return Types in Python
 
 - Source: Real Python
@@ -110,30 +146,21 @@ _Generated on: 2026-08-11 03:25 UTC_
 
 ---
 
-## Quiz: Python's Assignment Operator: Write Robust Assignments
+## Still stuck choosing a degree vs a real tech career?
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Practice using Python's assignment operator to create, initialize, and update variables, plus augmented assignments and the walrus operator.
-- Link: https://realpython.com/quizzes/python-assignment-operator/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: If you are watching tuition climb while the job market demands experience, it is easy to feel trapped between spending years in school or risking a shortcut that does not count. Most people want one thing: a credible...
+- Link: https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-a-degree-vs-a-real-tech-career-49o4
 
 ---
 
-## Remote Work Fluency: How to Learn Languages for Global Teams
+## The Psychology of Trading: Why 90% of Retail Traders Lose Money
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Remote work has turned language skills into a career superpower. Global teams mean global meetings, and the people who can hold their own in a second language get the visibility, the interesting projects, and the prom...
-- Link: https://dev.to/support_763dd4352904db708/remote-work-fluency-how-to-learn-languages-for-global-teams-j5f
-
----
-
-## The Kernel Trick Is the Oldest Move in Engineering
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Classic Machine Learning Through the Eyes of an SRE — Part 4 When a computation is too hard, don't compute harder. Change coordinates until it becomes easy. Every engineer has made this move. Pick the right data struc...
-- Link: https://dev.to/nishant_banginwar_80b7dc5/the-kernel-trick-is-the-oldest-move-in-engineering-4ij5
+- Summary: The Psychology of Trading: Why 90% of Retail Traders Lose Money The opening conclusion: Retail traders do not lose money because they lack intelligence or information—they lose because their cognitive architecture is...
+- Link: https://dev.to/aimigo_57e64d6aeaf6a67a02/the-psychology-of-trading-why-90-of-retail-traders-lose-money-235m
 
 ---
 
@@ -146,38 +173,11 @@ _Generated on: 2026-08-11 03:25 UTC_
 
 ---
 
-## Turning Photos Into Documents: How Image to PDF Conversion Works
+## Why Third-Party Risk Management Is the Most Critical Vendor Governance Priority for Every Enterprise in 2025 and Beyond
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A college student named Alex spent an entire afternoon preparing an application. He photographed certificates, notes, and recommendation letters with his phone. The images looked clear. Everything was ready. Then he s...
-- Link: https://dev.to/lunarose/turning-photos-into-documents-how-image-to-pdf-conversion-works-2e3k
-
----
-
-## Validating Data With Pointblank in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to validate data in Python with Pointblank: declare quality checks, split clean from failing rows, and rerun validation plans from YAML.
-- Link: https://realpython.com/python-pointblank/
-
----
-
-## Why HTML Entity Email Obfuscation Fails in 2026 (And 3 Methods That Work)
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: If you've ever put a plain mailto:contact@example.com link on a public website, you've probably watched your inbox fill up with spam within days. Email harvester bots constantly scan the web, crawling HTML source code...
-- Link: https://dev.to/rasika_dangamuwa_ed1074fe/why-html-entity-email-obfuscation-fails-in-2026-and-3-methods-that-work-4fpa
-
----
-
-## Why People Still Convert JPG Images Into PDF Files Every Day
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Emma had just finished moving into a new apartment. The landlord asked for several documents: a photo of her ID a signed agreement proof of payment She had everything on her phone. But there was one problem. Every fil...
-- Link: https://dev.to/lunarose/why-people-still-convert-jpg-images-into-pdf-files-every-day-1cob
+- Summary: The modern enterprise is architecturally dependent on third parties in ways that would have been unrecognizable even fifteen years ago. Cloud infrastructure providers manage the compute and storage environments on whi...
+- Link: https://dev.to/itechgrc_solutions/why-third-party-risk-management-is-the-most-critical-vendor-governance-priority-for-every-o01
 
 ---

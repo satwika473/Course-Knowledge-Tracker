@@ -1,31 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-08-12 03:54 UTC_
+_Generated on: 2026-08-13 03:58 UTC_
 
-## AI Evaluation Engineering: Build a Production-Grade LLM Evaluation Platform from Scratch [Full Handbook]
+## 15+ Bay Area Hackathons: The Prize Was Never the Prize
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Fifteen-plus lost weekends, four wins, and one config value that took forty minutes to find. What hackathon life in Silicon Valley is actually like. Pulling into a tech campus at 8am on a Saturday with a laptop bag an...
+- Link: https://dev.to/shridhar_shah2297/15-bay-area-hackathons-the-prize-was-never-the-prize-1j95
+
+---
+
+## After-School Program Quality · The 9 Performance Pillars
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The Nifty 9 Site coordinators and after-school staff who excel share 9 specific performance pillars · the Nifty 9. These aren't soft skills or vague generalities · they're concrete, observable behaviors. The $5.99 ebo...
+- Link: https://dev.to/brett_zandes_5c560d9b6027/after-school-program-quality-the-9-performance-pillars-247
+
+---
+
+## AI Paper Review: Generative Modeling by Estimating Gradients of the Data Distribution
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: The gap between a demo that impresses and a system you can trust is measured in evals. I want to start with a story that's happening in hundreds of engineering teams right now. A team builds a RAG app
-- Link: https://www.freecodecamp.org/news/ai-evaluation-engineering-build-a-production-grade-llm-evaluation-platform-handbook/
+- Summary: Today, diffusion models have become one of the most influential families of generative AI systems. They power applications ranging from image synthesis and editing to video generation, scientific disc
+- Link: https://www.freecodecamp.org/news/ai-paper-review-generative-modeling-by-estimating-gradients-of-the-data-distribution/
 
 ---
 
-## AMPP CIP Level 3 NACE-CIP3-001 Practice Tests - Prepare for Senior Certified Coatings Inspector Exam
+## Building Strong B2B Customer Relationships
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The Senior Certified Coatings Inspector Certification (CIP Level 3) NACE-CIP3-001 exam represents the highest level of expertise in the AMPP Coatings Inspector Program, validating advanced knowledge and leadership ski...
-- Link: https://dev.to/victoria_meisel_d65e0bad3/ampp-cip-level-3-nace-cip3-001-practice-tests-prepare-for-senior-certified-coatings-inspector-exam-3aj3
-
----
-
-## Building a Career in SRE: From Junior to Staff
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I've been in SRE for about 10 years. Started as a junior, made my way through mid, senior, and now staff levels. Here's what I learned about growing in this career path. Junior → Mid The main shift: learn to operate w...
-- Link: https://dev.to/samson_tanimawo/building-a-career-in-sre-from-junior-to-staff-4naa
+- Summary: Successful B2B businesses focus on creating long-term relationships rather than only generating immediate sales. B2B Marketing Services can help companies communicate with prospects through personalized content, email...
+- Link: https://dev.to/elllsa/building-strong-b2b-customer-relationships-5621
 
 ---
 
@@ -38,66 +47,57 @@ _Generated on: 2026-08-12 03:54 UTC_
 
 ---
 
-## Cybersecurity Sales in London: Quality Over Quantity
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: London is one of Europe’s most active cybersecurity markets , but reaching security buyers is becoming harder. Decision-makers are already flooded with emails, LinkedIn messages, and cold calls. For cybersecurity comp...
-- Link: https://dev.to/konsyg_6e0b6ddb36b4585/cybersecurity-sales-in-london-quality-over-quantity-2en8
-
----
-
-## How to Automate Flutter Releases with Fastlane and GitHub Actions for Firebase App Distribution, Google Play, TestFli...
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Picture this: it's 4pm on a Friday, and your team has just merged the last feature for the sprint. But your product manager asks for a new build on TestFlight by the end of the day so the client can r
-- Link: https://www.freecodecamp.org/news/how-to-automate-flutter-releases-with-fastlane-and-github-actions/
-
----
-
-## How to Get Your Side Project Seen and Gain Paying Users
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: In 2022, I built a small micro-SaaS in my spare time and eventually sold it for a few thousand dollars. And today, with AI tools, it probably would've been even easier to build. But what has changed d
-- Link: https://www.freecodecamp.org/news/how-to-get-your-side-project-seen-and-gain-paying-users/
-
----
-
-## If You're Not Using AI Yet, You'll Be Unemployed Soon (I Learned This While Scrolling Reels)
+## Dokumentasi Kode Menjadi Buku: Cara Developer Membagikan Pengetahuan
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Let me say something uncomfortable up front, and then I'll prove it with a story: If you build things for the internet and you're still not using AI to do it — you're going to be in trouble. Not "someday." Soon. I did...
-- Link: https://dev.to/dsourav/if-youre-not-using-ai-yet-youll-be-unemployed-soon-i-learned-this-while-scrolling-reels-4el9
+- Summary: Bagi seorang developer, menulis kode bukan hanya tentang membuat aplikasi berjalan. Di balik setiap project terdapat proses belajar, pengalaman memecahkan masalah, dan berbagai solusi yang sebenarnya memiliki nilai un...
+- Link: https://dev.to/penerbit_buku_6ebe3b84579/dokumentasi-kode-menjadi-buku-cara-developer-membagikan-pengetahuan-pa3
 
 ---
 
-## LLM Guard Is Archived. Here Are the Guardrail Tools Still Worth Installing
+## How to Build a Browser-Based PDF Color Overlay Tool Using JavaScript
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Sometimes you don't want to change the actual content of a PDF. You simply want to add a colored layer over part or all of the document. This can be useful for creating branded reports, adding colored
+- Link: https://www.freecodecamp.org/news/build-pdf-color-overlay-tool-javascript/
+
+---
+
+## How to Build a Browser-Based PDF Filter Studio with JavaScript
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: PDF editing isn't limited to adding signatures or merging documents. Sometimes you simply want to improve the appearance of a PDF by increasing brightness, boosting contrast, adding blur, converting i
+- Link: https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/
+
+---
+
+## How to Build an AI Agent with Per-User OAuth Access [Full Handbook]
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: When your AI agent serves more than one person, every tool call must answer: who's the agent acting for? Let's learn how to solve this by building an AI agent that connects with Slack and GitHub. A Sl
+- Link: https://www.freecodecamp.org/news/ai-agent-per-user-oauth-slack-github/
+
+---
+
+## How to Integrate OpenTelemetry With a FastAPI App
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to integrate OpenTelemetry with a FastAPI app in Python to instrument endpoints, export traces, add custom spans, and correlate logs.
+- Link: https://realpython.com/fastapi-opentelemetry/
+
+---
+
+## Musk Launches Grok 4.6: Benchmarks Tie GPT-5.6 and Fable 5 — Same Price
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: If you go looking for protectai/llm-guard right now, GitHub greets you with a read-only notice. The repo went into the archive on July 9, 2026, its last commit landed the day before, and the README says outright that...
-- Link: https://dev.to/moksh/llm-guard-is-archived-here-are-the-guardrail-tools-still-worth-installing-1ifc
-
----
-
-## My type of #FractionalCTO
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Let's begin this with, what is a #FractionalCTO? A Fractional CTO is an experienced, executive-level technology leader who provides strategic guidance, engineering team mentorship, and architecture oversight on a part...
-- Link: https://dev.to/andreimerlescu/my-type-of-fractionalcto-2eb7
-
----
-
-## Optimizing Committed-Use Savings Plans: Startup Edition
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Key takeaways Understanding baseline commitments can save 20-50% in cloud costs. Careful forecasting is crucial for avoiding over-commitment penalties. Mixing committed-use plans with on-demand resources can optimize...
-- Link: https://dev.to/kapil/optimizing-committed-use-savings-plans-startup-edition-2k1p
+- Summary: The AI world lit up again last night. Alibaba open-sourced Qwen3.8 -2.4T-A95B, DeepSeek shipped the official V4 Pro release, and Elon Musk rolled out his newest flagship model: Grok 4.6 . This time, Musk barely gave G...
+- Link: https://dev.to/brooks_wilson_36fbefbbae4/musk-launches-grok-46-benchmarks-tie-gpt-56-and-fable-5-same-price-40jc
 
 ---
 
@@ -107,15 +107,6 @@ _Generated on: 2026-08-12 03:54 UTC_
 - Category: Learning Article
 - Summary: Causal inference for LLM-based AI features is no longer theoretical. Airbnb, Netflix, Lyft, and Uber have published detailed engineering blog posts describing exactly how they measure the causal impac
 - Link: https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/
-
----
-
-## Product Experimentation with Doubly Robust Estimation: When Both Your Models Are Wrong in LLM Applications
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Your AI product shipped an agent-mode opt-in six months ago. You ran a propensity analysis, adjusted for engagement tier and query confidence, and reported a clean +8 percentage-point lift in task com
-- Link: https://www.freecodecamp.org/news/doubly-robust-estimation-for-llm-product-experiments/
 
 ---
 
@@ -137,47 +128,56 @@ _Generated on: 2026-08-12 03:54 UTC_
 
 ---
 
-## Quiz: How to Use Type Hints for Multiple Return Types in Python
+## Quiz: How to Integrate OpenTelemetry With a FastAPI App
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of type hints for multiple return types in Python. Practice unions, tuples, callables, generators, and type aliases.
-- Link: https://realpython.com/quizzes/python-type-hints-multiple-types/
+- Summary: Instrument a FastAPI app with OpenTelemetry to export traces, add custom spans, and correlate your application logs with traces.
+- Link: https://realpython.com/quizzes/fastapi-opentelemetry/
 
 ---
 
-## Still stuck choosing a degree vs a real tech career?
+## Stop Guessing Which AI Model to Use: Build a Two-Week Routing Log From Your Own Tasks
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: If you are watching tuition climb while the job market demands experience, it is easy to feel trapped between spending years in school or risking a shortcut that does not count. Most people want one thing: a credible...
-- Link: https://dev.to/bilal_sagheer_adc8e50d233/still-stuck-choosing-a-degree-vs-a-real-tech-career-49o4
+- Summary: Every time a new coding model drops, my feed fills with benchmark screenshots, and I catch myself doing the worst possible evaluation: vibes. "This one feels smarter." Two days later I've forgotten which model actuall...
+- Link: https://dev.to/codejs_8314/stop-guessing-which-ai-model-to-use-build-a-two-week-routing-log-from-your-own-tasks-3efd
 
 ---
 
-## The Psychology of Trading: Why 90% of Retail Traders Lose Money
+## The Anti-LLM Checklist: How I Made AI-Written Recruiter Messages Sound Human
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The Psychology of Trading: Why 90% of Retail Traders Lose Money The opening conclusion: Retail traders do not lose money because they lack intelligence or information—they lose because their cognitive architecture is...
-- Link: https://dev.to/aimigo_57e64d6aeaf6a67a02/the-psychology-of-trading-why-90-of-retail-traders-lose-money-235m
+- Summary: If you've used an AI coding agent to draft messages, you know the problem. The output is easy to spot. Em-dashes everywhere. Bullet points in DMs. Polished paragraphs that no human would type in a LinkedIn message. Re...
+- Link: https://dev.to/galiprandi/the-anti-llm-checklist-how-i-made-ai-written-recruiter-messages-sound-human-31a5
 
 ---
 
-## The Real Python Podcast – Episode #306: Programmatically Developing LLM Prompts With DSPy
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: How can you move from manually writing prompts for an LLM application toward defining them programmatically? This week on the show, Brett Kennedy returns to discuss his new book "Building LLM Applications with DSPy."
-- Link: https://realpython.com/podcasts/rpp/306/
-
----
-
-## Why Third-Party Risk Management Is the Most Critical Vendor Governance Priority for Every Enterprise in 2025 and Beyond
+## The First Computer Bug Was a Real Moth
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The modern enterprise is architecturally dependent on third parties in ways that would have been unrecognizable even fifteen years ago. Cloud infrastructure providers manage the compute and storage environments on whi...
-- Link: https://dev.to/itechgrc_solutions/why-third-party-risk-management-is-the-most-critical-vendor-governance-priority-for-every-o01
+- Summary: Every engineer who has ever chased a glitch through firmware has "debugged" something. The word is so ordinary now that almost nobody stops to ask where it came from. The answer is one of the best stories in computing...
+- Link: https://dev.to/fluidwire/the-first-computer-bug-was-a-real-moth-41cc
+
+---
+
+## The New Bug Isn't Always in the Code
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: AI has become very good at writing code. On a clear and bounded task, it can produce code that is cleaner, faster, and more consistent than what many of us would write by hand. It does not get tired. It does not forge...
+- Link: https://dev.to/jenueldev/the-new-bug-isnt-always-in-the-code-502d
+
+---
+
+## 🏗️ How I Built MyZubster: A Decentralized Green Ecosystem with AI, IoT and Blockchain"
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: 🏗️ How I Built MyZubster: A Decentralized Green Ecosystem with AI, IoT and Blockchain A technical journey into building a system that combines AI, robotics, Monero, Tor, IoT and open-source hardware to explore smarter...
+- Link: https://dev.to/danielioni/how-i-built-myzubster-a-decentralized-green-ecosystem-with-ai-iot-and-blockchain-41g7
 
 ---

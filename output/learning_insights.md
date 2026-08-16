@@ -1,13 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-08-15 02:43 UTC_
+_Generated on: 2026-08-16 02:51 UTC_
 
-## Code Review Culture: Small PRs, Fast Flow, Low Friction
+## ARPU Is the Wrong Shape for a Multi-Surface Ad Business
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A lot of company-data schemas have an arpu field: total revenue divided by monthly active users, stored as one number per company per period. It's a fine number to report. It's a bad number to model a business on, and...
+- Link: https://dev.to/corpdigest/arpu-is-the-wrong-shape-for-a-multi-surface-ad-business-4com
+
+---
+
+## Back Basics · First-Principles Thinking for Career Pivots
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Code Review Culture Code review is a critical process that enables a software team to collaborate and produce high-quality code. Building a solid code review culture helps boost team collaboration and efficiency. Smal...
-- Link: https://dev.to/merbayerp/code-review-culture-small-prs-fast-flow-low-friction-3fmc
+- Summary: When You Need to Reset Back Basics · the URX framework for people serious about a career pivot or business reset. Combines: First-principles thinking Backplanning from desired outcomes Reverse-engineering working syst...
+- Link: https://dev.to/brett_zandes_5c560d9b6027/back-basics-first-principles-thinking-for-career-pivots-4cl7
+
+---
+
+## Bloom Filters
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: One-liner: A probabilistic data structure that tells you if an element is definitely not in a set, or possibly in a set — using very little memory. 📌 The Problem You have 1 billion URLs in a database. Before adding a...
+- Link: https://dev.to/gouranga-das-khulna/bloom-filters-4j30
+
+---
+
+## Build a Web Scraper and Sell the Data: A Step-by-Step Guide
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Build a Web Scraper and Sell the Data: A Step-by-Step Guide Web scraping is the process of automatically extracting data from websites, and it's a valuable skill for any developer. In this article, we'll walk through...
+- Link: https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-5024
+
+---
+
+## Choose Boring Technology: The 2015 Essay That Still Predicts Every Tech Decision You'll Make in 2026
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Dan McKinley's "Choose Boring Technology" talk from 2015 just resurfaced on Hacker News with over 400 upvotes — and it's more relevant in 2026 than it was when he first delivered it. If you're building anything in the...
+- Link: https://dev.to/trismegistus/choose-boring-technology-the-2015-essay-that-still-predicts-every-tech-decision-youll-make-in-2026-1223
 
 ---
 
@@ -17,6 +53,15 @@ _Generated on: 2026-08-15 02:43 UTC_
 - Category: Developer Blog
 - Summary: Learn how to use OpenCode for AI-assisted Python coding, using a free Gemini API key to analyze and refactor code right in your terminal.
 - Link: https://realpython.com/courses/coding-with-opencode-ai/
+
+---
+
+## David Stark: Top High-Paying Roles
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: 👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in GENERAL roles this week. We don't do "Easy Apply". Our internal gatekeeper just processed 200+ verified remote jobs from our partn...
+- Link: https://dev.to/devpulse/david-stark-top-high-paying-roles-122h
 
 ---
 
@@ -47,15 +92,6 @@ _Generated on: 2026-08-15 02:43 UTC_
 
 ---
 
-## How to Build and Sell Coding Challenges Online
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: How to Build and Sell Coding Challenges Online tags: programming, money, teaching, career tags: programming, money, teaching, career tags: programming, money, teaching, career tags: programming, money, teaching, caree...
-- Link: https://dev.to/qingluan/how-to-build-and-sell-coding-challenges-online-36m7
-
----
-
 ## How to Integrate OpenTelemetry With a FastAPI App
 
 - Source: Real Python
@@ -74,39 +110,21 @@ _Generated on: 2026-08-15 02:43 UTC_
 
 ---
 
-## I Almost Used AI to Classify User Input. Simple Rules Worked Better
+## I Ran REST, gRPC, and GraphQL in Production — Here's What I'd Pick Again
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I’ve been rebuilding a small name tattoo tool recently, and I ran into a problem that looked like a good use case for AI. The user enters some text. At first, I treated every input basically the same: text → show a se...
-- Link: https://dev.to/warrenshi/i-almost-used-ai-to-classify-user-input-simple-rules-worked-better-40c1
+- Summary: Over the last few years I've ended up running all three of the big API styles in production at the same time. Not because I wanted to — because different parts of the system pulled me in different directions. A public...
+- Link: https://dev.to/sirmax/i-ran-rest-grpc-and-graphql-in-production-heres-what-id-pick-again-1edg
 
 ---
 
-## I Reverse-Engineered a Restaurant ERP With No Documentation. Here's What It Taught Me About Being a Self-Taught Devel...
+## Ordinary Abundance: The Case for Building Software That's Good Enough and Actually Ships
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: There is no manual for TronSoft. No API reference, no schema diagram, no forum thread explaining why a comanda refuses to close. If you want to understand it, you open the database and start pulling threads until some...
-- Link: https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e
-
----
-
-## Mythos y la IA que caza bugs ponen fin al hackeo policial de celulares
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: El FBI bautizó esto como 'going dark' en 2014: perder de golpe la capacidad de escuchar comunicaciones digitales. Doce años después, el criptógrafo Matthew Green , de Johns Hopkins, advierte en un análisis publicado e...
-- Link: https://dev.to/lu1tr0n/mythos-y-la-ia-que-caza-bugs-ponen-fin-al-hackeo-policial-de-celulares-icd
-
----
-
-## Numverify — Global phone number validation & lookup
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Looking for a reliable marketing API? Numverify might be exactly what you need. What is Numverify? Validate phone numbers in real-time for 232 countries. Returns carrier info, line type (mobile/landline), and location...
-- Link: https://dev.to/nick_davies_323125afbb05c/numverify-global-phone-number-validation-lookup-1jci
+- Summary: A project called "Ordinary Abundance" recently appeared on the front page of Hacker News with nearly 400 upvotes. In a tech culture obsessed with scale, disruption, and billion-dollar exits, it's a quiet manifesto for...
+- Link: https://dev.to/trismegistus/ordinary-abundance-the-case-for-building-software-thats-good-enough-and-actually-ships-1bm8
 
 ---
 
@@ -128,12 +146,12 @@ _Generated on: 2026-08-15 02:43 UTC_
 
 ---
 
-## The 19 Best Sites to Buy Old Gmail Accounts With 2FA . ...
+## RISC-V gasta 44 ciclos en una interrupción, Cortex-M0 solo 27
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Buy verified Gmail Accounts from usadigitalhub.com 💬 🔹 24/7 Support Is Always Available 📱 🔹 WhatsApp: +1 (506) 541-7768 ✈️ 🔹 Telegram: @usadigitalhub 🎧 🔹 Discord: usadigitalhub 📩 🔹 Email: usadigitalhubsell@gmail.com 🌐...
-- Link: https://dev.to/lonniepinedatrawd/the-19-best-sites-to-buy-old-gmail-accounts-with-2fa--580i
+- Category: Programming Tips
+- Summary: Guardar el contexto de una interrupción en un microcontrolador con RISC-V cuesta, en el mejor de los casos, 44 ciclos de reloj. Un núcleo ARM Cortex-M0, diseñado más de una década atrás, resuelve la misma tarea en 27...
+- Link: https://dev.to/lu1tr0n/risc-v-gasta-44-ciclos-en-una-interrupcion-cortex-m0-solo-27-kl5
 
 ---
 
@@ -146,12 +164,12 @@ _Generated on: 2026-08-15 02:43 UTC_
 
 ---
 
-## What Changes When Your Agents Keep Their Own Memory
+## VS Code Live Share có đủ mượt để pair programming đường dài?
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Most agent setups forget everything the moment the session ends. You solve a problem on Tuesday, hit the same problem on Friday, and the agent starts from zero because nothing it learned survived the conversation. Tha...
-- Link: https://dev.to/paulcrinigan/what-changes-when-your-agents-keep-their-own-memory-14g3
+- Category: Career Guidance
+- Summary: Trải nghiệm gõ phím tức thì qua mạng phụ thuộc lớn vào cơ chế đồng bộ trạng thái giữa máy chủ tọa độ (host) và máy khách (guest). Thay vì truyền tải toàn bộ màn hình như các phần mềm điều khiển từ xa truyền thống, VS...
+- Link: https://dev.to/hungphatlaptop/vs-code-live-share-co-du-muot-de-pair-programming-duong-dai-2od0
 
 ---
 
@@ -161,14 +179,5 @@ _Generated on: 2026-08-15 02:43 UTC_
 - Category: Learning Article
 - Summary: I can recall the time when I first put on the Oura Ring and checked my readiness score the next morning as if I were checking an exam score. I saw something like 62 and I really started to panic. Was
 - Link: https://www.freecodecamp.org/news/why-your-wearable-needs-weeks-of-data-before-it-becomes-useful/
-
----
-
-## 🔥 Weekend Remote Picks: Top High-Paying Roles
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in GENERAL roles this week. We don't do "Easy Apply". Our internal gatekeeper just processed 200+ verified remote jobs from our partn...
-- Link: https://dev.to/devpulse/weekend-remote-picks-top-high-paying-roles-1ago
 
 ---

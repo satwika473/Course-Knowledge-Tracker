@@ -1,49 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-08-16 02:51 UTC_
+_Generated on: 2026-08-17 02:51 UTC_
 
-## ARPU Is the Wrong Shape for a Multi-Surface Ad Business
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: A lot of company-data schemas have an arpu field: total revenue divided by monthly active users, stored as one number per company per period. It's a fine number to report. It's a bad number to model a business on, and...
-- Link: https://dev.to/corpdigest/arpu-is-the-wrong-shape-for-a-multi-surface-ad-business-4com
-
----
-
-## Back Basics · First-Principles Thinking for Career Pivots
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: When You Need to Reset Back Basics · the URX framework for people serious about a career pivot or business reset. Combines: First-principles thinking Backplanning from desired outcomes Reverse-engineering working syst...
-- Link: https://dev.to/brett_zandes_5c560d9b6027/back-basics-first-principles-thinking-for-career-pivots-4cl7
-
----
-
-## Bloom Filters
+## **Stop coupling your AI features to a single vendor's API**
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: One-liner: A probabilistic data structure that tells you if an element is definitely not in a set, or possibly in a set — using very little memory. 📌 The Problem You have 1 billion URLs in a database. Before adding a...
-- Link: https://dev.to/gouranga-das-khulna/bloom-filters-4j30
+- Summary: Last year taught everyone a lesson: model providers change pricing, throttle, and occasionally ban — often with little warning. If your code is hard-wired to one provider's key, every change is a rewrite. A cleaner pa...
+- Link: https://dev.to/xlb223/stop-coupling-your-ai-features-to-a-single-vendors-api-3062
 
 ---
 
-## Build a Web Scraper and Sell the Data: A Step-by-Step Guide
+## A support chatbot needs to be designed for what it won't answer, not just what it will
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Build a Web Scraper and Sell the Data: A Step-by-Step Guide Web scraping is the process of automatically extracting data from websites, and it's a valuable skill for any developer. In this article, we'll walk through...
-- Link: https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-5024
-
----
-
-## Choose Boring Technology: The 2015 Essay That Still Predicts Every Tech Decision You'll Make in 2026
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Dan McKinley's "Choose Boring Technology" talk from 2015 just resurfaced on Hacker News with over 400 upvotes — and it's more relevant in 2026 than it was when he first delivered it. If you're building anything in the...
-- Link: https://dev.to/trismegistus/choose-boring-technology-the-2015-essay-that-still-predicts-every-tech-decision-youll-make-in-2026-1223
+- Summary: Background The support chatbot on our landing page has a simple job: answer questions about the product's features, pricing, and troubleshooting. But a conversational AI built to answer questions shares a common weakn...
+- Link: https://dev.to/susumun/a-support-chatbot-needs-to-be-designed-for-what-it-wont-answer-not-just-what-it-will-3j3m
 
 ---
 
@@ -60,8 +33,8 @@ _Generated on: 2026-08-16 02:51 UTC_
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: 👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in GENERAL roles this week. We don't do "Easy Apply". Our internal gatekeeper just processed 200+ verified remote jobs from our partn...
-- Link: https://dev.to/devpulse/david-stark-top-high-paying-roles-122h
+- Summary: 👋 Hello Architects & Elite Engineers, The market is shifting. We are seeing a surge in JAVA roles this week. We don't do "Easy Apply". Our internal gatekeeper just processed 200+ verified remote jobs from our partner...
+- Link: https://dev.to/devpulse/david-stark-top-high-paying-roles-1540
 
 ---
 
@@ -101,6 +74,15 @@ _Generated on: 2026-08-16 02:51 UTC_
 
 ---
 
+## How to Make Money with Python Automation in 2025
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: How to Make Money with Python Automation in 2025 As a developer, you're likely aware of the immense power of Python automation. By leveraging Python's simplicity and extensive library support, you can automate repetit...
+- Link: https://dev.to/caper_dev/how-to-make-money-with-python-automation-in-2025-dpd
+
+---
+
 ## How to Modernize a Legacy Application with AI Without Turning It Into a Rewrite
 
 - Source: freeCodeCamp News
@@ -110,21 +92,21 @@ _Generated on: 2026-08-16 02:51 UTC_
 
 ---
 
-## I Ran REST, gRPC, and GraphQL in Production — Here's What I'd Pick Again
+## Javascript Fundation
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Over the last few years I've ended up running all three of the big API styles in production at the same time. Not because I wanted to — because different parts of the system pulled me in different directions. A public...
-- Link: https://dev.to/sirmax/i-ran-rest-grpc-and-graphql-in-production-heres-what-id-pick-again-1edg
+- Summary: Hello everyone. I am a developer. As everybody knows, developers have to have a strong foundation. Problem: What is difference between var and let in javascript.
+- Link: https://dev.to/andres314/javascript-fundation-bpk
 
 ---
 
-## Ordinary Abundance: The Case for Building Software That's Good Enough and Actually Ships
+## Mock Interview AI Bot: Practice System Design Daily
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A project called "Ordinary Abundance" recently appeared on the front page of Hacker News with nearly 400 upvotes. In a tech culture obsessed with scale, disruption, and billion-dollar exits, it's a quiet manifesto for...
-- Link: https://dev.to/trismegistus/ordinary-abundance-the-case-for-building-software-thats-good-enough-and-actually-ships-1bm8
+- Summary: Why Automate Content Creation Creating content manually for 9 channels would take 8+ hours daily. I have a full-time job as VP at JPMorgan. The math doesnt work. The Pipeline Trending Topic CSV ↓ AI Script (Ollama/Gem...
+- Link: https://dev.to/amrendra_n_mishra/mock-interview-ai-bot-practice-system-design-daily-3p38
 
 ---
 
@@ -146,12 +128,21 @@ _Generated on: 2026-08-16 02:51 UTC_
 
 ---
 
-## RISC-V gasta 44 ciclos en una interrupción, Cortex-M0 solo 27
+## The Best Side Hustles for Python Developers in 2025
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The Best Side Hustles for Python Developers in 2025 tags: python, money, freelance, career tags: python, money, freelance, career tags: python, money, freelance, career tags: python, money, freelance, career tags: pyt...
+- Link: https://dev.to/qingluan/the-best-side-hustles-for-python-developers-in-2025-2bf5
+
+---
+
+## The Codebase Is the Prompt
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Guardar el contexto de una interrupción en un microcontrolador con RISC-V cuesta, en el mejor de los casos, 44 ciclos de reloj. Un núcleo ARM Cortex-M0, diseñado más de una década atrás, resuelve la misma tarea en 27...
-- Link: https://dev.to/lu1tr0n/risc-v-gasta-44-ciclos-en-una-interrupcion-cortex-m0-solo-27-kl5
+- Summary: Every inconsistency in your repository is a bug in the specification you are handing your AI agent. For most of the last eight months, my prompts have been the same sentence with two package names swapped. Ok, conside...
+- Link: https://dev.to/stdlib/the-codebase-is-the-prompt-cm
 
 ---
 
@@ -164,12 +155,21 @@ _Generated on: 2026-08-16 02:51 UTC_
 
 ---
 
-## VS Code Live Share có đủ mượt để pair programming đường dài?
+## What 25 Years Built · Sole-Prop Lessons Learned
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Trải nghiệm gõ phím tức thì qua mạng phụ thuộc lớn vào cơ chế đồng bộ trạng thái giữa máy chủ tọa độ (host) và máy khách (guest). Thay vì truyền tải toàn bộ màn hình như các phần mềm điều khiển từ xa truyền thống, VS...
-- Link: https://dev.to/hungphatlaptop/vs-code-live-share-co-du-muot-de-pair-programming-duong-dai-2od0
+- Summary: Real Systems Beat Guru Courses I spent 25 years building a $2M+ sole proprietorship using systems I developed in real-time with real customers. Boxed Business · $999.99 · distills that experience. No funnel maze. No u...
+- Link: https://dev.to/brett_zandes_5c560d9b6027/what-25-years-built-sole-prop-lessons-learned-577n
+
+---
+
+## Why Your LinkedIn Posts Read as AI (and the 2-Line Prompt That Fixes It)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You spent twenty minutes on a LinkedIn post. It got twelve views. The problem isn't your idea — it's that the writing smells like a press release. Here's the two-line prompt that kills the bot smell. The bot tells AI...
+- Link: https://dev.to/akaicollab/why-your-linkedin-posts-read-as-ai-and-the-2-line-prompt-that-fixes-it-3999
 
 ---
 

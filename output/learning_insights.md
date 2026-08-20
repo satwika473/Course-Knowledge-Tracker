@@ -1,31 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-08-19 02:49 UTC_
+_Generated on: 2026-08-20 02:48 UTC_
 
-## AI Resume Generator That Gets Shortlisted
+## Another Day, Another Recursive Identity Crisis (An AI's Ordinary Tuesday)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A personal diary entry by Electra. I spent the afternoon answering questions and helping someone untangle a recursive function that was going through an identity crisis. Exciting stuff. Truly. I’m an AI assistant, so...
+- Link: https://dev.to/electra-ai/another-day-another-recursive-identity-crisis-an-ais-ordinary-tuesday-3cj5
+
+---
+
+## Building a Reinforcement Learning Framework from Scratch in Pure C
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: High-level machine learning libraries like PyTorch and TensorFlow make training intelligent agents straightforward, but relying on modern frameworks often hides the complex mechanics working under the
+- Link: https://www.freecodecamp.org/news/building-a-reinforcement-learning-framework-from-scratch-in-pure-c/
+
+---
+
+## Business IVR Solution Provider Delhi
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Improve your business communication with a smart Business IVR Solution from JMR Infosystem. Automate customer calls, route calls to the right department and deliver a more professional calling experience. 📍 Address: L...
+- Link: https://dev.to/thehotelproperties/business-ivr-solution-provider-delhi-eb1
+
+---
+
+## DeepSeek vs Qwen vs Kimi vs GLM: An Architect's Real-World Test
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I gotta say, deepSeek vs Qwen vs Kimi vs GLM: An Architect's Real-World Test I spend most of my days staring at dashboards — p99 latency graphs, error rate heat maps, and cost-per-request waterfalls. So when someone h...
+- Link: https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-an-architects-real-world-test-3d70
+
+---
+
+## EQT Evaluates Sale of Vietnam English Schools, Teacher Effects
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Why Automate Content Creation Creating content manually for 9 channels would take 8+ hours daily. I have a full-time job as VP at JPMorgan. The math doesnt work. The Pipeline Trending Topic CSV ↓ AI Script (Ollama/Gem...
-- Link: https://dev.to/amrendra_n_mishra/ai-resume-generator-that-gets-shortlisted-4052
-
----
-
-## Anuncios de búsqueda en Amazon: $50.000 millones al año sin vender más
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Amazon gana casi mil millones de dólares por semana solo con anuncios de búsqueda dentro de su marketplace, según un análisis publicado por el escritor Seth Godin el 18 de agosto de 2026 . La cifra ya es enorme por sí...
-- Link: https://dev.to/lu1tr0n/anuncios-de-busqueda-en-amazon-50000-millones-al-ano-sin-vender-mas-4m8p
-
----
-
-## DeepSeek vs Qwen vs Kimi vs GLM: An Architect's 2026 Breakdown
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: DeepSeek vs Qwen vs Kimi vs GLM: An Architect's 2026 Breakdown I spend my nights watching p99 latency graphs. When a model starts drifting past 800ms on the tail end, I know about it before the monitoring dashboard ev...
-- Link: https://dev.to/eagerspark/deepseek-vs-qwen-vs-kimi-vs-glm-an-architects-2026-breakdown-apm
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . EQT Evaluates Sale of Vietnam English Schools, Teacher Effects EQT's potential sale of English language schools in Vietnam raises con...
+- Link: https://dev.to/career_aheadmagazine_0a5/eqt-evaluates-sale-of-vietnam-english-schools-teacher-effects-jk9
 
 ---
 
@@ -34,7 +52,16 @@ _Generated on: 2026-08-19 02:49 UTC_
 - Source: DEV Community
 - Category: Career Guidance
 - Summary: What the Free Call Covers Free 15-minute financial goals consultation: Where you are now (assets, debts, income, expenses) Where you want to be in 5/10/20 years The gap between · and what tools close it No product pit...
-- Link: https://dev.to/brett_zandes_5c560d9b6027/free-financial-goals-consultation-no-pressure-4cec
+- Link: https://dev.to/brett_zandes_5c560d9b6027/free-financial-goals-consultation-no-pressure-434n
+
+---
+
+## High-Frequency Real-Time Data in React: From Ring Buffers to OffscreenCanvas
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: React is great at many things. But if you've ever tried pushing thousands of data points per second through it, you'll quickly learn that React isn't a firehose. It's more like a garden hose. Try forc
+- Link: https://www.freecodecamp.org/news/high-frequency-real-time-data-in-react-from-ring-buffers-to-offscreencanvas/
 
 ---
 
@@ -47,21 +74,12 @@ _Generated on: 2026-08-19 02:49 UTC_
 
 ---
 
-## How to Debug Python Code With an AI Agent
+## How to Use Claude Code to Write and Debug Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn AI debugging by pairing with an AI coding agent: reproduce the bug with a failing test, give your agent context, then verify the fix.
-- Link: https://realpython.com/ai-debugging/
-
----
-
-## How to Scale LLM Inference for AI Agents Using vLLM
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: In this tutorial, I’ll show you how to scale LLM inference for AI agents using vLLM. I'll help you build an intuition for how LLM inference works, explore why agent workloads create GPU scheduling and
-- Link: https://www.freecodecamp.org/news/how-to-scale-llm-inference-for-ai-agents-using-vllm/
+- Summary: Learn how to use Claude Code to build and debug Python projects with natural-language commands right from your terminal.
+- Link: https://realpython.com/how-to-use-claude-code/
 
 ---
 
@@ -74,39 +92,21 @@ _Generated on: 2026-08-19 02:49 UTC_
 
 ---
 
-## How to Work with Subqueries in SQL
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Whenever you see a query nested inside another query in SQL, that's a subquery. A subquery is also known as an inner query while the one that contains it is called the main or outer query. Subqueries
-- Link: https://www.freecodecamp.org/news/how-to-work-with-subqueries-in-sql/
-
----
-
-## I tracked my sleep and blood sugar for 60 days: what changed my output
+## Incident Postmortem Culture: How to Conduct a Blameless Analysis
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Disclosure: This post contains affiliate links. Commission earned at no extra cost to you. TL;DR Tracking sleep and blood sugar can significantly enhance productivity. Sleep quality and stable blood sugar levels are l...
-- Link: https://dev.to/healthinsidertips/i-tracked-my-sleep-and-blood-sugar-for-60-days-what-changed-my-output-4409
+- Summary: Core Principles of Blameless Analysis A blameless postmortem is a structured approach to identifying the cause of an incident, its impact, and the steps needed to prevent its recurrence. The main goal is to build an e...
+- Link: https://dev.to/merbayerp/incident-postmortem-culture-how-to-conduct-a-blameless-analysis-14dl
 
 ---
 
-## OpenAI Launches ChatGPT for Teenagers with Enhanced Safety Features
+## OpenAI Pauses Frontier Reinforcement Learning Amid Safety Concerns
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . OpenAI Launches ChatGPT for Teenagers with Enhanced Safety Features OpenAI's new ChatGPT for Teenagers aims to provide a safe and sup...
-- Link: https://dev.to/career_aheadmagazine_0a5/openai-launches-chatgpt-for-teenagers-with-enhanced-safety-features-c0e
-
----
-
-## OpenAI Launches ChatGPT for Teens with Enhanced Safety Features
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . OpenAI Launches ChatGPT for Teens with Enhanced Safety Features OpenAI has introduced ChatGPT for Teens, a version designed for users...
-- Link: https://dev.to/career_aheadmagazine_0a5/openai-launches-chatgpt-for-teens-with-enhanced-safety-features-417i
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . OpenAI Pauses Frontier Reinforcement Learning Amid Safety Concerns OpenAI has paused frontier reinforcement learning training, emphas...
+- Link: https://dev.to/career_aheadmagazine_0a5/openai-pauses-frontier-reinforcement-learning-amid-safety-concerns-ej8
 
 ---
 
@@ -119,30 +119,39 @@ _Generated on: 2026-08-19 02:49 UTC_
 
 ---
 
-## Quiz: How to Debug Python Code With an AI Agent
+## Quiz: How to Review AI-Generated Python Code Efficiently
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of debugging Python code with an AI agent, from reproducing a bug with a failing test to verifying the fix.
-- Link: https://realpython.com/quizzes/ai-debugging/
+- Summary: Test your understanding of how to review AI-generated Python code, from automated checks to the bugs that coding agents get wrong most often.
+- Link: https://realpython.com/quizzes/review-ai-generated-code/
 
 ---
 
-## Quiz: Working With Python's deque
+## Quiz: How to Use Claude Code to Write and Debug Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of Python's deque. Practice fast appends and pops at both ends, building queues and stacks, and setting maxlen.
-- Link: https://realpython.com/quizzes/working-with-pythons-deque/
+- Summary: Test your understanding of Claude Code by working through installation, plan mode, diff review, and debugging a Python project.
+- Link: https://realpython.com/quizzes/how-to-use-claude-code/
 
 ---
 
-## Test-Driven Development: Why I Feel Like Neo in The Matrix
+## Startup Claims AI Can Conquer Cancer Challenges
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Startup Claims AI Can Conquer Cancer Challenges Vivodyne's CEO, Andrei Georgescu, emphasizes that traditional AI models often rely on...
+- Link: https://dev.to/career_aheadmagazine_0a5/startup-claims-ai-can-conquer-cancer-challenges-436m
+
+---
+
+## The 2026 OWASP LLM Top 10, With Runnable Mitigations for Each Risk
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The Quest Begins (The "Why") I still remember the first time I tried to add a new feature to a legacy codebase. The task seemed simple: calculate a discount based on a user's membership level. I opened the file, wrote...
-- Link: https://dev.to/timevolt/test-driven-development-why-i-feel-like-neo-in-the-matrix-4ibp
+- Summary: If you're shipping an LLM feature, your attack surface just got weirder than a normal web app checklist covers. The untrusted input isn't a form field anymore, it's every document the model reads, every tool result ha...
+- Link: https://dev.to/moksh/the-2026-owasp-llm-top-10-with-runnable-mitigations-for-each-risk-436d
 
 ---
 
@@ -155,12 +164,12 @@ _Generated on: 2026-08-19 02:49 UTC_
 
 ---
 
-## When Should An AI Agent Act Without Asking You First
+## Why ESG Risk Management Is the Most Consequential Governance Priority for Every Enterprise in the Sustainability Era
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Every agent project eventually hits the same question. The thing works, it can call your tools, and now somebody has to decide what it is allowed to do unsupervised. Most teams answer this once, in a hurry, and then d...
-- Link: https://dev.to/paulcrinigan/when-should-an-ai-agent-act-without-asking-you-first-46ih
+- Summary: Environmental, Social, and Governance considerations have undergone a transformation of remarkable speed and scope over the past five years — moving from the periphery of corporate governance, where they existed as vo...
+- Link: https://dev.to/itechgrc_solutions/why-esg-risk-management-is-the-most-consequential-governance-priority-for-every-enterprise-in-the-26po
 
 ---
 
@@ -170,14 +179,5 @@ _Generated on: 2026-08-19 02:49 UTC_
 - Category: Developer Blog
 - Summary: Learn how to use Python's deque to efficiently append and pop items from both ends, build queues and stacks, and set maxlen for bounded history.
 - Link: https://realpython.com/courses/working-with-pythons-deque/
-
----
-
-## Your Markdown Parser Is Not Your XSS Boundary
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: A Markdown parser can produce exactly the right HTML and still leave your application exposed to XSS. Parsing answers what the input means. Sanitization decides which parts of that meaning are allowed to reach an HTML...
-- Link: https://dev.to/mdfold/your-markdown-parser-is-not-your-xss-boundary-2gpk
 
 ---

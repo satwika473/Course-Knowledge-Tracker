@@ -1,67 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-08-26 02:56 UTC_
+_Generated on: 2026-08-27 12:07 UTC_
 
-## Apple lanza Mac Studio con M5 Max y M5 Ultra: hasta 512GB de RAM
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Apple acaba de duplicar el límite de memoria de su Mac más potente: el nuevo Mac Studio con chip M5 Ultra llega hasta 512GB de memoria unificada, la cifra más alta jamás ofrecida en una computadora de escritorio de la...
-- Link: https://dev.to/lu1tr0n/apple-lanza-mac-studio-con-m5-max-y-m5-ultra-hasta-512gb-de-ram-730
-
----
-
-## Building DevDigest AI: An Always-On Agent That Prepares Your Daily Developer Briefing | Day 6
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 10 Days of Building AI Agents on AWS | Day 6 Developers live in a world of constant information. Every day brings new AI models, AWS announcements, cloud updates, open-source releases, developer tools, frameworks, Git...
-- Link: https://dev.to/abdullah_haroon_092cf10d3/building-devdigest-ai-an-always-on-agent-that-prepares-your-daily-developer-briefing-day-6-2hn7
-
----
-
-## DeepSeek Harness Review: A Practical Guide to Its Plugin-Based Agent Runtime
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: If you have only seen DeepSeek Harness as another way to run a coding model, you are looking at the wrong layer. DeepSeek Harness is an agent runtime : the part that connects a model to files, shell commands, tools, s...
-- Link: https://dev.to/postal6666/deepseek-harness-review-a-practical-guide-to-its-plugin-based-agent-runtime-7l3
-
----
-
-## Delegation over autocomplete: treat the model like a fast, literal junior
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Autocomplete is not the interesting part Most people meet a coding model as a fancy autocomplete. You type half a line, it finishes the line, you hit tab. That is fine. It saves keystrokes. It is also the least valuab...
-- Link: https://dev.to/academy_agineai/delegation-over-autocomplete-treat-the-model-like-a-fast-literal-junior-4doh
-
----
-
-## From Data to Value: Understanding Data Management Through a Real World Use Case [Full Book]
+## Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Today, data has become a particularly valuable resource. It allows companies to compete in the market and drive innovation, improving the quality of products and services offered. Data processing lets
-- Link: https://www.freecodecamp.org/news/understanding-data-management-with-a-real-world-use-case-book/
+- Summary: Historical market data usually arrives as a completed dataset. That's convenient for analysis, but very different from the way trading software experiences a live market. In production, events arrive
+- Link: https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/
 
 ---
 
-## How to Build Referral-Aware Split Payment Flows in Django
+## From Dashboards to Decisions: How Power BI Write-Back Is Reshaping Executive Analytics in 2026
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Introduction Business intelligence has traditionally followed a simple model: collect data, build reports, analyze trends, and make decisions. But modern organizations increasingly need something more immediate. Execu...
+- Link: https://dev.to/dipti26810/from-dashboards-to-decisions-how-power-bi-write-back-is-reshaping-executive-analytics-in-2026-4e2j
+
+---
+
+## From Four to Nine: One OpenAI-Compatible Route to Chinese AI Models
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: AIWave began with four Chinese provider families: DeepSeek, GLM/Zhipu, Kimi/Moonshot and ERNIE/Baidu. The live catalog now has 63 model records across nine families. MiniMAX, Qwen/Alibaba, Doubao/ByteDance, StepFun an...
+- Link: https://dev.to/aiwave/from-four-to-nine-one-openai-compatible-route-to-chinese-ai-models-2db
+
+---
+
+## How to Build a Flashcard Study App with Next.js and MongoDB
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: When a product has a single checkout, payment logic is usually simple: charge the user, mark the order as paid, and move on. But once the business model includes a deposit now, a balance later, and re
-- Link: https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/
-
----
-
-## How to Find Remote Python Jobs That Pay $150k+
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: How to Find Remote Python Jobs That Pay $150k+ tags: career, python, remote, money tags: career, python, remote, money tags: career, python, remote, money tags: career, python, remote, money tags: career, python, remo...
-- Link: https://dev.to/qingluan/how-to-find-remote-python-jobs-that-pay-150k-1ji
+- Summary: If you've ever crammed for an exam the night before, you know how hard it is to remember everything. Flashcards are one of the most effective study tools because they use active recall: you actively t
+- Link: https://www.freecodecamp.org/news/how-to-build-a-flashcard-study-app-with-next-js-and-mongodb/
 
 ---
 
@@ -74,57 +47,66 @@ _Generated on: 2026-08-26 02:56 UTC_
 
 ---
 
-## How to Write an AGENTS.md File for a Python Project
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to write an AGENTS.md file so your AI coding agent produces idiomatic Python code that fits your project on the first try.
-- Link: https://realpython.com/agents-md/
-
----
-
-## Interactive Voice Response System Provider Delhi
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Looking for a reliable Interactive Voice Response (IVR) System? JMR Infosystem provides advanced IVR solutions to help businesses automate customer calls, manage high call volumes, route calls efficiently, and improve...
-- Link: https://dev.to/thehotelproperties/interactive-voice-response-system-provider-delhi-2ap2
-
----
-
-## M6 and M5 Ultra Redefine Silicon Standards
+## How to Make $2000/Month as a Technical Writer
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . M6 and M5 Ultra Redefine Silicon Standards Apple's latest Mac mini and Mac Studio computers feature the groundbreaking M6 and M5 Ultr...
-- Link: https://dev.to/career_aheadmagazine_0a5/m6-and-m5-ultra-redefine-silicon-standards-2f8l
+- Summary: How to Make $2000/Month as a Technical Writer tags: writing, money, career, freelance tags: writing, money, career, freelance tags: writing, money, career, freelance tags: writing, money, career, freelance tags: writi...
+- Link: https://dev.to/qingluan/how-to-make-2000month-as-a-technical-writer-5cb8
 
 ---
 
-## Maharashtra Launches Lata Mangeshkar University
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Maharashtra Launches Lata Mangeshkar University The new universities will offer a variety of programs including undergraduate, postgr...
-- Link: https://dev.to/career_aheadmagazine_0a5/maharashtra-launches-lata-mangeshkar-university-n9i
-
----
-
-## Mobile Background Execution: iOS Background Modes, Android WorkManager, and Background Services in Dart
+## How to Stop Letting AI Agents Fake Their Own Tests
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Every mobile developer eventually hits the same wall: the app works perfectly when the user is looking at it. But the moment they press the home button, everything stops. A sync that should have compl
-- Link: https://www.freecodecamp.org/news/mobile-background-execution-ios-background-modes-android-workmanager-and-background-services-in-dart/
+- Summary: I signed off a hallucination fix as verified. We now had zero out of five fabricated responses, clean run, done. Then I ran it again under harder conditions and got 66.7%. The number I'd trusted enoug
+- Link: https://www.freecodecamp.org/news/how-to-stop-letting-ai-agents-fake-their-own-tests/
 
 ---
 
-## Quiz: How to Write an AGENTS.md File for a Python Project
+## How to Tell If Your Search Console Impressions Came From a Human or a Machine
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Your Search Console report says a page earned 3,068 impressions on the first page of Google over 90 days. But it earned zero clicks in that same time period. The usual reading is that the page has a c
+- Link: https://www.freecodecamp.org/news/how-to-tell-if-search-console-impressions-are-human-or-machine/
+
+---
+
+## IELTS Results in 1–2 Days in Singapore | Fast IELTS Scores
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you are planning to study, work, or migrate abroad, receiving your IELTS score quickly can be important. For students and professionals taking IELTS classes in Singapore , the good news is that IELTS on Computer no...
+- Link: https://dev.to/princetonreview/ielts-results-in-1-2-days-in-singapore-fast-ielts-scores-mgc
+
+---
+
+## Python 3.15 Preview: Sampling Profiler
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of how an AGENTS.md file gives your AI coding agent the project context it needs to write code that fits your project.
-- Link: https://realpython.com/quizzes/agents-md/
+- Summary: Explore Python 3.15's new sampling profiler and learn low-overhead profiling of scripts, threads, and live production processes.
+- Link: https://realpython.com/python315-sampling-profiler/
+
+---
+
+## Python Abstract Base Classes: Design Patterns
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Python Abstract Base Classes: Design Patterns tags: python, oop, tutorial, programming tags: python, oop, tutorial, programming tags: python, oop, tutorial, programming tags: python, oop, tutorial, programming tags: p...
+- Link: https://dev.to/qingluan/python-abstract-base-classes-design-patterns-136l
+
+---
+
+## Quiz: Getting Started With Claude Code
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your Claude Code basics: install it, set it up, work with CLAUDE.md, and use Git to stay in control of your changes.
+- Link: https://realpython.com/quizzes/getting-started-claude-code/
 
 ---
 
@@ -137,30 +119,30 @@ _Generated on: 2026-08-26 02:56 UTC_
 
 ---
 
-## Quiz: The Python print() Function: Go Beyond the Basics
+## Quiz: Python 3.15 Preview: Sampling Profiler
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check what you know about Python's print() function, including string formatting, escape sequences, file streams, and when to reach for logging instead.
-- Link: https://realpython.com/quizzes/python-print-course/
+- Summary: Test your understanding of Python 3.15's new sampling profiler, from CPU and GIL modes to flame graphs, heatmaps, and attaching to a live process.
+- Link: https://realpython.com/quizzes/python315-sampling-profiler/
 
 ---
 
-## The AI Exam Author Was Never Wrong. I Still Can't Use Its Exam.
+## The Engineering Shift: Accelerating Application Delivery with AI-First Architectures
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: In the first post of this series I wrote about making a 29-question exam and getting it wrong five times myself — three times in the answer key, twice in the grader. Ever since, one question kept nagging me: if an AI...
-- Link: https://dev.to/ramses203/the-ai-exam-author-was-never-wrong-i-still-cant-use-its-exam-3h2
+- Summary: Modern software engineering teams face a growing dilemma: market demand for cross-platform applications is accelerating, yet developers spend up to 70% of their time on low-level maintenance, UI translation, and integ...
+- Link: https://dev.to/melissadissouza/the-engineering-shift-accelerating-application-delivery-with-ai-first-architectures-d4l
 
 ---
 
-## The Developer's Guide to Investing Passive Income
+## The iCalendar Spec Says 75 Octets, Not 75 Characters
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: The Developer's Guide to Investing Passive Income tags: passive, money, developer, career tags: passive, money, developer, career tags: passive, money, developer, career tags: passive, money, developer, career tags: p...
-- Link: https://dev.to/qingluan/the-developers-guide-to-investing-passive-income-1231
+- Category: Programming Tips
+- Summary: I run AI Change Watch , a small independent project that crawls what 15 AI vendors publish about their own models — deprecation tables, lifecycle pages, pricing and SDK releases — and records every time one of them ch...
+- Link: https://dev.to/ai_changewatch/the-icalendar-spec-says-75-octets-not-75-characters-5cn8
 
 ---
 
@@ -173,11 +155,29 @@ _Generated on: 2026-08-26 02:56 UTC_
 
 ---
 
-## What Happens to a Medical Image Before and After a Model Sees It
+## The Reverse Interview: 15 Questions for an AI Team You Might Join
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Medical imaging papers are full of familiar-looking terms: normalization, labels, validation, annotation, and preprocessing. If you come from general machine learning, you may think you already know w
-- Link: https://www.freecodecamp.org/news/what-happens-to-a-medical-image-before-and-after-a-model-sees-it/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Originally published on AI Tech Connect . The half of the loop nobody prepares for An interview loop is symmetric in theory and wildly asymmetric in practice. The team runs a structured process with rubrics, calibrati...
+- Link: https://dev.to/rishi_kora/the-reverse-interview-15-questions-for-an-ai-team-you-might-join-27o8
+
+---
+
+## Tying bonuses to badge swipes is how you teach people to game you
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The interns discovered the cheat code earlier than the bosses realized that there was a whole game to be played. Someone shared that there would be a bonus multiplier based on badge swipes. The intern's optimal move w...
+- Link: https://dev.to/adioof/tying-bonuses-to-badge-swipes-is-how-you-teach-people-to-game-you-1f96
+
+---
+
+## What a professional portrait is for, and what it cannot claim
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The claims made for professional portraits are usually inflated or dismissed. The accurate version is narrower than both and more useful. What it does not do It does not make you appear more qualified. Nobody has read...
+- Link: https://dev.to/miriam_alonso_01/what-a-professional-portrait-is-for-and-what-it-cannot-claim-20dl
 
 ---

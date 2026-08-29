@@ -1,40 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-08-28 13:30 UTC_
+_Generated on: 2026-08-29 08:24 UTC_
 
-## Build a Dedicated Development Team in Pakistan for Your US Business
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Looking to expand your technology capabilities without the high cost of building a large in-house team? A dedicated development team in Pakistan can give US companies access to skilled developers, flexible resources,...
-- Link: https://dev.to/inlinkers_cx/build-a-dedicated-development-team-in-pakistan-for-your-us-business-1e6p
-
----
-
-## Build AI Agents, APIs, and Full-Stack Apps with Meta Muse Code & Muse Spark
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: As AI developer tooling expands, vertically integrated ecosystems offer powerful alternatives for building software. In this comprehensive three-hour course on the freeCodeCamp.org YouTube channel, in
-- Link: https://www.freecodecamp.org/news/build-ai-agents-apis-and-full-stack-apps-with-meta-muse-code-muse-spark/
-
----
-
-## Every feature I add, I maintain alone forever. So I stopped.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The advice every solo developer eventually hears is to ship more features to stay competitive. After about fifteen months and eleven releases of a one-person iOS app, I have come to think that advice is quietly danger...
-- Link: https://dev.to/simple_memo/every-feature-i-add-i-maintain-alone-forever-so-i-stopped-5n9
-
----
-
-## Find Your Next Career Opportunity With JobNomix
+## AI Can Suggest, but It Can't Be Accountable
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Find Your Next Career Opportunity With JobNomix Finding the right job can take time. You may have to search through multiple job boards, company career pages, and social media posts just to find opportunities that mat...
-- Link: https://dev.to/job_nomix_2f1efce7aed65d2/find-your-next-career-opportunity-with-jobnomix-36ga
+- Summary: As AI gets better at generating configs, scripts, and fixes, a lot of people in IT are quietly worried about what's left for them. I think the answer becomes clear the moment something goes wrong in production at two...
+- Link: https://dev.to/serguey_shinder_4ab9b87b1/ai-can-suggest-but-it-cant-be-accountable-4c8k
+
+---
+
+## Feedback Means Nothing Until You Act on It
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: It's easy to collect feedback. You ask, people tell you, you nod, you thank them. And then nothing changes. That's where most feedback dies — not in the giving, but in the drawer you file it in and never open. Feedbac...
+- Link: https://dev.to/asael_shinder_9f53bdca840/feedback-means-nothing-until-you-act-on-it-356o
 
 ---
 
@@ -47,30 +29,30 @@ _Generated on: 2026-08-28 13:30 UTC_
 
 ---
 
-## How I Eliminated Disposable Email Signups and Stopped SaaS Trial Abuse
+## From “Can I Do This?” to Becoming Part of the Team: Lessons From My Apprenticeship at ISRO
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: 1. The Problem: Drowning in Fake Accounts and Trial Abuse When we launched our web application, seeing a surge in new user signups felt like an instant win. However, within just a few weeks of monitoring our analytics...
-- Link: https://dev.to/velvet_vibe/how-i-eliminated-disposable-email-signups-and-stopped-saas-trial-abuse-2oo9
+- Summary: My first real experience working in a professional engineering environment began during my apprenticeship at ISRO On my first day, I was introduced to the project. They explained what the project was, its purpose, its...
+- Link: https://dev.to/chaitanya_pranavsaikoda/from-can-i-do-this-to-becoming-part-of-the-team-lessons-from-my-apprenticeship-at-isro-6lh
 
 ---
 
-## How I Slashed a GCP Bill by 80%: The Hidden Trap of the Serverless CPU Toggle
+## How to Automate Your Tests in Express Using Vitest
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: How I Slashed My GCP Bill by 80%: The Hidden Trap of the Serverless CPU Toggle Key Takeaways • The --no-cpu-throttling (CPU always allocated) flag on Cloud Run opts you silently into 24/7 always-on billing, destroying...
-- Link: https://dev.to/vishurizz/how-i-slashed-a-gcp-bill-by-80-the-hidden-trap-of-the-serverless-cpu-toggle-1ohe
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Thinking through API logic while constantly switching tabs to test application integration can be overwhelming and time-consuming. Well, you can save your time and energy by writing tests for your app
+- Link: https://www.freecodecamp.org/news/how-to-automate-your-tests-in-express-using-vitest/
 
 ---
 
-## How to Automate LinkedIn Outreach (Ethically) with Python
+## How to Create and Sell Developer Templates
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: How to Automate LinkedIn Outreach (Ethically) with Python tags: python, linkedin, automation, career tags: python, linkedin, automation, career tags: python, linkedin, automation, career tags: python, linkedin, automa...
-- Link: https://dev.to/qingluan/how-to-automate-linkedin-outreach-ethically-with-python-3o42
+- Category: Programming Tips
+- Summary: How to Create and Sell Developer Templates tags: templates, money, passive, programming tags: templates, money, passive, programming tags: templates, money, passive, programming tags: templates, money, passive, progra...
+- Link: https://dev.to/qingluan/how-to-create-and-sell-developer-templates-1aoc
 
 ---
 
@@ -83,12 +65,12 @@ _Generated on: 2026-08-28 13:30 UTC_
 
 ---
 
-## How to talk about trade-offs without sounding like you are hedging
+## How to Plan a Home Interior Project in Noida Extension
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Nuance is the thing that gets you levelled up, and hedging is the thing that gets you levelled down. They sound almost identical from the outside, and the difference is entirely structural. Ask a junior engineer wheth...
-- Link: https://dev.to/moputa/how-to-talk-about-trade-offs-without-sounding-like-you-are-hedging-3eia
+- Category: Programming Tips
+- Summary: Most homeowners do not struggle because they lack design inspiration. They struggle because there are too many decisions to make at once. Which room should be planned first? How much storage is enough? Which materials...
+- Link: https://dev.to/divyainteriordesigner/how-to-plan-a-home-interior-project-in-noida-extension-1i2e
 
 ---
 
@@ -107,6 +89,24 @@ _Generated on: 2026-08-28 13:30 UTC_
 - Category: Learning Article
 - Summary: Last week I put a CDN cache in front of a static site, expecting it to get faster. But instead, it got measurably slower. Not subtly: an independent crawler that had flagged 38 slow pages before the c
 - Link: https://www.freecodecamp.org/news/cdn-cache-made-my-site-slower/
+
+---
+
+## Learn to Say No in the Language of Risk
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A lot of good technical people struggle to be heard by the business, and it's rarely because they're wrong. It's because they're speaking the wrong language. When you tell a business leader "we can't do that, it's ins...
+- Link: https://dev.to/serguey_shinder_4ab9b87b1/learn-to-say-no-in-the-language-of-risk-2m35
+
+---
+
+## One Setback Is Not Your Whole Story
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You will fail at something that matters to you. A project that flops. A promotion you don't get. A moment you were sure of that goes wrong in front of people. And in that moment it will feel like the whole story. It i...
+- Link: https://dev.to/asael_shinder_9f53bdca840/one-setback-is-not-your-whole-story-3m9n
 
 ---
 
@@ -146,12 +146,30 @@ _Generated on: 2026-08-28 13:30 UTC_
 
 ---
 
-## The career change CV is a translation problem, not a persuasion problem
+## Strengthening IT Operations Through Better Hardware Asset Management
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Introduction Behind every reliable IT environment is a large collection of physical technology that needs to be managed carefully. Computers, servers, networking devices, and other hardware can represent significant o...
+- Link: https://dev.to/jeevan_kumbhar_0dddb49b1a/strengthening-it-operations-through-better-hardware-asset-management-agp
+
+---
+
+## Taste Is the One Thing They Can't Automate
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: TL;DR A career change CV has to signal fit for a role you have never formally held, against a reader who decides in seconds and an ATS matching your text to an unfamiliar job description. Explaining the change fails;...
-- Link: https://dev.to/cvpilot/the-career-change-cv-is-a-translation-problem-not-a-persuasion-problem-45om
+- Summary: The machines are getting good at making things. Code, text, images, answers on demand, faster than you ever could. It's fair to wonder what's left for you. Here's what's left: taste. The machine can generate a thousan...
+- Link: https://dev.to/asael_shinder_9f53bdca840/taste-is-the-one-thing-they-cant-automate-373h
+
+---
+
+## The Analytics Refresh: Why Creators Check Their Dashboard 40 Times a Day
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I have a habit I am not proud of. Every time I publish a video, I open the analytics dashboard. Then I close it. Then I open it again. Then I refresh. Then I check my phone. Then I open it on my phone. Then I go back...
+- Link: https://dev.to/stephane_guertin_98bb6736/the-analytics-refresh-why-creators-check-their-dashboard-40-times-a-day-2g0
 
 ---
 
@@ -161,23 +179,5 @@ _Generated on: 2026-08-28 13:30 UTC_
 - Category: Developer Blog
 - Summary: What are the key characteristics of complex systems, and what are practical patterns for tackling complex coding problems? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly artic...
 - Link: https://realpython.com/podcasts/rpp/309/
-
----
-
-## Why Tech Hubs Still Matter When You Can Learn Everything Online
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: You don't need a classroom to learn how to code anymore. You can open YouTube. Read documentation. Use freeCodeCamp. Ask ChatGPT. Build projects. Push everything to GitHub. So Why join a tech hub? Because learning a t...
-- Link: https://dev.to/tech_ng/why-tech-hubs-still-matter-when-you-can-learn-everything-online-2o59
-
----
-
-## Your URL fetcher is probably an SSRF vulnerability
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I spent last week building a site that lets anyone type in a URL and have my server go and look at it. Security header scanner, link expander, that sort of thing. About an hour in I realised I had built a machine for...
-- Link: https://dev.to/rehanfaisal/your-url-fetcher-is-probably-an-ssrf-vulnerability-4dl3
 
 ---

@@ -1,22 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-08-29 08:24 UTC_
+_Generated on: 2026-08-30 07:38 UTC_
 
-## AI Can Suggest, but It Can't Be Accountable
+## About the Builder
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: As AI gets better at generating configs, scripts, and fixes, a lot of people in IT are quietly worried about what's left for them. I think the answer becomes clear the moment something goes wrong in production at two...
-- Link: https://dev.to/serguey_shinder_4ab9b87b1/ai-can-suggest-but-it-cant-be-accountable-4c8k
+- Category: Programming Tips
+- Summary: Hi, I'm a developer and tech enthusiast passionate about building at the intersection of Generative AI, cloud infrastructure, and modern software engineering. My focus is on turning experimental AI concepts into pract...
+- Link: https://dev.to/sa_a_334b500fa1f/about-the-builder-27f9
 
 ---
 
-## Feedback Means Nothing Until You Act on It
+## Andrew Ng says AI is 'terrible for learning.' For developers, that's the warning worth hearing
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: It's easy to collect feedback. You ask, people tell you, you nod, you thank them. And then nothing changes. That's where most feedback dies — not in the giving, but in the drawer you file it in and never open. Feedbac...
-- Link: https://dev.to/asael_shinder_9f53bdca840/feedback-means-nothing-until-you-act-on-it-356o
+- Summary: In a new interview, Andrew Ng, who helped build this field and taught AI to millions of people, said something most AI enthusiasts will not say out loud: "frankly AI models are terrible for learning." Not that the too...
+- Link: https://dev.to/frankchu/andrew-ng-says-ai-is-terrible-for-learning-for-developers-thats-the-warning-worth-hearing-5ako
 
 ---
 
@@ -29,15 +29,6 @@ _Generated on: 2026-08-29 08:24 UTC_
 
 ---
 
-## From “Can I Do This?” to Becoming Part of the Team: Lessons From My Apprenticeship at ISRO
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: My first real experience working in a professional engineering environment began during my apprenticeship at ISRO On my first day, I was introduced to the project. They explained what the project was, its purpose, its...
-- Link: https://dev.to/chaitanya_pranavsaikoda/from-can-i-do-this-to-becoming-part-of-the-team-lessons-from-my-apprenticeship-at-isro-6lh
-
----
-
 ## How to Automate Your Tests in Express Using Vitest
 
 - Source: freeCodeCamp News
@@ -47,12 +38,12 @@ _Generated on: 2026-08-29 08:24 UTC_
 
 ---
 
-## How to Create and Sell Developer Templates
+## How to Create a Standout Resume with AI
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: How to Create and Sell Developer Templates tags: templates, money, passive, programming tags: templates, money, passive, programming tags: templates, money, passive, programming tags: templates, money, passive, progra...
-- Link: https://dev.to/qingluan/how-to-create-and-sell-developer-templates-1aoc
+- Category: Career Guidance
+- Summary: How to Create a Standout Resume with AI In today’s competitive job market, having a strong resume is more important than ever. With the rise of artificial intelligence (AI), you can now leverage powerful tools to craf...
+- Link: https://dev.to/aivadesk/how-to-create-a-standout-resume-with-ai-4hjk
 
 ---
 
@@ -62,15 +53,6 @@ _Generated on: 2026-08-29 08:24 UTC_
 - Category: Learning Article
 - Summary: Most tutorials about calling a language model end at JSON.parse(response.content). That line works on your first ten test cases. Then you ship, and somewhere around request four hundred the model retu
 - Link: https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/
-
----
-
-## How to Plan a Home Interior Project in Noida Extension
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Most homeowners do not struggle because they lack design inspiration. They struggle because there are too many decisions to make at once. Which room should be planned first? How much storage is enough? Which materials...
-- Link: https://dev.to/divyainteriordesigner/how-to-plan-a-home-interior-project-in-noida-extension-1i2e
 
 ---
 
@@ -92,21 +74,39 @@ _Generated on: 2026-08-29 08:24 UTC_
 
 ---
 
-## Learn to Say No in the Language of Risk
+## I Crawled My Own SEO Site and Found a Crawler Trap
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: A lot of good technical people struggle to be heard by the business, and it's rarely because they're wrong. It's because they're speaking the wrong language. When you tell a business leader "we can't do that, it's ins...
-- Link: https://dev.to/serguey_shinder_4ab9b87b1/learn-to-say-no-in-the-language-of-risk-2m35
+- Category: Programming Tips
+- Summary: I run a small SEO tooling site, and on 2026-08-24 I pointed my crawler at it. The plan was routine: check internal health, check for orphans, move on. The crawl returned zero orphan candidates. That result is why I'm...
+- Link: https://dev.to/hermis_rf/i-crawled-my-own-seo-site-and-found-a-crawler-trap-1boa
 
 ---
 
-## One Setback Is Not Your Whole Story
+## IND-TECH WEEKLY #1: Jio Files for India's Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Know 🇮🇳
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: You will fail at something that matters to you. A project that flops. A promotion you don't get. A moment you were sure of that goes wrong in front of people. And in that moment it will feel like the whole story. It i...
-- Link: https://dev.to/asael_shinder_9f53bdca840/one-setback-is-not-your-whole-story-3m9n
+- Summary: Hey 👋 Quick backstory — my last post on getting paid after winning a DEV Challenge did way better than I expected. It even got the Community Resource badge from the editorial team (still buzzing from that, genuinely —...
+- Link: https://dev.to/dj29/ind-tech-weekly-1-jio-files-for-indias-biggest-ever-ipo-navi-bags-100m-and-what-devs-should-204h
+
+---
+
+## MukTools-Your All in One Tools Platform
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: MUK Tools is a growing all-in-one platform with free AI, productivity, PDF, image & utility tools — and yes, we’ve added a few ads to help keep these tools free. 🚀 👉 muktools.com
+- Link: https://dev.to/muktools/muktools-your-all-in-one-tools-platform-3p25
+
+---
+
+## OPT Job Application Checklist: 12 Things to Review Before You Submit
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: For international graduates pursuing technical and professional roles, application accuracy matters as much as application speed. This checklist provides a repeatable review process before submission. A quality-contro...
+- Link: https://dev.to/jobhunger/opt-job-application-checklist-12-things-to-review-before-you-submit-1c47
 
 ---
 
@@ -146,38 +146,38 @@ _Generated on: 2026-08-29 08:24 UTC_
 
 ---
 
-## Strengthening IT Operations Through Better Hardware Asset Management
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Introduction Behind every reliable IT environment is a large collection of physical technology that needs to be managed carefully. Computers, servers, networking devices, and other hardware can represent significant o...
-- Link: https://dev.to/jeevan_kumbhar_0dddb49b1a/strengthening-it-operations-through-better-hardware-asset-management-agp
-
----
-
-## Taste Is the One Thing They Can't Automate
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The machines are getting good at making things. Code, text, images, answers on demand, faster than you ever could. It's fair to wonder what's left for you. Here's what's left: taste. The machine can generate a thousan...
-- Link: https://dev.to/asael_shinder_9f53bdca840/taste-is-the-one-thing-they-cant-automate-373h
-
----
-
-## The Analytics Refresh: Why Creators Check Their Dashboard 40 Times a Day
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I have a habit I am not proud of. Every time I publish a video, I open the analytics dashboard. Then I close it. Then I open it again. Then I refresh. Then I check my phone. Then I open it on my phone. Then I go back...
-- Link: https://dev.to/stephane_guertin_98bb6736/the-analytics-refresh-why-creators-check-their-dashboard-40-times-a-day-2g0
-
----
-
 ## The Real Python Podcast – Episode #309: Exploring Complex Systems & Maintainable Data Science Pipelines
 
 - Source: Real Python
 - Category: Developer Blog
 - Summary: What are the key characteristics of complex systems, and what are practical patterns for tackling complex coding problems? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly artic...
 - Link: https://realpython.com/podcasts/rpp/309/
+
+---
+
+## Three Culture Bugs That Kill Your Engineering Velocity
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most engineering slowdowns aren't tooling problems. They look like tooling problems: another dashboard, another AI assistant, another "productivity platform." But when you trace the friction back to its source, you al...
+- Link: https://dev.to/robust_true_try/three-culture-bugs-that-kill-your-engineering-velocity-4n5c
+
+---
+
+## Top Digital Marketing Agency in 2026
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Looking for a top digital marketing agency in 2026? Ads360Media offers professional digital marketing solutions designed to help businesses improve their online visibility and achieve better growth. From SEO, PPC and...
+- Link: https://dev.to/thehotelproperties/top-digital-marketing-agency-in-2026-3p8k
+
+---
+
+## Tried `sponsors/conorbronsdon`: A Practical AI-Writing Cleanup Skill
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Tried sponsors/conorbronsdon : A Practical AI-Writing Cleanup Skill conorbronsdon is gaining attention quickly— +179 stars today —because it addresses a problem most AI developers eventually hit: content that is techn...
+- Link: https://dev.to/jamse_bao/tried-sponsorsconorbronsdon-a-practical-ai-writing-cleanup-skill-10np
 
 ---

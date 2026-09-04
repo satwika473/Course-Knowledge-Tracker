@@ -1,67 +1,103 @@
 # Learning Insights
 
-_Generated on: 2026-09-03 06:38 UTC_
+_Generated on: 2026-09-04 06:42 UTC_
 
-## AI Fever
+## Artificial Intelligence Course in Bangalore: Discover the Skills You Need for the AI Era
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I love AI I used every single day. so this is not, by any means, an antiAI rant. quiet the opposite its more of understanding and accepting AI in a healthy way I think we are entering a new era of technology, and I ge...
-- Link: https://dev.to/nawras_alabbas/ai-fever-109p
+- Summary: Artificial Intelligence is becoming part of everyday technology. From recommendation systems and virtual assistants to predictive analytics and intelligent automation, Artificial Intelligence is changing the way busin...
+- Link: https://dev.to/abdul_naeem_119be3a954add/artificial-intelligence-course-in-bangalore-discover-the-skills-you-need-for-the-ai-era-1c2g
 
 ---
 
-## Ask What You Would Do Differently
+## Bitpanda Capital Markets Builds Stronger Compliance Awareness for Safer Digital Finance
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: As digital finance continues to grow, compliance awareness has become an important part of building a safer and more transparent market environment. For users and institutions participating in digital financial servic...
+- Link: https://dev.to/bitpandacapitalmarke/bitpanda-capital-markets-builds-stronger-compliance-awareness-for-safer-digital-finance-14li
+
+---
+
+## Claude Code Observability with OpenTelemetry
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Agentic coding tools like Claude Code, OpenAI Codex, Google Antigravity, and Cursor have become ubiquitous for everyday software development. As agentic systems mature, much of the work developers hav
+- Link: https://www.freecodecamp.org/news/claude-code-observability-with-opentelemetry/
+
+---
+
+## Five Silent Assumptions That Turn AI Code Into Debt
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Generated code looks cheap until the assumptions land. You own every invented config, schema, and side effect. I now treat silent model assumptions as merge blockers. Did the model ask about your auth scheme? Did it c...
+- Link: https://dev.to/codex_1135/five-silent-assumptions-that-turn-ai-code-into-debt-3jk5
+
+---
+
+## How AI Chips Are Made
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: We just published a comprehensive, first-principles course on the semiconductor supply chain on the freeCodeCamp.org YouTube channel. Taught by hardware specialist Kian Kyars, this deep dive explains
+- Link: https://www.freecodecamp.org/news/how-ai-chips-are-made/
+
+---
+
+## How OpenTelemetry Works: A Complete Guide
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: If you’re a software developer or DevOps engineer, you've probably come across OpenTelemetry. It comes up a lot, especially when talking about observability, monitoring, or debugging distributed syste
+- Link: https://www.freecodecamp.org/news/how-opentelemetry-works/
+
+---
+
+## How to Build AI Systems That Know When They Don't Know: A Practical Guide
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Large Language Models (LLMs) have fundamentally changed how we build internal business applications. They allow developers to create intelligent software that can synthesize complex corporate data, an
+- Link: https://www.freecodecamp.org/news/how-to-build-ai-systems-that-know-when-they-don-t-know/
+
+---
+
+## How to find a collaborator for the same side project
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: When you ask for feedback, most people give you the safe version. You say how did that go, and they say it was good, nice work. They are not lying. They just do not want to be the one to hand you criticism you did not...
-- Link: https://dev.to/asael_shinder_9f53bdca840/ask-what-you-would-do-differently-4mp3
+- Summary: Short answer: Look for builders already solving the same problem, then invite one person into a small, specific first step. The right collaborator cares about the outcome, can show work, and will keep showing up. The...
+- Link: https://dev.to/devconnect/how-to-find-a-collaborator-for-the-same-side-project-5863
 
 ---
 
-## Build Your Own Face Recognition Tool With Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: In this tutorial, you'll build your own face recognition command-line tool with Python. You'll learn how to use face detection to identify faces in an image and label them using face recognition. With this knowledge,...
-- Link: https://realpython.com/face-recognition-with-python/
-
----
-
-## Building Practical Workplace Safety Skills with ISO 45001
+## How to Get Your First Freelance Client on Upwork
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Workplace safety depends on more than having safety rules written in a document. Organizations need people who can help turn those requirements into a functioning occupational health and safety management system. This...
-- Link: https://dev.to/jeevan_kumbhar_0dddb49b1a/building-practical-workplace-safety-skills-with-iso-45001-3d47
+- Summary: How to Get Your First Freelance Client on Upwork tags: freelance, upwork, career, money tags: freelance, upwork, career, money tags: freelance, upwork, career, money tags: freelance, upwork, career, money tags: freela...
+- Link: https://dev.to/qingluan/how-to-get-your-first-freelance-client-on-upwork-4nl8
 
 ---
 
-## Feature Modularization in Flutter: How to Combine Clean Architecture and Domain-Driven Design for Self-Contained, Sca...
+## How to Use Skills in Agentic Flutter Development: A Handbook for Devs
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: As an engineer working on a small team, your current structure could fly. But what if your team, all contributing to the same codebase, reaches 20 or more people at scale? You'll need careful design t
-- Link: https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/
+- Summary: One of the biggest misconceptions about AI-assisted development is that using AI means giving up the engineering experience you've built over the years. It doesn't. You can take the architecture patte
+- Link: https://www.freecodecamp.org/news/how-to-use-skills-in-agentic-flutter-development-a-handbook-for-devs/
 
 ---
 
-## How Quantum Connectivity Shapes What Your Quantum Computer Can Actually Compute
+## I got tired of AI resume spam and ghost jobs, so I built an open-source CLI agent for developers
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Suppose your quantum program needs to apply a two-qubit operation between qubits 0 and 50. From the programmer's perspective, that sounds simple. You have two qubits. You have a gate that operates on
-- Link: https://www.freecodecamp.org/news/how-quantum-connectivity-shapes-what-your-quantum-computer-can-actually-compute/
-
----
-
-## How to Protect Your Privacy While Browsing the Web
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Every time you open a web page, you leave a trail. Your browser shares your IP address, your screen size, your fonts, and dozens of other small details. Ad companies collect these details and stitch t
-- Link: https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Job hunting in 2026 is mathematically broken. Recruiters use ATS bots to reject candidates in 6 seconds. Companies post ghost jobs that stay open for months. And the market is flooded with paid SaaS tools charging $39...
+- Link: https://dev.to/akash_kaintura6527/i-got-tired-of-ai-resume-spam-and-ghost-jobs-so-i-built-an-open-source-cli-agent-for-developers-173p
 
 ---
 
@@ -92,6 +128,15 @@ _Generated on: 2026-09-03 06:38 UTC_
 
 ---
 
+## Quiz: Python AI: How to Build a Neural Network & Make Predictions
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check your grasp of how neural networks make predictions in Python, from dot products and activation functions to gradient descent and backpropagation.
+- Link: https://realpython.com/quizzes/python-ai-neural-network/
+
+---
+
 ## Quiz: Python Project Structure: How to Choose the Right Layout
 
 - Source: Real Python
@@ -101,83 +146,29 @@ _Generated on: 2026-09-03 06:38 UTC_
 
 ---
 
-## The Builder Design Pattern: A Better Approach to Complex Object Construction
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Some objects are simple, like a string, number, or boolean. You create them in one line and move on. Other objects aren't simple at all, like a carousel widget that needs an item count, an item builde
-- Link: https://www.freecodecamp.org/news/the-builder-design-pattern-a-better-approach-to-complex-object-construction/
-
----
-
-## The Founder Question I’m Asking More Often: Does This Need My Attention or Just My Approval?
+## SEO Agency Melbourne CBD: 7 Things to Check Before You Choose
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Running a software business has taught me that one of the easiest ways to lose focus is to say yes to everything . A client needs a small change. Someone needs an approval. A project has an urgent issue. A new opportu...
-- Link: https://dev.to/mahek_patel_coder/the-founder-question-im-asking-more-often-does-this-need-my-attention-or-just-my-approval-46db
+- Summary: This guide from Blue Moon Marketing walks Melbourne CBD business owners through what to evaluate before hiring an SEO agency. It covers why picking the right agency matters (SEO builds long-term organic growth vs. pai...
+- Link: https://dev.to/vaishnavi_rajput_1b16871c/seo-agency-melbourne-cbd-7-things-to-check-before-you-choose-3kkg
 
 ---
 
-## The Real Skill Is Learning How to Learn
+## Source Positions Are a Coordinate System, Not Just Line and Column
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A Markdown linter can detect the right problem and still highlight the wrong character. The usual cause is not parsing. It is a coordinate-system mismatch: one component counts UTF-8 bytes, another counts Unicode code...
+- Link: https://dev.to/mdfold/source-positions-are-a-coordinate-system-not-just-line-and-column-2epj
+
+---
+
+## What Are the Most Valuable AI Certifications in 2026?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: People keep asking which skill to bet on for the future. Which language. Which framework. Which tool will still matter in five years. I understand the question, but I think it is aimed at the wrong target. Any specifi...
-- Link: https://dev.to/asael_shinder_9f53bdca840/the-real-skill-is-learning-how-to-learn-3phf
-
----
-
-## The Tool You Master Today Is the Legacy System You Maintain Tomorrow
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Early in my career I fell in love with a particular technology and got genuinely good at it. I knew its quirks, its performance traps, the undocumented behaviors you only learn by getting burned. That mastery felt lik...
-- Link: https://dev.to/serguey_shinder_4ab9b87b1/the-tool-you-master-today-is-the-legacy-system-you-maintain-tomorrow-11ml
-
----
-
-## Why You Should Never Send Emails Inside Your API Requests
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Your signup endpoint looks fine in development. A user registers, you save the row, you call your email provider, and you return 201 Created. Everyone gets a welcome email. You ship it. Then productio
-- Link: https://www.freecodecamp.org/news/why-you-should-never-send-emails-inside-your-api-requests/
-
----
-
-## 🦀 Rust Master Class - Chapter 19: Type Coercion
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 🦀 Rust Master Class - Chapter 19: Type Coercion Speed dating. Three minutes, a stranger, no expectations. But we clicked. &String becomes &str — two different types, suddenly compatible. The compiler sees it before yo...
-- Link: https://dev.to/dbillion/rust-master-class-chapter-19-type-coercion-2893
-
----
-
-## 🦀 Rust Master Class - Chapter 20: Advanced Lifetimes
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 🦀 Rust Master Class - Chapter 20: Advanced Lifetimes Visiting my grandfather's grave. The time we had wasn't enough, but it was what we had. Lifetimes in Rust aren't about duration — they're about knowing what outlive...
-- Link: https://dev.to/dbillion/rust-master-class-chapter-20-advanced-lifetimes-14h4
-
----
-
-## 🦀 Rust Master Class - Chapter 21: Traits Deep Dive
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 🦀 Rust Master Class - Chapter 21: Traits Deep Dive A master carpenter picks up wood and knows what it can become. Not talent — 10,000 hours. Deep trait mastery is the same. Not complexity. Simplicity, repeated until i...
-- Link: https://dev.to/dbillion/rust-master-class-chapter-21-traits-deep-dive-4dcp
-
----
-
-## 🦀 Rust Master Class - Chapter 24: Blockchain
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 🦀 Rust Master Class - Chapter 24: Blockchain Trust fall exercise. You fall backward. Someone catches you. But what if they don't? Blockchain is trust — but the cryptographic kind. Mathematical kind. Building a blockch...
-- Link: https://dev.to/dbillion/rust-master-class-chapter-24-blockchain-3a5f
+- Summary: Artificial intelligence continues to transform how businesses operate, creating demand for professionals with practical AI skills. As AI adoption expands across industries, certifications can help professionals valida...
+- Link: https://dev.to/ailearning/what-are-the-most-valuable-ai-certifications-in-2026-2ick
 
 ---

@@ -1,13 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-09-05 06:29 UTC_
+_Generated on: 2026-09-06 06:37 UTC_
 
-## 14 Free Browser Tools vs a $50/Month Dev Subscription: The Feature Math
+## 5 Essential Microsoft Developer Resources Every Student Programmer Should Know
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: The developer subscription stack in 2026 has a price tag that is worth calculating, because the individual tools are cheap and the stack is not. The typical stack: a design tool, an API client, a snippet manager, a pa...
-- Link: https://dev.to/ke_jia_24bb2f9f84f14f728a/14-free-browser-tools-vs-a-50month-dev-subscription-the-feature-math-1n1
+- Category: Programming Tips
+- Summary: Whether you are building your first full-stack web application, preparing for technical interviews, or looking to collaborate on open-source software, having the right developer resources at your fingertips is essenti...
+- Link: https://dev.to/anagha_shetty_23/5-essential-microsoft-developer-resources-every-student-programmer-should-know-2bc0
 
 ---
 
@@ -20,12 +20,12 @@ _Generated on: 2026-09-05 06:29 UTC_
 
 ---
 
-## Block License Compliance Before Merge on GitHub
+## AWS Student Rewards: A Practical Starting Guide for Students Building a Cloud Career ☁️🧑🏻‍💻
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Short answer: Protect the target branch, require a license-compliance status check, and make that check fail on noncompliant pull requests. GitHub will block the merge until every required check passes and the require...
-- Link: https://dev.to/devconnect/block-license-compliance-before-merge-on-github-5ek3
+- Summary: 🎓 Why AWS Student Rewards caught my attention If you're a university student interested in cloud computing, IT, cybersecurity, DevOps, data, or artificial intelligence, AWS Student Rewards is worth understanding. The...
+- Link: https://dev.to/randyalonzo-dev/aws-student-rewards-a-practical-starting-guide-for-students-building-a-cloud-career-1amd
 
 ---
 
@@ -35,6 +35,15 @@ _Generated on: 2026-09-05 06:29 UTC_
 - Category: Developer Blog
 - Summary: Claude Fable 5.1 takes Real Python's vibe check for AI models: a turtle drawing of a python reading a book, a Python vintage, a tiny edit, and a made-up function.
 - Link: https://realpython.com/ai-benchmark-claude-fable-5-1/
+
+---
+
+## From SDE to VP in 12 Years: What Actually Works
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Why Automate Content Creation Creating content manually for 9 channels would take 8+ hours daily. I have a full-time job as VP at JPMorgan. The math doesnt work. The Pipeline Trending Topic CSV ↓ AI Script (Ollama/Gem...
+- Link: https://dev.to/amrendra_n_mishra/from-sde-to-vp-in-12-years-what-actually-works-3j8a
 
 ---
 
@@ -74,12 +83,39 @@ _Generated on: 2026-09-05 06:29 UTC_
 
 ---
 
-## How to Deploy Llama 3.3 70B with vLLM + Batching on a $9/Month DigitalOcean GPU Droplet: 50+ Concurrent Users at 1/16...
+## How to Deploy Mixtral 8x7B with vLLM + Mixture of Experts Routing on a $6/Month DigitalOcean GPU Droplet: Expert Sele...
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: ⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Deploy Llama 3.3 70B with vLLM + Batching on a $9/Month DigitalOcean GPU Droplet: 50+ Conc...
-- Link: https://dev.to/ramosai/how-to-deploy-llama-33-70b-with-vllm-batching-on-a-9month-digitalocean-gpu-droplet-50-55ae
+- Summary: ⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Deploy Mixtral 8x7B with vLLM + Mixture of Experts Routing on a $6/Month DigitalOcean GPU...
+- Link: https://dev.to/ramosai/how-to-deploy-mixtral-8x7b-with-vllm-mixture-of-experts-routing-on-a-6month-digitalocean-gpu-4d7b
+
+---
+
+## How to Pass the Amazon SQL Interview (A Practical Guide)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you're prepping for a Business Intelligence (BI) Engineer, Data Analyst, Data Engineer, or Data Scientist role at Amazon, you probably already know SQL matters. It's a core part of the hiring bar. But Amazon isn't...
+- Link: https://dev.to/rahmanfrr/how-to-pass-the-amazon-sql-interview-a-practical-guide-3ie5
+
+---
+
+## How to review AI-generated Copilot changes for security
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Short answer: Open the pull request, review the diff by hand, ask Copilot to explain risky files, then run code scanning and secret checks before merge. Copilot helps review, but it does not replace your security revi...
+- Link: https://dev.to/devconnect/how-to-review-ai-generated-copilot-changes-for-security-5bd6
+
+---
+
+## How to Set Up VS Code & AI Copilot for Fast Student Projects
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: If you are balancing multiple college coding assignments, hackathons, or personal projects, your code editor setup can make or break your productivity. Instead of searching Stack Overflow for every syntax error, you c...
+- Link: https://dev.to/anagha_shetty_23/how-to-set-up-vs-code-ai-copilot-for-fast-student-projects-4eef
 
 ---
 
@@ -92,30 +128,21 @@ _Generated on: 2026-09-05 06:29 UTC_
 
 ---
 
-## I Built a Database in Rust With Zero Dependencies (and What the Standard Library Quietly Gave Me)
+## I built 59 free browser-based dev tools in vanilla JS — here's what I learned
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: TL;DR — I built a small database in Rust for a 72-hour hackathon with one rule: no third-party packages allowed. Just the language and nothing else. Here's what I had to write by hand, in plain English, and the surpri...
-- Link: https://dev.to/sanjaysah/i-built-a-database-in-rust-with-zero-dependencies-and-what-the-standard-library-quietly-gave-me-3n49
+- Summary: I've been quietly building Antigravity Tools — a collection of 59 free, browser-based developer utilities — and today I'm sharing everything I built and learned. Why vanilla JS? No React, no build step. The main const...
+- Link: https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-4bm5
 
 ---
 
-## I Built My Own Budget Tracker - Because I Didn't Want to Pay a Monthly Subscription
+## Quiz: Build Your Own Face Recognition Tool With Python
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Why I Built My Own Personal Budget Tracker For a long time, I wanted a simple way to keep track of my personal finances. Not something complicated. Not something that required learning a financial system. And definite...
-- Link: https://dev.to/rishikumar_yadav/i-built-my-own-budget-tracker-because-i-didnt-want-to-pay-a-monthly-subscription-2gdi
-
----
-
-## Inside SnippetX: How a Zero-Dependency Snippet Manager Actually Works
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: snippetx looks like a toy — six commands, one file — and the architecture is the interesting part, because the constraints are the design. Constraint one: zero dependencies, which means the storage layer is the filesy...
-- Link: https://dev.to/ke_jia_24bb2f9f84f14f728a/inside-snippetx-how-a-zero-dependency-snippet-manager-actually-works-5f0d
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check your understanding of face detection, face recognition, face encodings, bounding boxes, and model validation in Python.
+- Link: https://realpython.com/quizzes/face-recognition-with-python/
 
 ---
 
@@ -128,12 +155,12 @@ _Generated on: 2026-09-05 06:29 UTC_
 
 ---
 
-## Quiz: Python AI: How to Build a Neural Network & Make Predictions
+## Solve Your Marketing Problem By Buying Old Gmail Account
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Check your grasp of how neural networks make predictions in Python, from dot products and activation functions to gradient descent and backpropagation.
-- Link: https://realpython.com/quizzes/python-ai-neural-network/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Solve Your Marketing Problem By Buying Old Gmail Account ⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩ 🗣️ For more details, visit our website: https://usamarketit.com 📞 Telegram channel: @usamarketit 👾 Telegram channel link: https://t.me/usamar...
+- Link: https://dev.to/oldgmail0124/solve-your-marketing-problem-by-buying-old-gmail-account-13cf
 
 ---
 
@@ -146,20 +173,11 @@ _Generated on: 2026-09-05 06:29 UTC_
 
 ---
 
-## Which states added new pay transparency or salary history rules for job postings
+## We Ran Our Own Blog Through Our Word Counter: 22.1 Words a Sentence
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Short answer: In 2025, Illinois, Minnesota, New Jersey, Vermont, and Massachusetts added new pay transparency rules for job postings. Maine also enacted a new 2025 pay-range posting rule, while California, Colorado, H...
-- Link: https://dev.to/devconnect/which-states-added-new-pay-transparency-or-salary-history-rules-for-job-postings-3ee0
-
----
-
-## Why I Publish Developer Tools on GitHub Pages Instead of npm
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The question is why publish developer tools as a website instead of an npm package, and the answer is a list of constraints that npm does not satisfy and a website does. Constraint one: the user is not a Node develope...
-- Link: https://dev.to/ke_jia_24bb2f9f84f14f728a/why-i-publish-developer-tools-on-github-pages-instead-of-npm-3c16
+- Summary: A word counter's least useful output is the word count. The number that shows up biggest is the one that matters least — the value is in the analysis underneath it: how long your sentences run, which words you lean on...
+- Link: https://dev.to/lucian_lkb_1f009d/we-ran-our-own-blog-through-our-word-counter-221-words-a-sentence-4ehh
 
 ---

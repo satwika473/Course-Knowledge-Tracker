@@ -1,40 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-09-07 06:45 UTC_
+_Generated on: 2026-09-08 06:42 UTC_
 
-## Agentic AI Engineering in Practice: How AI Engineers and Forward-Deployed Engineers Build with Claude Code, Codex, an...
+## Anthropic Said to Decide Against Decart Purchase
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: A practical, three-tool guide to the AI-native software development life cycle (SDLC): Plan, Design, Build, Test, Deploy, Maintain, reimagined for agentic coding. In March 2025, a small nonprofit rese
-- Link: https://www.freecodecamp.org/news/agentic-ai-engineering-in-practice-how-to-build-with-claude-code-codex-and-gemini/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Anthropic Said to Decide Against Decart Purchase Anthropic has opted not to acquire the AI startup Decart AI, a decision reflecting a...
+- Link: https://dev.to/career_aheadmagazine_0a5/anthropic-said-to-decide-against-decart-purchase-1ph0
 
 ---
 
-## AI Course in Bangalore: Build Practical Skills for a Career in Artificial Intelligence
+## Async Generators Get yield from and Other Python News for September 2026
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: PEP 828 brings yield from to async generators, Python 3.15 freezes its ABI, and four AI libraries ship breaking releases in ten days.
+- Link: https://realpython.com/python-news-september-2026/
+
+---
+
+## Build Your Social Circle Online
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Artificial Intelligence is becoming one of the most important technology areas across modern industries. Businesses are using Artificial Intelligence for automation, data analysis, intelligent applications, prediction...
-- Link: https://dev.to/abdul_naeem_119be3a954add/ai-course-in-bangalore-build-practical-skills-for-a-career-in-artificial-intelligence-3454
+- Summary: Maintaining a robust social circle has always been a crucial aspect of life. Friends provide one with companionship and with whom they can converse, exchange thoughts, and share experiences. However, the challenge is...
+- Link: https://dev.to/neminath_patil_bc9b28ad10/build-your-social-circle-online-2kmn
 
 ---
 
-## Beyond Boundaries: How Raja7 is Redefining the Future of Interactive Entertainment in 2026
+## Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Beyond Boundaries: How Raja7 is Redefining the Future of Interactive Entertainment in 2026 The landscape of interactive entertainment is evolving at an unprecedented pace, and at the forefront of this revolution is Ra...
-- Link: https://dev.to/disha_sonagra_d0f57d6c8ff/beyond-boundaries-how-raja7-is-redefining-the-future-of-interactive-entertainment-in-2026-3d17
-
----
-
-## Elevate Your Game: How Raja7 Transforms Player Experience in 2026
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Elevate Your Game: How Raja7 Transforms Player Experience in 2026 The gaming landscape is rapidly evolving, and players are continually seeking immersive experiences that captivate their interest and challenge their s...
-- Link: https://dev.to/h1_lmt_582a030968e32867be/elevate-your-game-how-raja7-transforms-player-experience-in-2026-30kd
+- Category: Programming Tips
+- Summary: Claude Code Permission Modes in 2026: What --allowedTools , Whitelists, and Sandbox Boundaries Actually Restrict This article was written with the assistance of AI, under human supervision and review. Most Claude Code...
+- Link: https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3
 
 ---
 
@@ -47,48 +47,75 @@ _Generated on: 2026-09-07 06:45 UTC_
 
 ---
 
-## How AI Is Changing Patching and What Devs Need to Know About Exposure Management
+## How a System Call Actually Works in Linux
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: When a vulnerability scanner reports 23 vulnerabilities in your application, of which 4 are critical, 7 are high, and the remaining 12 are medium, at first glance the answer seems clear: start patchin
-- Link: https://www.freecodecamp.org/news/how-ai-is-breaking-traditional-patch-management/
+- Summary: Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include #include #include int main(void) { struct timespe
+- Link: https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/
 
 ---
 
-## How AI Receptionists Work: The Architecture Behind AI Phone Agents
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: An AI receptionist may sound simple from the outside: a caller speaks, the system responds, and the conversation continues until the caller gets an answer or reaches a person. Behind that conversation
-- Link: https://www.freecodecamp.org/news/how-ai-receptionists-work-the-architecture-behind-ai-phone-agents/
-
----
-
-## How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Scholarship hunting is a research job, not a single search box. You filter awards by field, GPA, citizenship, and deadline. You keep a shortlist. You write notes about essays and recommenders. Then yo
-- Link: https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/
-
----
-
-## How to Use Discord with a Screen Reader: A Quick Guide
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Discord is one of those technologies that came out of nowhere several years ago and is now everywhere. A huge variety of servers around all sorts of communities, efforts, and initiatives have been pop
-- Link: https://www.freecodecamp.org/news/using-discord-with-a-screen-reader/
-
----
-
-## Puppy Scams: How Fake Breeders Sell Dogs That Don't Exist
+## How AI Is Transforming Modern Software Development
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Published: September 7, 2026 · 11 min read In a puppy scam there is no puppy. A listing built from another breeder's photos collects a deposit to "hold" an animal that does not exist, then a fake pet shipping company...
-- Link: https://dev.to/facesift/puppy-scams-how-fake-breeders-sell-dogs-that-dont-exist-2hjk
+- Summary: How AI Is Transforming Modern Software Development If you have been working in software development recently, you have probably noticed how quickly AI has become part of the development process. A few years ago, devel...
+- Link: https://dev.to/safpro_tech/how-ai-is-transforming-modern-software-development-48k0
+
+---
+
+## How Model Context Protocol (MCP) changes SaaS feature rollouts forever
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn't reading data—it's runtime app orchestration . What if your...
+- Link: https://dev.to/pavan_s_poojary/how-model-context-protocol-mcp-changes-saas-feature-rollouts-forever-1h33
+
+---
+
+## How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t
+- Link: https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/
+
+---
+
+## How to Refactor a Legacy Application Before Migrating It
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud
+- Link: https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/
+
+---
+
+## Integrating Data Center Infrastructure and Energy Monitoring with AT-DCMS + AT-PMS
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Modern data centers generate data from many systems: environmental sensors, HVAC, electrical equipment, UPS, power meters, alarms, and other critical infrastructure. The challenge is not simply collecting this data. T...
+- Link: https://dev.to/phuc_bach_22e/integrating-data-center-infrastructure-and-energy-monitoring-with-at-dcms-at-pms-201e
+
+---
+
+## Kubernetes Training Course Online: A Practical Path to Becoming Job-Ready
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Kubernetes technology is becoming a necessary part of the cloud-native applications development process in many companies. As a result of popularity of containers, automation, and scalable infrastructure, there is a d...
+- Link: https://dev.to/ap2v_011_f1a8d312a87300d4/kubernetes-training-course-online-a-practical-path-to-becoming-job-ready-2bej
+
+---
+
+## O conhecimento técnico é apenas o começo!
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: O conhecimento técnico é apenas o começo Quando comecei a pensar mais sobre desenvolvimento de carreira na área de tecnologia, percebi que aprender a programar é apenas uma parte do processo. Conhecer linguagens, fram...
+- Link: https://dev.to/igoralencar/o-conhecimento-tecnico-e-apenas-o-comeco-2g09
 
 ---
 
@@ -101,12 +128,12 @@ _Generated on: 2026-09-07 06:45 UTC_
 
 ---
 
-## Quiz: Common Python Data Structures (Guide)
+## Quiz: Python Statistics Fundamentals: How to Describe Your Data
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your grasp of Python's built-in data structures. Work through dictionaries, arrays, records, sets, stacks, queues, and priority queues.
-- Link: https://realpython.com/quizzes/common-python-data-structures/
+- Summary: Check your understanding of descriptive statistics in Python, from means and spread to correlation, summaries, and plots that reveal your data.
+- Link: https://realpython.com/quizzes/python-statistics/
 
 ---
 
@@ -119,65 +146,38 @@ _Generated on: 2026-09-07 06:45 UTC_
 
 ---
 
-## Raja7 Revealed: Uncovering the Ultimate Hacks for an Enhanced User Journey in 2026
+## Remote job pay transparency by state rules
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Raja7 Revealed: Uncovering the Ultimate Hacks for an Enhanced User Journey in 2026 In the dynamic world of gaming, Raja7 has emerged as a noteworthy player, captivating users with its immersive experiences and intrica...
-- Link: https://dev.to/disha_sonagra_3261c970d5c/raja7-revealed-uncovering-the-ultimate-hacks-for-an-enhanced-user-journey-in-2026-4mk2
+- Summary: Short answer: No. A remote posting only has to show pay or benefits when the relevant state law covers that posting, and the coverage test is state-specific. No. A remote posting only has to show pay or benefits when...
+- Link: https://dev.to/devconnect/remote-job-pay-transparency-by-state-rules-5anb
 
 ---
 
-## Review Agent PRs Without Missing CI or Workflow Changes
+## The Design Patterns Handbook: Learn Popular Design Patterns with C# Code Examples
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Short answer: Review the diff in three passes: app code, CI files, and workflow logic. Then check the Actions or pipeline view, verify required status checks passed on the latest commit, and re-open anything touching...
-- Link: https://dev.to/devconnect/review-agent-prs-without-missing-ci-or-workflow-changes-57j0
-
----
-
-## The Part of AI Coding Agents I Didn't Expect to Care About: Latency
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I spent the last few months pretty much living in Claude Code. It became a regular part of how I worked: give it a task, let it work through the codebase, review what it changed, and keep iterating. Today I ran the sa...
-- Link: https://dev.to/prasad_rane_dev/the-part-of-ai-coding-agents-i-didnt-expect-to-care-about-latency-44ak
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Design patterns are reusable solutions to common problems in software design. Think of them as blueprints: not finished code, but proven templates you can adapt to solve a specific problem in your own
+- Link: https://www.freecodecamp.org/news/the-design-patterns-handbook-learn-popular-design-patterns-with-c-code-examples/
 
 ---
 
-## The Real Python Podcast – Episode #310: Performance Engineering: Profiling and Making Apps Fast by Default
+## The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: How do you plan for the performance of your Python applications? What does a performance budget entail, and where should you spend your resources? This week on the show, we speak with Den Odell about his new book "Fas...
-- Link: https://realpython.com/podcasts/rpp/310/
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f
+- Link: https://www.freecodecamp.org/news/gamepad-api-javascript-guide/
 
 ---
 
-## The Vector Store Question That Changes Your Entire RAG Architecture
+## Why Compliance Kills Early-Stage Projects and How to Fix It
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I joined a RAG architecture review where the first question was: “Which vector database should we use?” Within minutes, the conversation became benchmark screenshots, vendor feature lists, GitHub stars, and pricing co...
-- Link: https://dev.to/rahul_shrivastava_1d3d4ac/the-vector-store-question-that-changes-your-entire-rag-architecture-15la
-
----
-
-## Which Email API Services Are Easiest to Set Up for Password Resets and Onboarding Emails?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Password resets and onboarding emails are often the very first transactional emails a new application sends. That makes “easiest to set up” less about the API call itself and more about the entire journey from signing...
-- Link: https://dev.to/oliver_bloom_6d9e70fc5718/which-email-api-services-are-easiest-to-set-up-for-password-resets-and-onboarding-emails-4e3i
-
----
-
-## Writing Production-Quality Code with AI
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The Apology My apologies if this reads more like a blog post than a tech article, but knowing how this approach was created makes it easier to understand why this works. I can't possibly replace the training I do with...
-- Link: https://dev.to/ovid/writing-production-quality-code-with-ai-2f5c
+- Summary: Compliance itself isn't the villain. The problem is a system designed for large banks being forced onto small teams who measure time in sprints, not fiscal quarters. Innovation was never meant to wait for permission....
+- Link: https://dev.to/vikram_anand_affa8cf1fca8/why-compliance-kills-early-stage-projects-and-how-to-fix-it-g57
 
 ---

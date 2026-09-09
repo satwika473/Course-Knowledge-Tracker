@@ -1,13 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-09-08 06:42 UTC_
+_Generated on: 2026-09-09 06:52 UTC_
 
-## Anthropic Said to Decide Against Decart Purchase
+## AI Didn't Make Developers Faster. It Made Many Developers Lazy.
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Anthropic Said to Decide Against Decart Purchase Anthropic has opted not to acquire the AI startup Decart AI, a decision reflecting a...
-- Link: https://dev.to/career_aheadmagazine_0a5/anthropic-said-to-decide-against-decart-purchase-1ph0
+- Summary: I'm going to say something that probably won't be popular with developers: AI didn't just make coding faster. It also made a lot of developers stop thinking. And yes, I'm a developer too. Before AI became part of our...
+- Link: https://dev.to/maulik_solanki_6660abf902/ai-didnt-make-developers-faster-it-made-many-developers-lazy-5a4d
 
 ---
 
@@ -20,30 +20,12 @@ _Generated on: 2026-09-08 06:42 UTC_
 
 ---
 
-## Build Your Social Circle Online
+## Best Teacher for UPSC Public Administration Optional: How to Choose the Right Mentor in 2026
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Maintaining a robust social circle has always been a crucial aspect of life. Friends provide one with companionship and with whom they can converse, exchange thoughts, and share experiences. However, the challenge is...
-- Link: https://dev.to/neminath_patil_bc9b28ad10/build-your-social-circle-online-2kmn
-
----
-
-## Claude Code Permission Modes in 2026: What `--allowedTools`, Whitelists, and Sandbox Boundaries Actually Restrict
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Claude Code Permission Modes in 2026: What --allowedTools , Whitelists, and Sandbox Boundaries Actually Restrict This article was written with the assistance of AI, under human supervision and review. Most Claude Code...
-- Link: https://dev.to/jsmanifest/claude-code-permission-modes-in-2026-what-allowedtools-whitelists-and-sandbox-boundaries-28k3
-
----
-
-## GPT-6 Astra Draws a Python Reading a Book
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: GPT-6 Astra takes Real Python's vibe check for AI models: a turtle drawing of a python reading a book, a Python vintage, a tiny edit, and a made-up function.
-- Link: https://realpython.com/ai-benchmark-gpt-6-astra/
+- Category: Career Guidance
+- Summary: Public Administration remains one of the most popular optional subjects in the UPSC Civil Services Examination, and for good reason. It has a compact, static syllabus, strong overlap with General Studies papers on gov...
+- Link: https://dev.to/monu_nishad_db8662eae975f/best-teacher-for-upsc-public-administration-optional-how-to-choose-the-right-mentor-in-2026-4h4m
 
 ---
 
@@ -53,24 +35,6 @@ _Generated on: 2026-09-08 06:42 UTC_
 - Category: Learning Article
 - Summary: Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include #include #include int main(void) { struct timespe
 - Link: https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/
-
----
-
-## How AI Is Transforming Modern Software Development
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: How AI Is Transforming Modern Software Development If you have been working in software development recently, you have probably noticed how quickly AI has become part of the development process. A few years ago, devel...
-- Link: https://dev.to/safpro_tech/how-ai-is-transforming-modern-software-development-48k0
-
----
-
-## How Model Context Protocol (MCP) changes SaaS feature rollouts forever
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Model Context Protocol (MCP) is usually framed as a way for LLMs to read local files or query SQL databases. But the highest-leverage application of MCP isn't reading data—it's runtime app orchestration . What if your...
-- Link: https://dev.to/pavan_s_poojary/how-model-context-protocol-mcp-changes-saas-feature-rollouts-forever-1h33
 
 ---
 
@@ -92,39 +56,48 @@ _Generated on: 2026-09-08 06:42 UTC_
 
 ---
 
-## Integrating Data Center Infrastructure and Energy Monitoring with AT-DCMS + AT-PMS
+## I Used Every AI Coding Assistant I Could Find for a Month. Here's What I Actually Pay For Now
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Modern data centers generate data from many systems: environmental sensors, HVAC, electrical equipment, UPS, power meters, alarms, and other critical infrastructure. The challenge is not simply collecting this data. T...
-- Link: https://dev.to/phuc_bach_22e/integrating-data-center-infrastructure-and-energy-monitoring-with-at-dcms-at-pms-201e
+- Summary: Note: this is the fourth post in an ongoing series where our small editorial team tests AI tools in real workflows and writes down what we find. No affiliate links. No "sponsored by" disclaimers to hide. We pay for th...
+- Link: https://dev.to/weini998/i-used-every-ai-coding-assistant-i-could-find-for-a-month-heres-what-i-actually-pay-for-now-h20
 
 ---
 
-## Kubernetes Training Course Online: A Practical Path to Becoming Job-Ready
+## IMPROVE MY TYPE SPEED
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: GUYS MY NAME IS FRANK AND I AM A TECH ENTUSIAST RIGHT NOW I HAVE THE WORST TYPE SPEED A PROGRAMMER COULD EVER HAVE SO PRAY FOR ME TO INCREASE PLEASE
+- Link: https://dev.to/frank_123/improve-my-type-speed-59dh
+
+---
+
+## MBA in Marketing, Analytics & Digital Media: Skills, Career and Learning
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Kubernetes technology is becoming a necessary part of the cloud-native applications development process in many companies. As a result of popularity of containers, automation, and scalable infrastructure, there is a d...
-- Link: https://dev.to/ap2v_011_f1a8d312a87300d4/kubernetes-training-course-online-a-practical-path-to-becoming-job-ready-2bej
+- Summary: Marketing has become increasingly data-driven and digital. Businesses now rely on customer insights, analytics dashboards, social media, search platforms, paid advertising, and AI-powered tools to make marketing decis...
+- Link: https://dev.to/subha_74/mba-in-marketing-analytics-digital-media-skills-career-and-learning-4475
 
 ---
 
-## O conhecimento técnico é apenas o começo!
+## Online Auction Software vs Reverse Auction Software: Key Differences
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: O conhecimento técnico é apenas o começo Quando comecei a pensar mais sobre desenvolvimento de carreira na área de tecnologia, percebi que aprender a programar é apenas uma parte do processo. Conhecer linguagens, fram...
-- Link: https://dev.to/igoralencar/o-conhecimento-tecnico-e-apenas-o-comeco-2g09
+- Category: Programming Tips
+- Summary: Online auction software runs forward auctions, where many buyers bid the price up for one seller's item. Reverse auction software runs the opposite motion: one buyer publishes a requirement and many pre-qualified supp...
+- Link: https://dev.to/eproqure/online-auction-software-vs-reverse-auction-software-key-differences-cdl
 
 ---
 
-## Quiz: Build Your Own Face Recognition Tool With Python
+## Python Timer Functions
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of face detection, face recognition, face encodings, bounding boxes, and model validation in Python.
-- Link: https://realpython.com/quizzes/face-recognition-with-python/
+- Summary: Learn how to time your Python code with the time module, then build a reusable Timer class that works as a context manager.
+- Link: https://realpython.com/courses/python-timer-functions/
 
 ---
 
@@ -137,6 +110,15 @@ _Generated on: 2026-09-08 06:42 UTC_
 
 ---
 
+## Quiz: Python Timer Functions
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check what you know about Python timer functions, from picking the right time function to timing a block of code with a context manager.
+- Link: https://realpython.com/quizzes/python-timer-functions/
+
+---
+
 ## Quiz: Understanding the Python Traceback
 
 - Source: Real Python
@@ -146,12 +128,12 @@ _Generated on: 2026-09-08 06:42 UTC_
 
 ---
 
-## Remote job pay transparency by state rules
+## RCM MBA in Digital Media & Branding: Skills, Learning and Career Opportunities
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Short answer: No. A remote posting only has to show pay or benefits when the relevant state law covers that posting, and the coverage test is state-specific. No. A remote posting only has to show pay or benefits when...
-- Link: https://dev.to/devconnect/remote-job-pay-transparency-by-state-rules-5anb
+- Summary: Digital media and branding have become important parts of modern business strategy. Brands now use social media, content, analytics, digital advertising, and AI-powered tools to communicate with customers and build lo...
+- Link: https://dev.to/subha_74/rcm-mba-in-digital-media-branding-skills-learning-and-career-opportunities-5dda
 
 ---
 
@@ -173,11 +155,29 @@ _Generated on: 2026-09-08 06:42 UTC_
 
 ---
 
-## Why Compliance Kills Early-Stage Projects and How to Fix It
+## What 25 Years Built · Sole-Prop Lessons Learned
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Compliance itself isn't the villain. The problem is a system designed for large banks being forced onto small teams who measure time in sprints, not fiscal quarters. Innovation was never meant to wait for permission....
-- Link: https://dev.to/vikram_anand_affa8cf1fca8/why-compliance-kills-early-stage-projects-and-how-to-fix-it-g57
+- Summary: Real Systems Beat Guru Courses I spent 25 years building a $2M+ sole proprietorship using systems I developed in real-time with real customers. Boxed Business · $999.99 · distills that experience. No funnel maze. No u...
+- Link: https://dev.to/brett_zandes_5c560d9b6027/what-25-years-built-sole-prop-lessons-learned-k9m
+
+---
+
+## Why Compliance Culture Starts With Training: iTechGRC's Approach to Sustainable Risk Management
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: The Platform Is Only as Good as the People Using It Enterprises routinely invest significant budget in GRC technology, expecting that a powerful platform like IBM OpenPages will, on its own, solve their risk and compl...
+- Link: https://dev.to/itechgrc_solutions/why-compliance-culture-starts-with-training-itechgrcs-approach-to-sustainable-risk-management-5h3d
+
+---
+
+## Why we publish the cases where our tool performs worst
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Standard practice for a product blog is to publish the cases where the product worked. We publish the ones where it did not, and I want to argue that this is not humility or transparency theatre — it is the only thing...
+- Link: https://dev.to/faktoskop/why-we-publish-the-cases-where-our-tool-performs-worst-l0d
 
 ---

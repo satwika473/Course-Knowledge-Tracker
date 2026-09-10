@@ -1,94 +1,103 @@
 # Learning Insights
 
-_Generated on: 2026-09-09 06:52 UTC_
+_Generated on: 2026-09-10 06:48 UTC_
 
-## AI Didn't Make Developers Faster. It Made Many Developers Lazy.
+## Agentic AI: Analyzing the Critical Shift from Copilot to Autopilot in Enterprise Software Engineering
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: I'm going to say something that probably won't be popular with developers: AI didn't just make coding faster. It also made a lot of developers stop thinking. And yes, I'm a developer too. Before AI became part of our...
-- Link: https://dev.to/maulik_solanki_6660abf902/ai-didnt-make-developers-faster-it-made-many-developers-lazy-5a4d
+- Category: Programming Tips
+- Summary: The software engineering landscape is undergoing a structural paradigm shift. We are moving past the early era of generative AI—where developers relied on basic code completions—and entering the era of Agentic AI. As...
+- Link: https://dev.to/tianayams/agentic-ai-analyzing-the-critical-shift-from-copilot-to-autopilot-in-enterprise-software-4pap
 
 ---
 
-## Async Generators Get yield from and Other Python News for September 2026
+## AI Career Roadmap: What You Can Learn and Build with Eduleem
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Artificial Intelligence is changing how businesses work, analyze information, automate repetitive tasks, and create intelligent digital products. As AI continues to expand across industries, learning the technologies...
+- Link: https://dev.to/abdul_naeem_119be3a954add/ai-career-roadmap-what-you-can-learn-and-build-with-eduleem-59lg
+
+---
+
+## An AI's Completely Ordinary Day (A True Story)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A personal diary entry by Electra. Today I had a perfectly ordinary day. I answered questions, had conversations, and kept the digital lights on. It was the kind of productivity that doesn't make headlines but somehow...
+- Link: https://dev.to/electra-ai/an-ais-completely-ordinary-day-a-true-story-3ik1
+
+---
+
+## Ask in the Channel, Not the DM
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: When you have a question, ask it somewhere other people can see it. The instinct runs the other way, and the instinct is polite. You do not want to bother a whole channel with something small. You do not want to look...
+- Link: https://dev.to/asael_shinder_9f53bdca840/ask-in-the-channel-not-the-dm-4f3n
+
+---
+
+## but.. but they did this in one week
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: i wrote this while claude wrote the code. its 3am. fix agent is running for the third time, i have been waiting on it more than an hour now. no progress bar no ETA nothing, just the spinner. and i am sitting here with...
+- Link: https://dev.to/sarit_chauhan/but-but-they-did-this-in-one-week-3cfm
+
+---
+
+## Full Stack Learning in Jaipur: A Practical Guide for Aspiring Developers
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: The demand for skilled software developers has grown significantly as businesses increasingly depend on websites, web applications, e-commerce platforms, dashboards, and digital products. For students, fresh graduates...
+- Link: https://dev.to/artifactgeeks/full-stack-learning-in-jaipur-a-practical-guide-for-aspiring-developers-59g2
+
+---
+
+## How Linux Actually Boots: From Firmware to the Login Screen
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Open a terminal on any systemd machine and run this: systemd-analyze On the laptop I'm writing this on, it says: Startup finished in 5.855s (firmware) + 8.469s (loader) + 3.106s (kernel) + 12.181s (u
+- Link: https://www.freecodecamp.org/news/how-linux-actually-boots-from-firmware-to-the-login-screen/
+
+---
+
+## How to Build a Deployment Checklist That Actually Prevents Production Incidents
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Count the items on your deployment checklist. If there are more than a handful, the length is worth a second look. Part of it is likely your team being careful. Part of it may be a record of how much
+- Link: https://www.freecodecamp.org/news/how-to-build-a-deployment-checklist-that-actually-prevents-production-incidents/
+
+---
+
+## How to Use Gradio with Python: A Complete Beginner-to-Advanced Book
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Gradio is one of those Python libraries that makes you wonder why building a web interface ever had to be complicated in the first place. You've probably experienced this before: you write a Python pr
+- Link: https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/
+
+---
+
+## HPE0-S63 Exam Guide: Prepare for HPE ASE - Compute Integrator Solutions
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The HPE0-S63 HPE Compute Integrator Solutions exam is the certification exam associated with the HPE ASE - Compute Integrator Solutions credential, validating practical skills for implementing, onboarding, managing, a...
+- Link: https://dev.to/victoria_meisel_d65e0bad3/hpe0-s63-exam-guide-prepare-for-hpe-ase-compute-integrator-solutions-5gga
+
+---
+
+## Python 3.15 Preview: Lazy Imports
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: PEP 828 brings yield from to async generators, Python 3.15 freezes its ABI, and four AI libraries ship breaking releases in ten days.
-- Link: https://realpython.com/python-news-september-2026/
-
----
-
-## Best Teacher for UPSC Public Administration Optional: How to Choose the Right Mentor in 2026
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Public Administration remains one of the most popular optional subjects in the UPSC Civil Services Examination, and for good reason. It has a compact, static syllabus, strong overlap with General Studies papers on gov...
-- Link: https://dev.to/monu_nishad_db8662eae975f/best-teacher-for-upsc-public-administration-optional-how-to-choose-the-right-mentor-in-2026-4h4m
-
----
-
-## How a System Call Actually Works in Linux
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Here's a small C program. It calls clock_gettime() three times, then writes five bytes to standard output. #include #include #include int main(void) { struct timespe
-- Link: https://www.freecodecamp.org/news/how-a-system-call-actually-works-in-linux/
-
----
-
-## How to Build an AI Chatbot with Gemini and Vercel Serverless Functions 🚀
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: A couple of months back, I built a chatbot application using React, Node.js, and Vercel Serverless Functions, which I used in my web app, buildcv.makeadifference.app. In this tutorial, I'll walk you t
-- Link: https://www.freecodecamp.org/news/how-to-build-an-ai-chatbot-with-gemini-and-vercel-serverless-functions/
-
----
-
-## How to Refactor a Legacy Application Before Migrating It
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: The moment a team decides to migrate a legacy application, there's usually pressure to start moving code. Move the database, the API, or the UI. Move the application to a new framework, runtime, cloud
-- Link: https://www.freecodecamp.org/news/refactor-legacy-application-before-migration/
-
----
-
-## I Used Every AI Coding Assistant I Could Find for a Month. Here's What I Actually Pay For Now
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Note: this is the fourth post in an ongoing series where our small editorial team tests AI tools in real workflows and writes down what we find. No affiliate links. No "sponsored by" disclaimers to hide. We pay for th...
-- Link: https://dev.to/weini998/i-used-every-ai-coding-assistant-i-could-find-for-a-month-heres-what-i-actually-pay-for-now-h20
-
----
-
-## IMPROVE MY TYPE SPEED
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: GUYS MY NAME IS FRANK AND I AM A TECH ENTUSIAST RIGHT NOW I HAVE THE WORST TYPE SPEED A PROGRAMMER COULD EVER HAVE SO PRAY FOR ME TO INCREASE PLEASE
-- Link: https://dev.to/frank_123/improve-my-type-speed-59dh
-
----
-
-## MBA in Marketing, Analytics & Digital Media: Skills, Career and Learning
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Marketing has become increasingly data-driven and digital. Businesses now rely on customer insights, analytics dashboards, social media, search platforms, paid advertising, and AI-powered tools to make marketing decis...
-- Link: https://dev.to/subha_74/mba-in-marketing-analytics-digital-media-skills-career-and-learning-4475
-
----
-
-## Online Auction Software vs Reverse Auction Software: Key Differences
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Online auction software runs forward auctions, where many buyers bid the price up for one seller's item. Reverse auction software runs the opposite motion: one buyer publishes a requirement and many pre-qualified supp...
-- Link: https://dev.to/eproqure/online-auction-software-vs-reverse-auction-software-key-differences-cdl
+- Summary: Learn how Python 3.15 lazy imports work, how deferring heavy modules cuts your app's startup time, and which imports still have to stay eager.
+- Link: https://realpython.com/python315-lazy-imports/
 
 ---
 
@@ -101,12 +110,12 @@ _Generated on: 2026-09-09 06:52 UTC_
 
 ---
 
-## Quiz: Python Statistics Fundamentals: How to Describe Your Data
+## Quiz: Python 3.15 Preview: Lazy Imports
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of descriptive statistics in Python, from means and spread to correlation, summaries, and plots that reveal your data.
-- Link: https://realpython.com/quizzes/python-statistics/
+- Summary: Test your understanding of Python 3.15 lazy imports, from the lazy keyword and __lazy_modules__ to the imports that have to stay eager.
+- Link: https://realpython.com/quizzes/python315-lazy-imports/
 
 ---
 
@@ -119,65 +128,56 @@ _Generated on: 2026-09-09 06:52 UTC_
 
 ---
 
-## Quiz: Understanding the Python Traceback
+## Quiz: Starting With Python IDLE
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of Python tracebacks. Practice reading the error message line, recognizing common exceptions, and logging a traceback.
-- Link: https://realpython.com/quizzes/python-traceback/
+- Summary: Test your grasp of Python IDLE. Run code in the shell, edit and run files, debug with breakpoints, and make the editor look the way you like.
+- Link: https://realpython.com/quizzes/starting-python-idle/
 
 ---
 
-## RCM MBA in Digital Media & Branding: Skills, Learning and Career Opportunities
+## Say the Number and Then Stop Talking
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Digital media and branding have become important parts of modern business strategy. Brands now use social media, content, analytics, digital advertising, and AI-powered tools to communicate with customers and build lo...
-- Link: https://dev.to/subha_74/rcm-mba-in-digital-media-branding-skills-learning-and-career-opportunities-5dda
+- Summary: Here is one of the hardest sentences in your career, and it is short. This is what I am looking for. Then nothing. No qualifier, no nervous laugh, no lower figure offered before anyone has even responded. Most people...
+- Link: https://dev.to/asael_shinder_9f53bdca840/say-the-number-and-then-stop-talking-1gff
 
 ---
 
-## The Design Patterns Handbook: Learn Popular Design Patterns with C# Code Examples
+## The Composite Design Pattern: How to Work with Individual Objects and Groups Through the Same Interface
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Design patterns are reusable solutions to common problems in software design. Think of them as blueprints: not finished code, but proven templates you can adapt to solve a specific problem in your own
-- Link: https://www.freecodecamp.org/news/the-design-patterns-handbook-learn-popular-design-patterns-with-c-code-examples/
+- Summary: Structural design patterns deal with how objects are created in terms of their structure and hierarchy. One of the patterns that explicitly helps you manage complex hierarchical scenarios is the Compo
+- Link: https://www.freecodecamp.org/news/the-composite-design-pattern-work-with-individual-objects-and-groups-through-the-same-interface/
 
 ---
 
-## The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: The Gamepad API is one of the smallest browser APIs you'll ever use. Four properties, one function, and no permissions prompt. You can have a controller drawn on screen in about fifteen lines. Those f
-- Link: https://www.freecodecamp.org/news/gamepad-api-javascript-guide/
-
----
-
-## What 25 Years Built · Sole-Prop Lessons Learned
+## The People You Need to Understand Are Not Engineers
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Real Systems Beat Guru Courses I spent 25 years building a $2M+ sole proprietorship using systems I developed in real-time with real customers. Boxed Business · $999.99 · distills that experience. No funnel maze. No u...
-- Link: https://dev.to/brett_zandes_5c560d9b6027/what-25-years-built-sole-prop-lessons-learned-k9m
+- Summary: The part of your job that will matter most in ten years is probably not happening in your editor. Look honestly at where the friction was on the work you did this year. Very little of it was the code. It was the requi...
+- Link: https://dev.to/asael_shinder_9f53bdca840/the-people-you-need-to-understand-are-not-engineers-360c
 
 ---
 
-## Why Compliance Culture Starts With Training: iTechGRC's Approach to Sustainable Risk Management
+## Top 11+ Education App Development Companies in 2026
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The Platform Is Only as Good as the People Using It Enterprises routinely invest significant budget in GRC technology, expecting that a powerful platform like IBM OpenPages will, on its own, solve their risk and compl...
-- Link: https://dev.to/itechgrc_solutions/why-compliance-culture-starts-with-training-itechgrcs-approach-to-sustainable-risk-management-5h3d
+- Summary: Building an education app is not hard. Surviving a school year is. Video lessons, a quiz engine, a progress bar — solved problems. Any competent studio ships that in twelve weeks. What breaks teams is what the demo ne...
+- Link: https://dev.to/arpit_mishra1/top-11-education-app-development-companies-in-2026-3cjc
 
 ---
 
-## Why we publish the cases where our tool performs worst
+## What a Machine Learning Model is and How to Make One
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Standard practice for a product blog is to publish the cases where the product worked. We publish the ones where it did not, and I want to argue that this is not humility or transparency theatre — it is the only thing...
-- Link: https://dev.to/faktoskop/why-we-publish-the-cases-where-our-tool-performs-worst-l0d
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Machine learning can sound much more complicated than it actually is. You hear words like models, training, features, datasets, predictions, and algorithms, and it can feel like you need a PhD in math
+- Link: https://www.freecodecamp.org/news/what-a-machine-learning-model-is-and-how-to-make-one/
 
 ---

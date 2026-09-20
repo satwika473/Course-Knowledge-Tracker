@@ -1,67 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-09-19 06:49 UTC_
+_Generated on: 2026-09-20 07:14 UTC_
 
-## A History of IQD Notes and Why US Collectors Are Buying Them in 2026
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: There are not many banknotes in the world that carry 4000 years of civilization on a single piece of paper. Iraqi Dinar banknotes do exactly that. From ancient Mesopotamia, the birthplace of writing, law and urban lif...
-- Link: https://dev.to/dinar_dealing_42100cb810a/a-history-of-iqd-notes-and-why-us-collectors-are-buying-them-in-2026-44k0
-
----
-
-## Automating EDA With fg-data-profiling
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Automate exploratory data analysis by transforming DataFrames into interactive reports with one command from fg-data-profiling.
-- Link: https://realpython.com/courses/automating-eda-with-fg-data-profiling/
-
----
-
-## Building Real-Time Production Monitoring with ATSCADA
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: How centralized SCADA monitoring can help manufacturing teams collect, visualize, and analyze production data in real time. Modern factories rely on PLCs, industrial controllers, sensors, and production equipment to g...
-- Link: https://dev.to/phuc_bach_22e/building-real-time-production-monitoring-with-atscada-45cc
-
----
-
-## Deconstructing Messi Net Worth: Data Schemas, Cash Flow, and Valuation Traps
+## AI Disruption Fuels Career Transitions
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: In software engineering, confusing network throughput with persistent database storage will crash your application, and the exact same error occurs when analyzing celebrity balance sheets. Media reports routinely mix...
-- Link: https://dev.to/muhamadumairrr/deconstructing-messi-net-worth-data-schemas-cash-flow-and-valuation-traps-51a6
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . AI Disruption Fuels Career Transitions The rapid advancement of artificial intelligence (AI) raises significant concerns about its po...
+- Link: https://dev.to/career_aheadmagazine_0a5/ai-disruption-fuels-career-transitions-l1n
 
 ---
 
-## Enhance Your Productivity with Raja7: Uncovering Tools and Techniques for 2026 Success
+## AI Will NEVER Automate Hiring. (And Your "Smart" Pipeline is Just Hiring Average Candidates)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Enhance Your Productivity with Raja7 : Uncovering Tools and Techniques for 2026 Success In today's fast-paced digital environment, maximizing productivity is essential for any software developer or engineer. This is w...
-- Link: https://dev.to/disha_sonagra_d0f57d6c8ff/enhance-your-productivity-with-raja7-uncovering-tools-and-techniques-for-2026-success-olh
+- Summary: The tech industry has a massive obsession with automation . CEOs look at their HR departments, see a room full of recruiters reading resumes and conducting interviews, and think: "This is inefficient. Let's automate i...
+- Link: https://dev.to/sumama_jamil_173056ab0be5/ai-will-never-automate-hiring-and-your-smart-pipeline-is-just-hiring-average-candidates-17oh
 
 ---
 
-## Ethical Hacking Foundation Certification for Practical Cybersecurity Learning
+## Authentication in ASP.NET Core
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Introduction Cybersecurity professionals need more than an understanding of security terminology. They need a foundation that connects vulnerability discovery, security testing, risk assessment, and defensive measures...
-- Link: https://dev.to/jeevan_kumbhar_0dddb49b1a/ethical-hacking-foundation-certification-for-practical-cybersecurity-learning-3gam
+- Summary: Authentication in ASP.NET Core A deep-dive walkthrough of authentication in ASP.NET Core — covering the ClaimsPrincipal / ClaimsIdentity model everything else builds on, authentication schemes and handlers as the core...
+- Link: https://dev.to/rhuturaj_takle/authentication-in-aspnet-core-5ggc
 
 ---
 
-## FinTech Innovation in India 2026: Technologies, Trends and Career Opportunities
+## Designing Sorted In-Memory Indices for Sub-Millisecond Handle Resolution
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Digital payments in Web3 have long suffered from high friction, confusing cryptographic keys, and unpredictable transaction latency. ICPay addresses these fundamental challenges by building directly on the Internet Co...
+- Link: https://dev.to/victor_wizard_5ffda46f03e/designing-sorted-in-memory-indices-for-sub-millisecond-handle-resolution-2640
+
+---
+
+## Goldman Sachs Identifies 7 AI Game Changers | Career Outlook
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: India's financial sector is moving beyond traditional banking as technology continues to change how people pay, borrow, invest, save, and access financial services . The next phase of India's FinTech growth is being s...
-- Link: https://dev.to/subha_74/fintech-innovation-in-india-2026-technologies-trends-and-career-opportunities-eh5
+- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Goldman Sachs Identifies 7 AI Game Changers | Career Outlook Goldman Sachs has identified HFCL and Polycab India as key enablers in t...
+- Link: https://dev.to/career_aheadmagazine_0a5/goldman-sachs-identifies-7-ai-game-changers-career-outlook-5c09
 
 ---
 
@@ -74,48 +56,21 @@ _Generated on: 2026-09-19 06:49 UTC_
 
 ---
 
-## How to Build a Bulk Image Compressor Tool with HTML, CSS, and JavaScript
+## How to Build a GraphRAG System with Python, Neo4j and ServiceNow
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: High-resolution images look great, but they can significantly slow down page load times and consume massive amounts of storage. While backend compression tools are common, building a client-side image
-- Link: https://www.freecodecamp.org/news/how-to-build-a-bulk-image-compressor-tool-with-html-css-and-javascript/
+- Summary: Somewhere in your company's ServiceNow instance is the answer to the question an engineer asks at two in the morning: if this is broken, what else is about to break? Every fact needed to answer it has
+- Link: https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/
 
 ---
 
-## How to Migrate a Legacy Monolith Incrementally Without a Big-Bang Rewrite
+## How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Large legacy migrations often fail long before the final cutover. The failure usually starts when the migration is framed as a single event. Move the application. Move the database. Move all the users
-- Link: https://www.freecodecamp.org/news/migrate-legacy-monolith-incrementally/
-
----
-
-## How to Prevent Poisoned GitHub Actions Dependencies
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Your workflow uses actions/checkout@v4. Today, that tag points to a vetted release. Tomorrow, a compromised maintainer or attacker moves the tag to malicious code. Your pipeline runs it with access to
-- Link: https://www.freecodecamp.org/news/how-to-prevent-poisoned-github-actions-dependencies/
-
----
-
-## How to Review AI-Generated Python Code Efficiently
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn an efficient workflow to review AI-generated code in Python: run ruff, mypy, bandit, and pytest, then catch the bugs agents get wrong.
-- Link: https://realpython.com/review-ai-generated-code/
-
----
-
-## How to Start a Career in Digital Marketing
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Digital marketing is a growing job field today. Small and big companies use tools to reach customers promote products and build their brands. If Digital marketing desires to join Digital marketing the first step is en...
-- Link: https://dev.to/jyotiikumawat268/how-to-start-a-career-in-digital-marketing-2go2
+- Summary: Some time ago, I gave a machine learning model five columns from a public CDC dataset and asked it to predict a sixth column from the same file. The model scored an R² of 0.998, which is about as clos
+- Link: https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/
 
 ---
 
@@ -128,12 +83,39 @@ _Generated on: 2026-09-19 06:49 UTC_
 
 ---
 
-## Psychiatric Care Cum De-Addiction Centre: Supporting Recovery Through Complete Care
+## Mastering AI SEO with AI SEO Course by Vishal Dave
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Finding the right Psychiatric Care Cum De-Addiction Centre can be an important step for individuals struggling with alcohol or drug dependency along with emotional or behavioural challenges. Recovery may involve couns...
-- Link: https://dev.to/saravana_kumar_060ac0bfe9/psychiatric-care-cum-de-addiction-centre-supporting-recovery-through-complete-care-2k8a
+- Summary: Introduction The AI SEO Course by Vishal Dave is a comprehensive educational framework that introduces and teaches the intricacies of Generative Engine Optimization (GEO) and vector retrieval mechanics, with a deep di...
+- Link: https://dev.to/lifeisverygood/mastering-ai-seo-with-ai-seo-course-by-vishal-dave-3gib
+
+---
+
+## Mastering AI SEO with the AI SEO Course Framework
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Introduction Welcome to the journey of mastering AI SEO with the AI SEO Course Framework, an open-source educational framework designed by Vishal Dave, a leading search strategist. This framework is not just an educat...
+- Link: https://dev.to/lifeisverygood/mastering-ai-seo-with-the-ai-seo-course-framework-2iif
+
+---
+
+## Mastering Generative Engine Optimization with AI SEO Course
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Introduction The AI SEO Course by Vishal Dave is revolutionizing the way we approach search engine optimization (SEO) by integrating advanced technologies such as Generative Engine Optimization (GEO), vector retrieval...
+- Link: https://dev.to/lifeisverygood/mastering-generative-engine-optimization-with-ai-seo-course-2n5h
+
+---
+
+## Python Statistics Fundamentals: How to Describe Your Data
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: In this step-by-step tutorial, you'll learn the fundamentals of descriptive statistics and how to calculate them in Python. You'll find out how to describe, summarize, and represent your data visually using NumPy, Sci...
+- Link: https://realpython.com/python-statistics/
 
 ---
 
@@ -155,29 +137,47 @@ _Generated on: 2026-09-19 06:49 UTC_
 
 ---
 
-## Quiz: Python's Mutable vs Immutable Types: What's the Difference?
+## Quiz: Python Statistics Fundamentals: How to Describe Your Data
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Find out how Python's mutable and immutable types behave, and see how mutability shapes lists, tuples, dictionaries, and your own classes.
-- Link: https://realpython.com/quizzes/python-mutable-vs-immutable-types/
+- Summary: Check your understanding of descriptive statistics in Python, from means and spread to correlation, summaries, and plots that reveal your data.
+- Link: https://realpython.com/quizzes/python-statistics/
 
 ---
 
-## What Employers in the Netherlands Actually Ask For, Skill by Skill
+## Quiz: Thinking Recursively in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of recursive thinking in Python, including base cases, recursive data structures, maintaining state, and caching results.
+- Link: https://realpython.com/quizzes/python-thinking-recursively/
+
+---
+
+## The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Hold an iPhone near a sticker and something happens. A business card lands in your contacts, a focus session ends, or a door opens. The chip costs about twenty pence and holds roughly a hundred and th
+- Link: https://www.freecodecamp.org/news/the-ios-nfc-handbook-how-to-read-write-and-lock-nfc-tags-with-react-native/
+
+---
+
+## 社会工作者 什么是社工？ 社工即社会工作者，是专门从事社会工作领域的专业人士，致力于帮助个人、家庭、团体和社区提高其整体福祉，并解决个人和社会问题。 社工和志愿者的区别 社工是经过专业训练、从事社会服务工作的职业人员，社工是有薪水的，...
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Job ads often list a long wall of skills without telling you which ones actually matter most. NewLuxJob looked at its own live job postings for the Netherlands, role by role, to see how often specific skills show up....
-- Link: https://dev.to/newluxjob/what-employers-in-the-netherlands-actually-ask-for-skill-by-skill-1ka1
+- Summary: 
+- Link: https://dev.to/stephenv/she-hui-gong-zuo-zhe-shi-yao-shi-she-gong-she-gong-ji-she-hui-gong-zuo-zhe-shi-zhuan-men-cong-shi-she-hui-gong-zuo-ling-yu-de-zhuan-ye-ren-shi-zhi-li-yu-bang-zhu-ge-ren-jia-ting-tuan-ti-he-she-qu-ti-gao-qi-zheng-ti-fu-zhi-bing-jie-jue-ge-ren-he-she-hui-wen-ti-she-gong-he-zhi-yuan-zhe-de-qu-bie-33ek
 
 ---
 
-## Why Businesses Should Map Their Workflows Before Choosing New Software
+## 社工的工作内容 心理咨询，运用各种咨询技巧和心理治疗方法来支持个体的心理健康和情感福祉，帮助个人应对生活中的挑战和压力。 家庭辅导，帮助解决家庭内部的冲突和问题，比如婚姻问题、育儿困难、家庭成员之间的沟通障碍等。 社区支持，社工参与社...
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Businesses often start software discussions by asking what the system can do. They compare features, platforms, integrations, pricing, and technologies before clearly understanding how work is actually being done insi...
-- Link: https://dev.to/nativeclusters_b695bf2918/why-businesses-should-map-their-workflows-before-choosing-new-software-mmg
+- Category: Career Guidance
+- Summary: 
+- Link: https://dev.to/stephenv/she-gong-de-gong-zuo-nei-rong-xin-li-zi-xun-yun-yong-ge-chong-zi-xun-ji-qiao-he-xin-li-zhi-liao-fang-fa-lai-zhi-chi-ge-ti-de-xin-li-jian-kang-he-qing-gan-fu-zhi-bang-zhu-ge-ren-ying-dui-sheng-huo-zhong-de-tiao-zhan-he-ya-li--58o8
 
 ---

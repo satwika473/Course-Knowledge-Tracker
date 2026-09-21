@@ -1,49 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-09-20 07:14 UTC_
+_Generated on: 2026-09-21 07:23 UTC_
 
-## AI Disruption Fuels Career Transitions
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . AI Disruption Fuels Career Transitions The rapid advancement of artificial intelligence (AI) raises significant concerns about its po...
-- Link: https://dev.to/career_aheadmagazine_0a5/ai-disruption-fuels-career-transitions-l1n
-
----
-
-## AI Will NEVER Automate Hiring. (And Your "Smart" Pipeline is Just Hiring Average Candidates)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The tech industry has a massive obsession with automation . CEOs look at their HR departments, see a room full of recruiters reading resumes and conducting interviews, and think: "This is inefficient. Let's automate i...
-- Link: https://dev.to/sumama_jamil_173056ab0be5/ai-will-never-automate-hiring-and-your-smart-pipeline-is-just-hiring-average-candidates-17oh
-
----
-
-## Authentication in ASP.NET Core
+## Best De Addiction Centre in Tiruppur: Understanding Recovery Support and Rehabilitation
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Authentication in ASP.NET Core A deep-dive walkthrough of authentication in ASP.NET Core — covering the ClaimsPrincipal / ClaimsIdentity model everything else builds on, authentication schemes and handlers as the core...
-- Link: https://dev.to/rhuturaj_takle/authentication-in-aspnet-core-5ggc
+- Summary: Finding the Best De Addiction Centre in Tiruppur is an important decision for individuals and families looking for professional support during addiction recovery. Rather than choosing a centre based only on advertisem...
+- Link: https://dev.to/goodlife-2026/best-de-addiction-centre-in-tiruppur-understanding-recovery-support-and-rehabilitation-557p
 
 ---
 
-## Designing Sorted In-Memory Indices for Sub-Millisecond Handle Resolution
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Digital payments in Web3 have long suffered from high friction, confusing cryptographic keys, and unpredictable transaction latency. ICPay addresses these fundamental challenges by building directly on the Internet Co...
-- Link: https://dev.to/victor_wizard_5ffda46f03e/designing-sorted-in-memory-indices-for-sub-millisecond-handle-resolution-2640
-
----
-
-## Goldman Sachs Identifies 7 AI Game Changers | Career Outlook
+## Best Digital Marketing Institute in Thrissur: What Should You Look For?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Discover this resource originally compiled and published by Career Ahead Magazine . Goldman Sachs Identifies 7 AI Game Changers | Career Outlook Goldman Sachs has identified HFCL and Polycab India as key enablers in t...
-- Link: https://dev.to/career_aheadmagazine_0a5/goldman-sachs-identifies-7-ai-game-changers-career-outlook-5c09
+- Summary: Digital marketing has become an important skill for students, job seekers, entrepreneurs, and working professionals. As more businesses move their marketing activities online, learning practical digital marketing skil...
+- Link: https://dev.to/rohithraj_2f1bd2cf1d44e78/best-digital-marketing-institute-in-thrissur-what-should-you-look-for-11p2
+
+---
+
+## Building and Training LLM from scratch (No GPU)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Building a 10M Parameter LLM from Scratch on Google Colab Free Tier How I trained a decoder-only Transformer on the Tiny Shakespeare dataset using nothing but a free Google Colab T4 GPU. Introduction The best way to u...
+- Link: https://dev.to/devn913/building-llm-from-scratch-no-gpu-1mc1
+
+---
+
+## Digital Marketing Certification in Thrissur: What Beginners Should Know
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Digital marketing is becoming an important skill for students, fresh graduates, and people who want to move into a new career. Businesses today depend on websites, search engines, social media, and online advertising...
+- Link: https://dev.to/amal_krishna_6eb957d35511/digital-marketing-certification-in-thrissur-what-beginners-should-know-5ee0
+
+---
+
+## GitHub pull request limits for open source repos
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Short answer: GitHub does not impose one blanket pull request cap for open source repositories. The real limits come from repository settings, diff size, merge rate, and whether the repo uses interaction limits. GitHu...
+- Link: https://dev.to/devconnect/github-pull-request-limits-for-open-source-repos-2fn8
 
 ---
 
@@ -74,6 +74,15 @@ _Generated on: 2026-09-20 07:14 UTC_
 
 ---
 
+## How to Summarize Long YouTube Videos with an AI Summarizer
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I watch a lot of long-form technical content: conference talks, recorded lectures, hour-plus interviews. The pattern is always the same. Ninety minutes of video, maybe fifteen minutes of it actually relevant to what I...
+- Link: https://dev.to/lemarie_eaglen_919f8c5982/how-to-summarize-long-youtube-videos-with-an-ai-summarizer-27a
+
+---
+
 ## How to Turn a RECIST Line into a 3D Tumor Segmentation Mask
 
 - Source: freeCodeCamp News
@@ -83,30 +92,21 @@ _Generated on: 2026-09-20 07:14 UTC_
 
 ---
 
-## Mastering AI SEO with AI SEO Course by Vishal Dave
+## HPE0-G06 Exam Guide: HPE Morpheus Enterprise Software Engineer Certification
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Introduction The AI SEO Course by Vishal Dave is a comprehensive educational framework that introduces and teaches the intricacies of Generative Engine Optimization (GEO) and vector retrieval mechanics, with a deep di...
-- Link: https://dev.to/lifeisverygood/mastering-ai-seo-with-ai-seo-course-by-vishal-dave-3gib
+- Category: Career Guidance
+- Summary: The HPE0-G06 HPE Morpheus Enterprise Software Engineer Exam is designed for professionals who install, configure, maintain, upgrade, and support HPE Morpheus Enterprise Software environments. To support effective prep...
+- Link: https://dev.to/victoria_meisel_d65e0bad3/hpe0-g06-exam-guide-hpe-morpheus-enterprise-software-engineer-certification-2dof
 
 ---
 
-## Mastering AI SEO with the AI SEO Course Framework
+## I Wanted to Pay My Dependencies. Only One of Three Registries Would Let Me Find Out Who to Pay.
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Introduction Welcome to the journey of mastering AI SEO with the AI SEO Course Framework, an open-source educational framework designed by Vishal Dave, a leading search strategist. This framework is not just an educat...
-- Link: https://dev.to/lifeisverygood/mastering-ai-seo-with-the-ai-seo-course-framework-2iif
-
----
-
-## Mastering Generative Engine Optimization with AI SEO Course
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Introduction The AI SEO Course by Vishal Dave is revolutionizing the way we approach search engine optimization (SEO) by integrating advanced technologies such as Generative Engine Optimization (GEO), vector retrieval...
-- Link: https://dev.to/lifeisverygood/mastering-generative-engine-optimization-with-ai-seo-course-2n5h
+- Summary: I run a small actor that normalizes package metadata across npm, PyPI and crates.io — version, license, download counts, the usual. Every so often a supply-chain incident makes the news and I go looking at who actuall...
+- Link: https://dev.to/ronin13/i-wanted-to-pay-my-dependencies-only-one-of-three-registries-would-let-me-find-out-who-to-pay-29j7
 
 ---
 
@@ -119,21 +119,21 @@ _Generated on: 2026-09-20 07:14 UTC_
 
 ---
 
-## Quiz: HTML and CSS Foundations for Python Developers
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of HTML and CSS basics for Python developers. Structure a page, link files, and style your site with CSS.
-- Link: https://realpython.com/quizzes/html-css-foundations/
-
----
-
 ## Quiz: Introduction to pandas
 
 - Source: Real Python
 - Category: Developer Blog
 - Summary: Test your pandas basics: read tables from the web, save data to CSV, explore a DataFrame, and calculate averages in this interactive quiz.
 - Link: https://realpython.com/quizzes/introduction-pandas/
+
+---
+
+## Quiz: Null in Python: Understanding Python's NoneType Object
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how None works as the null in Python, when to use it as a default parameter, how to test for it, and what NoneType means in your traceback.
+- Link: https://realpython.com/quizzes/null-in-python/
 
 ---
 
@@ -155,6 +155,15 @@ _Generated on: 2026-09-20 07:14 UTC_
 
 ---
 
+## Reading the Jev SDK source instead of the launch post
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I do not have a Jev key. The waitlist is real and POST /v1/systemone returns a polite 403 without one. So this is not a benchmark and there are no invented outputs below. What I could do is read the client, which is p...
+- Link: https://dev.to/frankchu/reading-the-jev-sdk-source-instead-of-the-launch-post-2ke9
+
+---
+
 ## The iOS NFC Handbook: How to Read, Write and Lock NFC Tags with React Native
 
 - Source: freeCodeCamp News
@@ -164,20 +173,11 @@ _Generated on: 2026-09-20 07:14 UTC_
 
 ---
 
-## 社会工作者 什么是社工？ 社工即社会工作者，是专门从事社会工作领域的专业人士，致力于帮助个人、家庭、团体和社区提高其整体福祉，并解决个人和社会问题。 社工和志愿者的区别 社工是经过专业训练、从事社会服务工作的职业人员，社工是有薪水的，...
+## 💡 Why Pay for $1,000 Bootcamps When You Can Swap Skills for Free?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: 
-- Link: https://dev.to/stephenv/she-hui-gong-zuo-zhe-shi-yao-shi-she-gong-she-gong-ji-she-hui-gong-zuo-zhe-shi-zhuan-men-cong-shi-she-hui-gong-zuo-ling-yu-de-zhuan-ye-ren-shi-zhi-li-yu-bang-zhu-ge-ren-jia-ting-tuan-ti-he-she-qu-ti-gao-qi-zheng-ti-fu-zhi-bing-jie-jue-ge-ren-he-she-hui-wen-ti-she-gong-he-zhi-yuan-zhe-de-qu-bie-33ek
-
----
-
-## 社工的工作内容 心理咨询，运用各种咨询技巧和心理治疗方法来支持个体的心理健康和情感福祉，帮助个人应对生活中的挑战和压力。 家庭辅导，帮助解决家庭内部的冲突和问题，比如婚姻问题、育儿困难、家庭成员之间的沟通障碍等。 社区支持，社工参与社...
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 
-- Link: https://dev.to/stephenv/she-gong-de-gong-zuo-nei-rong-xin-li-zi-xun-yun-yong-ge-chong-zi-xun-ji-qiao-he-xin-li-zhi-liao-fang-fa-lai-zhi-chi-ge-ti-de-xin-li-jian-kang-he-qing-gan-fu-zhi-bang-zhu-ge-ren-ying-dui-sheng-huo-zhong-de-tiao-zhan-he-ya-li--58o8
+- Summary: Solving the High Cost of Tech Education Expensive bootcamps and paid courses prevent talented developers from learning new tech stacks. SwapLearn solves this real-world problem through peer-to-peer skill bartering! Sk...
+- Link: https://dev.to/manjeet0246/why-pay-for-1000-bootcamps-when-you-can-swap-skills-for-free-38k5
 
 ---

@@ -1,58 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-09-25 06:49 UTC_
+_Generated on: 2026-09-26 06:49 UTC_
 
-## Apple Card ACMI for Apple Watch: What the Monthly Payment Actually Costs You (After Trade-In and Daily Cash)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Apple's checkout page shows you a monthly number. It doesn't show you what the watch actually costs you net of every benefit available. Apple Card Monthly Installments (ACMI) is straightforward in structure: 0% APR, 1...
-- Link: https://dev.to/theapplediscussion/apple-card-acmi-for-apple-watch-what-the-monthly-payment-actually-costs-you-after-trade-in-and-5dmp
-
----
-
-## Corporate Cab Booking Gurgaon
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Need a reliable Corporate Cab Booking in Gurgaon for your business travel needs? Gurgaon Tours and Travels offers professional corporate taxi services with trained chauffeurs, clean vehicles, timely pickups, and flexi...
-- Link: https://dev.to/digital_project_c4b09c007/corporate-cab-booking-gurgaon-5b2h
-
----
-
-## Cursor vs Copilot: Which AI Editor Is Better for Python?
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Compare Cursor vs GitHub Copilot by building a Python project, testing agent workflows, debugging code, and evaluating AI-assisted development.
-- Link: https://realpython.com/cursor-vs-copilot/
-
----
-
-## Developer deadlines — deprecations, removed APIs and build breaks
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Platform deprecations, runtime end-of-life dates and CI changes do not fail a build until the day they do. These linters read your files and name every line that a published date will break. The checks Oracle JDK Lice...
-- Link: https://dev.to/readystack/developer-deadlines-deprecations-removed-apis-and-build-breaks-24ho
-
----
-
-## Do remote jobs owe travel pay to the first client site?
+## 10 Developer Books Worth Owning in Physical Form
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Short answer: No. Starting from home does not automatically make the trip to the first client site employer-paid travel, and in many tax systems it stays ordinary commuting unless home is the worker’s recognized workp...
-- Link: https://dev.to/devconnect/do-remote-jobs-owe-travel-pay-to-the-first-client-site-1pfb
+- Summary: 1. Clean Code — Robert C. Martin 464 pages · 2008 · software craft Get it on Amazon 2. The Pragmatic Programmer — David Thomas and Andrew Hunt 352 pages · 2019 · software craft Get it on Amazon 3. Refactoring — Martin...
+- Link: https://dev.to/devbookreader/10-developer-books-worth-owning-in-physical-form-355c
 
 ---
 
-## Evaluating Engineering Vendor Transparency: An Analysis of Modern Delivery Metrics
+## A 100-DAY LEARNING JOURNEYMY 100 DAYS IN TECH June 18, 2026 — September 25, 2026 100 days.
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Day 100 is the end of counting the days, not the end of the journey. MY 100 DAYS IN TECH june 18, 2026 — September 25, 2026 100 days. One journey. Countless lessons .On June 18, 2026, I started my 100 Days in Tech,Tod...
+- Link: https://dev.to/off_limit001/a-100-day-learning-journeymy-100-days-in-tech-june-18-2026-september-25-2026-100-days-4mh1
+
+---
+
+## Building Eger v0.1: An Experimental Programming Language Engine Built from Scratch (Windows Release)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: In software engineering leadership, evaluating external development partners is often an exercise in filtering through heavily curated case studies. Most agency marketing materials present ideal outcomes, leaving tech...
-- Link: https://dev.to/juneyyy/evaluating-engineering-vendor-transparency-an-analysis-of-modern-delivery-metrics-3079
+- Summary: Hey DEV Community! 👋 I'm excited to share Eger v0.1 , an experimental programming language engine built from scratch. What started as a prototype ( Eger_Compiler.py ) has officially been upgraded into a fully executab...
+- Link: https://dev.to/eger-language/building-eger-v01-an-experimental-programming-language-engine-built-from-scratch-windows-release-7io
+
+---
+
+## Everyone's learning to prompt better. That's the wrong skill.
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I have a bookmark folder called prompting . Forty-one tabs in it. "The 12 prompts that 10x your engineering." "Context engineering for agents, explained." "The system prompt that changed how I ship." A course I finish...
+- Link: https://dev.to/infoinlet1/everyones-learning-to-prompt-better-thats-the-wrong-skill-544o
+
+---
+
+## Finding the Right De Addiction Centre in Tiruppur
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Choosing the right support for addiction recovery is an important step for individuals and families. A De Addiction Centre in Tiruppur can provide a structured environment where people receive counselling, rehabilitat...
+- Link: https://dev.to/goodlife-2026/finding-the-right-de-addiction-centre-in-tiruppur-30pc
 
 ---
 
@@ -74,12 +65,12 @@ _Generated on: 2026-09-25 06:49 UTC_
 
 ---
 
-## How to Deploy Llama 3.3 70B with vLLM + Batch Processing on a $8/Month DigitalOcean GPU Droplet: 10x Throughput at 1/...
+## How to Deploy Llama 3.3 70B with vLLM + LoRA Fine-Tuning on a $8/Month DigitalOcean GPU Droplet: Custom Models at 1/1...
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: ⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Deploy Llama 3.3 70B with vLLM + Batch Processing on a $8/Month DigitalOcean GPU Droplet:...
-- Link: https://dev.to/ramosai/how-to-deploy-llama-33-70b-with-vllm-batch-processing-on-a-8month-digitalocean-gpu-droplet-3gn6
+- Summary: ⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) How to Deploy Llama 3.3 70B with vLLM + LoRA Fine-Tuning on a $8/Month DigitalOcean GPU Droplet:...
+- Link: https://dev.to/ramosai/how-to-deploy-llama-33-70b-with-vllm-lora-fine-tuning-on-a-8month-digitalocean-gpu-droplet-3dkk
 
 ---
 
@@ -92,48 +83,21 @@ _Generated on: 2026-09-25 06:49 UTC_
 
 ---
 
-## Inside SeaHack: 24 Hours to Build an AI Startup
+## I checked all 12 Reddit subreddits for freelance gigs. Only 3 are usable.
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I spent a few weeks going through every subreddit people mention when the topic of finding freelance work from overseas comes up. Twelve of them. I pulled subscriber counts and rules through Reddit's own API, and acti...
+- Link: https://dev.to/hcxshh/i-checked-all-12-reddit-subreddits-for-freelance-gigs-only-3-are-usable-4p5d
+
+---
+
+## Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge
 - Link: https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/
-
----
-
-## Management Is a Different Job, Not the Next Level
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The org chart draws it above you, so it reads as the next step. It is not a step. It is a change of profession that happens to come with a pay rise, and the reason so many people are unhappy a year in is that nobody d...
-- Link: https://dev.to/asael_shinder_9f53bdca840/management-is-a-different-job-not-the-next-level-4glp
-
----
-
-## Pick One Teacher and Stay a Year
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Most of what reaches you arrives as fragments. A thread with five rules in it. A talk you half watched. A post arguing the opposite of yesterday's post. You consume a great deal and end up with a pile of conclusions a...
-- Link: https://dev.to/asael_shinder_9f53bdca840/pick-one-teacher-and-stay-a-year-1115
-
----
-
-## Promise the Hour, Not the Relationship
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Somebody asks whether you would mentor them. You say yes, because you remember being them and because no feels like a small cruelty for no reason. Three weeks later you are in a release, one of your team is off sick,...
-- Link: https://dev.to/asael_shinder_9f53bdca840/promise-the-hour-not-the-relationship-2c4a
-
----
-
-## Quiz: Cursor vs Copilot: Which AI Editor Is Better for Python?
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of how Cursor and GitHub Copilot compare for Python across agent modes, code review, and project conventions.
-- Link: https://realpython.com/quizzes/cursor-vs-copilot/
 
 ---
 
@@ -146,6 +110,15 @@ _Generated on: 2026-09-25 06:49 UTC_
 
 ---
 
+## Quiz: Jupyter Notebook: An Introduction
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of Jupyter Notebook, from starting the server and running cells to exporting your work and adding extensions.
+- Link: https://realpython.com/quizzes/jupyter-notebook-introduction/
+
+---
+
 ## Quiz: The Terminal: First Steps and Useful Commands for Python Developers
 
 - Source: Real Python
@@ -155,12 +128,30 @@ _Generated on: 2026-09-25 06:49 UTC_
 
 ---
 
-## Time Bazar, Madhur Day, Sita Day & Star Tara Day Panna Charts: Complete Guide
+## Smart Car Organisation: How Better Vehicle Setup Improves Everyday Driving
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Introduction Panna charts are useful for organizing and reviewing historical numerical information related to different categories. Instead of searching through scattered records, readers can use dedicated chart pages...
-- Link: https://dev.to/mahesh34/time-bazar-madhur-day-sita-day-star-tara-day-panna-charts-complete-guide-39g3
+- Summary: A car can look clean from the outside and still feel chaotic the moment you sit inside. Receipts collected in door pockets, charging cables tangled around the centre console, emergency items buried under seats, water...
+- Link: https://dev.to/exaltride/smart-car-organisation-how-better-vehicle-setup-improves-everyday-driving-2mlm
+
+---
+
+## The 2026 Secret: Turn Study Sessions Into Interactive Adventures (And Ace Your Exams!)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: The 2026 Secret: Turn Study Sessions Into Interactive Adventures (And Ace Your Exams!) Original Engineering Publication: The 2026 Secret: Turn Study Sessions Into Interactive Adventures (And Ace Your Exams!) on shahru...
+- Link: https://dev.to/baba_yaga_dee9f44c728109e/the-2026-secret-turn-study-sessions-into-interactive-adventures-and-ace-your-exams-2c11
+
+---
+
+## The Real Python Podcast – Episode #312: Navigating AI in Open Source: Insights From Wagtail
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: How should you manage AI contributions to an open-source project? How do you measure the impact of using AI tools for development, and what generative features do end users want from a content management system? This...
+- Link: https://realpython.com/podcasts/rpp/312/
 
 ---
 
@@ -179,5 +170,14 @@ _Generated on: 2026-09-25 06:49 UTC_
 - Category: Learning Article
 - Summary: Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch
 - Link: https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/
+
+---
+
+## What Employers Actually Ask For in Customer Support Jobs Across Europe
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Customer support job ads look similar on the surface everywhere in Europe: friendly tone, problem-solving, maybe a language or two. But when you look at what employers actually list as required skills on NewLuxJob's o...
+- Link: https://dev.to/newluxjob/what-employers-actually-ask-for-in-customer-support-jobs-across-europe-33bi
 
 ---

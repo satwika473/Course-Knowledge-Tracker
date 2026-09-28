@@ -1,40 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-09-27 07:18 UTC_
+_Generated on: 2026-09-28 07:54 UTC_
 
-## AI Automation Guide 20260927
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: ⚡ Deploy this in under 10 minutes Get $200 free: https://m.do.co/c/9fa609b86a0e ($5/month server — this is what I used) AI Automation Guide: Build Production-Ready Workflows That Run 24/7 Without Touching Them I built...
-- Link: https://dev.to/ramosai/ai-automation-guide-20260927-3lbj
-
----
-
-## AI made me a worse debugger. Here's the exact skill I lost.
+## Adrianzhi Kuan Ong（王志寬）︱俄烏衝突爆發：戰爭正在重新定義能源、黃金與全球風險定價
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The last ten bugs I fixed, I fixed the same way. Stack trace in. Fix out. Apply, run, green, move on. Each one took minutes. It felt like getting better at my job. Then a bug showed up with no stack trace. No exceptio...
-- Link: https://dev.to/infoinlet1/ai-made-me-a-worse-debugger-heres-the-exact-skill-i-lost-39kk
+- Summary: 過去48小時，全球金融市場迅速進入了一個新的風險階段。 俄羅斯對烏克蘭展開軍事行動後，歐洲股市承壓，國際原油價格一度突破100美元，黃金、美元受到避險資金關注，股票、債券、外匯和大宗商品的波動同時上升。 很多投資者都在問：戰爭會持續多久？市場接下來會怎麼走？ 但經歷過多個市場週期以後，我更關心另一個問題：這場衝突的風險，會沿著什麼路徑傳導到全球經濟和資本市場？ 戰爭無法通過金融模型準確預測，但戰爭發生以後，資金如何流動、能源如何重...
+- Link: https://dev.to/adrianzhikuanongviews/adrianzhi-kuan-ongwang-zhi-kuan-e-wu-chong-tu-bao-fa-zhan-zheng-zheng-zai-zhong-xin-ding-yi-neng-yuan-huang-jin-yu-quan-qiu-feng-xian-ding-jia-3ejj
 
 ---
 
-## Books That Help When You're Flaky tests
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Flaky tests are the silent saboteurs of CI/CD pipelines. They waste hours debugging, erode confidence in releases, and ultimately make your codebase feel fragile. As senior developers, we know that the most reliable a...
-- Link: https://dev.to/devbookreader/books-that-help-when-youre-flaky-tests-c4g
-
----
-
-## Building VirgoFash: A Lightning-Fast, Zero-Dependency Async Python Search & RAG Engine
+## Building a flight search that checks multiple airports at once
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: As developers building AI applications, retrieval-augmented generation (RAG) pipelines, and intelligent agents, we often face a frustrating trade-off: we either rely on heavy, bloated scraping frameworks that slow dow...
-- Link: https://dev.to/abdullah_jahangir_ai/building-virgofash-a-lightning-fast-zero-dependency-async-python-search-rag-engine-40ic
+- Summary: When I started working on Caelvo, one of the first problems I wanted to solve was something I had myself many times. I live in Slovenia. When I search for a flight, Ljubljana is not my only option. I can also drive to...
+- Link: https://dev.to/caelvo_dc41a83175/building-a-flight-search-that-checks-multiple-airports-at-once-4m7p
+
+---
+
+## Free APA, MLA, Chicago Bibliography Maker
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Why Your Citation Generator Is Broken (And How to Fix It) You're 45 minutes from submitting your research paper. You have 42 sources. Your professor requires APA format. You're cycling through three different citation...
+- Link: https://dev.to/alan-matthew/free-apa-mla-chicago-bibliography-maker-11j
+
+---
+
+## How Corporate Relocation Storage Works During International Transfers
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: When a company relocates an employee internationally, household goods rarely move in a single, seamless step. Between departure and arrival — sometimes spanning weeks or months due to housing delays, visa timelines, o...
+- Link: https://dev.to/iss_relocation/how-corporate-relocation-storage-works-during-international-transfers-580
 
 ---
 
@@ -47,21 +47,21 @@ _Generated on: 2026-09-27 07:18 UTC_
 
 ---
 
-## How to Build a Dart Package Analytics Tool with the pub.dev API: Beyond the 30-Day Window
+## How to Copy Objects in Python: Shallow vs Deep Copy Explained
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: When I published my package on pub.dev, the first few days were exciting as the number of downloads climbed. 201 downloads in a few days! Then something strange happened. The number dropped: 120, then
-- Link: https://www.freecodecamp.org/news/build-a-dart-package-analytics-tool-with-the-pub-dev-api/
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Understand the difference between shallow and deep copies in Python. Learn how to duplicate objects safely using the copy module and other techniques.
+- Link: https://realpython.com/python-copy/
 
 ---
 
-## I Built Monolith Engine: A CLI for Deploying Apps to Your Own Server (No Platform Markup)
+## How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I built this: Monolith Engine, a CLI tool that deploys apps to your own server — Hetzner, Azure, OVH, anywhere — with automatic blue/green deploys, health checks, and one-command rollback. No vendor lock-in, no platfo...
-- Link: https://dev.to/yuvigotdev/i-built-monolith-engine-a-cli-for-deploying-apps-to-your-own-server-no-platform-markup-30gc
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha
+- Link: https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/
 
 ---
 
@@ -74,21 +74,21 @@ _Generated on: 2026-09-27 07:18 UTC_
 
 ---
 
-## No measurement, no optimization
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: No measurement, no optimization. There's a common saying in programming: "Don't optimize what you haven't measured yet." You can only truly appreciate this advice when you experience it yourself. And I definitely did....
-- Link: https://dev.to/jantolentino/no-measurement-no-optimization-32m
-
----
-
 ## Object-Oriented Programming (OOP) in Python
 
 - Source: Real Python
 - Category: Developer Blog
 - Summary: Learn object-oriented programming in Python: the OOP paradigm, classes and inheritance, and how to instantiate objects from a class.
 - Link: https://realpython.com/python3-object-oriented-programming/
+
+---
+
+## Pipenv: A Guide to the Python Packaging Tool
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Pipenv replaces pip, virtualenv, and requirements.txt with a single tool. See what it solves and how to manage dependencies with it.
+- Link: https://realpython.com/pipenv-guide/
 
 ---
 
@@ -101,48 +101,30 @@ _Generated on: 2026-09-27 07:18 UTC_
 
 ---
 
-## Quiz: Jupyter Notebook: An Introduction
+## Quiz: Enhance Your Flask Web Project With a Database
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of Jupyter Notebook, from starting the server and running cells to exporting your work and adding extensions.
-- Link: https://realpython.com/quizzes/jupyter-notebook-introduction/
+- Summary: Test your understanding of Flask databases, environment variables, blueprints, SQLite schemas, and storing posts from a form.
+- Link: https://realpython.com/quizzes/flask-database/
 
 ---
 
-## Quiz: When Do You Use an Ellipsis in Python?
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Python's Ellipsis. Practice using three dots as a placeholder, in type hints, and in NumPy slicing.
-- Link: https://realpython.com/quizzes/python-ellipsis/
-
----
-
-## Stuck in Study Ruts? How 2026s Interactive Platforms Turn Learning into Your Next Adventure.
+## Retrying AI API Calls in Go Without Hiding Failures
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Stuck in Study Ruts? How 2026s Interactive Platforms Turn Learning into Your Next Adventure. Original Engineering Publication: Stuck in Study Ruts? How 2026s Interactive Platforms Turn Learning into Your Next Adventur...
-- Link: https://dev.to/baba_yaga_dee9f44c728109e/stuck-in-study-ruts-how-2026s-interactive-platforms-turn-learning-into-your-next-adventure-3dc5
+- Summary: A retry loop can keep an AI integration alive through a brief upstream outage. It can also multiply load, repeat a request that should not be repeated, and make an incident harder to diagnose. For Go clients, keep the...
+- Link: https://dev.to/maoren/retrying-ai-api-calls-in-go-without-hiding-failures-28gb
 
 ---
 
-## The Real Python Podcast – Episode #312: Navigating AI in Open Source: Insights From Wagtail
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: How should you manage AI contributions to an open-source project? How do you measure the impact of using AI tools for development, and what generative features do end users want from a content management system? This...
-- Link: https://realpython.com/podcasts/rpp/312/
-
----
-
-## The Three-Beat Answer to Why You Are Leaving Your Job
+## THE KUBERNETES SHIFT 5 TRENDS TO WATCH IN 2027
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Most people over-answer "why are you leaving" because they treat it as an honesty test. It is not. The interviewer is checking whether your reason is brief, believable, and safe to hire, which means the real goal is a...
-- Link: https://dev.to/devika_thakurchandel_fc2/the-three-beat-answer-to-why-you-are-leaving-your-job-27jo
+- Category: Programming Tips
+- Summary: Kubernetes is becoming the foundation of modern cloud-native infrastructure. Discover the 5 trends shaping 2026, from AI workloads and platform engineering to Kubernetes-native security and edge computing. Build futur...
+- Link: https://dev.to/divyanshi_kulkarni_633311/the-kubernetes-shift-5-trends-to-watch-in-2027-52ii
 
 ---
 
@@ -164,20 +146,38 @@ _Generated on: 2026-09-27 07:18 UTC_
 
 ---
 
-## What European Employers Ask Data Analyst Candidates to Know, by Country
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Job ads for data analysts do not ask for the same skills everywhere in Europe. Looking at postings across 12 countries, some clear patterns and some local differences stand out. SQL Is the Baseline Skill in Almost Eve...
-- Link: https://dev.to/newluxjob/what-european-employers-ask-data-analyst-candidates-to-know-by-country-360d
-
----
-
-## Why AI Agent Guardrails Are Important
+## Website Design vs Website Development
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The biggest risk with an AI coding agent is not necessarily that it writes bad code. It is that it makes a reasonable decision and has enough authority to execute it where it should not. Consider an agent asked to fix...
-- Link: https://dev.to/mjodeh/why-ai-agent-guardrails-matter-more-than-intelligence-37fc
+- Summary: read more at https://boholwebwp.com/blog/website-design-vs-website-development Have you ever wondered what exactly happens behind the scenes when a brand new website is brought to life? For many business owners across...
+- Link: https://dev.to/boholweb/website-design-vs-website-development-15n4
+
+---
+
+## What Is the Best Course to Learn Solana Programming?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Solana has become a popular blockchain ecosystem for developers building decentralized applications, tokens, and other Web3 solutions. As interest in Solana continues to grow, many developers are looking for structure...
+- Link: https://dev.to/georgiaweston/what-is-the-best-course-to-learn-solana-programming-39i1
+
+---
+
+## سديم العتيبي يشارك: 8 أشهر مع سلطان فيرست في الشات بوت — تجربة حضانة أطفال حديثة بـجازان
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: عندما بدأت الرحلة، لم أكن أتخيل أنني سأصل إلى هذه النتائج، لكنها الحقيقة. بعد 8 أشهر من العمل الوثيق مع فريق سلطان فيرست في خدمة روبوتات المحادثة، حان الوقت لأشارك ما تعلّمته. الخلفية: أنا سديم العتيبي، أدير حضانة أطف...
+- Link: https://dev.to/__32a29f7485a94d/sdym-ltyby-yshrk-8-shhr-m-sltn-fyrst-fy-lsht-bwt-tjrb-hdn-tfl-hdyth-bjzn-5bl3
+
+---
+
+## من الصفر إلى القمة: قصة شركة برمجيات ناشئة في خميس مشيط مع سلطان فيرست
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: الرحلة التي مررت بها تستحق أن تُروى بكل تفاصيلها، ولو استغرق الأمر مقالة طويلة. بدأت رحلتي مع شركة برمجيات ناشئة في خميس مشيط قبل سنوات بحلم بسيط. المفارقة أن المنتج جيد، لكن الأدوات الرقمية أضعف من أن تحمله. الأخطاء...
+- Link: https://dev.to/__32a29f7485a94d/mn-lsfr-l-lqm-qs-shrk-brmjyt-nshy-fy-khmys-mshyt-m-sltn-fyrst-1o42
 
 ---

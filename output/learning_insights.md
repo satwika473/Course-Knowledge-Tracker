@@ -1,40 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-09-28 07:54 UTC_
+_Generated on: 2026-09-29 07:38 UTC_
 
-## Adrianzhi Kuan Ong（王志寬）︱俄烏衝突爆發：戰爭正在重新定義能源、黃金與全球風險定價
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 過去48小時，全球金融市場迅速進入了一個新的風險階段。 俄羅斯對烏克蘭展開軍事行動後，歐洲股市承壓，國際原油價格一度突破100美元，黃金、美元受到避險資金關注，股票、債券、外匯和大宗商品的波動同時上升。 很多投資者都在問：戰爭會持續多久？市場接下來會怎麼走？ 但經歷過多個市場週期以後，我更關心另一個問題：這場衝突的風險，會沿著什麼路徑傳導到全球經濟和資本市場？ 戰爭無法通過金融模型準確預測，但戰爭發生以後，資金如何流動、能源如何重...
-- Link: https://dev.to/adrianzhikuanongviews/adrianzhi-kuan-ongwang-zhi-kuan-e-wu-chong-tu-bao-fa-zhan-zheng-zheng-zai-zhong-xin-ding-yi-neng-yuan-huang-jin-yu-quan-qiu-feng-xian-ding-jia-3ejj
-
----
-
-## Building a flight search that checks multiple airports at once
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: When I started working on Caelvo, one of the first problems I wanted to solve was something I had myself many times. I live in Slovenia. When I search for a flight, Ljubljana is not my only option. I can also drive to...
-- Link: https://dev.to/caelvo_dc41a83175/building-a-flight-search-that-checks-multiple-airports-at-once-4m7p
-
----
-
-## Free APA, MLA, Chicago Bibliography Maker
+## 'Someone already built that' is a lie. 'It's already secure' is the dangerous one.
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Why Your Citation Generator Is Broken (And How to Fix It) You're 45 minutes from submitting your research paper. You have 42 sources. Your professor requires APA format. You're cycling through three different citation...
-- Link: https://dev.to/alan-matthew/free-apa-mla-chicago-bibliography-maker-11j
+- Summary: There's a post going around right now — "Someone Already Built That" is the Favourite Excuse of Broke Developers — and it's right. "Someone already built that" is the sentence that kills a product before it starts. Bu...
+- Link: https://dev.to/rudratosh/someone-already-built-that-is-a-lie-its-already-secure-is-the-dangerous-one-5c1a
 
 ---
 
-## How Corporate Relocation Storage Works During International Transfers
+## Building real estate with discipline, design and lasting confidence today
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: When a company relocates an employee internationally, household goods rarely move in a single, seamless step. Between departure and arrival — sometimes spanning weeks or months due to housing delays, visa timelines, o...
-- Link: https://dev.to/iss_relocation/how-corporate-relocation-storage-works-during-international-transfers-580
+- Summary: Great spaces are created when vision is supported by strong systems. Virgo Infraspace combines sustainable planning, engineering precision, transparent approvals, quality control, and disciplined execution to build re...
+- Link: https://dev.to/dhruv_marutenanto_3cda43/building-real-estate-with-discipline-design-and-lasting-confidence-today-1lp4
 
 ---
 
@@ -65,6 +47,33 @@ _Generated on: 2026-09-28 07:54 UTC_
 
 ---
 
+## HPE0-V18 HPE Edge-to-Cloud Fundamentals: New Foundation Exam
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Hewlett Packard Enterprise has introduced HPE0-V18 HPE Edge-to-Cloud Fundamentals as a key foundation exam in the current HPE ATP – Edge-to-cloud architect certification path. The exam reflects HPE's growing focus on...
+- Link: https://dev.to/victoria_meisel_d65e0bad3/hpe0-v18-hpe-edge-to-cloud-fundamentals-new-foundation-exam-3m25
+
+---
+
+## I let AI write my code for a month. The junior devs caught what it broke — I didn't.
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I'll say the unpopular part first: for one month I leaned on an AI coding agent for almost everything, and the bugs it introduced were caught by the two most junior people on the team. Not by me. Not by the tests. By...
+- Link: https://dev.to/rudratosh/i-let-ai-write-my-code-for-a-month-the-junior-devs-caught-what-it-broke-i-didnt-be2
+
+---
+
+## Import Multiple CSVs into One Excel Workbook with Python
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: In daily data processing, you often need to combine a set of CSV files into a single Excel workbook—one worksheet per CSV—so they are easier to review and share. Python’s built-in csv module can read the data, but wri...
+- Link: https://dev.to/codingco/import-multiple-csvs-into-one-excel-workbook-with-python-2841
+
+---
+
 ## Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]
 
 - Source: freeCodeCamp News
@@ -74,12 +83,12 @@ _Generated on: 2026-09-28 07:54 UTC_
 
 ---
 
-## Object-Oriented Programming (OOP) in Python
+## Managing QuickBooks Desktop Issues in Philadelphia
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn object-oriented programming in Python: the OOP paradigm, classes and inheritance, and how to instantiate objects from a class.
-- Link: https://realpython.com/python3-object-oriented-programming/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: QuickBooks Desktop remains an important accounting solution for many small businesses, accountants, bookkeepers, and independent professionals. It can help users manage invoices, expenses, customer records, financial...
+- Link: https://dev.to/luna_aurora_6d410468ab7e8/managing-quickbooks-desktop-issues-in-philadelphia-1798
 
 ---
 
@@ -92,12 +101,21 @@ _Generated on: 2026-09-28 07:54 UTC_
 
 ---
 
-## Python Inner Functions: What Are They Good For?
+## Python 3.15 Preview: Sentinel Values
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn what a Python inner function is good for: accessing nonlocal names, building stateful closures, and writing your own decorators.
-- Link: https://realpython.com/inner-functions-what-are-they-good-for/
+- Summary: Learn how to create a Python sentinel value with the new built-in in Python 3.15 and get readable signatures, type hints, and safe copying and pickling.
+- Link: https://realpython.com/python315-sentinel-values/
+
+---
+
+## Quiz: Build a Python Turtle Game: Space Invaders Clone
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Practice building a game with Python's turtle module: draw sprites, run a game loop, handle key presses, detect collisions, and set the frame rate.
+- Link: https://realpython.com/quizzes/build-python-turtle-game-space-invaders-clone/
 
 ---
 
@@ -107,24 +125,6 @@ _Generated on: 2026-09-28 07:54 UTC_
 - Category: Developer Blog
 - Summary: Test your understanding of Flask databases, environment variables, blueprints, SQLite schemas, and storing posts from a form.
 - Link: https://realpython.com/quizzes/flask-database/
-
----
-
-## Retrying AI API Calls in Go Without Hiding Failures
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: A retry loop can keep an AI integration alive through a brief upstream outage. It can also multiply load, repeat a request that should not be repeated, and make an incident harder to diagnose. For Go clients, keep the...
-- Link: https://dev.to/maoren/retrying-ai-api-calls-in-go-without-hiding-failures-28gb
-
----
-
-## THE KUBERNETES SHIFT 5 TRENDS TO WATCH IN 2027
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Kubernetes is becoming the foundation of modern cloud-native infrastructure. Discover the 5 trends shaping 2026, from AI workloads and platform engineering to Kubernetes-native security and edge computing. Build futur...
-- Link: https://dev.to/divyanshi_kulkarni_633311/the-kubernetes-shift-5-trends-to-watch-in-2027-52ii
 
 ---
 
@@ -146,38 +146,38 @@ _Generated on: 2026-09-28 07:54 UTC_
 
 ---
 
-## Website Design vs Website Development
+## What Are the Best Senior Living Options in Concord, New Hampshire?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Choosing the right senior living arrangement in Concord, New Hampshire, depends on a senior’s level of independence, care needs, lifestyle preferences, location, and budget. Options can include independent living, ass...
+- Link: https://dev.to/camila_0bb3d8013e718c180c/what-are-the-best-senior-living-options-in-concord-new-hampshire-1elc
+
+---
+
+## WTF Is Jev? A Developer-Friendly Introduction to AI Decision Models
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: read more at https://boholwebwp.com/blog/website-design-vs-website-development Have you ever wondered what exactly happens behind the scenes when a brand new website is brought to life? For many business owners across...
-- Link: https://dev.to/boholweb/website-design-vs-website-development-15n4
+- Summary: If you've recently been following AI developer news, you may have noticed a new name appearing everywhere: Jev. No, it's not another chatbot. No, it's not primarily a coding assistant. And no, its main purpose isn't t...
+- Link: https://dev.to/sam000/wtf-is-jev-a-developer-friendly-introduction-to-ai-decision-models-1ndg
 
 ---
 
-## What Is the Best Course to Learn Solana Programming?
+## Your AI SQL Tool Doesn’t Have an “Undo Logic” Button – That’s the Real Problem
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Solana has become a popular blockchain ecosystem for developers building decentralized applications, tokens, and other Web3 solutions. As interest in Solana continues to grow, many developers are looking for structure...
-- Link: https://dev.to/georgiaweston/what-is-the-best-course-to-learn-solana-programming-39i1
+- Category: Programming Tips
+- Summary: Have you ever had this experience: revising the prompt for an AI SQL tool through five or six versions, clicking Undo and rewriting countless times, and the result that finally comes out is still wrong. You can undo w...
+- Link: https://dev.to/esproc_spl/your-ai-sql-tool-doesnt-have-an-undo-logic-button-thats-the-real-problem-4i6f
 
 ---
 
-## سديم العتيبي يشارك: 8 أشهر مع سلطان فيرست في الشات بوت — تجربة حضانة أطفال حديثة بـجازان
+## Your Newest Colleagues May Have Grown Up Without Folders
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: عندما بدأت الرحلة، لم أكن أتخيل أنني سأصل إلى هذه النتائج، لكنها الحقيقة. بعد 8 أشهر من العمل الوثيق مع فريق سلطان فيرست في خدمة روبوتات المحادثة، حان الوقت لأشارك ما تعلّمته. الخلفية: أنا سديم العتيبي، أدير حضانة أطف...
-- Link: https://dev.to/__32a29f7485a94d/sdym-ltyby-yshrk-8-shhr-m-sltn-fyrst-fy-lsht-bwt-tjrb-hdn-tfl-hdyth-bjzn-5bl3
-
----
-
-## من الصفر إلى القمة: قصة شركة برمجيات ناشئة في خميس مشيط مع سلطان فيرست
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: الرحلة التي مررت بها تستحق أن تُروى بكل تفاصيلها، ولو استغرق الأمر مقالة طويلة. بدأت رحلتي مع شركة برمجيات ناشئة في خميس مشيط قبل سنوات بحلم بسيط. المفارقة أن المنتج جيد، لكن الأدوات الرقمية أضعف من أن تحمله. الأخطاء...
-- Link: https://dev.to/__32a29f7485a94d/mn-lsfr-l-lqm-qs-shrk-brmjyt-nshy-fy-khmys-mshyt-m-sltn-fyrst-1o42
+- Summary: A graduate joins your team, clearly sharp, and in the second week asks where the file went. You explain that it is in the downloads folder. There is a pause, and you realise the idea of a folder, a location inside a t...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-newest-colleagues-may-have-grown-up-without-folders-53nc
 
 ---

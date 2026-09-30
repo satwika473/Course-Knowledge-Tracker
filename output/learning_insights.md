@@ -1,103 +1,85 @@
 # Learning Insights
 
-_Generated on: 2026-09-29 07:38 UTC_
+_Generated on: 2026-09-30 07:40 UTC_
 
-## 'Someone already built that' is a lie. 'It's already secure' is the dangerous one.
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: There's a post going around right now — "Someone Already Built That" is the Favourite Excuse of Broke Developers — and it's right. "Someone already built that" is the sentence that kills a product before it starts. Bu...
-- Link: https://dev.to/rudratosh/someone-already-built-that-is-a-lie-its-already-secure-is-the-dangerous-one-5c1a
-
----
-
-## Building real estate with discipline, design and lasting confidence today
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Great spaces are created when vision is supported by strong systems. Virgo Infraspace combines sustainable planning, engineering precision, transparent approvals, quality control, and disciplined execution to build re...
-- Link: https://dev.to/dhruv_marutenanto_3cda43/building-real-estate-with-discipline-design-and-lasting-confidence-today-1lp4
-
----
-
-## How Executable Operational Specifications Can Make Software Automation Verifiable
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Modern software systems are increasingly automated. We automate deployments, infrastructure changes, scaling, incident response, and data pipelines. And now, with AI agents, we are starting to automat
-- Link: https://www.freecodecamp.org/news/executable-operational-specifications-software-automation/
-
----
-
-## How to Copy Objects in Python: Shallow vs Deep Copy Explained
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Understand the difference between shallow and deep copies in Python. Learn how to duplicate objects safely using the copy module and other techniques.
-- Link: https://realpython.com/python-copy/
-
----
-
-## How to Level Up Your Portfolio in the AI Era: From Technical Writer to Developer Educator
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Until recently, building a technical writing portfolio could be as simple as creating a website, adding a list of articles, describing your writing experience, and linking to your social profiles. Tha
-- Link: https://www.freecodecamp.org/news/how-to-level-up-your-portfolio-in-the-ai-era-from-technical-writer-to-developer-educator/
-
----
-
-## HPE0-V18 HPE Edge-to-Cloud Fundamentals: New Foundation Exam
+## 7 Essential Google Cloud Engineer Skills You Need to Master
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Hewlett Packard Enterprise has introduced HPE0-V18 HPE Edge-to-Cloud Fundamentals as a key foundation exam in the current HPE ATP – Edge-to-cloud architect certification path. The exam reflects HPE's growing focus on...
-- Link: https://dev.to/victoria_meisel_d65e0bad3/hpe0-v18-hpe-edge-to-cloud-fundamentals-new-foundation-exam-3m25
+- Summary: The Google cloud platform only holds about 13% of the market share, still behind AWS and Azure, according to SQ magazine. Why? Because there is still a skill gap that needs to be addressed. As a cloud engineer, you mu...
+- Link: https://dev.to/ryan_scott_e2a183d81dc260/7-essential-google-cloud-engineer-skills-you-need-to-master-2n9e
 
 ---
 
-## I let AI write my code for a month. The junior devs caught what it broke — I didn't.
+## Already a Developer? What Transfers to the CCAR-F Exam
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I'll say the unpopular part first: for one month I leaned on an AI coding agent for almost everything, and the bugs it introduced were caught by the two most junior people on the team. Not by me. Not by the tests. By...
-- Link: https://dev.to/rudratosh/i-let-ai-write-my-code-for-a-month-the-junior-devs-caught-what-it-broke-i-didnt-be2
+- Summary: If you write software for a living and you're looking at a move into AI work, the Claude Certified Architect Foundations exam (CCAR-F) can look like a whole new field to learn. It isn't. A large share of what the exam...
+- Link: https://dev.to/jk27101/already-a-developer-what-transfers-to-the-ccar-f-exam-2l3o
 
 ---
 
-## Import Multiple CSVs into One Excel Workbook with Python
+## Building a Prompt Engineering Toolkit for AI Model Optimization
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: In daily data processing, you often need to combine a set of CSV files into a single Excel workbook—one worksheet per CSV—so they are easier to review and share. Python’s built-in csv module can read the data, but wri...
-- Link: https://dev.to/codingco/import-multiple-csvs-into-one-excel-workbook-with-python-2841
+- Summary: Introduction Prompt engineering is a crucial aspect of AI model development and optimization. A well-crafted prompt can significantly impact the performance and accuracy of a language model. However, with the growing...
+- Link: https://dev.to/lifeisverygood/building-a-prompt-engineering-toolkit-for-ai-model-optimization-2pac
 
 ---
 
-## Inside a Hong Kong Hackathon [Full freeCodeCamp Documentary]
+## How ORMs Still Let SQL Injection Through (and How to Close the Gaps)
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: We just published a new documentary-style video on the freeCodeCamp channel that takes you behind the scenes of a high-energy 24-hour hackathon. Quincy Larson traveled to Hong Kong to serve as a judge
-- Link: https://www.freecodecamp.org/news/inside-seahack-24-hours-to-build-an-ai-startup/
+- Summary: A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz
+- Link: https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/
 
 ---
 
-## Managing QuickBooks Desktop Issues in Philadelphia
+## How to Build a Reliable AI Assistant with the Claude API
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi
+- Link: https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/
+
+---
+
+## How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie
+- Link: https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/
+
+---
+
+## How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Sooner or later, most front-end developers hit the same request: "Can this take up the whole screen?" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje
+- Link: https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/
+
+---
+
+## Mastering Asynchronous Operations in JavaScript with Async/Await
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: QuickBooks Desktop remains an important accounting solution for many small businesses, accountants, bookkeepers, and independent professionals. It can help users manage invoices, expenses, customer records, financial...
-- Link: https://dev.to/luna_aurora_6d410468ab7e8/managing-quickbooks-desktop-issues-in-philadelphia-1798
+- Summary: Introduction to Asynchronous JavaScript JavaScript, by nature, is a single-threaded language. This means it can only execute one task at a time. However, many operations in web development, such as fetching data from...
+- Link: https://dev.to/lifeisverygood/mastering-asynchronous-operations-in-javascript-with-asyncawait-1a9o
 
 ---
 
-## Pipenv: A Guide to the Python Packaging Tool
+## More Senior Engineers Will Work for Two Companies at Once
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Pipenv replaces pip, virtualenv, and requirements.txt with a single tool. See what it solves and how to manage dependencies with it.
-- Link: https://realpython.com/pipenv-guide/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Think about a company of forty people with a software product and no technical leader. They cannot justify a full time principal engineer. They also cannot keep making architecture decisions by accident. For years the...
+- Link: https://dev.to/asael_shinder_9f53bdca840/more-senior-engineers-will-work-for-two-companies-at-once-5367
 
 ---
 
@@ -110,74 +92,83 @@ _Generated on: 2026-09-29 07:38 UTC_
 
 ---
 
-## Quiz: Build a Python Turtle Game: Space Invaders Clone
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Practice building a game with Python's turtle module: draw sprites, run a game loop, handle key presses, detect collisions, and set the frame rate.
-- Link: https://realpython.com/quizzes/build-python-turtle-game-space-invaders-clone/
-
----
-
-## Quiz: Enhance Your Flask Web Project With a Database
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Flask databases, environment variables, blueprints, SQLite schemas, and storing posts from a form.
-- Link: https://realpython.com/quizzes/flask-database/
-
----
-
-## TimescaleDB Course – PostgreSQL for Time-Series Data
+## Python Algorithmic Trading with SnapTrade, Massive, Alpaca
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Managing massive, rapidly growing datasets efficiently is a critical skill for modern developers. Whether you are tracking API request logs, monitoring IoT fleet telemetry, or building dashboards for
-- Link: https://www.freecodecamp.org/news/timescaledb-course-postgresql-for-time-series-data/
+- Summary: We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using
+- Link: https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/
 
 ---
 
-## Unlock the Power of AI Agents with the New Claude Certified Developer Foundations Course
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Are you a software engineer looking to master building production-ready AI applications and agentic workflows? We've just published a brand new, comprehensive course on the freeCodeCamp.org YouTube ch
-- Link: https://www.freecodecamp.org/news/unlock-the-power-of-ai-agents-with-the-new-claude-certified-developer-foundations-course/
-
----
-
-## What Are the Best Senior Living Options in Concord, New Hampshire?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Choosing the right senior living arrangement in Concord, New Hampshire, depends on a senior’s level of independence, care needs, lifestyle preferences, location, and budget. Options can include independent living, ass...
-- Link: https://dev.to/camila_0bb3d8013e718c180c/what-are-the-best-senior-living-options-in-concord-new-hampshire-1elc
-
----
-
-## WTF Is Jev? A Developer-Friendly Introduction to AI Decision Models
+## Python Decorators Explained Simply
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: If you've recently been following AI developer news, you may have noticed a new name appearing everywhere: Jev. No, it's not another chatbot. No, it's not primarily a coding assistant. And no, its main purpose isn't t...
-- Link: https://dev.to/sam000/wtf-is-jev-a-developer-friendly-introduction-to-ai-decision-models-1ndg
+- Summary: Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basics Practice regularly Build real projects Share your knowled...
+- Link: https://dev.to/qingluan/python-decorators-explained-simply-5do1
 
 ---
 
-## Your AI SQL Tool Doesn’t Have an “Undo Logic” Button – That’s the Real Problem
+## Quiz: How to Use Python: Taking Your First Steps
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your Python foundations. Review syntax, variables, data types, indentation, functions, errors, and the tools you write Python with.
+- Link: https://realpython.com/quizzes/first-steps-python/
+
+---
+
+## Quiz: LLM Application Development With Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your grasp of building LLM apps in Python, from calling model APIs and prompting to RAG, AI agents, and MCP.
+- Link: https://realpython.com/quizzes/llm-application-development-python/
+
+---
+
+## Quiz: What's New in Python 3.15
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your knowledge of Python 3.15, from lazy imports and frozendict to sentinels, friendlier errors, and UTF-8 by default.
+- Link: https://realpython.com/quizzes/whats-new-in-python-315/
+
+---
+
+## Understanding Measurement Analytics: A Comprehensive Guide
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Have you ever had this experience: revising the prompt for an AI SQL tool through five or six versions, clicking Undo and rewriting countless times, and the result that finally comes out is still wrong. You can undo w...
-- Link: https://dev.to/esproc_spl/your-ai-sql-tool-doesnt-have-an-undo-logic-button-thats-the-real-problem-4i6f
+- Summary: Introduction In today's data-driven world, measurement analytics plays a vital role in helping businesses make informed decisions. Measurement analytics is the process of collecting, analyzing, and interpreting data t...
+- Link: https://dev.to/lifeisverygood/understanding-measurement-analytics-a-comprehensive-guide-9oj
 
 ---
 
-## Your Newest Colleagues May Have Grown Up Without Folders
+## What's New in Python 3.15
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore the new features in Python 3.15, including lazy imports, frozendict, sentinel values, a sampling profiler, and a faster JIT.
+- Link: https://realpython.com/courses/whats-new-in-python-315/
+
+---
+
+## Which Online AI Certifications Are Worth It for Career Growth?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A graduate joins your team, clearly sharp, and in the second week asks where the file went. You explain that it is in the downloads folder. There is a pause, and you realise the idea of a folder, a location inside a t...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-newest-colleagues-may-have-grown-up-without-folders-53nc
+- Summary: Artificial intelligence is rapidly becoming part of modern workplaces, creating demand for professionals who understand how to apply AI effectively. From generative AI and AI agents to product management, security, an...
+- Link: https://dev.to/future_skillsacademy_4ca/which-online-ai-certifications-are-worth-it-for-career-growth-16g2
+
+---
+
+## Your First Talk Only Needs One Thing That Happened to You
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Somebody at the local meetup asks whether you would give a talk next month. Your first reaction is probably a list of reasons you are not the right person. You are not an expert. Everyone in the room will know more. Y...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-first-talk-only-needs-one-thing-that-happened-to-you-5bjb
 
 ---

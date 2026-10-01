@@ -1,40 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-09-30 07:40 UTC_
+_Generated on: 2026-10-01 07:58 UTC_
 
-## 7 Essential Google Cloud Engineer Skills You Need to Master
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The Google cloud platform only holds about 13% of the market share, still behind AWS and Azure, according to SQ magazine. Why? Because there is still a skill gap that needs to be addressed. As a cloud engineer, you mu...
-- Link: https://dev.to/ryan_scott_e2a183d81dc260/7-essential-google-cloud-engineer-skills-you-need-to-master-2n9e
-
----
-
-## Already a Developer? What Transfers to the CCAR-F Exam
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: If you write software for a living and you're looking at a move into AI work, the Claude Certified Architect Foundations exam (CCAR-F) can look like a whole new field to learn. It isn't. A large share of what the exam...
-- Link: https://dev.to/jk27101/already-a-developer-what-transfers-to-the-ccar-f-exam-2l3o
-
----
-
-## Building a Prompt Engineering Toolkit for AI Model Optimization
+## 10 Claude Code CLI Mistakes That Kill Your Productivity — And How to Fix Each One
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Introduction Prompt engineering is a crucial aspect of AI model development and optimization. A well-crafted prompt can significantly impact the performance and accuracy of a language model. However, with the growing...
-- Link: https://dev.to/lifeisverygood/building-a-prompt-engineering-toolkit-for-ai-model-optimization-2pac
+- Summary: 10 Claude Code CLI Mistakes That Kill Your Productivity — And How to Fix Each One Most developers who pick up Claude Code make the same mistakes in the first week. Not because they're careless — because the tool looks...
+- Link: https://dev.to/artifilog/10-claude-code-cli-mistakes-that-kill-your-productivity-and-how-to-fix-each-one-3n1o
 
 ---
 
-## How ORMs Still Let SQL Injection Through (and How to Close the Gaps)
+## Best AI Model Routers in 2026: Honest Rankings That Cut Through the Hype
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Best AI Model Routers in 2026: Honest Rankings That Cut Through the Hype Introduction You've seen the pitch. "Cut your LLM costs by 50% with AI routing." The demo looks impressive. The GitHub stars are piling up. So y...
+- Link: https://dev.to/artifilog/best-ai-model-routers-in-2026-honest-rankings-that-cut-through-the-hype-1i44
+
+---
+
+## Blue Prism DEV01: Where the 60 Questions Come From and How to Spend 75 Minutes
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The Blue Prism Developer exam (DEV01) gives you 60 questions in 75 minutes, and 70% of its weight sits in two objectives: Object Development and Process Development. If you build objects and processes every day, you a...
+- Link: https://dev.to/palak_mazumdar_f5431445f6/blue-prism-dev01-where-the-60-questions-come-from-and-how-to-spend-75-minutes-1g7e
+
+---
+
+## How I'd Learn Python from Scratch (If I Started Today)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: 📌 Quick Info Topic: A beginner-friendly roadmap for learning Python Target Audience: Anyone starting from zero Goal: Give a clear, honest roadmap based on real experience 1. Introduction "I started learning Python thr...
+- Link: https://dev.to/sameerqaisar17/how-id-learn-python-from-scratch-if-i-started-today-27bo
+
+---
+
+## How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: A lot of developers assume that once they're on an ORM, SQL injection stops being their problem. But it doesn't disappear. It just relocates. ORMs like Sequelize, Prisma, TypeORM, and Knex parameteriz
-- Link: https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/
+- Summary: Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to
+- Link: https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/
 
 ---
 
@@ -47,12 +56,39 @@ _Generated on: 2026-09-30 07:40 UTC_
 
 ---
 
-## How to Build an AI Résumé Screening Tool with Next.js, Supabase, and TypeSafe Jev
+## How to Build MCP Gateway from Scratch
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: How to Build MCP Gateway from Scratch This guide covers how to build MCP gateway from scratch - a production middleware layer that routes, authenticates, rate-limits, and observably forwards AI agent tool calls. Cover...
+- Link: https://dev.to/artifilog/how-to-build-mcp-gateway-from-scratch-4857
+
+---
+
+## How to Diagnose and Fix AI Inference Latency on Kubernetes
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: When we post an engineering job, we get 300 to 400 résumés in a week. Reading each one carefully takes about two minutes. That adds up to eleven hours of work for just one opening, before any intervie
-- Link: https://www.freecodecamp.org/news/build-an-ai-resume-screening-tool-with-next-js-supabase-and-typesafe-jev/
+- Summary: It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod
+- Link: https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/
+
+---
+
+## How to Get Early Traffic to Your New Web App + A $50 Bug Bounty Offer
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: link: "Visit our website, report a bug through feedback, and win $50 if a genuine bug is found!"
+- Link: https://dev.to/haroon_ali_ca42897903243f/how-to-get-early-traffic-to-your-new-web-app-a-50-bug-bounty-offer-54nd
+
+---
+
+## How to Prevent LLM Hallucinations with Guardrails (2026)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: How to Prevent LLM Hallucinations with Guardrails (2026) A support bot tells a customer that worn shoes qualify for a full refund. The policy says the opposite. The answer reads fluently, cites the right document, and...
+- Link: https://dev.to/artifilog/how-to-prevent-llm-hallucinations-with-guardrails-2026-48an
 
 ---
 
@@ -65,30 +101,12 @@ _Generated on: 2026-09-30 07:40 UTC_
 
 ---
 
-## Mastering Asynchronous Operations in JavaScript with Async/Await
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Introduction to Asynchronous JavaScript JavaScript, by nature, is a single-threaded language. This means it can only execute one task at a time. However, many operations in web development, such as fetching data from...
-- Link: https://dev.to/lifeisverygood/mastering-asynchronous-operations-in-javascript-with-asyncawait-1a9o
-
----
-
-## More Senior Engineers Will Work for Two Companies at Once
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Think about a company of forty people with a software product and no technical leader. They cannot justify a full time principal engineer. They also cannot keep making architecture decisions by accident. For years the...
-- Link: https://dev.to/asael_shinder_9f53bdca840/more-senior-engineers-will-work-for-two-companies-at-once-5367
-
----
-
-## Python 3.15 Preview: Sentinel Values
+## Python 3.15: Cool New Features for You to Try
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how to create a Python sentinel value with the new built-in in Python 3.15 and get readable signatures, type hints, and safe copying and pickling.
-- Link: https://realpython.com/python315-sentinel-values/
+- Summary: Learn what's new in Python 3.15, from lazy imports, frozendict, and sentinels to a sampling profiler and friendlier error messages.
+- Link: https://realpython.com/python315-new-features/
 
 ---
 
@@ -101,15 +119,6 @@ _Generated on: 2026-09-30 07:40 UTC_
 
 ---
 
-## Python Decorators Explained Simply
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Python Decorators Explained Simply Introduction Python Decorators Explained Simply is essential knowledge for every developer. Key Points Start with the basics Practice regularly Build real projects Share your knowled...
-- Link: https://dev.to/qingluan/python-decorators-explained-simply-5do1
-
----
-
 ## Quiz: How to Use Python: Taking Your First Steps
 
 - Source: Real Python
@@ -119,30 +128,48 @@ _Generated on: 2026-09-30 07:40 UTC_
 
 ---
 
-## Quiz: LLM Application Development With Python
+## Quiz: Python 3.15: Cool New Features for You to Try
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your grasp of building LLM apps in Python, from calling model APIs and prompting to RAG, AI agents, and MCP.
-- Link: https://realpython.com/quizzes/llm-application-development-python/
+- Summary: Test your knowledge of Python 3.15's new features, from lazy imports, frozendict, and sentinels to TypeForm, Tachyon, and UTF-8 by default.
+- Link: https://realpython.com/quizzes/python315-new-features/
 
 ---
 
-## Quiz: What's New in Python 3.15
+## Quiz: Python Web Applications: Deploy Your Script as a Flask App
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your knowledge of Python 3.15, from lazy imports and frozendict to sentinels, friendlier errors, and UTF-8 by default.
-- Link: https://realpython.com/quizzes/whats-new-in-python-315/
+- Summary: Test your understanding of Flask web apps: routes, request data, escaping user input, and deploying a Python script to Google App Engine.
+- Link: https://realpython.com/quizzes/python-web-applications/
 
 ---
 
-## Understanding Measurement Analytics: A Comprehensive Guide
+## The Developer Burnout Loop: Why a Structured Mindfulness Practice Can Be More Useful Than Another Productivity Hack
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Introduction In today's data-driven world, measurement analytics plays a vital role in helping businesses make informed decisions. Measurement analytics is the process of collecting, analyzing, and interpreting data t...
-- Link: https://dev.to/lifeisverygood/understanding-measurement-analytics-a-comprehensive-guide-9oj
+- Category: Career Guidance
+- Summary: Developers are surrounded by optimization advice. Better task systems. Better keyboards. Better terminals. Better prompts. Better focus music. Yet many of the hardest workdays are not caused by a missing tool. They ar...
+- Link: https://dev.to/theholisticcare/the-developer-burnout-loop-why-a-structured-mindfulness-practice-can-be-more-useful-than-another-43l8
+
+---
+
+## The Operating System Polyglot Founders Use to Run 3 Languages Alongside a Company
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Nobody runs three languages on willpower. The founders who keep multiple languages alive alongside a company do not have more discipline than you. They have a system that makes the languages run on rails, the same way...
+- Link: https://dev.to/wumb0lover/the-operating-system-polyglot-founders-use-to-run-3-languages-alongside-a-company-24kg
+
+---
+
+## What I've Learned from Pitching 7 Companies (And Getting 0 Replies)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: 📌 Quick Info Topic: The reality of pitching companies as a beginner writer Target Audience: Anyone trying to break into writing, freelancing, or any creative field Goal: Show that the silence is normal, not a verdict...
+- Link: https://dev.to/sameerqaisar17/what-ive-learned-from-pitching-7-companies-and-getting-0-replies-a8l
 
 ---
 
@@ -152,23 +179,5 @@ _Generated on: 2026-09-30 07:40 UTC_
 - Category: Developer Blog
 - Summary: Explore the new features in Python 3.15, including lazy imports, frozendict, sentinel values, a sampling profiler, and a faster JIT.
 - Link: https://realpython.com/courses/whats-new-in-python-315/
-
----
-
-## Which Online AI Certifications Are Worth It for Career Growth?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Artificial intelligence is rapidly becoming part of modern workplaces, creating demand for professionals who understand how to apply AI effectively. From generative AI and AI agents to product management, security, an...
-- Link: https://dev.to/future_skillsacademy_4ca/which-online-ai-certifications-are-worth-it-for-career-growth-16g2
-
----
-
-## Your First Talk Only Needs One Thing That Happened to You
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Somebody at the local meetup asks whether you would give a talk next month. Your first reaction is probably a list of reasons you are not the right person. You are not an expert. Everyone in the room will know more. Y...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-first-talk-only-needs-one-thing-that-happened-to-you-5bjb
 
 ---

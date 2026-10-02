@@ -1,103 +1,85 @@
 # Learning Insights
 
-_Generated on: 2026-10-01 07:58 UTC_
+_Generated on: 2026-10-02 07:42 UTC_
 
-## 10 Claude Code CLI Mistakes That Kill Your Productivity — And How to Fix Each One
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 10 Claude Code CLI Mistakes That Kill Your Productivity — And How to Fix Each One Most developers who pick up Claude Code make the same mistakes in the first week. Not because they're careless — because the tool looks...
-- Link: https://dev.to/artifilog/10-claude-code-cli-mistakes-that-kill-your-productivity-and-how-to-fix-each-one-3n1o
-
----
-
-## Best AI Model Routers in 2026: Honest Rankings That Cut Through the Hype
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Best AI Model Routers in 2026: Honest Rankings That Cut Through the Hype Introduction You've seen the pitch. "Cut your LLM costs by 50% with AI routing." The demo looks impressive. The GitHub stars are piling up. So y...
-- Link: https://dev.to/artifilog/best-ai-model-routers-in-2026-honest-rankings-that-cut-through-the-hype-1i44
-
----
-
-## Blue Prism DEV01: Where the 60 Questions Come From and How to Spend 75 Minutes
+## A Friend Referred You and You Feel You Did Not Earn It
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The Blue Prism Developer exam (DEV01) gives you 60 questions in 75 minutes, and 70% of its weight sits in two objectives: Object Development and Process Development. If you build objects and processes every day, you a...
-- Link: https://dev.to/palak_mazumdar_f5431445f6/blue-prism-dev01-where-the-60-questions-come-from-and-how-to-spend-75-minutes-1g7e
+- Summary: A former colleague put your name forward. The recruiter called the same week, the interviews went well, and now you have the job. Somewhere in the first month a small voice starts up. You only got in because somebody...
+- Link: https://dev.to/asael_shinder_9f53bdca840/a-friend-referred-you-and-you-feel-you-did-not-earn-it-5g8h
 
 ---
 
-## How I'd Learn Python from Scratch (If I Started Today)
+## Avukat Ulaş Kafkas Koca hakkında uyarı
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Avukat Ulaş Kafkas Koca , mesleki faaliyetleri sırasında kendisine tevdi edilen görevleri kötüye kullanan, müvekkillerine ait mal varlıklarını, vekalet ücretlerini veya dava dosyalarına ilişkin tahsilatları zimmetine...
+- Link: https://dev.to/ulaskafkaskoca/avukat-ulas-kafkas-koca-hakkinda-uyari-1mgm
+
+---
+
+## Best Coding Resources to Start Your Programming Journey
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Learning programming is one of the most useful ways to develop practical digital skills. Whether you are a complete beginner, a student, a working professional, or someone planning a career in technology, learning to...
+- Link: https://dev.to/wp1click/best-coding-resources-to-start-your-programming-journey-57cb
+
+---
+
+## Build and Publish a Full-Stack Mobile App with AI
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept
+- Link: https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/
+
+---
+
+## Every Time You Say Just, Somebody Stops Asking
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: 📌 Quick Info Topic: A beginner-friendly roadmap for learning Python Target Audience: Anyone starting from zero Goal: Give a clear, honest roadmap based on real experience 1. Introduction "I started learning Python thr...
-- Link: https://dev.to/sameerqaisar17/how-id-learn-python-from-scratch-if-i-started-today-27bo
+- Summary: Someone new asks how to get the service running on their machine. You answer without looking up. Just run the setup script. They go back to their desk. The script fails on a version of something they have never heard...
+- Link: https://dev.to/sergueyasaelshinder/every-time-you-say-just-somebody-stops-asking-4bd6
 
 ---
 
-## How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript
+## How to Build a Code Graph in TypeScript Using VS Code's Language APIs
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Whether you're writing an essay, a tweet, or a blog post, keeping track of your word and character count is very important. In this tutorial, you'll build a fully functional, real-time Word Counter to
-- Link: https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/
+- Summary: Modern codebases are becoming increasingly difficult to navigate. This isn't necessarily because developers are writing more code themselves. It's mostly because coding assistants are generating hundr
+- Link: https://www.freecodecamp.org/news/how-to-build-a-code-graph-in-typescript-using-vs-code-language-apis/
 
 ---
 
-## How to Build a Reliable AI Assistant with the Claude API
+## How to Debug a Stuck Kubernetes Rollout with a Hands-On Lab
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Large language models can answer questions, summarise documents, write code, and interact with external systems. But building a reliable AI application requires more than sending a prompt and displayi
-- Link: https://www.freecodecamp.org/news/how-to-build-a-reliable-ai-assistant-with-the-claude-api/
+- Summary: You update a Deployment, run kubectl rollout status, and wait. The command times out. But when you send a request to the Service, it still answers. So did the update finish? And if it didn't, which Po
+- Link: https://www.freecodecamp.org/news/how-to-debug-a-stuck-kubernetes-rollout-with-a-hands-on-lab/
 
 ---
 
-## How to Build MCP Gateway from Scratch
+## How to Stop Your Android App from Draining the Battery with Wake Locks
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can keep a phone's CPU awake for hours, drain t
+- Link: https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/
+
+---
+
+## Iam 12 .My AI Mentor Just Grew Eyes and a Conscience. Introducing KODA Web v24: The Constitutional Era.
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: How to Build MCP Gateway from Scratch This guide covers how to build MCP gateway from scratch - a production middleware layer that routes, authenticates, rate-limits, and observably forwards AI agent tool calls. Cover...
-- Link: https://dev.to/artifilog/how-to-build-mcp-gateway-from-scratch-4857
-
----
-
-## How to Diagnose and Fix AI Inference Latency on Kubernetes
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: It's Thursday, around quarter past two. Your team shipped an internal assistant two weeks ago. The demo went well enough that someone in finance asked whether it could read contracts. Word spread. Tod
-- Link: https://www.freecodecamp.org/news/how-to-diagnose-and-fix-ai-inference-latency-on-kubernetes/
-
----
-
-## How to Get Early Traffic to Your New Web App + A $50 Bug Bounty Offer
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: link: "Visit our website, report a bug through feedback, and win $50 if a genuine bug is found!"
-- Link: https://dev.to/haroon_ali_ca42897903243f/how-to-get-early-traffic-to-your-new-web-app-a-50-bug-bounty-offer-54nd
-
----
-
-## How to Prevent LLM Hallucinations with Guardrails (2026)
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: How to Prevent LLM Hallucinations with Guardrails (2026) A support bot tells a customer that worn shoes qualify for a full refund. The policy says the opposite. The answer reads fluently, cites the right document, and...
-- Link: https://dev.to/artifilog/how-to-prevent-llm-hallucinations-with-guardrails-2026-48an
-
----
-
-## How to Use the Fullscreen API in JavaScript (and Keep the Screen Awake with the Wake Lock API)
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Sooner or later, most front-end developers hit the same request: "Can this take up the whole screen?" A slide deck, a video player, kiosk dashboard, game, drawing canvas, or timer on a classroom proje
-- Link: https://www.freecodecamp.org/news/fullscreen-api-javascript-wake-lock/
+- Summary: I am 12 years old. My development machine is a POCO C55 ($150 USD). It is October 2nd. For weeks, you’ve known KODA as the web-based AI coding mentor at koda-aicodementor.netlify.app . It taught you Python in Tamil, e...
+- Link: https://dev.to/koda2026/iam-12-i-wrote-a-10-article-constitution-for-my-ai-here-is-why-it-stops-hallucinations-dead-18hi
 
 ---
 
@@ -110,21 +92,12 @@ _Generated on: 2026-10-01 07:58 UTC_
 
 ---
 
-## Python Algorithmic Trading with SnapTrade, Massive, Alpaca
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: We just published a comprehensive, hands-on video course on the freeCodeCamp.org YouTube channel that will teach you how to build an automated, end-to-end algorithmic trading system from scratch using
-- Link: https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/
-
----
-
-## Quiz: How to Use Python: Taking Your First Steps
+## Quiz: Pygame: A Primer on Game Programming in Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your Python foundations. Review syntax, variables, data types, indentation, functions, errors, and the tools you write Python with.
-- Link: https://realpython.com/quizzes/first-steps-python/
+- Summary: Test your understanding of Pygame by working through questions on surfaces, the game loop, sprite groups, collision detection, and frame rate.
+- Link: https://realpython.com/quizzes/pygame-a-primer/
 
 ---
 
@@ -146,30 +119,30 @@ _Generated on: 2026-10-01 07:58 UTC_
 
 ---
 
-## The Developer Burnout Loop: Why a Structured Mindfulness Practice Can Be More Useful Than Another Productivity Hack
+## The 2026 DevDocs Playbook: Ranking Top Production-Ready Tools for Docs-as-Code &amp; API Specs (Your First Step to Cl...
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Developers are surrounded by optimization advice. Better task systems. Better keyboards. Better terminals. Better prompts. Better focus music. Yet many of the hardest workdays are not caused by a missing tool. They ar...
-- Link: https://dev.to/theholisticcare/the-developer-burnout-loop-why-a-structured-mindfulness-practice-can-be-more-useful-than-another-43l8
+- Category: Programming Tips
+- Summary: The 2026 DevDocs Playbook: Ranking Top Production-Ready Tools for Docs-as-Code & API Specs (Your First Step to Clarity) Original Engineering Publication: The 2026 DevDocs Playbook: Ranking Top Production-Ready Tools f...
+- Link: https://dev.to/baba_yaga_dee9f44c728109e/the-2026-devdocs-playbook-ranking-top-production-ready-tools-for-docs-as-code-amp-api-specs-2ebj
 
 ---
 
-## The Operating System Polyglot Founders Use to Run 3 Languages Alongside a Company
+## The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Nobody runs three languages on willpower. The founders who keep multiple languages alive alongside a company do not have more discipline than you. They have a system that makes the languages run on rails, the same way...
-- Link: https://dev.to/wumb0lover/the-operating-system-polyglot-founders-use-to-run-3-languages-alongside-a-company-24kg
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Node.js is a runtime environment for executing JavaScript outside the web browser. From small scripts to large-scale back-end applications, Node.js provides the APIs and tools you need to build JavaSc
+- Link: https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/
 
 ---
 
-## What I've Learned from Pitching 7 Companies (And Getting 0 Replies)
+## Union-Find: The Matrix of Disjoint Sets
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: 📌 Quick Info Topic: The reality of pitching companies as a beginner writer Target Audience: Anyone trying to break into writing, freelancing, or any creative field Goal: Show that the silence is normal, not a verdict...
-- Link: https://dev.to/sameerqaisar17/what-ive-learned-from-pitching-7-companies-and-getting-0-replies-a8l
+- Category: Programming Tips
+- Summary: The Quest Begins (The "Why") I still remember the first time I stared at a LeetCode problem that asked me to count how many separate groups of friends existed in a social network. My initial instinct was to throw a ne...
+- Link: https://dev.to/timevolt/union-find-the-matrix-of-disjoint-sets-3a8k
 
 ---
 
@@ -179,5 +152,32 @@ _Generated on: 2026-10-01 07:58 UTC_
 - Category: Developer Blog
 - Summary: Explore the new features in Python 3.15, including lazy imports, frozendict, sentinel values, a sampling profiler, and a faster JIT.
 - Link: https://realpython.com/courses/whats-new-in-python-315/
+
+---
+
+## You Are the Only Developer in the Building
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You work at a small charity, or a family logistics firm, or a clinic with forty staff, and you are the technology team. Everyone is kind. Nobody can review your code. When you get something right nobody notices, and w...
+- Link: https://dev.to/asael_shinder_9f53bdca840/you-are-the-only-developer-in-the-building-1645
+
+---
+
+## Your Company Has Just Been Bought
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The announcement arrives on a Tuesday morning, with a video of two chief executives smiling in front of a joint logo. An exciting next chapter. Nothing changes for now. You read it twice and then open the job boards,...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-company-has-just-been-bought-301n
+
+---
+
+## Your Manager Will Have More People and Less Time for You
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Over the last few years, many companies have removed layers of management. Fewer managers, each looking after more people. A team lead who once had six reports now has twelve. Someone who used to manage managers now h...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-manager-will-have-more-people-and-less-time-for-you-1j88
 
 ---

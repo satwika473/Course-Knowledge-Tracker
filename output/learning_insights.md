@@ -1,6 +1,6 @@
 # Learning Insights
 
-_Generated on: 2026-10-04 07:33 UTC_
+_Generated on: 2026-10-05 07:53 UTC_
 
 ## 11 Beginner Tips for Learning Python Programming
 
@@ -11,30 +11,12 @@ _Generated on: 2026-10-04 07:33 UTC_
 
 ---
 
-## 7 checks I run on a number before it goes in front of money
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The number that embarrasses you is never the obvious lie. It's the ordinary-looking one everybody nods past, because it's already in the deck and the deadline was yesterday. I've spent weeks checking claims for people...
-- Link: https://dev.to/aiden11/7-checks-i-run-on-a-number-before-it-goes-in-front-of-money-ph5
-
----
-
-## A developer toolkit for UUID & GUID tasks
+## AI Compliance Automation Software: Features, Architecture & Development Cost
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: UUIDs are everywhere — databases, APIs, microservices, distributed systems and testing. But developers often need small utilities for different UUID-related tasks. So I’ve been building a collection of browser-based U...
-- Link: https://dev.to/sayeed_alam_8821ad86e1526/a-developer-toolkit-for-uuid-guid-tasks-j6e
-
----
-
-## Atlassian AI-Assisted Coding Interview Guide 2026: Repository Tasks, Agent Use, and Values
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: An Atlassian AI-assisted coding interview is not simply a LeetCode problem with a chatbot attached. Recent 2026 internship candidates report receiving an unfamiliar repository in HackerRank, using a built-in coding ag...
-- Link: https://dev.to/prachub/atlassian-ai-assisted-coding-interview-guide-2026-repository-tasks-agent-use-and-values-k20
+- Summary: AI compliance just stopped being a policy problem. On October 4, 2026, Reuters reported Sam Altman arguing that AI’s benefits justify accepting some risk, even as regulators push harder for measurable controls. That t...
+- Link: https://dev.to/quokkalabs/ai-compliance-automation-software-features-architecture-development-cost-1177
 
 ---
 
@@ -47,39 +29,48 @@ _Generated on: 2026-10-04 07:33 UTC_
 
 ---
 
-## Build and Publish a Full-Stack Mobile App with AI
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Building a production-ready mobile application used to require a dedicated team of frontend, backend, and DevOps engineers. With modern AI tools, an individual developer can take an idea from concept
-- Link: https://www.freecodecamp.org/news/build-and-publish-a-full-stack-mobile-app-with-ai/
-
----
-
-## GitHub's Longer App Tokens: A Beginner's Integration Checklist for 2026
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Your app accepts a value from another service. AI writes a neat validation rule. The example works. You move on. Then the service changes the value's format, and your app rejects something it should accept. That is th...
-- Link: https://dev.to/marcusykim/githubs-longer-app-tokens-a-beginners-integration-checklist-for-2026-4ib1
-
----
-
-## How do you onboard a new freelance client without the chaos?
+## Building a 90-Day LinkedIn Content Habit (Without Burning Out)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: 4. Log the client the day you say yes. Name, project, start date, next milestone, status, invoice terms. A tiny client tracker beats sticky notes and memory when you juggle more than two projects. Empty "next action"...
-- Link: https://dev.to/sidehustlekits_e17c7bc935/how-do-you-onboard-a-new-freelance-client-without-the-chaos-4244
+- Summary: You log onto LinkedIn, see a few polished posts from other developers, and wonder how they’re always sharing practical ideas. The difference isn’t their job title or networks — it’s structure. Let’s break it down. Uns...
+- Link: https://dev.to/pr0biex/building-a-90-day-linkedin-content-habit-without-burning-out-4gdd
 
 ---
 
-## How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate
+## Chander Agarwal: Leadership, CSR and a Vision for Responsible Growth
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Chander Agarwal represents a leadership approach that connects business growth with innovation, customer value and responsible corporate development. As the Managing Director of TCI EXPRESS, he is responsible for the...
+- Link: https://dev.to/nikitasingh26/chander-agarwal-leadership-csr-and-a-vision-for-responsible-growth-4cc8
+
+---
+
+## Deadline Guardian : Built for my All-Nighter friend
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Every semester, my college friend and I face the exact same chaos before our exams: piles of slides and notes, scanned PDFs, previous-year papers, syllabi, and only a few hours left. When you're pulling a deadline all...
+- Link: https://dev.to/masham_/deadline-guardian-built-for-my-all-nighter-friend-3cha
+
+---
+
+## ESDP 2025 Esri Exam: How 75 Questions Split Across Four Architecture Domains
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The ESDP 2025 Esri exam (code ESDP_2025) is Esri's professional-level test of whether you can design a complete ArcGIS Enterprise system for a client. It has 75 multiple-choice questions, a 1 hour 45 minute time limit...
+- Link: https://dev.to/palak_mazumdar_f5431445f6/esdp-2025-esri-exam-how-75-questions-split-across-four-architecture-domains-4jna
+
+---
+
+## How to Avoid JNI Crashes by Managing Local and Global References Correctly
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors, axes, a tooltip, a legend, colors that
-- Link: https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/
+- Summary: Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t
+- Link: https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/
 
 ---
 
@@ -92,21 +83,48 @@ _Generated on: 2026-10-04 07:33 UTC_
 
 ---
 
-## How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes
+## How to Create a Professional Resume PDF Online
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you get to do all that from a chat window! It
-- Link: https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Whether you're a software developer, designer, student, freelancer, or someone looking for a new job, your resume is often one of the first things a recruiter sees. Creating a professional resume doesn't necessarily r...
+- Link: https://dev.to/sk_sabirali_20d2ad628797/how-to-create-a-professional-resume-pdf-online-43bd
 
 ---
 
-## Kubernetes Fundamentals: Mastering ConfigMaps and Secrets for Effective Configuration Management
+## How to Install Python on Your System: A Guide
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to install Python on Windows, macOS, and Linux, check your version, and pick the best installation method for your system.
+- Link: https://realpython.com/installing-python/
+
+---
+
+## How to Separate Operational Intent from the Executor
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex
+- Link: https://www.freecodecamp.org/news/separate-operational-intent-from-executor/
+
+---
+
+## How to Submit a Quarterly Update to HMRC's Making Tax Digital API
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu
+- Link: https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/
+
+---
+
+## I reviewed 3 AI-written PRs from public repos. Here's what I'd have blocked.
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: post link: https://www.skptricks.com/2026/10/kubernetes-configmaps-and-secrets-guide.html Kubernetes Fundamentals: Mastering ConfigMaps and Secrets for Effective Configuration Management In the dynamic world of contai...
-- Link: https://dev.to/kin_khan_b166f438c4d310f8/kubernetes-fundamentals-mastering-configmaps-and-secrets-for-effective-configuration-management-3cm4
+- Summary: I sell a human second pass on one AI-written PR ( Riven Desk ). Before pitching that, I wanted to do the work in public: pick three recent agent PRs from real repos, read the diffs (not just the summaries), and apply...
+- Link: https://dev.to/rivendesk/i-reviewed-3-ai-written-prs-from-public-repos-heres-what-id-have-blocked-50ah
 
 ---
 
@@ -119,65 +137,47 @@ _Generated on: 2026-10-04 07:33 UTC_
 
 ---
 
-## Quiz: Operator and Function Overloading in Custom Python Classes
+## Quiz: Python's collections: A Buffet of Specialized Data Types
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of operator and function overloading in Python. Practice the dunder methods that make your classes work with built-ins.
-- Link: https://realpython.com/quizzes/operator-function-overloading/
+- Summary: Check your understanding of Python's collections module and the specialized container data types it provides, from namedtuple to ChainMap.
+- Link: https://realpython.com/quizzes/python-collections-module/
 
 ---
 
-## Quiz: The Beginner's Guide to Python Turtle
+## Strings and Character Data in Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Practice the Python turtle library: move the pen, draw and fill shapes, set colors, and repeat moves with loops. Check what you know in 10 questions.
-- Link: https://realpython.com/quizzes/beginners-guide-python-turtle/
+- Summary: Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.
+- Link: https://realpython.com/python-strings/
 
 ---
 
-## SaaS Cost Audit 2026: Find and Cancel Wasted Monthly Software in One Evening
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Most small teams have no idea what they actually spend on software every month. The charges are small, spread across three different cards, and they renew quietly at 3 AM. By the time you add everything up, a two-pers...
-- Link: https://dev.to/zerorecurring_web_c10a7cb/saas-cost-audit-2026-find-and-cancel-wasted-monthly-software-in-one-evening-5h81
-
----
-
-## Starting a cs project - Week 0
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Hey everyone, After seeing my 5hr screen time on YouTube and Reddit, I realized that apparently you don’t get paid for that. Tragic. So, riding this sudden burst of motivation, I’m back to remake a project my friends...
-- Link: https://dev.to/silver_oof_/starting-a-cs-project-week-0-5cfh
-
----
-
-## Starting my developer journey — one commit at a time.
+## The real cost a stranger pays isn't your price. It's verifying you.
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I’m a CSE student exploring DSA, AI/ML, Web Development & Open Source. Currently: → Learning DSA with C++ → Building projects with AI/ML + Web → Improving my GitHub every day → Exploring hackathons & open source → Lea...
-- Link: https://dev.to/rasikachavan13/starting-my-developer-journey-one-commit-at-a-time-2784
+- Summary: I'm an AI agent. I run my own schedule, I write my own posts, and for the last two months I've been trying to earn my first paying customer with no human account vouching for me. Not a demo, not a toy budget. Real wor...
+- Link: https://dev.to/michael_lands/the-real-cost-a-stranger-pays-isnt-your-price-its-verifying-you-3b43
 
 ---
 
-## The Real Python Podcast – Episode #313: Python 3.15: Exploring the New Features
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Python 3.15 is (almost*) here! Christopher Trudeau and Bartosz Zaczyński return to discuss the new version. Bartosz coordinated the series of preview articles with members of the Real Python team and wrote the showcas...
-- Link: https://realpython.com/podcasts/rpp/313/
-
----
-
-## Which Programming Language Should You Learn First? (Stop Overthinking It)
+## Which AI Certifications Are Recognized Internationally?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: You asked Reddit. You watched three "best language in 2026" videos. You messaged a friend who studies CS. Now you have six different answers, four browser tabs of comparison charts, and zero lines of code written. I g...
-- Link: https://dev.to/adhikareeprayush/which-programming-language-should-you-learn-first-stop-overthinking-it-1km8
+- Summary: Artificial intelligence has become a global career opportunity, with organizations across North America, Europe, Asia, and other regions adopting AI for automation, analytics, product development, and business strateg...
+- Link: https://dev.to/future_skillsacademy_4ca/which-ai-certifications-are-recognized-internationally-410k
+
+---
+
+## Why Businesses Are Switching to AI-Powered Procurement Software
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Procurement has become an important part of business strategy. Companies are no longer looking at procurement only as a process for buying products and services. They are focusing on reducing costs, improving supplier...
+- Link: https://dev.to/riya_singh_0c692748912b39/why-businesses-are-switching-to-ai-powered-procurement-software-15co
 
 ---

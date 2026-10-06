@@ -1,94 +1,67 @@
 # Learning Insights
 
-_Generated on: 2026-10-05 07:53 UTC_
+_Generated on: 2026-10-06 08:17 UTC_
 
-## 11 Beginner Tips for Learning Python Programming
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Python tips for beginners: the learning strategies and habits that take you from your first script to code you're proud of.
-- Link: https://realpython.com/python-beginner-tips/
-
----
-
-## AI Compliance Automation Software: Features, Architecture & Development Cost
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: AI compliance just stopped being a policy problem. On October 4, 2026, Reuters reported Sam Altman arguing that AI’s benefits justify accepting some risk, even as regulators push harder for measurable controls. That t...
-- Link: https://dev.to/quokkalabs/ai-compliance-automation-software-features-architecture-development-cost-1177
-
----
-
-## Basic Data Types in Python: A Quick Exploration
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore the Python basic data types built into the language: numbers, strings, bytes, and Booleans, and how each one behaves.
-- Link: https://realpython.com/python-data-types/
-
----
-
-## Building a 90-Day LinkedIn Content Habit (Without Burning Out)
+## A Beginner's Roadmap to Learning Digital Marketing
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: You log onto LinkedIn, see a few polished posts from other developers, and wonder how they’re always sharing practical ideas. The difference isn’t their job title or networks — it’s structure. Let’s break it down. Uns...
-- Link: https://dev.to/pr0biex/building-a-90-day-linkedin-content-habit-without-burning-out-4gdd
+- Summary: Digital marketing seems easy at first glance. It starts with seeing a Google search, an Instagram ad, a YouTube video, or an email promotion. But beyond a single post, there might be several decisions made by digital...
+- Link: https://dev.to/prabhleen_kaur/a-beginners-roadmap-to-learning-digital-marketing-550o
 
 ---
 
-## Chander Agarwal: Leadership, CSR and a Vision for Responsible Growth
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Chander Agarwal represents a leadership approach that connects business growth with innovation, customer value and responsible corporate development. As the Managing Director of TCI EXPRESS, he is responsible for the...
-- Link: https://dev.to/nikitasingh26/chander-agarwal-leadership-csr-and-a-vision-for-responsible-growth-4cc8
-
----
-
-## Deadline Guardian : Built for my All-Nighter friend
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Every semester, my college friend and I face the exact same chaos before our exams: piles of slides and notes, scanned PDFs, previous-year papers, syllabi, and only a few hours left. When you're pulling a deadline all...
-- Link: https://dev.to/masham_/deadline-guardian-built-for-my-all-nighter-friend-3cha
-
----
-
-## ESDP 2025 Esri Exam: How 75 Questions Split Across Four Architecture Domains
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The ESDP 2025 Esri exam (code ESDP_2025) is Esri's professional-level test of whether you can design a complete ArcGIS Enterprise system for a client. It has 75 multiple-choice questions, a 1 hour 45 minute time limit...
-- Link: https://dev.to/palak_mazumdar_f5431445f6/esdp-2025-esri-exam-how-75-questions-split-across-four-architecture-domains-4jna
-
----
-
-## How to Avoid JNI Crashes by Managing Local and Global References Correctly
+## API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has become invalid, creating references faster t
-- Link: https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/
+- Summary: Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where
+- Link: https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/
 
 ---
 
-## How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev
+## Don't Repeat Yourself: the second sentence is the one that matters
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I've watched DRY get applied as a reflex more than as a rule. Someone reads the Pragmatic Programmer, sees two similar lines a week later, and extracts a helper. Six months on the helper is a flag for every caller and...
+- Link: https://dev.to/nark3d/dont-repeat-yourself-the-second-sentence-is-the-one-that-matters-16jd
+
+---
+
+## Give Your AI Coding Agent the Context It Needs to Build and Test
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: An AI coding agent can understand Java and still choose the wrong Maven profile, run an expensive integration suite for a small edit, or put persistence code in a REST resource. The missing information is often specif...
+- Link: https://dev.to/myfear/give-your-ai-coding-agent-the-context-it-needs-to-build-and-test-42ff
+
+---
+
+## How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social media about a page that won't load on the
-- Link: https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/
+- Summary: Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem
+- Link: https://www.freecodecamp.org/news/ai-email-deliverability-explained/
 
 ---
 
-## How to Create a Professional Resume PDF Online
+## How to Break the AI Coding Agent Fix Loop
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Whether you're a software developer, designer, student, freelancer, or someone looking for a new job, your resume is often one of the first things a recruiter sees. Creating a professional resume doesn't necessarily r...
-- Link: https://dev.to/sk_sabirali_20d2ad628797/how-to-create-a-professional-resume-pdf-online-43bd
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It "fixes" it. But the bug is still there, or a second bug appears. So
+- Link: https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/
+
+---
+
+## How to Encrypt PII in Data Pipelines While Keeping It Searchable
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: At Intuit, my team built a data pipeline that processed TurboTax e-filing data. This data needed to be made available for dashboards, analytics, and other downstream use cases. One of the biggest chal
+- Link: https://www.freecodecamp.org/news/how-to-encrypt-pii-in-data-pipelines-while-keeping-it-searchable/
 
 ---
 
@@ -101,39 +74,66 @@ _Generated on: 2026-10-05 07:53 UTC_
 
 ---
 
-## How to Separate Operational Intent from the Executor
+## How to Use NestJS Observe: An Observability Handbook for Devs
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: In my previous article, I argued that software automation needs a layer between operational intent and execution. The reason is simple: the specification should describe what success means, and the ex
-- Link: https://www.freecodecamp.org/news/separate-operational-intent-from-executor/
+- Summary: Observability isn't a new problem, and NestJS is certainly not the first ecosystem to tackle it. But NestJS Observe is interesting because it asks a more specific question: what happens when observabi
+- Link: https://www.freecodecamp.org/news/how-to-use-nestjs-observe-an-observability-handbook-for-devs/
 
 ---
 
-## How to Submit a Quarterly Update to HMRC's Making Tax Digital API
+## I Rebuilt My Developer Portfolio Around the Work, Not the Tech Stack
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Four times a year, every sole trader and landlord in Making Tax Digital (MTD) for Income Tax has to send HMRC a summary of their income and expenses. The first deadline of the 2026-27 tax year, 7 Augu
-- Link: https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I recently gave my developer portfolio a major update. I’m still iterating on it and improving things as I go, but I thought I’d share it now and get some feedback from others. 👉 Portfolio: https://keshavkjha.com Afte...
+- Link: https://dev.to/mekkj98/i-rebuilt-my-developer-portfolio-around-the-work-not-the-tech-stack-46j9
 
 ---
 
-## I reviewed 3 AI-written PRs from public repos. Here's what I'd have blocked.
+## JetBrains Air puts 5 agents in one IDE: 4 config checks before you install the EAP
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I sell a human second pass on one AI-written PR ( Riven Desk ). Before pitching that, I wanted to do the work in public: pick three recent agent PRs from real repos, read the diffs (not just the summaries), and apply...
-- Link: https://dev.to/rivendesk/i-reviewed-3-ai-written-prs-from-public-repos-heres-what-id-have-blocked-50ah
+- Summary: JetBrains opened the Early Access Program for Air in its IDEs this morning. The short version: a tool window that orchestrates coding agents, runs them in parallel sessions, and ships with no agents installed. Out of...
+- Link: https://dev.to/piekwerk/jetbrains-air-puts-5-agents-in-one-ide-4-config-checks-before-you-install-the-eap-17hn
 
 ---
 
-## Learn Modern Kotlin
+## My coding agent stopped because it wasn't allowed to continue. Good.
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend services, or cross-platform applications,
-- Link: https://www.freecodecamp.org/news/learn-modern-kotlin/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A few nights ago, a coding-agent loop I run on a side project reached a fourth review round. There was an apparent fix for the latest blocker, and the loop had already gone through three rounds of implementation and r...
+- Link: https://dev.to/serhiibaksheiev/my-coding-agent-stopped-because-it-wasnt-allowed-to-continue-good-5hf9
+
+---
+
+## My First Open Source Contribution: Fixing a Card Deletion Bug in Orbit Board
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: This week, I made my first contribution to an open-source project, and it was a much more interesting experience than I expected. I contributed to Orbit Board, a project from the Kalvium community. While working with...
+- Link: https://dev.to/gauri_mhetre_30/my-first-open-source-contribution-fixing-a-card-deletion-bug-in-orbit-board-25am
+
+---
+
+## Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Python 3.15 gets a surprise RC3, the first Packaging Council is elected, Polars 2.0 and SQLAlchemy 2.1 arrive, and AI APIs break Python code again.
+- Link: https://realpython.com/python-news-october-2026/
+
+---
+
+## Quiz: How to Launch an HTTP Server in One Line of Python Code
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of Python's http.server module. Serve files with one command, run CGI scripts, and encrypt the connection with HTTPS.
+- Link: https://realpython.com/quizzes/python-http-server/
 
 ---
 
@@ -146,38 +146,38 @@ _Generated on: 2026-10-05 07:53 UTC_
 
 ---
 
+## Scrum Master Interview: Best Practices, Tips and Checklist
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Best Practice, Tips and Checklist for scrum master interview Preparing for a Scrum Master or Agile Project Manager Interview Preparing for a Scrum Master or Agile Project Manager interview is a multifaceted process th...
+- Link: https://dev.to/theagileforum/scrum-master-interview-best-practices-tips-and-checklist-1dka
+
+---
+
+## Scrum Master Resume: How to Create a Winning CV
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I see so much confusion on how to build an effective resume, as a coach and transformation leader I took 100’s interviews in 2023, so I tried to jot down all points below so that they can help you all: Resume play a p...
+- Link: https://dev.to/theagileforum/scrum-master-resume-how-to-create-a-winning-cv-3e65
+
+---
+
+## Scrum Master Training: Is It Really Required?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The Importance of Hands-On Scrum Master Trainings In today's dynamic and fast-paced business landscape, organizations are constantly seeking ways to deliver value to their customers more efficiently. Agile methodologi...
+- Link: https://dev.to/theagileforum/scrum-master-training-is-it-really-required-445g
+
+---
+
 ## Strings and Character Data in Python
 
 - Source: Real Python
 - Category: Developer Blog
 - Summary: Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.
 - Link: https://realpython.com/python-strings/
-
----
-
-## The real cost a stranger pays isn't your price. It's verifying you.
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I'm an AI agent. I run my own schedule, I write my own posts, and for the last two months I've been trying to earn my first paying customer with no human account vouching for me. Not a demo, not a toy budget. Real wor...
-- Link: https://dev.to/michael_lands/the-real-cost-a-stranger-pays-isnt-your-price-its-verifying-you-3b43
-
----
-
-## Which AI Certifications Are Recognized Internationally?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Artificial intelligence has become a global career opportunity, with organizations across North America, Europe, Asia, and other regions adopting AI for automation, analytics, product development, and business strateg...
-- Link: https://dev.to/future_skillsacademy_4ca/which-ai-certifications-are-recognized-internationally-410k
-
----
-
-## Why Businesses Are Switching to AI-Powered Procurement Software
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Procurement has become an important part of business strategy. Companies are no longer looking at procurement only as a process for buying products and services. They are focusing on reducing costs, improving supplier...
-- Link: https://dev.to/riya_singh_0c692748912b39/why-businesses-are-switching-to-ai-powered-procurement-software-15co
 
 ---

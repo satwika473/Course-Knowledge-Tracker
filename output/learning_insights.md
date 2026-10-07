@@ -1,13 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-10-06 08:17 UTC_
+_Generated on: 2026-10-07 07:52 UTC_
 
-## A Beginner's Roadmap to Learning Digital Marketing
+## 7 Things to Learn Before Starting Ethical Hacking
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Digital marketing seems easy at first glance. It starts with seeing a Google search, an Instagram ad, a YouTube video, or an email promotion. But beyond a single post, there might be several decisions made by digital...
-- Link: https://dev.to/prabhleen_kaur/a-beginners-roadmap-to-learning-digital-marketing-550o
+- Summary: Ethical hacking has become an interesting area for students and technology enthusiasts. But many beginners make the same mistake: they start downloading hacking tools before understanding the technology those tools ar...
+- Link: https://dev.to/qnayds_career_41b7fe9fc95/7-things-to-learn-before-starting-ethical-hacking-4f16
+
+---
+
+## [Boost]
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Why you still need a Website Portfolio, even though everyone can Vibe Code it. Addresses the rising AI noise in hiring FrancisTRᴅᴇᴠ FrancisTRᴅᴇᴠ FrancisTRᴅᴇᴠ Follow Oct 5 Why you still need a Website Portfolio, even t...
+- Link: https://dev.to/kahenda/-2ag3
 
 ---
 
@@ -20,30 +29,39 @@ _Generated on: 2026-10-06 08:17 UTC_
 
 ---
 
-## Don't Repeat Yourself: the second sentence is the one that matters
+## Cómo calcular tu finiquito en México 2026
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: I've watched DRY get applied as a reflex more than as a rule. Someone reads the Pragmatic Programmer, sees two similar lines a week later, and extracts a helper. Six months on the helper is a flag for every caller and...
-- Link: https://dev.to/nark3d/dont-repeat-yourself-the-second-sentence-is-the-one-that-matters-16jd
+- Category: Career Guidance
+- Summary: ¿Vas a renunciar o te van a despedir? Antes de firmar cualquier documento, es muy importante saber cuánto te corresponde recibir. Tu finiquito debe incluir, según la Ley Federal del Trabajo (LFT) vigente en 2026: los...
+- Link: https://dev.to/zackfiniquito/como-calcular-tu-finiquito-en-mexico-2026-42d3
 
 ---
 
-## Give Your AI Coding Agent the Context It Needs to Build and Test
+## Data Science in 2026: A Practical Guide to Skills, Careers, and Getting Started
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: An AI coding agent can understand Java and still choose the wrong Maven profile, run an expensive integration suite for a small edit, or put persistence code in a REST resource. The missing information is often specif...
-- Link: https://dev.to/myfear/give-your-ai-coding-agent-the-context-it-needs-to-build-and-test-42ff
+- Category: Career Guidance
+- Summary: Every time you stream a show, order food online, or get a fraud alert from your bank, data science is working behind the scenes. Companies now treat data as one of their most valuable assets, and the people who can tu...
+- Link: https://dev.to/qadoos_seo_d443ffb79376f2/data-science-in-2026-a-practical-guide-to-skills-careers-and-getting-started-59c7
 
 ---
 
-## How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement
+## Exploring the MVC Pattern in Python
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Sending an email doesn't always mean it will reach the recipient's inbox. Sometimes, an email is sent successfully by an application but ends up in the spam folder instead. This can be a real problem
-- Link: https://www.freecodecamp.org/news/ai-email-deliverability-explained/
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how the Model-View-Controller pattern organizes Python web apps, then build a small Flask app using models, views, and controllers.
+- Link: https://realpython.com/courses/exploring-mvc-pattern-python/
+
+---
+
+## How to Architect Machine Learning Development Services for Production Inference with Python and AWS
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A machine learning model can perform well in a notebook and still fail inside a production API. The common causes are not always model accuracy. Cold starts, oversized payloads, synchronous preprocessing, connection l...
+- Link: https://dev.to/naresh_chandralohani/how-to-architect-machine-learning-development-services-for-production-inference-with-python-and-aws-13b5
 
 ---
 
@@ -65,12 +83,12 @@ _Generated on: 2026-10-06 08:17 UTC_
 
 ---
 
-## How to Install Python on Your System: A Guide
+## How to Evaluate an India Software Development Partner: A CTO's Due-Diligence Checklist
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to install Python on Windows, macOS, and Linux, check your version, and pick the best installation method for your system.
-- Link: https://realpython.com/installing-python/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Originally published at https://axentis.tech/evaluate-india-software-development-partner/ . Choosing an India software development partner looks simple until delivery starts. Proposals read alike, and sales calls rare...
+- Link: https://dev.to/kapilaxentis/how-to-evaluate-an-india-software-development-partner-a-ctos-due-diligence-checklist-52l4
 
 ---
 
@@ -83,39 +101,21 @@ _Generated on: 2026-10-06 08:17 UTC_
 
 ---
 
-## I Rebuilt My Developer Portfolio Around the Work, Not the Tech Stack
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I recently gave my developer portfolio a major update. I’m still iterating on it and improving things as I go, but I thought I’d share it now and get some feedback from others. 👉 Portfolio: https://keshavkjha.com Afte...
-- Link: https://dev.to/mekkj98/i-rebuilt-my-developer-portfolio-around-the-work-not-the-tech-stack-46j9
-
----
-
-## JetBrains Air puts 5 agents in one IDE: 4 config checks before you install the EAP
+## Knowing the Words Isn't Knowing the Language
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: JetBrains opened the Early Access Program for Air in its IDEs this morning. The short version: a tool window that orchestrates coding agents, runs them in parallel sessions, and ships with no agents installed. Out of...
-- Link: https://dev.to/piekwerk/jetbrains-air-puts-5-agents-in-one-ide-4-config-checks-before-you-install-the-eap-17hn
+- Summary: You've got a 200-day Duolingo streak. The owl is proud of you. Then you land in Rome, sit down in a trattoria, and order. Every word is owl-approved. The grammar too. You think. The waiter nods, smiles, and brings you...
+- Link: https://dev.to/testingil/knowing-the-words-isnt-knowing-the-language-4n2o
 
 ---
 
-## My coding agent stopped because it wasn't allowed to continue. Good.
+## One word beats two witnesses: "update" framing hijacks agent memory
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A few nights ago, a coding-agent loop I run on a side project reached a fourth review round. There was an apparent fix for the latest blocker, and the loop had already gone through three rounds of implementation and r...
-- Link: https://dev.to/serhiibaksheiev/my-coding-agent-stopped-because-it-wasnt-allowed-to-continue-good-5hf9
-
----
-
-## My First Open Source Contribution: Fixing a Card Deletion Bug in Orbit Board
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: This week, I made my first contribution to an open-source project, and it was a much more interesting experience than I expected. I contributed to Orbit Board, a project from the Kalvium community. While working with...
-- Link: https://dev.to/gauri_mhetre_30/my-first-open-source-contribution-fixing-a-card-deletion-bug-in-orbit-board-25am
+- Summary: All numbers come from pre-registered or clearly marked exploratory experiments; code and raw results are listed at the end. TL;DR An agent with long-term memory is asked "What is Acme Corp's payment IBAN?". Memory hol...
+- Link: https://dev.to/teolex2020/one-word-beats-two-witnesses-update-framing-hijacks-agent-memory-2aim
 
 ---
 
@@ -128,6 +128,15 @@ _Generated on: 2026-10-06 08:17 UTC_
 
 ---
 
+## Quiz: Exploring the MVC Pattern in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of the Model-View-Controller pattern and how models, views, and controllers work together in a small Flask app.
+- Link: https://realpython.com/quizzes/exploring-mvc-pattern-python/
+
+---
+
 ## Quiz: How to Launch an HTTP Server in One Line of Python Code
 
 - Source: Real Python
@@ -137,47 +146,38 @@ _Generated on: 2026-10-06 08:17 UTC_
 
 ---
 
-## Quiz: Python's collections: A Buffet of Specialized Data Types
+## Quiz: Using pandas and Python to Explore Your Dataset
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of Python's collections module and the specialized container data types it provides, from namedtuple to ChainMap.
-- Link: https://realpython.com/quizzes/python-collections-module/
+- Summary: Explore a dataset with pandas: load a CSV, select rows and columns, query and group your data, handle missing values, and plot what you find.
+- Link: https://realpython.com/quizzes/pandas-python-explore-dataset/
 
 ---
 
-## Scrum Master Interview: Best Practices, Tips and Checklist
+## RepoDNA v1.2.2
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Best Practice, Tips and Checklist for scrum master interview Preparing for a Scrum Master or Agile Project Manager Interview Preparing for a Scrum Master or Agile Project Manager interview is a multifaceted process th...
-- Link: https://dev.to/theagileforum/scrum-master-interview-best-practices-tips-and-checklist-1dka
+- Category: Programming Tips
+- Summary: RepoDNA v1.2.2: A Small Follow-Up for Better Mobile Tables and npm Releases RepoDNA v1.2.2 is now available. This release is intentionally small. Instead of introducing another large subsystem, it focuses on two pract...
+- Link: https://dev.to/sanskarin/repodna-v122-41af
 
 ---
 
-## Scrum Master Resume: How to Create a Winning CV
+## The Business Guide to AI Document Automation: Pitfalls, Costs, and Delivery
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: I see so much confusion on how to build an effective resume, as a coach and transformation leader I took 100’s interviews in 2023, so I tried to jot down all points below so that they can help you all: Resume play a p...
-- Link: https://dev.to/theagileforum/scrum-master-resume-how-to-create-a-winning-cv-3e65
+- Category: Programming Tips
+- Summary: Documents are part of almost every business process. Invoices, contracts, purchase orders, applications, reports, forms, employee records, and customer documents can generate thousands of pages of information every ye...
+- Link: https://dev.to/sairaaslam-coder/the-business-guide-to-ai-document-automation-pitfalls-costs-and-delivery-4joj
 
 ---
 
-## Scrum Master Training: Is It Really Required?
+## What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The Importance of Hands-On Scrum Master Trainings In today's dynamic and fast-paced business landscape, organizations are constantly seeking ways to deliver value to their customers more efficiently. Agile methodologi...
-- Link: https://dev.to/theagileforum/scrum-master-training-is-it-really-required-445g
-
----
-
-## Strings and Character Data in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.
-- Link: https://realpython.com/python-strings/
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc
+- Link: https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/
 
 ---

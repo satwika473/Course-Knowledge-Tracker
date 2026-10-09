@@ -1,40 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-10-08 08:08 UTC_
+_Generated on: 2026-10-09 08:08 UTC_
 
-## 2025 Subaru Legacy: Is It Worth Buying?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The sedan segment has shrunk considerably, which makes the final model year of the Subaru Legacy feel like something worth paying attention to. Anyone weighing it up should start with a detailed Subaru Legacy overview...
-- Link: https://dev.to/grandsubaru/2025-subaru-legacy-is-it-worth-buying-pjp
-
----
-
-## 80 remote job sites ranked by how much of your life they deserve
+## "Remote" doesn't mean "anywhere": I built an API that checks if you can actually apply
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Everyone wants to work remotely. Pyjama bottoms, a hot chai, and a Zoom call where only the shirt is professional. The dream is real, but the internet has roughly 4,000 websites claiming to give it to you, and about 4...
-- Link: https://dev.to/rohan_sharma/80-remote-job-sites-ranked-by-how-much-of-your-life-they-deserve-4mih
+- Summary: If you've looked for remote work from outside the US, you know the routine: find a great "remote" role, write a cover letter, scroll to the bottom of the ad, and read "US residents only." So I measured it. In a sample...
+- Link: https://dev.to/quietbytedev/remote-doesnt-mean-anywhere-i-built-an-api-that-checks-if-you-can-actually-apply-nf1
 
 ---
 
-## A Practical Guide to Roofing Lead Generation
+## AI Got Better While I Was Away. Software Didn't.
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Getting a steady flow of qualified prospects is one of the biggest challenges for roofing contractors. A company can have experienced crews, strong reviews, and quality workmanship, but growth becomes difficult when t...
-- Link: https://dev.to/grow_myroofing_2365dd793/a-practical-guide-to-roofing-lead-generation-29b9
+- Summary: I haven't written here in a while. Not because I ran out of opinions. That would be concerning. I just got tired of the endless stream of: AI will replace developers AI will never replace developers this model changes...
+- Link: https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b
 
 ---
 
-## API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes
+## AI Python Cert Advisor Prompt: Get Personalized Certification Advice
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems where JWTs had no expiry. Systems where
-- Link: https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Today, QuackBuilds is releasing the AI Python Cert Advisor Prompt. This prompt template is designed to help individuals get personalized Python certification recommendations from an AI. The tool focuses on providing t...
+- Link: https://dev.to/itsevilduck/ai-python-cert-advisor-prompt-get-personalized-certification-advice-3e9m
 
 ---
 
@@ -47,30 +38,39 @@ _Generated on: 2026-10-08 08:08 UTC_
 
 ---
 
-## CVBoost: tailoring a CV to the actual job description with Groq's LLaMA 3.1 70B
+## Does this company really sponsor visas? I joined Workday job ads with H-1B and UK sponsor records
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: One CV, fifty applications: it's the default strategy, and it's a losing one. Recruiters read for fit against a specific job description; a generic CV reads as generic. Tailoring by hand works, but an hour per applica...
-- Link: https://dev.to/agbor_thomasayukcarmelo/cvboost-tailoring-a-cv-to-the-actual-job-description-with-groqs-llama-31-70b-3i55
+- Summary: If you search for jobs abroad, you quickly learn that the ad text lies by omission. An ad that says nothing about visas may come from an employer that files hundreds of H-1B petitions a year. An ad that says "visa spo...
+- Link: https://dev.to/quietbytedev/does-this-company-really-sponsor-visas-i-joined-workday-job-ads-with-h-1b-and-uk-sponsor-records-4edc
 
 ---
 
-## Exploring the MVC Pattern in Python
+## German Working Time Act Reform: Flexibility vs. Employee Protection
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how the Model-View-Controller pattern organizes Python web apps, then build a small Flask app using models, views, and controllers.
-- Link: https://realpython.com/courses/exploring-mvc-pattern-python/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Debate over reform of Germany’s Working Time Act (Arbeitszeitgesetz, ArbZG) gathered momentum in early 2026. Saxony’s Minister-President Michael Kretschmer argued that existing rules belong to “another era” and should...
+- Link: https://dev.to/thomasdelfing_de/german-working-time-act-reform-flexibility-vs-employee-protection-71h
 
 ---
 
-## How to Break the AI Coding Agent Fix Loop
+## How to Create Short Videos With AI for Social Media
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Short-form video has become an essential format for creators, brands, and businesses looking to reach audiences online. From TikTok and Instagram Reels to YouTube Shorts, short videos help communicate ideas quickly, s...
+- Link: https://dev.to/vidnix/how-to-create-short-videos-with-ai-for-social-media-3ojo
+
+---
+
+## How to Create System Design Diagrams using Python
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: You've likely seen this movie before: something breaks in an app you built with an AI coding agent. You ask the agent to fix it. It "fixes" it. But the bug is still there, or a second bug appears. So
-- Link: https://www.freecodecamp.org/news/how-to-break-the-ai-coding-agent-fix-loop/
+- Summary: Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s
+- Link: https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/
 
 ---
 
@@ -83,21 +83,21 @@ _Generated on: 2026-10-08 08:08 UTC_
 
 ---
 
-## How Will AI Change the World? 4 Possible Futures (and How to Prepare)
+## Master Modern React Routing: TanStack Router Crash Course
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Quick answer: AI will not deliver a single future. Depending on three choices (who controls it, who keeps the wealth it creates, and whether we can still correct its goals) it could lead to four very different worlds:...
-- Link: https://dev.to/promptmaster/how-will-ai-change-the-world-4-possible-futures-and-how-to-prepare-4764
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Routing in modern web applications has evolved far beyond simply rendering a component based on a URL path. Developers today want end-to-end type safety, automated code splitting, seamless URL search
+- Link: https://www.freecodecamp.org/news/master-modern-react-routing-tanstack-router-crash-course/
 
 ---
 
-## Quiz: Exploring the MVC Pattern in Python
+## Quiz: Python, Boto3, and AWS S3: Demystified
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of the Model-View-Controller pattern and how models, views, and controllers work together in a small Flask app.
-- Link: https://realpython.com/quizzes/exploring-mvc-pattern-python/
+- Summary: Test your understanding of Boto3 and AWS S3 in Python. Create buckets, upload objects, configure storage and versioning, and clean up safely.
+- Link: https://realpython.com/quizzes/python-boto3-aws-s3/
 
 ---
 
@@ -110,24 +110,6 @@ _Generated on: 2026-10-08 08:08 UTC_
 
 ---
 
-## Quiz: Using pandas and Python to Explore Your Dataset
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore a dataset with pandas: load a CSV, select rows and columns, query and group your data, handle missing values, and plot what you find.
-- Link: https://realpython.com/quizzes/pandas-python-explore-dataset/
-
----
-
-## Spec-Driven Development: What Should Survive After Shipping?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Open a repository after six months of spec-driven agent development and you may find another system beside the code. Requirements, research notes, designs, plans, task lists, and review reports all explain what the ap...
-- Link: https://dev.to/myfear/spec-driven-development-what-should-survive-after-shipping-32fc
-
----
-
 ## The Best IDEs and Code Editors for Python (Guide)
 
 - Source: Real Python
@@ -137,12 +119,21 @@ _Generated on: 2026-10-08 08:08 UTC_
 
 ---
 
-## Top Next.js Development Companies Trusted by Global Startups
+## Top 23 Places to Buy Gmail Accounts (aged & Verified)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Funded startups operate under a unique pressure: move fast enough to capture market opportunity while building technology robust enough to scale. This tension makes technology partner selection critical. Choose poorly...
-- Link: https://dev.to/devang_chavda_641057d210b/top-nextjs-development-companies-trusted-by-global-startups-17e0
+- Summary: Buy Old Gmail Accounts: A Complete Guide to Aged Gmail Accounts Meta description: Learn about old Gmail accounts, account age, security, recovery, privacy, risks, and safer ways to manage established email accounts. S...
+- Link: https://dev.to/topsellpva6/top-23-places-to-buy-gmail-accounts-aged-verified-4fab
+
+---
+
+## Unity Game Development Architecture: How to Build a Scalable Game
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Building a Unity game that works for a prototype is one thing. Maintaining it as the project grows is another challenge. As new features enter the development workflow, a game can quickly become difficult to manage. P...
+- Link: https://dev.to/chicmicstudios_f7adb968f0/unity-game-development-architecture-how-to-build-a-scalable-game-id0
 
 ---
 
@@ -155,29 +146,38 @@ _Generated on: 2026-10-08 08:08 UTC_
 
 ---
 
-## Why Preventing Duplicate SEMrush Scraper Output Needs Named Storage
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: How can I prevent duplicate processing of SEMrush Scraper output? To prevent duplicate output from the SEMrush Free Website Stats Scraper, your data pipeline needs a robust mechanism for tracking what has already been...
-- Link: https://dev.to/crawlerbros/why-preventing-duplicate-semrush-scraper-output-needs-named-storage-fhf
-
----
-
-## Will AI Take My Job? What Four Possible Futures Say About Work
+## What Does a Forward Deployed Engineer Actually Do?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Quick answer: AI will automate a large share of today's tasks, but whether that means losing your livelihood depends on how the gains are shared. In the best case work becomes a choice; in the worst, people become eco...
-- Link: https://dev.to/promptmaster/will-ai-take-my-job-what-four-possible-futures-say-about-work-c87
+- Summary: An impressive AI demo can be built in a day. Making that demo something that other people can actually use and improve upon is significantly more involved. This is the domain of the Forward Deployed Engineer (FDE). An...
+- Link: https://dev.to/mahalakshmi_k_08168337f77/what-does-a-forward-deployed-engineer-actually-do-5dno
 
 ---
 
-## You Built a Number You Will Not Trust
+## What Is Meta Muse? A Plain-English Guide to Meta's New AI
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: What is Meta Muse? Learn what Meta's AI agent can do, what it costs, how it handles your data, and where Python fits in. No coding required.
+- Link: https://realpython.com/what-is-meta-muse/
+
+---
+
+## Why Junior Developers Might Know More About AI Than Seniors
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: As a junior developer, you may have more hands-on AI experience than many busy senior developers. Here's how you can use your AI knowledge to your advantage.
+- Link: https://realpython.com/junior-developers-ahead-on-ai/
+
+---
+
+## Why TikTok Ads Library Scraper Pro Returns Empty Media URLs
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Some things you build get graded by the world. Some only ever hand you back your own guess wearing a decimal. Telling the two apart before you start is the cheapest hour you will spend. There is probably something you...
-- Link: https://dev.to/harryfloyd/you-built-a-number-you-will-not-trust-5hai
+- Summary: As data engineers, we often integrate with third-party tools and APIs, navigating their stated capabilities and their undocumented constraints. The real skill isn't just knowing what a tool does, but understanding how...
+- Link: https://dev.to/crawlerbros/why-tiktok-ads-library-scraper-pro-returns-empty-media-urls-3d2c
 
 ---

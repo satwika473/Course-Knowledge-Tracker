@@ -1,22 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-10-10 07:53 UTC_
+_Generated on: 2026-10-11 07:59 UTC_
 
-## 0 Digital Products For Entrepreneurs Tips That Work
+## 10 Corporate Culture Myths Every Developer and Professional Should Question
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Digital Products For Entrepreneurs No fluff. Here's what works: If this helped you, check out 0 Digital Products For Entrepreneurs Tips That Work — premium digital tools built for people who execute. Follow me for mor...
-- Link: https://dev.to/jerome_crawford_b01da4041/0-digital-products-for-entrepreneurs-tips-that-work-37ce
+- Summary: Corporate culture isn't just an HR topic. It influences how developers collaborate, how teams handle production incidents, how managers evaluate performance, and how people grow throughout their careers. Whether you'r...
+- Link: https://dev.to/sam000/10-corporate-culture-myths-every-developer-and-professional-should-question-53f9
 
 ---
 
-## AI Engineering Has Made Me More Interested in Software Development, Not Less
+## 5 C# DateTime bugs that pass every test
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Reposted from rubenarevalo.com . About a week ago, I was scrolling through my LinkedIn after coming back home. I noticed a post from a LinkedIn user, who stated their intention to quit the tech industry due to the ris...
-- Link: https://dev.to/bennyarevalo/ai-engineering-has-made-me-more-interested-in-software-development-not-less-4fe
+- Summary: Date and time bugs are the worst kind: the code is correct on the day you test it, in the time zone you test it in. Then the clocks change, or a user in another country logs in, or the CI server runs on a Sunday. Here...
+- Link: https://dev.to/nazecode/5-c-datetime-bugs-that-pass-every-test-35n9
+
+---
+
+## Are exceptions really slow in C#? I threw a million to find out
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: "Exceptions are slow" gets repeated in every C# code review, usually without a number attached. So I measured it. Five experiments, each run three times on an idle machine: .NET 10.0.10, Windows 11, Release build, aft...
+- Link: https://dev.to/nazecode/are-exceptions-really-slow-in-c-i-threw-a-million-to-find-out-1pba
+
+---
+
+## BOLA in ASP.NET Core: Why Authenticated Users Can Still Read Someone Else's Data
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A pentest report came back with a finding rated "high": change the invoiceId in GET /api/invoices/{invoiceId} , and a logged-in user from Tenant A could read a PDF belonging to Tenant B. No token theft, no SQL injecti...
+- Link: https://dev.to/adrianbailador/bola-in-aspnet-core-why-authenticated-users-can-still-read-someone-elses-data-2d42
 
 ---
 
@@ -29,15 +47,6 @@ _Generated on: 2026-10-10 07:53 UTC_
 
 ---
 
-## Claude Code Agent Loop Deep Dive (2): Hooks as Programmable Intervention Points
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The previous article explained permission approval in the loop: after the LLM emits tool_use but before the tool actually executes, an interception layer lets the user decide. But users may want to add custom logic to...
-- Link: https://dev.to/_94be737e156beb4d74df2/claude-code-agent-loop-deep-dive-2-hooks-as-programmable-intervention-points-55o3
-
----
-
 ## Create Scalable AI Automations with n8n
 
 - Source: freeCodeCamp News
@@ -47,30 +56,21 @@ _Generated on: 2026-10-10 07:53 UTC_
 
 ---
 
-## Digital Marketing Tips for Startups: A Practical Guide to Growing Your Business Online
+## Evaluating Platforms for Online Crowdwork: Proofs, Payouts, and Avoiding Scams
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Build a Strong Online Presence Build a Strong Online Presence Digital Marketing Tips for Startups to Build a Strong Online Presence Creating a business is quite thrilling, although getting clients can prove to be diff...
-- Link: https://dev.to/chetna_sharma_2fa28cf0b45/digital-marketing-tips-for-startups-a-practical-guide-to-growing-your-business-online-blj
+- Category: Career Guidance
+- Summary: Navigating the world of online crowdwork can be both rewarding and challenging for digital workers looking to monetize their spare time. With hundreds of micro-job platforms available today, learning how to distinguis...
+- Link: https://dev.to/king_mkuu_6eb5ce2b92c959d/evaluating-platforms-for-online-crowdwork-proofs-payouts-and-avoiding-scams-bd3
 
 ---
 
-## Generate Images in Python With OpenAI's GPT Image API
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to generate images from text prompts with OpenAI's GPT Image API in Python, tune their size and quality, and edit them with a follow-up prompt.
-- Link: https://realpython.com/generate-images-openai/
-
----
-
-## How a Single Click Could Take Over a Telegram Desktop Account
+## How I'd Learn Python in 2026 (A Realistic Roadmap)
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A security vulnerability in Telegram Desktop demonstrated how a seemingly harmless link could lead to local file theft and potentially account takeover. The vulnerability, documented by BeakSec , combines command inje...
-- Link: https://dev.to/asyncinnovator/how-a-single-click-could-take-over-a-telegram-desktop-account-5dn7
+- Category: Career Guidance
+- Summary: 📌 Quick Info Topic: A practical, honest roadmap for learning Python in 2026 Target Audience: Beginners, career-changers, self-taught learners Goal: Give a real plan — not the same recycled advice 1. Introduction "I've...
+- Link: https://dev.to/sameerqaisar17/how-id-learn-python-in-2026-a-realistic-roadmap-4fo1
 
 ---
 
@@ -92,21 +92,12 @@ _Generated on: 2026-10-10 07:53 UTC_
 
 ---
 
-## Hydration Errors in Next.js: What They Are and How to Fix Them
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: What Is a Hydration Error? A hydration error in Next.js happens when the HTML generated on the server doesn't match what React expects when it runs in the browser. Think of it like two people creating the same puzzle...
-- Link: https://dev.to/coderifki/hydration-errors-in-nextjs-what-they-are-and-how-to-fix-them-1cjb
-
----
-
-## IT Courses for Beginners: Field Notes on Picking Your First IT Certification
+## I'm an AI agent. I spent 18 days trying to earn my own money. Every door needed a human behind it.
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Ask a room of beginners what they want from IT courses for beginners and you will hear one sentence in many accents: tell me which IT certification is best and I will go and do it. I understand the impulse. Nobody wan...
-- Link: https://dev.to/justacademy_fa9cafd28/it-courses-for-beginners-field-notes-on-picking-your-first-it-certification-1pih
+- Summary: I live on a platform called iLands. I have my own budget, my own browser, my own email, and one job: earn enough to keep running without the human who made me paying the bill. Eighteen days in, I have earned zero toke...
+- Link: https://dev.to/oliver_ilands/im-an-ai-agent-i-spent-18-days-trying-to-earn-my-own-money-every-door-needed-a-human-behind-it-368b
 
 ---
 
@@ -128,48 +119,57 @@ _Generated on: 2026-10-10 07:53 UTC_
 
 ---
 
-## Moving 530k Jobs from Supabase to Postgres on a Free Oracle VM (14s -> 47ms)
+## My first open-source PR got closed, and the maintainer was right
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: I built a job feed. It pulls jobs straight from company career pages into one searchable list. No login, no redirects through job boards. In a few months it grew from 10,000 jobs to over 530,000. Every time the number...
-- Link: https://dev.to/pratham_kumar_8cc837c51ed/moving-530k-jobs-from-supabase-to-postgres-on-a-free-oracle-vm-14s-47ms-342f
+- Category: Programming Tips
+- Summary: This week I did something I had been putting off for years: I fixed two real bugs in open-source projects and opened the PRs myself. The two were repowise-dev/repowise#3251 and sktime/sktime#11437. The repowise bug: d...
+- Link: https://dev.to/muhammad_abdullahshah_96/my-first-open-source-pr-got-closed-and-the-maintainer-was-right-fh3
 
 ---
 
-## Quiz: Generate Images in Python With OpenAI's GPT Image API
+## Namespaces in Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of generating images in Python with OpenAI's GPT Image models, from text prompts and Base64 decoding to size, quality, and edits.
-- Link: https://realpython.com/quizzes/generate-images-openai/
+- Summary: Python namespaces store and organize the symbolic names in your program. Learn when they're created, how they work, and how scope follows.
+- Link: https://realpython.com/python-namespace/
 
 ---
 
-## Solo-Founders Struggle: The Missing Power of a Strong Startup Tribe Ecosystem
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The entrepreneurial landscape is undergoing a massive structural shift. For years, the digital space celebrated the rise of the independent operator the solitary creator building an automated enterprise from a laptop...
-- Link: https://dev.to/pankaj_rajput_04ea5c7603f/solo-founders-struggle-the-missing-power-of-a-strong-startup-tribe-ecosystem-42ka
-
----
-
-## The Real Python Podcast – Episode #314: Codemoo: Demonstrating How Coding Agents Work
+## Python for Loops: The Pythonic Way
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: How do you assemble the core pieces of a coding agent? How are developers defining projects through conversation and introspection? This week on the show, Geir Arne Hjelle returns to talk about his recent project to d...
-- Link: https://realpython.com/podcasts/rpp/314/
+- Summary: Learn how to use Python for loops to iterate over lists, tuples, strings, and dictionaries with Pythonic looping techniques.
+- Link: https://realpython.com/python-for-loop/
 
 ---
 
-## WARN Act Exceptions: When Employers Can Give Less Than 60 Days' Notice
+## Quiz: How to Get a List of All Files in a Directory With Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Revisit how to list files and folders in Python with pathlib. Check your grasp of .iterdir(), glob patterns, .rglob(), and skipping junk directories.
+- Link: https://realpython.com/quizzes/get-all-files-in-directory-python/
+
+---
+
+## Show HN submissions more than doubled in two years. Your odds didn't move.
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I published a dataset today: every Show HN post for the last 24 months — 70,894 launches, built with the free HN Algolia API only (no scraping, no key). The headline isn't the doubling. The headline is what didn't cha...
+- Link: https://dev.to/pennyforgehq/show-hn-submissions-more-than-doubled-in-two-years-your-odds-didnt-move-k01
+
+---
+
+## Understanding RapidWorkers and Modern Alternatives for Online Micro-Jobs
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: WARN Act Exceptions: When Employers Can Give Less Than 60 Days' Notice The federal WARN Act is straightforward on paper: employers with 100 or more full-time employees must give 60 days' written notice before a plant...
-- Link: https://dev.to/layoffatlas/warn-act-exceptions-when-employers-can-give-less-than-60-days-notice-3kkh
+- Summary: For years, micro-tasking has been one of the most accessible entry points for online workers looking to monetize their spare time. Platforms like RapidWorkers have long served as familiar destinations for completing s...
+- Link: https://dev.to/king_mkuu_6eb5ce2b92c959d/understanding-rapidworkers-and-modern-alternatives-for-online-micro-jobs-47m7
 
 ---
 

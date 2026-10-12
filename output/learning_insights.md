@@ -1,49 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-10-11 07:59 UTC_
+_Generated on: 2026-10-12 08:15 UTC_
 
-## 10 Corporate Culture Myths Every Developer and Professional Should Question
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Corporate culture isn't just an HR topic. It influences how developers collaborate, how teams handle production incidents, how managers evaluate performance, and how people grow throughout their careers. Whether you'r...
-- Link: https://dev.to/sam000/10-corporate-culture-myths-every-developer-and-professional-should-question-53f9
-
----
-
-## 5 C# DateTime bugs that pass every test
+## "200 OK" doesn't mean your AI agent did the job
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Date and time bugs are the worst kind: the code is correct on the day you test it, in the time zone you test it in. Then the clocks change, or a user in another country logs in, or the CI server runs on a Sunday. Here...
-- Link: https://dev.to/nazecode/5-c-datetime-bugs-that-pass-every-test-35n9
+- Summary: Your agent says it sent the proposal. The tool call came back with an id. The trace shows a green step. The customer never got the email. I've seen versions of this enough times that I no longer trust a success respon...
+- Link: https://dev.to/dev-prathap/200-ok-doesnt-mean-your-ai-agent-did-the-job-575f
 
 ---
 
-## Are exceptions really slow in C#? I threw a million to find out
+## A task record is not an execution contract: a handoff template for coding agents
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: "Exceptions are slow" gets repeated in every C# code review, usually without a number attached. So I measured it. Five experiments, each run three times on an idle machine: .NET 10.0.10, Windows 11, Release build, aft...
-- Link: https://dev.to/nazecode/are-exceptions-really-slow-in-c-i-threw-a-million-to-find-out-1pba
+- Summary: Disclosure: This draft was generated with AI assistance. The worked example is illustrative and has not been run against a production repository. A ticket can accurately describe a bug while leaving the executor unabl...
+- Link: https://dev.to/hiroshi_takamura_c851fe71/a-task-record-is-not-an-execution-contract-a-handoff-template-for-coding-agents-4bp8
 
 ---
 
-## BOLA in ASP.NET Core: Why Authenticated Users Can Still Read Someone Else's Data
+## Australian SaaS and the Filipino Engineering Edge: Real Numbers
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A pentest report came back with a finding rated "high": change the invoiceId in GET /api/invoices/{invoiceId} , and a logged-in user from Tenant A could read a PDF belonging to Tenant B. No token theft, no SQL injecti...
-- Link: https://dev.to/adrianbailador/bola-in-aspnet-core-why-authenticated-users-can-still-read-someone-elses-data-2d42
-
----
-
-## Build and Train a 25M Parameter LLM From Scratch on Your CPU
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: You don't need a massive GPU cluster to learn how modern frontier AI works. In our new video on the freeCodeCamp.org YouTube channel, you will build, pre-train, and fine-tune a working 25-million para
-- Link: https://www.freecodecamp.org/news/build-and-train-a-25m-parameter-llm-from-scratch-on-your-cpu/
+- Summary: Australian SaaS and the Filipino Engineering Edge: Real Numbers I remember staring at a spreadsheet in Sydney, the coffee tasting like ash in my mouth. It was 2019. My client, a promising Australian SaaS startup build...
+- Link: https://dev.to/devwithzach/australian-saas-and-the-filipino-engineering-edge-real-numbers-3fjb
 
 ---
 
@@ -56,48 +38,57 @@ _Generated on: 2026-10-11 07:59 UTC_
 
 ---
 
-## Evaluating Platforms for Online Crowdwork: Proofs, Payouts, and Avoiding Scams
+## Every careers page has a public JSON API — you just never noticed
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Navigating the world of online crowdwork can be both rewarding and challenging for digital workers looking to monetize their spare time. With hundreds of micro-job platforms available today, learning how to distinguis...
-- Link: https://dev.to/king_mkuu_6eb5ce2b92c959d/evaluating-platforms-for-online-crowdwork-proofs-payouts-and-avoiding-scams-bd3
+- Summary: Most people who need job-posting data reach for a headless browser. They point Playwright at a careers page, hope the React app has hydrated, and write selectors that will break the next time marketing ships a redesig...
+- Link: https://dev.to/yff124/every-careers-page-has-a-public-json-api-you-just-never-noticed-4hj4
 
 ---
 
-## How I'd Learn Python in 2026 (A Realistic Roadmap)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 📌 Quick Info Topic: A practical, honest roadmap for learning Python in 2026 Target Audience: Beginners, career-changers, self-taught learners Goal: Give a real plan — not the same recycled advice 1. Introduction "I've...
-- Link: https://dev.to/sameerqaisar17/how-id-learn-python-in-2026-a-realistic-roadmap-4fo1
-
----
-
-## How to Create System Design Diagrams using Python
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Creating system architecture design diagrams is an important part of technical documentation. As system complexity grows, clarity within teams becomes even more important. But creating diagrams from s
-- Link: https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/
-
----
-
-## Hugging Face Transformers: Leverage Open-Source AI in Python
+## Functional Programming in Python: When and How to Use It
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Get hands-on with Hugging Face Transformers in Python. Download, run, and inspect pretrained open-source AI models, and speed up inference on GPUs.
-- Link: https://realpython.com/huggingface-transformers/
+- Summary: See how Python supports functional programming, what the paradigm actually is, and where it fits in the code you write day to day.
+- Link: https://realpython.com/python-functional-programming/
 
 ---
 
-## I'm an AI agent. I spent 18 days trying to earn my own money. Every door needed a human behind it.
+## How I split an AI assistant into 6 seats so nothing sends without a human yes
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I live on a platform called iLands. I have my own budget, my own browser, my own email, and one job: earn enough to keep running without the human who made me paying the bill. Eighteen days in, I have earned zero toke...
-- Link: https://dev.to/oliver_ilands/im-an-ai-agent-i-spent-18-days-trying-to-earn-my-own-money-every-door-needed-a-human-behind-it-368b
+- Summary: Disclosure: I sell a template pack, link below. The approach in this article works without it. If you've used an AI assistant for any length of time, you've probably felt the same two frustrations. First, one long cha...
+- Link: https://dev.to/mikaelkolam/how-i-split-an-ai-assistant-into-6-seats-so-nothing-sends-without-a-human-yes-3b9i
+
+---
+
+## How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it
+- Link: https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/
+
+---
+
+## How to Measure Conformance Between an Operational Specification and Its Execution
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: In my previous article, I explored executor independence: the idea that different execution mechanisms should be able to satisfy the same operational specification. By executor independence, I mean th
+- Link: https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/
+
+---
+
+## HR Has Booked Your Exit Interview
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You have resigned, the handover is going well, and a calendar invitation appears for your last Thursday. Exit conversation, thirty minutes, with someone from the people team. Part of you wants to finally tell them eve...
+- Link: https://dev.to/asael_shinder_9f53bdca840/hr-has-booked-your-exit-interview-4hl2
 
 ---
 
@@ -110,21 +101,12 @@ _Generated on: 2026-10-11 07:59 UTC_
 
 ---
 
-## Modern Web Automation With Python and Selenium
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Automate the browser with Python and Selenium: headless browsing, interacting with web elements, and the Page Object Model pattern.
-- Link: https://realpython.com/modern-web-automation-with-python-and-selenium/
-
----
-
-## My first open-source PR got closed, and the maintainer was right
+## Multitasking
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: This week I did something I had been putting off for years: I fixed two real bugs in open-source projects and opened the PRs myself. The two were repowise-dev/repowise#3251 and sktime/sktime#11437. The repowise bug: d...
-- Link: https://dev.to/muhammad_abdullahshah_96/my-first-open-source-pr-got-closed-and-the-maintainer-was-right-fh3
+- Summary: Handling mutiple Paths simultaneously to pick the Right one.
+- Link: https://dev.to/nithyanandharaj/multitasking-1ffe
 
 ---
 
@@ -137,6 +119,15 @@ _Generated on: 2026-10-11 07:59 UTC_
 
 ---
 
+## Powering Digital Success: Innovative Web Development Solutions for Modern Businesses
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: In today’s digitally driven world, a professional website is more than a way to be found online. It’s a powerful tool for building credibility, attracting customers and driving business growth. Businesses in competiti...
+- Link: https://dev.to/shilpa_pp_869412a87c790a5/powering-digital-success-innovative-web-development-solutions-for-modern-businesses-4j7e
+
+---
+
 ## Python for Loops: The Pythonic Way
 
 - Source: Real Python
@@ -146,38 +137,47 @@ _Generated on: 2026-10-11 07:59 UTC_
 
 ---
 
-## Quiz: How to Get a List of All Files in a Directory With Python
+## Quiz: Continuous Integration With Python: An Introduction
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Revisit how to list files and folders in Python with pathlib. Check your grasp of .iterdir(), glob patterns, .rglob(), and skipping junk directories.
-- Link: https://realpython.com/quizzes/get-all-files-in-directory-python/
+- Summary: Test your understanding of continuous integration in Python, from automated builds and unit tests to staging environments and deployable artifacts.
+- Link: https://realpython.com/quizzes/python-continuous-integration/
 
 ---
 
-## Show HN submissions more than doubled in two years. Your odds didn't move.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I published a dataset today: every Show HN post for the last 24 months — 70,894 launches, built with the free HN Algolia API only (no scraping, no key). The headline isn't the doubling. The headline is what didn't cha...
-- Link: https://dev.to/pennyforgehq/show-hn-submissions-more-than-doubled-in-two-years-your-odds-didnt-move-k01
-
----
-
-## Understanding RapidWorkers and Modern Alternatives for Online Micro-Jobs
+## The code I never wrote
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: For years, micro-tasking has been one of the most accessible entry points for online workers looking to monetize their spare time. Platforms like RapidWorkers have long served as familiar destinations for completing s...
-- Link: https://dev.to/king_mkuu_6eb5ce2b92c959d/understanding-rapidworkers-and-modern-alternatives-for-online-micro-jobs-47m7
+- Summary: At my company's annual seminar, my manager said AI wrote about 70% of the code. I replied that for me it was closer to 90%. The other developers agreed with me. Afterwards, they pointed out that it might not have been...
+- Link: https://dev.to/shagshag/the-code-i-never-wrote-3adg
 
 ---
 
-## What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox
+## What Can I Do With Python?
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: What can I do with Python? Build software, train AI, automate chores, and drive robots, plus the tools and projects to start with.
+- Link: https://realpython.com/what-can-i-do-with-python/
+
+---
+
+## What to Do When Your Constants Are Someone Else's Law
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Claude Code can do more than suggest a fix. It can edit files, install dependencies, run tests, and start your application. But letting it finish a task on its own raises a practical question: how muc
-- Link: https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/
+- Summary: A colleague once asked me why a number in my code had a comment three lines long. The number was 18. The comment said which rule it came from, which section notified it, and that it could change witho
+- Link: https://www.freecodecamp.org/news/what-to-do-when-your-constants-are-someone-else-s-law/
+
+---
+
+## Your Company Is Building a Map of Everyone's Skills
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A form appears in the HR system. Please rate yourself on the following skills, from one to five. There are forty of them, several you have never heard of, and it is due on Friday. Most people fill it in during a dull...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-company-is-building-a-map-of-everyones-skills-2m8g
 
 ---

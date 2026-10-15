@@ -1,22 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-10-14 06:52 UTC_
+_Generated on: 2026-10-15 06:41 UTC_
 
-## Attention explained: it's just a soft lookup
+## A Friend Has Asked You to Look at Their CV
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Don't be intimidated by Transformer or the line "Attention Is All You Need" . Start with the smallest piece — attention . Get this, and the rest follows. Recall something you use every day: a hash table You know hash...
-- Link: https://dev.to/zishuowang696/attention-explained-its-just-a-soft-lookup-1ppb
+- Category: Career Guidance
+- Summary: A friend from your old bootcamp sends you their CV on a Saturday morning. They have applied for forty jobs and heard back from two. Be honest, they write. What is wrong with it? Be honest is a hard instruction to foll...
+- Link: https://dev.to/asael_shinder_9f53bdca840/a-friend-has-asked-you-to-look-at-their-cv-3pil
 
 ---
 
-## Create Scalable AI Automations with n8n
+## Claude Code Plugin Marketplace: How to Install Plugins
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Most automation tutorials show you how to connect two simple apps and call it a day. But building workflows that companies can actually run in production requires an entirely different skill set, one
-- Link: https://www.freecodecamp.org/news/create-scalable-ai-automations-with-n8n/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Plugins add skills, agents, hooks, and MCP servers to Claude Code without you building any of them. The Claude Code plugin marketplace is where you find them. The confusing part is that "marketplace" and "plugin" are...
+- Link: https://dev.to/ail_akram_dcc5063c428734b/claude-code-plugin-marketplace-how-to-install-plugins-272d
+
+---
+
+## Develope Rust Web the Express JS way
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Get Started Add the dependency with a single command: cargo add aex cargo add tokio --features full Spin up an HTTP service in 30 seconds use aex :: http :: router :: Router as HttpRouter ; use aex :: server :: Server...
+- Link: https://dev.to/610470416/develope-rust-web-the-express-js-way-fo4
 
 ---
 
@@ -29,12 +38,30 @@ _Generated on: 2026-10-14 06:52 UTC_
 
 ---
 
-## How to Add Structured Data (JSON-LD) to a Next.js Site and Validate It
+## Gemini 4 Argon Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Gemini 4 Argon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-gemini-4-argon/
+
+---
+
+## How Strong Networks Create Stronger Businesses and Careers
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The global economic architecture of 2026 has sent a clear message to professionals and corporate leaders alike: competence in a vacuum is obsolete. For decades, the standard playbook for career growth was to keep your...
+- Link: https://dev.to/pankaj_rajput_04ea5c7603f/how-strong-networks-create-stronger-businesses-and-careers-2cnc
+
+---
+
+## How to Keep a File for Minutes, Not Years, on Cloud Run
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Structured data has always mattered to search engines. When a search engine reads your page, it sees HTML: a heading, some paragraphs, a date somewhere, a name somewhere else. Structured data tells it
-- Link: https://www.freecodecamp.org/news/nextjs-json-ld-structured-data/
+- Summary: A print job, a one-time download, or a support attachment typically only needs to exist until someone finishes with it. But most backends still store it like Google Drive: a named object, no expiry, a
+- Link: https://www.freecodecamp.org/news/how-to-keep-a-file-for-minutes-not-years-on-cloud-run/
 
 ---
 
@@ -47,12 +74,12 @@ _Generated on: 2026-10-14 06:52 UTC_
 
 ---
 
-## How to Prepare for a Career in Business Before Graduating
+## How to Stop an AI Agent from Inventing Nigerian Postcodes
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Final semester is close, and Sunita has decent grades. She still feels uneasy. One friend just got an interview call, another has started helping at her uncle's shop, and Sunita isn't sure what she would say if someon...
-- Link: https://dev.to/pcps_college/how-to-prepare-for-a-career-in-business-before-graduating-4nai
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: On 1 October 2026, Nigeria's postcode changed from six digits to an 11-character code that identifies a single building, such as EK-01-A03-FK-01. Language models trained before that date still describ
+- Link: https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/
 
 ---
 
@@ -65,21 +92,21 @@ _Generated on: 2026-10-14 06:52 UTC_
 
 ---
 
-## I read 500+ developer threads on Reddit and Hacker News. Here is what engineers are actually exhausted by in 2026.
+## LeeMAH Electronics' Brisbane Closures: 205 Workers This Week, 62 More in December
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Every tech podcast and conference keynote in 2026 is talking about AI agents, autonomous coding, and brand-new JavaScript frameworks. Yet, if you spend an hour reading where working engineers actually hang out—places...
-- Link: https://dev.to/benjiandai/i-read-500-developer-threads-on-reddit-and-hacker-news-here-is-what-engineers-are-actually-25ec
+- Summary: LeeMAH Electronics' Brisbane Closures: 205 Workers This Week, 62 More in December A manufacturer in Brisbane, California is winding down in two stages, according to WARN filings tracked by Layoff Atlas. LeeMAH Electro...
+- Link: https://dev.to/layoffatlas/leemah-electronics-brisbane-closures-205-workers-this-week-62-more-in-december-4195
 
 ---
 
-## Quiz: Docling vs LlamaParse: How to Extract PDF Tables in Python
+## Quiz: Python and PyQt: Building a GUI Desktop Calculator
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of extracting PDF tables in Python with Docling and LlamaParse, and of when to parse locally instead of in the cloud.
-- Link: https://realpython.com/quizzes/extract-table-from-pdf-python/
+- Summary: Test your knowledge of building PyQt GUIs with widgets, layouts, and dialogs, connecting signals to slots, and structuring apps with MVC.
+- Link: https://realpython.com/quizzes/python-pyqt-gui-calculator/
 
 ---
 
@@ -92,39 +119,12 @@ _Generated on: 2026-10-14 06:52 UTC_
 
 ---
 
-## Remote work means someone else is telling your story for you
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: 👋 I'm Parsa Jiravand — I work in IT, and this is Best Practice. One article every day, one soft-skills episode every week. It all lives at bestpractic.org — come join us. It's a Tuesday afternoon somewhere you've neve...
-- Link: https://dev.to/parsajiravand/remote-work-means-someone-else-is-telling-your-story-for-you-5e54
-
----
-
-## Solo-Founders Struggle: The Missing Power of a Strong Startup Tribe Ecosystem
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The entrepreneurial landscape is undergoing a massive structural shift. For years, the digital space celebrated the rise of the independent operator the solitary creator building an automated enterprise from a laptop...
-- Link: https://dev.to/pankaj_rajput_04ea5c7603f/solo-founders-struggle-the-missing-power-of-a-strong-startup-tribe-ecosystem-2m5i
-
----
-
-## Supergrades IPMAT vs LPT: Which IPMAT Coaching Is Better for 2027?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Choosing the right coaching institute is an important step for students preparing for the Integrated Programme in Management Aptitude Test (IPMAT). With several coaching options available, students often compare Super...
-- Link: https://dev.to/supergradesipmat/supergrades-ipmat-vs-lpt-which-ipmat-coaching-is-better-for-2027-2m11
-
----
-
-## The Borrow Checker Gaps That Let Unsafe Code Compile
+## Synchronous vs Asynchronous vs Promise in JavaScript 🚀
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Two soundness bugs in Rust's borrow checker have been open since 2013 and 2014. They allow code that violates aliasing rules to compile without unsafe blocks. If you write libraries that expose safe APIs over unsafe i...
-- Link: https://dev.to/robust_true_try/the-borrow-checker-gaps-that-let-unsafe-code-compile-105h
+- Summary: What is Synchronous JavaScript? Synchronous means one task executes at a time, in order. The next task waits until the current task finishes. console . log ( " First " ); console . log ( " Second " ); console . log (...
+- Link: https://dev.to/narasimma/synchronous-vs-asynchronous-vs-promise-in-javascript-11jo
 
 ---
 
@@ -137,12 +137,30 @@ _Generated on: 2026-10-14 06:52 UTC_
 
 ---
 
-## What Can I Do With Python?
+## Top 10 Career Opportunities After Learning German in India
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: What can I do with Python? Build software, train AI, automate chores, and drive robots, plus the tools and projects to start with.
-- Link: https://realpython.com/what-can-i-do-with-python/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: German is one of the more useful foreign languages to have on a CV in India. Plenty of German and European companies work with Indian teams, and a lot of students are looking at study and work options in Germany. The...
+- Link: https://dev.to/devansh_migr8/top-10-career-opportunities-after-learning-german-in-india-441b
+
+---
+
+## TypeScript `ReadonlyMap` and `ReadonlySet` in 2026: Immutable Collections That Stop Accidental Mutation at the Type L...
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: TypeScript ReadonlyMap and ReadonlySet in 2026: Immutable Collections That Stop Accidental Mutation at the Type Level This article was written with the assistance of AI, under human supervision and review. Why Readonl...
+- Link: https://dev.to/jsmanifest/typescript-readonlymap-and-readonlyset-in-2026-immutable-collections-that-stop-accidental-2ida
+
+---
+
+## What is a Promise in JavaScript?
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A Promise is an object in JavaScript that represents the eventual success or failure of an asynchronous operation. Real-life example: You order food online. Pending — your food is being prepared. Fulfilled — your food...
+- Link: https://dev.to/sathishkumar_0506/what-is-a-promise-in-javascript-50ii
 
 ---
 
@@ -155,29 +173,11 @@ _Generated on: 2026-10-14 06:52 UTC_
 
 ---
 
-## Where is MCP's client? You never wrote it — but you're using it
+## Your Customers Will Ask What Your Software Is Made Of
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Almost everyone learning MCP hits the same confusion: "Aren't you supposed to have a Client? But I never wrote one, and opencode / Cursor just connect to Playwright and it works — where's the client?" Here's the answe...
-- Link: https://dev.to/zishuowang696/where-is-mcps-client-you-never-wrote-it-but-youre-using-it-55i1
-
----
-
-## Which approach, AI coding or human coding, produces better software?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The way in which software is developed is being altered by artificial intelligence. These AI coding tools are capable of producing code, suggesting solutions, and accelerating repetitive tasks in just a few seconds. Y...
-- Link: https://dev.to/thefoxlab/which-approach-ai-coding-or-human-coding-produces-better-software-gee
-
----
-
-## Your App Has Login. That Doesn’t Mean Your Users’ Data Is Safe.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Your app has login. Passwords are hashed. Tokens are validated. Private pages redirect unauthenticated visitors. Everything looks protected. Then a logged-in user changes this request: GET /api/invoices/1042 To this:...
-- Link: https://dev.to/robertadam987_/your-app-has-login-that-doesnt-mean-your-users-data-is-safe-452e
+- Category: Career Guidance
+- Summary: In May 2021, an executive order on cybersecurity in the United States set out that software sold to the federal government should be able to come with a software bill of materials. Two months later the government publ...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-customers-will-ask-what-your-software-is-made-of-1hpf
 
 ---

@@ -1,13 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-10-18 06:46 UTC_
+_Generated on: 2026-10-19 07:05 UTC_
 
-## A perfect ATS score means nothing about being picked
+## A Critical Analysis of Modern Fintech Engineering Procurement Models
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Every quarter, a fresh crop of utilities sells the promise of a ninety-five percent ATS score. Candidates buy keyword injection tools, rename sections to match proprietary parsers, and test their source files against...
-- Link: https://dev.to/simali_dud_b97add4154d7a6/a-perfect-ats-score-means-nothing-about-being-picked-8h4
+- Category: Programming Tips
+- Summary: Building financial technology products has evolved from a standard web development exercise into a high-stakes, risk-laden engineering challenge. I frequently see founders and product owners fall into the trap of trea...
+- Link: https://dev.to/aliciajoseph/a-critical-analysis-of-modern-fintech-engineering-procurement-models-3jn4
+
+---
+
+## A quick note about git reflog
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: One Git command that's easy to forget about is git reflog . Say you have a couple of commits and accidentally run: git reset --hard HEAD~1 Now the latest commit is missing from git log . The first thing to try is: git...
+- Link: https://dev.to/soren_sterling/a-quick-note-about-git-reflog-46ga
 
 ---
 
@@ -20,39 +29,39 @@ _Generated on: 2026-10-18 06:46 UTC_
 
 ---
 
-## Common Mistakes When Turning Recordings into Written Notes
+## Asynchronous Tasks With Django and Celery
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Turning recordings into written notes is only useful when the final document preserves what actually happened. Whether you use MeetingMinutes to create meeting minutes or review a recorded discussion, the goal is to f...
-- Link: https://dev.to/meetingminutes/common-mistakes-when-turning-recordings-into-written-notes-2iii
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Integrate Django and Celery with Redis as a message broker, and move slow work like sending email out of the request cycle.
+- Link: https://realpython.com/asynchronous-tasks-with-django-and-celery/
 
 ---
 
-## Developers who grade AI-written code: what's your real hourly rate, and how steady is the work?
+## Benefits of Using a Free Online TIFF to JPG Converter
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I work on AITraining.jobs, which reads the public job boards of the platforms that hire people to evaluate AI-written code. On 18 Oct 2026 there were 285 open coding and software evaluation roles, advertising a median...
-- Link: https://dev.to/aitrainingjobs/developers-who-grade-ai-written-code-whats-your-real-hourly-rate-and-how-steady-is-the-work-mf9
+- Summary: Working with image files should be simple and convenient. However, TIFF images can sometimes be difficult to upload or share because of their size or limited compatibility. A free online TIFF to JPG converter can help...
+- Link: https://dev.to/vidana_henayalageaselan/benefits-of-using-a-free-online-tiff-to-jpg-converter-359a
 
 ---
 
-## Gemini CLI vs Claude Code: The 2026 Comparison I Wish I'd Had (Prices Read From the Source Pages)
+## Digging Deeper Into Django Migrations
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I've run both of these terminal agents side by side in the same shell, on the same repositories, on the same days for months. This isn't a benchmark roundup — single SWE-bench numbers are marketing, not evidence. This...
-- Link: https://dev.to/the_movie_9b1357e8c99cfaa/gemini-cli-vs-claude-code-the-2026-comparison-i-wish-id-had-prices-read-from-the-source-pages-22jn
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Go beyond the basics of Django migrations: how they work under the hood, what the Django migrations table tracks, and what's inside migration files.
+- Link: https://realpython.com/digging-deeper-into-migrations/
 
 ---
 
-## How Researchers Can Preserve the Context Behind Recorded Interviews
+## Django Migrations: A Primer
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: MeetingMinutes and the wider challenge of managing recorded conversations point to a practical question for researchers: how can a recording remain meaningful after the interview itself has been forgotten? The relevan...
-- Link: https://dev.to/meetingminutes/how-researchers-can-preserve-the-context-behind-recorded-interviews-1i5a
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Get comfortable with Django migrations: create database tables without writing SQL, and keep your database in step as your models change.
+- Link: https://realpython.com/django-migrations-a-primer/
 
 ---
 
@@ -65,21 +74,30 @@ _Generated on: 2026-10-18 06:46 UTC_
 
 ---
 
-## How to Create a Django Project
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to create a Django project and app in clear, guided steps. Use it as a reference for any future Django project and tutorial you'll work on.
-- Link: https://realpython.com/django-setup/
-
----
-
 ## How to Migrate an Application from AWS to GKE [Full Book]
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: This guided lab walks you through migrating a small payments app, with a React UI and Express API running on a single AWS EC2 instance, while PostgreSQL stays on AWS. You’ll move the UI and API to Goo
 - Link: https://www.freecodecamp.org/news/how-to-migrate-an-application-from-aws-to-gke-full-book/
+
+---
+
+## How to Round Numbers in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how Python's round() works, why it rounds 2.5 to 2, and how you can manage rounding errors with decimal, NumPy, and pandas.
+- Link: https://realpython.com/python-rounding/
+
+---
+
+## HTTP Chunk Encoding and Transfer-Encoding: chunked in Practice
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Originally published on Code Beneath . When you need to send an HTTP response but do not know the total size in advance, the chunked transfer encoding is your tool. Instead of buffering everything or setting Content-L...
+- Link: https://dev.to/bar_dror_a3d32cb94b1/http-chunk-encoding-and-transfer-encoding-chunked-in-practice-3fj7
 
 ---
 
@@ -92,48 +110,30 @@ _Generated on: 2026-10-18 06:46 UTC_
 
 ---
 
-## Python Histogram Plotting: NumPy, Matplotlib, pandas & Seaborn
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: In this tutorial, you'll be equipped to make production-quality, presentation-ready Python histogram plots with a range of choices and features.
-- Link: https://realpython.com/python-histograms/
-
----
-
-## Python's Instance, Class, and Static Methods Demystified
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Compare instance methods vs class methods vs static methods in Python, and learn when each one earns its place in your code.
-- Link: https://realpython.com/instance-class-and-static-methods-demystified/
-
----
-
-## Quiz: Python's .__call__() Method: Creating Callable Instances
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Python callables and see how the .__call__() method lets you call class instances just like regular functions.
-- Link: https://realpython.com/quizzes/python-callable-instances/
-
----
-
-## Rhode Island Layoffs 2026: WARN Numbers Explained
+## Offset Pagination Silently Skips Rows. Your Demo Just Has Not Noticed Yet.
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Rhode Island Layoffs 2026: WARN Numbers Explained Rhode Island is a small state in the WARN data, but its 2026 record is unusually front-loaded: six notices reporting a combined 10,136 workers, more than any single ye...
-- Link: https://dev.to/layoffatlas/rhode-island-layoffs-2026-warn-numbers-explained-1ahk
+- Category: Programming Tips
+- Summary: Your pagination works in the demo. Then production arrives with a dataset that moves, and rows start vanishing. The bug with no stack trace Here is the failure nobody catches in staging: OFFSET pagination. Page 1 fetc...
+- Link: https://dev.to/nurrehman/offset-pagination-silently-skips-rows-your-demo-just-has-not-noticed-yet-502c
 
 ---
 
-## South Dakota Layoffs 2026: WARN Numbers Explained
+## Python's Mutable vs Immutable Types: What's the Difference?
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how Python mutable and immutable data types work internally and how you can use mutability or immutability to power your code.
+- Link: https://realpython.com/python-mutable-vs-immutable-types/
+
+---
+
+## Running God of War III Remastered on PC: how the gow3_pc community project actually works
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: South Dakota Layoffs 2026: WARN Numbers Explained While the national WARN registry tracked 737 notices covering 67,101 reported workers over the last 90 days, South Dakota barely registered at all. In 2026, the state...
-- Link: https://dev.to/layoffatlas/south-dakota-layoffs-2026-warn-numbers-explained-1b7j
+- Category: Programming Tips
+- Summary: God of War III Remastered never got an official PC release. But in October 2026 there is a community project — gow3_pc — that runs the game on PC, and the way it does it is genuinely interesting from an engineering st...
+- Link: https://dev.to/xiaoyumao0621/running-god-of-war-iii-remastered-on-pc-how-the-gow3pc-community-project-actually-works-4k4m
 
 ---
 
@@ -146,38 +146,38 @@ _Generated on: 2026-10-18 06:46 UTC_
 
 ---
 
-## The Best IDEs and Code Editors for Python (Guide)
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Compare the best Python IDEs and code editors side by side, with free picks for beginners and pro tools for data science and AI-assisted coding.
-- Link: https://realpython.com/python-ides-code-editors-guide/
-
----
-
-## The Future of Freelancing: How Businesses Can Find the Right Talent Online
+## You Have Been Asked to Shadow a Senior Engineer for a Week
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The demand for skilled freelancers is growing as businesses look for flexible, affordable, and reliable ways to complete projects. From graphic design and web development to digital marketing and content writing, comp...
-- Link: https://dev.to/sami_akt_57e8cc8e3ca3bf6e/the-future-of-freelancing-how-businesses-can-find-the-right-talent-online-1hb1
+- Summary: Your lead has set it up. For the next five days you will sit with one of the most experienced engineers on the team and watch how they work. You are pleased, and slightly unsure what you are meant to do. Sit quietly?...
+- Link: https://dev.to/asael_shinder_9f53bdca840/you-have-been-asked-to-shadow-a-senior-engineer-for-a-week-2m8i
 
 ---
 
-## Where to Buy Verified Wise Accounts Easily - Forums
+## You Have Been Offered a Six Month Secondment
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Buy Verified Wise Accounts Meta Title: Buy Verified Wise Accounts: Risks, Scams & Safe Options Meta Description: Learn why buying verified Wise accounts can be risky, how identity checks work, and what safer options a...
-- Link: https://dev.to/topsellpva111/where-to-buy-verified-wise-accounts-easily-forums-313a
+- Category: Career Guidance
+- Summary: Your manager calls you into a quick chat. The data platform group needs someone with your background for six months while they rebuild their ingestion pipeline. Would you be interested in a secondment? You would keep...
+- Link: https://dev.to/asael_shinder_9f53bdca840/you-have-been-offered-a-six-month-secondment-2b8d
 
 ---
 
-## Why your MQL5 lot size gets rejected, and how to normalize volume and prices properly
+## You Solved It the Way You Always Solve It and Missed the Easy Way
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A risk based lot calculation almost never produces a valid number. You compute 0.4372 lots, send it, and the trade server answers with TRADE_RETCODE_INVALID_VOLUME. Prices have the same problem: a stop at 1.083467 on...
-- Link: https://dev.to/omaisali/why-your-mql5-lot-size-gets-rejected-and-how-to-normalize-volume-and-prices-properly-32ph
+- Category: Career Guidance
+- Summary: The report page was slow. Our most experienced engineer took it, and by lunch he had a plan. A cache in front of the query. Invalidation on every write. A background job to warm it overnight. It was a good plan. He ha...
+- Link: https://dev.to/sergueyasaelshinder/you-solved-it-the-way-you-always-solve-it-and-missed-the-easy-way-4l6g
+
+---
+
+## Your Mentee Has Fallen Out With Someone on Their Team
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Your mentee spends the first twenty minutes of the call on one person. A teammate who rewrote their pull request without asking, then mentioned it at stand up as if it were a favour. Since then the two of them have ba...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentee-has-fallen-out-with-someone-on-their-team-4fja
 
 ---

@@ -1,24 +1,6 @@
 # Learning Insights
 
-_Generated on: 2026-10-19 07:05 UTC_
-
-## A Critical Analysis of Modern Fintech Engineering Procurement Models
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Building financial technology products has evolved from a standard web development exercise into a high-stakes, risk-laden engineering challenge. I frequently see founders and product owners fall into the trap of trea...
-- Link: https://dev.to/aliciajoseph/a-critical-analysis-of-modern-fintech-engineering-procurement-models-3jn4
-
----
-
-## A quick note about git reflog
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: One Git command that's easy to forget about is git reflog . Say you have a couple of commits and accidentally run: git reset --hard HEAD~1 Now the latest commit is missing from git log . The first thing to try is: git...
-- Link: https://dev.to/soren_sterling/a-quick-note-about-git-reflog-46ga
-
----
+_Generated on: 2026-10-20 06:49 UTC_
 
 ## Agentic AI Reliability: Build a Testing Harness for Tool Use, Guardrails, Loops, & Workflow Outcomes [Full Book]
 
@@ -26,6 +8,15 @@ _Generated on: 2026-10-19 07:05 UTC_
 - Category: Learning Article
 - Summary: A good final answer doesn't prove that an agentic AI workflow was correct. This book develops a code-backed method for verifying execution and business outcomes from authoritative state and using that
 - Link: https://www.freecodecamp.org/news/agentic-ai-reliability-book-build-a-testing-harness/
+
+---
+
+## AI Code Review Tools in 2026: 5 Options Compared (Free Included)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: AI code review went from demo joke to default pull-request infrastructure in about two years, and in 2026 the interesting question is no longer whether a bot should read your diff — it's which bot, and what it costs w...
+- Link: https://dev.to/the_movie_9b1357e8c99cfaa/ai-code-review-tools-in-2026-5-options-compared-free-included-33pm
 
 ---
 
@@ -38,12 +29,30 @@ _Generated on: 2026-10-19 07:05 UTC_
 
 ---
 
-## Benefits of Using a Free Online TIFF to JPG Converter
+## AWS Certified Developer – Associate (DVA-C02): A Study Plan That Actually Works
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Working with image files should be simple and convenient. However, TIFF images can sometimes be difficult to upload or share because of their size or limited compatibility. A free online TIFF to JPG converter can help...
-- Link: https://dev.to/vidana_henayalageaselan/benefits-of-using-a-free-online-tiff-to-jpg-converter-359a
+- Summary: Most AWS certification advice treats every exam the same: read the whitepapers, memorize the service list, take a practice test. That works for the Solutions Architect Associate. It fails for the Developer Associate —...
+- Link: https://dev.to/study4pass/aws-certified-developer-associate-dva-c02-a-study-plan-that-actually-works-a02
+
+---
+
+## C++ Static Data Members: One Class, One Shared Variable, Many Objects
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: OOP Made Simple | CodeWithObaid — Day 2 Imagine you're building a library management system. Your application creates hundreds of Book objects. Each book has its own title, author, and price. But your application also...
+- Link: https://dev.to/muhammad_hassanobaid_908/c-static-data-members-one-class-one-shared-variable-many-objects-222g
+
+---
+
+## Decoding recruiter silence
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Recruiter silence is usually read as a personal rejection. It is more often a logistics failure or a calendar event that has nothing to do with your code. When a submission sits for two weeks with no movement, candida...
+- Link: https://dev.to/simali_dud_b97add4154d7a6/decoding-recruiter-silence-2gon
 
 ---
 
@@ -56,21 +65,48 @@ _Generated on: 2026-10-19 07:05 UTC_
 
 ---
 
-## Django Migrations: A Primer
+## How I Built a 100% Client-Side ATS Resume Checker & PDF Toolkit (Zero Server Uploads)
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Get comfortable with Django migrations: create database tables without writing SQL, and keep your database in step as your models change.
-- Link: https://realpython.com/django-migrations-a-primer/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you have applied for a tech job recently, you already know the frustration of Applicant Tracking Systems (ATS). Worse, if you want to test how an ATS reads your PDF or DOCX resume before applying, almost every scan...
+- Link: https://dev.to/bhc_b8086c0e/how-i-built-a-100-client-side-ats-resume-checker-pdf-toolkit-zero-server-uploads-37m7
 
 ---
 
-## How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS
+## How to Automate Your Workflow With Claude Code Hooks
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use Claude Code hooks that auto-format your Python code after every edit, enforce your chosen tools, and ping you when a task finishes.
+- Link: https://realpython.com/claude-code-hooks/
+
+---
+
+## How to Build a Website User Interface Faster Using AI Prompts
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Every team that ships software eventually builds a staging environment. And every team that builds a staging environment eventually discovers the same problem. Staging is shared. One environment, many
-- Link: https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/
+- Summary: A website user interface (UI) used to take hours of writing HTML, CSS, and component code by hand. Now you can describe a page in plain words and let an AI coding tool write the first version. But the
+- Link: https://www.freecodecamp.org/news/how-to-build-a-website-user-interface-faster-using-ai-prompts/
+
+---
+
+## How to Build and Publish a Native Android App in 2026: From Jetpack Compose to the Google Play Store
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Most Android tutorials stop at "it runs on the emulator." But getting an app from a blank project to a listing that real people can install from Google Play involves a second half that's rarely discus
+- Link: https://www.freecodecamp.org/news/build-publish-native-android-app-from-jetpack-compose-to-google-play-store-handbook/
+
+---
+
+## How to Detect Operational Drift Before It Becomes an Incident
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: In my previous article, I explored operational conformance: how to evaluate whether observed evidence satisfies an operational specification. That gives us a useful point-in-time question: Does the s
+- Link: https://www.freecodecamp.org/news/detect-operational-drift-before-incident/
 
 ---
 
@@ -92,92 +128,56 @@ _Generated on: 2026-10-19 07:05 UTC_
 
 ---
 
-## HTTP Chunk Encoding and Transfer-Encoding: chunked in Practice
+## How to Test AI Agent Crash Recovery Locally with Dapr Workflow
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Originally published on Code Beneath . When you need to send an HTTP response but do not know the total size in advance, the chunked transfer encoding is your tool. Instead of buffering everything or setting Content-L...
-- Link: https://dev.to/bar_dror_a3d32cb94b1/http-chunk-encoding-and-transfer-encoding-chunked-in-practice-3fj7
+- Summary: Introduction Most advice on testing AI agents is about the answers, such as evals and golden datasets. Crash recovery needs its own test. If your agent runs as a durable workflow, a restart should resume the same run...
+- Link: https://dev.to/diagrid/how-to-test-ai-agent-crash-recovery-locally-with-dapr-workflow-5he7
 
 ---
 
-## Learn How to Design Software Systems Like a Senior Engineer in Our New Course
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: System design is one of the most important skills for software engineers today. Whether you're applying for senior or staff-level positions or just looking to level up your architectural knowledge, un
-- Link: https://www.freecodecamp.org/news/learn-how-to-design-software-systems-like-a-senior-engineer-in-our-new-course/
-
----
-
-## Offset Pagination Silently Skips Rows. Your Demo Just Has Not Noticed Yet.
+## I Got Tired of \$25/Month Resume Paywalls, So I Built a Free AI CV Builder (Next.js 16 + Gemini)
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Your pagination works in the demo. Then production arrives with a dataset that moves, and rows start vanishing. The bug with no stack trace Here is the failure nobody catches in staging: OFFSET pagination. Page 1 fetc...
-- Link: https://dev.to/nurrehman/offset-pagination-silently-skips-rows-your-demo-just-has-not-noticed-yet-502c
+- Category: Career Guidance
+- Summary: Every developer knows the sinking feeling: You spend 45 minutes carefully filling out your experience, formatting bullet points, and tweaking margins on a "free" online resume builder. You hit "Download PDF" ... And b...
+- Link: https://dev.to/khalidabdullahh/i-got-tired-of-25month-resume-paywalls-so-i-built-a-free-ai-cv-builder-nextjs-16-gemini-2jlf
 
 ---
 
-## Python's Mutable vs Immutable Types: What's the Difference?
+## NDT Level 2 Training Australia: Skills and Requirements
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: NDT Level 2 professionals perform important inspection activities across manufacturing, engineering, fabrication, and industrial maintenance. Their work may involve operating equipment, carrying out inspections, inter...
+- Link: https://dev.to/jack_william_f81c9c32cfdb/ndt-level-2-training-australia-skills-and-requirements-32km
+
+---
+
+## Quiz: How to Automate Your Workflow With Claude Code Hooks
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how Python mutable and immutable data types work internally and how you can use mutability or immutability to power your code.
-- Link: https://realpython.com/python-mutable-vs-immutable-types/
+- Summary: Test your understanding of Claude Code hooks, including the Stop, PreToolUse, and PostToolUse events and the exit codes that block an action.
+- Link: https://realpython.com/quizzes/claude-code-hooks/
 
 ---
 
-## Running God of War III Remastered on PC: how the gow3_pc community project actually works
+## The Gallon Bug: US vs Imperial Gallons in Your Code
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: God of War III Remastered never got an official PC release. But in October 2026 there is a community project — gow3_pc — that runs the game on PC, and the way it does it is genuinely interesting from an engineering st...
-- Link: https://dev.to/xiaoyumao0621/running-god-of-war-iii-remastered-on-pc-how-the-gow3pc-community-project-actually-works-4k4m
+- Summary: A user in London opens your tank volume calculator, enters the dimensions of a standard cylindrical tank, and gets a result that is 20 percent too high. A user in Texas enters the same dimensions into the same calcula...
+- Link: https://dev.to/cylinder_volumecalculato/the-gallon-bug-us-vs-imperial-gallons-in-your-code-p8k
 
 ---
 
-## The Anatomy of an AI Data Center
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Artificial intelligence models like GPT-4 and Claude require massive, highly complex physical infrastructure. We just published a new full-length course on the freeCodeCamp.org YouTube channel that ta
-- Link: https://www.freecodecamp.org/news/the-anatomy-of-an-ai-data-center/
-
----
-
-## You Have Been Asked to Shadow a Senior Engineer for a Week
+## TSDC Company Is Officially Launched! Meet Abdul Haseeb Mari, Founder & Owner
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Your lead has set it up. For the next five days you will sit with one of the most experienced engineers on the team and watch how they work. You are pleased, and slightly unsure what you are meant to do. Sit quietly?...
-- Link: https://dev.to/asael_shinder_9f53bdca840/you-have-been-asked-to-shadow-a-senior-engineer-for-a-week-2m8i
-
----
-
-## You Have Been Offered a Six Month Secondment
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Your manager calls you into a quick chat. The data platform group needs someone with your background for six months while they rebuild their ingestion pipeline. Would you be interested in a secondment? You would keep...
-- Link: https://dev.to/asael_shinder_9f53bdca840/you-have-been-offered-a-six-month-secondment-2b8d
-
----
-
-## You Solved It the Way You Always Solve It and Missed the Easy Way
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The report page was slow. Our most experienced engineer took it, and by lunch he had a plan. A cache in front of the query. Invalidation on every write. A background job to warm it overnight. It was a good plan. He ha...
-- Link: https://dev.to/sergueyasaelshinder/you-solved-it-the-way-you-always-solve-it-and-missed-the-easy-way-4l6g
-
----
-
-## Your Mentee Has Fallen Out With Someone on Their Team
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Your mentee spends the first twenty minutes of the call on one person. A teammate who rewrote their pull request without asking, then mentioned it at stand up as if it were a favour. Since then the two of them have ba...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentee-has-fallen-out-with-someone-on-their-team-4fja
+- Category: Programming Tips
+- Summary: TSDC Is Officially Launched! Meet Our Founder, Abdul Haseeb Mari Hello DEV Community! I'm excited to share an important announcement: **TSDC — Technology Software Development Corporation has officially launched! This...
+- Link: https://dev.to/abdulhaseebmari/tsdc-company-is-officially-launched-meet-abdul-haseeb-mari-founder-owner-3pm7
 
 ---

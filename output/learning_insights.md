@@ -1,6 +1,24 @@
 # Learning Insights
 
-_Generated on: 2026-10-24 06:39 UTC_
+_Generated on: 2026-10-25 07:04 UTC_
+
+## A Guide to Modern Python String Formatting Tools
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Python's modern string formatting tools, and learn to harness f-strings and the .format() method for interpolation and formatting.
+- Link: https://realpython.com/python-formatted-output/
+
+---
+
+## An Intro to Threading in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use Python threading to run tasks concurrently, synchronize threads with locks and queues, and avoid race conditions and deadlocks.
+- Link: https://realpython.com/intro-to-python-threading/
+
+---
 
 ## Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval
 
@@ -11,48 +29,12 @@ _Generated on: 2026-10-24 06:39 UTC_
 
 ---
 
-## Buy Verified Poloniex Accounts from Established Online ...
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Buy Verified Poloniex Accounts from Established Online ... 24 hours response/(Contact US) ➤ WhatsApp: +1 (903) 702-9701 ➤ Telegram: @usasvcit ➤ Email: usasvcit@gmail.com Cryptocurrency has become an important subject...
-- Link: https://dev.to/usasvcit55/buy-verified-poloniex-accounts-from-established-online--2k2g
-
----
-
-## CISA: The Audit Certification That Turns IT People Into the Ones Who Ask the Questions
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: CISA: The Audit Certification That Turns IT People Into the Ones Who Ask the Questions Most IT certifications prove you can build things. CISA proves you can judge whether things were built right — and that is a rarer...
-- Link: https://dev.to/study4pass/cisa-the-audit-certification-that-turns-it-people-into-the-ones-who-ask-the-questions-131
-
----
-
-## Closing every position your MQL5 EA owns without skipping any
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Sooner or later every Expert Advisor needs a "close everything" routine. A daily loss limit is hit, the weekend is coming, or the trader presses a panic button. It sounds like five lines of code, and that is exactly w...
-- Link: https://dev.to/omaisali/closing-every-position-your-mql5-ea-owns-without-skipping-any-2jf6
-
----
-
-## ERP Systems for Multimodal Transport
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: For multimodal transport providers managing complex scheduling and routing, general enterprise resource planning platforms track finance, core assets, and commercial ledgers, but often lack specific operational logic...
-- Link: https://dev.to/anas_kanafani/erp-systems-for-multimodal-transport-4116
-
----
-
-## Get Started With Django: Build a Portfolio App
+## Dictionaries in Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Build a Django example project step by step. You'll create a portfolio app and learn about models, views, templates, and the admin.
-- Link: https://realpython.com/get-started-with-django-1/
+- Summary: Learn how dictionaries in Python work: create and modify key-value pairs using dict literals, the dict() constructor, built-in methods, and operators.
+- Link: https://realpython.com/python-dicts/
 
 ---
 
@@ -74,21 +56,21 @@ _Generated on: 2026-10-24 06:39 UTC_
 
 ---
 
-## How to Generate Beautiful Code Screenshots 100% Client-Side (No Server Uploads, Zero Telemetry)
+## I Tested img2interior with Codex: A Room and a 95 MB Runtime
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: If you've ever shared code snippets on Twitter/X, LinkedIn, tech blogs, or team documentation, you've probably used snippet beautifiers like Carbon or Ray.so. They turn plain code blocks into aesthetically pleasing im...
-- Link: https://dev.to/rashid_salimov_ad8baac497/how-to-generate-beautiful-code-screenshots-100-client-side-no-server-uploads-zero-telemetry-38od
+- Summary: AI-assisted disclosure: Codex assisted with research, code and writing. Measurements, failure cases and limitations are retained from the original article. Originally published by Alicia on 2026-10-22: Digital Garden...
+- Link: https://dev.to/alicia_lu/i-tested-img2interior-with-codex-a-room-and-a-95-mb-runtime-5h1a
 
 ---
 
-## I Shipped 12 Apps in a Year. Only One Mattered — and It Wasn't the Good One.
+## I Tested machine-skill with Codex: Two Three.js Pump Simulations
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: I shipped twelve apps last year. I can tell you, instantly, which one I'm proudest of — clean architecture, actual tests, a Lighthouse score I'd put on a business card. And I can tell you which one actually changed my...
-- Link: https://dev.to/infoinlet1/i-shipped-12-apps-in-a-year-only-one-mattered-and-it-wasnt-the-good-one-2oe7
+- Category: Programming Tips
+- Summary: AI-assisted disclosure: Codex assisted with research, code and writing. Measurements, failure cases and limitations are retained from the original article. Originally published by Alicia on 2026-10-18: Digital Garden...
+- Link: https://dev.to/alicia_lu/i-tested-machine-skill-with-codex-two-threejs-pump-simulations-44k4
 
 ---
 
@@ -101,66 +83,84 @@ _Generated on: 2026-10-24 06:39 UTC_
 
 ---
 
-## Michigan WARN Notices 2026: 43 Filings, 7,543 Workers, and What's Still on the Calendar
+## Making a Python QA framework installable: what Phase 1 actually requires
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: When you build a testing framework, the actual test execution logic is only half the work. The other half is making it installable, configurable, and ready for someone else's repository. I just published the Phase 1 m...
+- Link: https://dev.to/praman/making-a-python-qa-framework-installable-what-phase-1-actually-requires-5gm6
+
+---
+
+## One Click. Multiple Systems. One Order.
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Imagine you're ordering a pair of shoes for ₹999. You click Place Order , complete the payment, and wait for confirmation. A few seconds later, the website shows that your order is confirmed. Everything looks simple....
+- Link: https://dev.to/darshan_dev/one-click-multiple-systems-one-order-1nf4
+
+---
+
+## Python String Formatting: Available Tools and Their Features
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how Python string formatting works with f-strings, the .format() method, and the modulo operator, plus the strengths of each tool.
+- Link: https://realpython.com/python-string-formatting/
+
+---
+
+## Resume Formatting Mistakes That Break ATS Parsing (And How to Fix Them)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Michigan WARN Notices 2026: 43 Filings, 7,543 Workers, and What's Still on the Calendar Michigan's WARN archive is one of the deepest in the country — 2,202 non-cancelled imported notices covering 315,634 reported wor...
-- Link: https://dev.to/layoffatlas/michigan-warn-notices-2026-43-filings-7543-workers-and-whats-still-on-the-calendar-ll5
+- Summary: Most resumes that fail Applicant Tracking System (ATS) screening do not get rejected because the candidate lacks experience—they fail because the layout scrambles the extracted text stream before a recruiter or keywor...
+- Link: https://dev.to/muhammadalimughal/resume-formatting-mistakes-that-break-ats-parsing-and-how-to-fix-them-5dki
 
 ---
 
-## No Boss, No Money: The Raw Reality of a Chinese Gen-Z Freelancer
+## The Art of Doing Less, Learning More
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady . What I Built As a student and developer, I know how time-consuming studying can be. Sometimes, understanding the material i...
+- Link: https://dev.to/aksa_fatima_7d71f290fcd3f/the-art-of-doing-less-learning-more-4cd1
+
+---
+
+## Three Ways of Storing and Accessing Lots of Images in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Compare three ways of storing images in Python, as PNG files on disk, in LMDB, and in HDF5, with timings for reading and writing lots of images.
+- Link: https://realpython.com/storing-images-in-python/
+
+---
+
+## We Don’t Need Another Productivity App. We Need to Actually Finish What We Start.
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Jared is 28. He used to be an AI algorithm engineer at one of China's big tech firms — the kind of job millions compete for. He quit because he could not stand the 996 schedule: 9 a.m. to 9 p.m., six days a week. He t...
-- Link: https://dev.to/doogee_doogeetoptop_1e/no-boss-no-money-the-raw-reality-of-a-chinese-gen-z-freelancer-4i0p
+- Summary: Have you ever created the perfect plan at night, felt motivated, and then completely abandoned it a few days later? I have been thinking about why this happens so often. We download productivity apps. We create to-do...
+- Link: https://dev.to/pratyush_ranjan_roul/we-dont-need-another-productivity-app-we-need-to-actually-finish-what-we-start-1128
 
 ---
 
-## NumPy Tutorial: Your First Steps Into Data Science in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Follow this NumPy tutorial to learn how to create and manipulate arrays in Python and take your first steps into data science.
-- Link: https://realpython.com/numpy-tutorial/
-
----
-
-## Python Metaclasses
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: How Python's metaclasses work as an OOP concept, what they are good for—and why you might want to avoid them in your own programs.
-- Link: https://realpython.com/python-metaclasses/
-
----
-
-## Python's F-String for String Interpolation and Formatting
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Python f-strings give you a readable, concise way to interpolate and format strings, and they beat .format() and the % operator on speed.
-- Link: https://realpython.com/python-f-strings/
-
----
-
-## Python's property(): Add Managed Attributes to Your Classes
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Use Python's property() to add managed attributes to your classes, with validation, computed values, and caching, without breaking your API.
-- Link: https://realpython.com/python-property/
-
----
-
-## Republic Amusements Files 48-Worker WARN Notice for Camp Hill, PA, Effective December 20, 2026
+## Week Ahead: November 15 Is the Heaviest Upcoming Layoff Week, With 7,781 Workers Scheduled
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Republic Amusements Files 48-Worker WARN Notice for Camp Hill, PA, Effective December 20, 2026 Republic Amusements, the Camp Hill, Pennsylvania skill-games vendor, has a WARN record on the Layoff Atlas registry coveri...
-- Link: https://dev.to/layoffatlas/republic-amusements-files-48-worker-warn-notice-for-camp-hill-pa-effective-december-20-2026-1n1b
+- Summary: Week Ahead: November 15 Is the Heaviest Upcoming Layoff Week, With 7,781 Workers Scheduled The heaviest layoff week on the current WARN calendar is now three weeks away. According to the latest figures on Layoff Atlas...
+- Link: https://dev.to/layoffatlas/week-ahead-november-15-is-the-heaviest-upcoming-layoff-week-with-7781-workers-scheduled-2mi
+
+---
+
+## Week Ahead: November 22 Brings 6,527 Scheduled Layoffs, the Second-Heaviest Week on the Calendar
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Week Ahead: November 22 Brings 6,527 Scheduled Layoffs, the Second-Heaviest Week on the Calendar The week of November 22 is shaping up to be the second-heaviest layoff week on the current WARN calendar. Notices tracke...
+- Link: https://dev.to/layoffatlas/week-ahead-november-22-brings-6527-scheduled-layoffs-the-second-heaviest-week-on-the-calendar-j2g
 
 ---
 
@@ -173,11 +173,11 @@ _Generated on: 2026-10-24 06:39 UTC_
 
 ---
 
-## Your AI Agent Says “Done.” What Did It Actually Verify?
+## What Running a One-Person Outreach Operation Taught Me About Follow-Ups
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: “Fixed the bug. All tests pass.” Great. Which tests? Did they run? Did they cover the bug—or did the agent change the test until it passed? A confident completion message is easy to read as proof. But before you merge...
-- Link: https://dev.to/robertadam987_/your-ai-agent-says-done-what-did-it-actually-verify-16jd
+- Category: Career Guidance
+- Summary: I spent a long time thinking follow-ups were rude. Sending a second email to someone who hadn't replied felt like nagging — like I was the person who double-texts and then wonders why nobody answers. Then I started ru...
+- Link: https://dev.to/louiscarter196/what-running-a-one-person-outreach-operation-taught-me-about-follow-ups-2p7c
 
 ---

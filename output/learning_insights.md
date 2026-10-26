@@ -1,22 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-10-25 07:04 UTC_
+_Generated on: 2026-10-26 07:11 UTC_
 
-## A Guide to Modern Python String Formatting Tools
+## A perfect ATS score means nothing about being picked
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore Python's modern string formatting tools, and learn to harness f-strings and the .format() method for interpolation and formatting.
-- Link: https://realpython.com/python-formatted-output/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A high parsing score on an applicant tracking system only proves one thing, which is that your resume did not trigger an automatic disqualification. It confirms that the text layers were read, the dates parsed in the...
+- Link: https://dev.to/simali_dud_b97add4154d7a6/a-perfect-ats-score-means-nothing-about-being-picked-2he7
 
 ---
 
-## An Intro to Threading in Python
+## ATAR for Nursing: Selection Ranks and Guaranteed ATARs
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use Python threading to run tasks concurrently, synchronize threads with locks and queues, and avoid race conditions and deadlocks.
-- Link: https://realpython.com/intro-to-python-threading/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most Bachelor of Nursing courses in Australia admit students with ATARs from the 60s to the low 80s. Recent official figures range from a guaranteed 65.00 at the University of New England to a lowest adjusted rank of...
+- Link: https://dev.to/shami_khan_5d3157399ceda2/atar-for-nursing-selection-ranks-and-guaranteed-atars-2p7p
+
+---
+
+## BBA Aviation Management in Tiruchirappalli: Course, Skills and Career Opportunities
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Choosing the right undergraduate course is an important step for students who want to build a career in aviation. BBA Aviation Management in Tiruchirappalli is a course worth exploring for students interested in airpo...
+- Link: https://dev.to/raja_r_25b79d24963c075da2/bba-aviation-management-in-tiruchirappalli-course-skills-and-career-opportunities-1b6f
 
 ---
 
@@ -29,12 +38,30 @@ _Generated on: 2026-10-25 07:04 UTC_
 
 ---
 
-## Dictionaries in Python
+## Chest X-Ray: Purpose, Procedure, and Benefits
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how dictionaries in Python work: create and modify key-value pairs using dict literals, the dict() constructor, built-in methods, and operators.
-- Link: https://realpython.com/python-dicts/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: What Is a Chest X-Ray? A chest X-ray is a common imaging test that uses a small amount of radiation to create pictures of the chest. It helps doctors examine the lungs, heart, airways, ribs, and surrounding structures...
+- Link: https://dev.to/profile_connect_a9f6527bb/chest-x-ray-purpose-procedure-and-benefits-5f7n
+
+---
+
+## Does the WARN Act Cover Government and Nonprofit Employers?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Does the WARN Act Cover Government and Nonprofit Employers? The short answer surprises many workers: a nonprofit employer can owe WARN Act notice, but a regular government agency usually does not. The federal law draw...
+- Link: https://dev.to/layoffatlas/does-the-warn-act-cover-government-and-nonprofit-employers-55o0
+
+---
+
+## From Idea to Video: How AI Video Generators Are Changing Content Creation
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Creating engaging videos used to require a combination of filming equipment, editing software, technical skills, and hours of production time. Today, AI video generators are changing that process by helping creators t...
+- Link: https://dev.to/vidnix/from-idea-to-video-how-ai-video-generators-are-changing-content-creation-3a3e
 
 ---
 
@@ -56,21 +83,12 @@ _Generated on: 2026-10-25 07:04 UTC_
 
 ---
 
-## I Tested img2interior with Codex: A Room and a 95 MB Runtime
+## Job Board Scraping: Deduplicating and Normalising Postings Across Boards
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: AI-assisted disclosure: Codex assisted with research, code and writing. Measurements, failure cases and limitations are retained from the original article. Originally published by Alicia on 2026-10-22: Digital Garden...
-- Link: https://dev.to/alicia_lu/i-tested-img2interior-with-codex-a-room-and-a-95-mb-runtime-5h1a
-
----
-
-## I Tested machine-skill with Codex: Two Three.js Pump Simulations
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: AI-assisted disclosure: Codex assisted with research, code and writing. Measurements, failure cases and limitations are retained from the original article. Originally published by Alicia on 2026-10-18: Digital Garden...
-- Link: https://dev.to/alicia_lu/i-tested-machine-skill-with-codex-two-threejs-pump-simulations-44k4
+- Summary: Job board scraping is the collection of public job postings from job boards, aggregators and employers' careers pages into a structured dataset, usually to measure hiring demand by role, skill, location or company. Th...
+- Link: https://dev.to/promptcloud_services/job-board-scraping-deduplicating-and-normalising-postings-across-boards-3kko
 
 ---
 
@@ -83,84 +101,66 @@ _Generated on: 2026-10-25 07:04 UTC_
 
 ---
 
-## Making a Python QA framework installable: what Phase 1 actually requires
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: When you build a testing framework, the actual test execution logic is only half the work. The other half is making it installable, configurable, and ready for someone else's repository. I just published the Phase 1 m...
-- Link: https://dev.to/praman/making-a-python-qa-framework-installable-what-phase-1-actually-requires-5gm6
-
----
-
-## One Click. Multiple Systems. One Order.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Imagine you're ordering a pair of shoes for ₹999. You click Place Order , complete the payment, and wait for confirmation. A few seconds later, the website shows that your order is confirmed. Everything looks simple....
-- Link: https://dev.to/darshan_dev/one-click-multiple-systems-one-order-1nf4
-
----
-
-## Python String Formatting: Available Tools and Their Features
+## Logging in Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how Python string formatting works with f-strings, the .format() method, and the modulo operator, plus the strengths of each tool.
-- Link: https://realpython.com/python-string-formatting/
+- Summary: Go beyond print() with Python logging. Create your first logs, set levels and formats, and add handlers that grow with your projects.
+- Link: https://realpython.com/python-logging/
 
 ---
 
-## Resume Formatting Mistakes That Break ATS Parsing (And How to Fix Them)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Most resumes that fail Applicant Tracking System (ATS) screening do not get rejected because the candidate lacks experience—they fail because the layout scrambles the extracted text stream before a recruiter or keywor...
-- Link: https://dev.to/muhammadalimughal/resume-formatting-mistakes-that-break-ats-parsing-and-how-to-fix-them-5dki
-
----
-
-## The Art of Doing Less, Learning More
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady . What I Built As a student and developer, I know how time-consuming studying can be. Sometimes, understanding the material i...
-- Link: https://dev.to/aksa_fatima_7d71f290fcd3f/the-art-of-doing-less-learning-more-4cd1
-
----
-
-## Three Ways of Storing and Accessing Lots of Images in Python
+## Python Code Quality: Best Practices and Tools
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Compare three ways of storing images in Python, as PNG files on disk, in LMDB, and in HDF5, with timings for reading and writing lots of images.
-- Link: https://realpython.com/storing-images-in-python/
+- Summary: Python best practices for code quality: what makes code good, and the tools and strategies that keep it that way as a project grows.
+- Link: https://realpython.com/python-code-quality/
 
 ---
 
-## We Don’t Need Another Productivity App. We Need to Actually Finish What We Start.
+## Python Modules and Packages – An Introduction
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Have you ever created the perfect plan at night, felt motivated, and then completely abandoned it a few days later? I have been thinking about why this happens so often. We download productivity apps. We create to-do...
-- Link: https://dev.to/pratyush_ranjan_roul/we-dont-need-another-productivity-app-we-need-to-actually-finish-what-we-start-1128
-
----
-
-## Week Ahead: November 15 Is the Heaviest Upcoming Layoff Week, With 7,781 Workers Scheduled
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Week Ahead: November 15 Is the Heaviest Upcoming Layoff Week, With 7,781 Workers Scheduled The heaviest layoff week on the current WARN calendar is now three weeks away. According to the latest figures on Layoff Atlas...
-- Link: https://dev.to/layoffatlas/week-ahead-november-15-is-the-heaviest-upcoming-layoff-week-with-7781-workers-scheduled-2mi
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Python modules and packages, the two mechanisms that make modular programming possible, and learn how imports find your code.
+- Link: https://realpython.com/python-modules-packages/
 
 ---
 
-## Week Ahead: November 22 Brings 6,527 Scheduled Layoffs, the Second-Heaviest Week on the Calendar
+## Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Extend your Flask REST API with a SQLAlchemy one-to-many relationship that adds notes to people, and serve them through new API endpoints.
+- Link: https://realpython.com/flask-connexion-rest-api-part-3/
+
+---
+
+## Python's with Statement: Manage External Resources Safely
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Understand Python's with statement and context managers to streamline the setup and teardown phases in resource management. Start writing safer code today!
+- Link: https://realpython.com/python-with-statement/
+
+---
+
+## Suprisingly two sleeping cats taught me Vision Language models
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Week Ahead: November 22 Brings 6,527 Scheduled Layoffs, the Second-Heaviest Week on the Calendar The week of November 22 is shaping up to be the second-heaviest layoff week on the current WARN calendar. Notices tracke...
-- Link: https://dev.to/layoffatlas/week-ahead-november-22-brings-6527-scheduled-layoffs-the-second-heaviest-week-on-the-calendar-j2g
+- Category: Programming Tips
+- Summary: I wanted to understand vision language models (VLMs), the AI that looks at a photo and answers questions about it. So I started with a tiny grid of numbers and ended up quizzing an AI about two sleeping cats. Everythi...
+- Link: https://dev.to/ira_deb/suprisingly-two-sleeping-cats-taught-me-vision-language-models-38jd
+
+---
+
+## Top Mobile App Development Partners for Florida Businesses: 2026 Shortlist
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A five-star agency can still ship an app Apple rejects. Its October 16, 2026 App Review update clarified safeguards for AI-generated content and restrictions on hidden features. Florida businesses need partners who ow...
+- Link: https://dev.to/dhruvjoshi9/top-mobile-app-development-partners-for-florida-businesses-2026-shortlist-10i7
 
 ---
 
@@ -173,11 +173,11 @@ _Generated on: 2026-10-25 07:04 UTC_
 
 ---
 
-## What Running a One-Person Outreach Operation Taught Me About Follow-Ups
+## Why AI Coding Assistants Should Never Replace Code Review Discipline
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: I spent a long time thinking follow-ups were rude. Sending a second email to someone who hadn't replied felt like nagging — like I was the person who double-texts and then wonders why nobody answers. Then I started ru...
-- Link: https://dev.to/louiscarter196/what-running-a-one-person-outreach-operation-taught-me-about-follow-ups-2p7c
+- Category: Programming Tips
+- Summary: AI coding assistants can make development feel dramatically faster. They can generate boilerplate, explain unfamiliar code, suggest tests, refactor functions, and sometimes implement complete features from a short nat...
+- Link: https://dev.to/aiworkflowresearch/why-ai-coding-assistants-should-never-replace-code-review-discipline-e2o
 
 ---

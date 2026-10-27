@@ -1,76 +1,76 @@
 # Learning Insights
 
-_Generated on: 2026-10-26 07:11 UTC_
+_Generated on: 2026-10-27 06:59 UTC_
 
-## A perfect ATS score means nothing about being picked
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A high parsing score on an applicant tracking system only proves one thing, which is that your resume did not trigger an automatic disqualification. It confirms that the text layers were read, the dates parsed in the...
-- Link: https://dev.to/simali_dud_b97add4154d7a6/a-perfect-ats-score-means-nothing-about-being-picked-2he7
-
----
-
-## ATAR for Nursing: Selection Ranks and Guaranteed ATARs
+## After You Pass: Which AI Certifications Expire and What Renewal Costs
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Most Bachelor of Nursing courses in Australia admit students with ATARs from the 60s to the low 80s. Recent official figures range from a guaranteed 65.00 at the University of New England to a lowest adjusted rank of...
-- Link: https://dev.to/shami_khan_5d3157399ceda2/atar-for-nursing-selection-ranks-and-guaranteed-atars-2p7p
+- Summary: Originally published on academies.ai: https://academies.ai/guides/ai-certifications-expire/ After You Pass: Which AI Certifications Expire and What Renewal Costs Across the table below, 6 certifications carry a stated...
+- Link: https://dev.to/jaafarmourtada/after-you-pass-which-ai-certifications-expire-and-what-renewal-costs-1l1g
 
 ---
 
-## BBA Aviation Management in Tiruchirappalli: Course, Skills and Career Opportunities
+## Build Command-Line Interfaces With Python's argparse
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Choosing the right undergraduate course is an important step for students who want to build a career in aviation. BBA Aviation Management in Tiruchirappalli is a course worth exploring for students interested in airpo...
-- Link: https://dev.to/raja_r_25b79d24963c075da2/bba-aviation-management-in-tiruchirappalli-course-skills-and-career-opportunities-1b6f
-
----
-
-## Build a Hybrid Search Engine in PostgreSQL: BM25 + Vector Retrieval
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Most application search setups force a trade-off: settle for simple text filters, or manage a separate search cluster like Elasticsearch with complex synchronization pipelines. In a new video course o
-- Link: https://www.freecodecamp.org/news/build-a-hybrid-search-engine-in-postgresql-bm25-vector-retrieval/
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Use Python's argparse module to build command-line interfaces for your scripts, with arguments, options, subcommands, and automatic help messages.
+- Link: https://realpython.com/command-line-interfaces-python-argparse/
 
 ---
 
-## Chest X-Ray: Purpose, Procedure, and Benefits
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: What Is a Chest X-Ray? A chest X-ray is a common imaging test that uses a small amount of radiation to create pictures of the chest. It helps doctors examine the lungs, heart, airways, ribs, and surrounding structures...
-- Link: https://dev.to/profile_connect_a9f6527bb/chest-x-ray-purpose-procedure-and-benefits-5f7n
-
----
-
-## Does the WARN Act Cover Government and Nonprofit Employers?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Does the WARN Act Cover Government and Nonprofit Employers? The short answer surprises many workers: a nonprofit employer can owe WARN Act notice, but a regular government agency usually does not. The federal law draw...
-- Link: https://dev.to/layoffatlas/does-the-warn-act-cover-government-and-nonprofit-employers-55o0
-
----
-
-## From Idea to Video: How AI Video Generators Are Changing Content Creation
+## Building a Niche Website: The Web Development Lessons Behind MenudBros.com
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Creating engaging videos used to require a combination of filming equipment, editing software, technical skills, and hours of production time. Today, AI video generators are changing that process by helping creators t...
-- Link: https://dev.to/vidnix/from-idea-to-video-how-ai-video-generators-are-changing-content-creation-3a3e
+- Summary: As a web developer, one of the most useful ways to improve your skills is to build a real project instead of relying entirely on tutorials. A real website forces you to think about more than writing code. You have to...
+- Link: https://dev.to/hamzarana/building-a-niche-website-the-web-development-lessons-behind-menudbroscom-e1c
 
 ---
 
-## How Neural Networks Work: Why Straight Lines Aren't Enough
+## Compare offers in net-worth-per-hour, not headline salary
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Compare offers in net-worth-per-hour, not headline salary The gut always loses to the printer. When two offers sit on your desk, the temptation is to stare at the base salary and let that decide the contest. Base sala...
+- Link: https://dev.to/simali_dud_b97add4154d7a6/compare-offers-in-net-worth-per-hour-not-headline-salary-18i8
+
+---
+
+## Create a Flask Application With Google Login
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Build a Python Flask app with Google login so users can sign in with their Google account, and learn OAuth 2, OpenID Connect, and Flask-Login.
+- Link: https://realpython.com/flask-google-login/
+
+---
+
+## CTPRP exam guide 2026: eligibility, format, domains and how to prepare
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The Certified Third Party Risk Professional (CTPRP) shows that you can design and run a third-party risk management program. This guide covers who can take it, how the exam works, what each domain tests, what it costs...
+- Link: https://dev.to/sajeevsebastian/ctprp-exam-guide-2026-eligibility-format-domains-and-how-to-prepare-3fh6
+
+---
+
+## How Noise-Cancelling Headphones Actually Remove Sound in Real Time
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: A straight line equation is a good place to start understanding how a neural network works. It's what we explored in my previous article, How Neural Networks Work – Explained Using the Straight Line E
-- Link: https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/
+- Summary: A noisy flight can make it difficult to enjoy a podcast or listen to music without turning up your volume super high. Much of that disturbance comes from the steady rumble of the engines, which contin
+- Link: https://www.freecodecamp.org/news/how-noise-cancelling-headphones-work/
+
+---
+
+## How to Build a Simple Data Analyzer in Python with Pandas
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Data analysis might sound complicated when you first encounter it. You might imagine large databases, advanced mathematics, and complicated machine learning algorithms. But many useful data analysis t
+- Link: https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/
 
 ---
 
@@ -83,12 +83,12 @@ _Generated on: 2026-10-26 07:11 UTC_
 
 ---
 
-## Job Board Scraping: Deduplicating and Normalising Postings Across Boards
+## How to Use Generators and yield in Python
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Job board scraping is the collection of public job postings from job boards, aggregators and employers' careers pages into a structured dataset, usually to measure hiring demand by role, skill, location or company. Th...
-- Link: https://dev.to/promptcloud_services/job-board-scraping-deduplicating-and-normalising-postings-across-boards-3kko
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Build generator functions and generator expressions with the Python yield statement, and learn when lazy evaluation pays off.
+- Link: https://realpython.com/introduction-to-python-generators/
 
 ---
 
@@ -101,66 +101,66 @@ _Generated on: 2026-10-26 07:11 UTC_
 
 ---
 
-## Logging in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Go beyond print() with Python logging. Create your first logs, set levels and formats, and add handlers that grow with your projects.
-- Link: https://realpython.com/python-logging/
-
----
-
-## Python Code Quality: Best Practices and Tools
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Python best practices for code quality: what makes code good, and the tools and strategies that keep it that way as a project grows.
-- Link: https://realpython.com/python-code-quality/
-
----
-
-## Python Modules and Packages – An Introduction
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore Python modules and packages, the two mechanisms that make modular programming possible, and learn how imports find your code.
-- Link: https://realpython.com/python-modules-packages/
-
----
-
-## Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Extend your Flask REST API with a SQLAlchemy one-to-many relationship that adds notes to people, and serve them through new API endpoints.
-- Link: https://realpython.com/flask-connexion-rest-api-part-3/
-
----
-
-## Python's with Statement: Manage External Resources Safely
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Understand Python's with statement and context managers to streamline the setup and teardown phases in resource management. Start writing safer code today!
-- Link: https://realpython.com/python-with-statement/
-
----
-
-## Suprisingly two sleeping cats taught me Vision Language models
+## LeetCode #1 — Two Sum | Python Explained
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I wanted to understand vision language models (VLMs), the AI that looks at a photo and answers questions about it. So I started with a tiny grid of numbers and ended up quizzing an AI about two sleeping cats. Everythi...
-- Link: https://dev.to/ira_deb/suprisingly-two-sleeping-cats-taught-me-vision-language-models-38jd
+- Summary: 🟢 LeetCode #1 — Two Sum Difficulty: Easy | Topic: Arrays 🎬 Watch the Full Explanation (Video coming soon on DSA Decoded ) 📋 Problem Given an array of integers nums and an integer target, return indices of the two numb...
+- Link: https://dev.to/smarika_a76a646d9cca0d772/leetcode-1-two-sum-python-explained-2hm1
 
 ---
 
-## Top Mobile App Development Partners for Florida Businesses: 2026 Shortlist
+## Python Protocols: Leveraging Structural Subtyping
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how Python protocols bring static duck typing to your code and help you get the most out of type hints and static type checkers.
+- Link: https://realpython.com/python-protocol/
+
+---
+
+## See the x402 Quote Before Your Agent Pays: Free Inspector + 20 Synthetic Safety Vectors
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A five-star agency can still ship an app Apple rejects. Its October 16, 2026 App Review update clarified safeguards for AI-generated content and restrictions on hidden features. Florida businesses need partners who ow...
-- Link: https://dev.to/dhruvjoshi9/top-mobile-app-development-partners-for-florida-businesses-2026-shortlist-10i7
+- Summary: The problem: agents pay quotes they never read x402 is a simple idea with sharp edges. A server answers a request with HTTP 402 and a payment quote — an amount, an asset, a network, a recipient. The agent's wallet sig...
+- Link: https://dev.to/scriptmasterlabs01/see-the-x402-quote-before-your-agent-pays-free-inspector-20-synthetic-safety-vectors-2cne
+
+---
+
+## Single and Double Underscores in Python Names
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn Python naming conventions with single and double underscores to design APIs, create safe classes, and prevent name clashes.
+- Link: https://realpython.com/python-double-underscore/
+
+---
+
+## Svelte Explained: The Framework That Disappears
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Introduction React, Vue, and Angular all work the same way at runtime: they ship a framework to the browser, which watches your data and updates the page. Svelte takes a radically different approach — it is a compiler...
+- Link: https://dev.to/practicaldevblog/svelte-explained-the-framework-that-disappears-4bfg
+
+---
+
+## The 1-Step In101 Blueprint for 2026
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The 1-Step In101 Blueprint for 2026 Looking to build a professional path and master the skills required for modern industry demands? Obtaining a professional training in In101 is a great step to stand out in today's c...
+- Link: https://dev.to/ininin/the-1-step-in101-blueprint-for-2026-5c73
+
+---
+
+## To hint or not to hint
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: We run a practice platform for coding interviews with an AI assistant in the editor. That's the format Meta, Shopify, Canva, Stripe and a growing list of companies now use. From the start our assistant had one rule ab...
+- Link: https://dev.to/max_nyriev/to-hint-or-not-to-hint-5627
 
 ---
 
@@ -170,14 +170,5 @@ _Generated on: 2026-10-26 07:11 UTC_
 - Category: Learning Article
 - Summary: Over time, knowledge has been passed down in various forms. Before writing was invented in ancient Mesopotamia (modern-day Iraq), laws, history, myths, songs, and other information were all transferre
 - Link: https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/
-
----
-
-## Why AI Coding Assistants Should Never Replace Code Review Discipline
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: AI coding assistants can make development feel dramatically faster. They can generate boilerplate, explain unfamiliar code, suggest tests, refactor functions, and sometimes implement complete features from a short nat...
-- Link: https://dev.to/aiworkflowresearch/why-ai-coding-assistants-should-never-replace-code-review-discipline-e2o
 
 ---

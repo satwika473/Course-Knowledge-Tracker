@@ -1,58 +1,58 @@
 # Learning Insights
 
-_Generated on: 2026-10-27 06:59 UTC_
+_Generated on: 2026-10-28 07:42 UTC_
 
-## After You Pass: Which AI Certifications Expire and What Renewal Costs
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Originally published on academies.ai: https://academies.ai/guides/ai-certifications-expire/ After You Pass: Which AI Certifications Expire and What Renewal Costs Across the table below, 6 certifications carry a stated...
-- Link: https://dev.to/jaafarmourtada/after-you-pass-which-ai-certifications-expire-and-what-renewal-costs-1l1g
-
----
-
-## Build Command-Line Interfaces With Python's argparse
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Use Python's argparse module to build command-line interfaces for your scripts, with arguments, options, subcommands, and automatic help messages.
-- Link: https://realpython.com/command-line-interfaces-python-argparse/
-
----
-
-## Building a Niche Website: The Web Development Lessons Behind MenudBros.com
+## [ Video ] Testing Nemotron 3.5 Bolt E4B 4GB on my 16 GB MacBookPro
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: As a web developer, one of the most useful ways to improve your skills is to build a real project instead of relying entirely on tutorials. A real website forces you to think about more than writing code. You have to...
-- Link: https://dev.to/hamzarana/building-a-niche-website-the-web-development-lessons-behind-menudbroscom-e1c
+- Summary: NVIDIA released Nemotron 3.5 Bolt E4B on October 23, 2026. It’s the smallest model in the new Bolt line — 8 billion total parameters with 4 billion effective, built by taking Google’s Gemma 4 E4B and running additiona...
+- Link: https://dev.to/dragos_roua/-video-testing-nemotron-35-bolt-e4b-4gb-on-my-16-gb-macbookpro-86m
 
 ---
 
-## Compare offers in net-worth-per-hour, not headline salary
+## Dead miles are eating your gig pay — here's how to count them
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Compare offers in net-worth-per-hour, not headline salary The gut always loses to the printer. When two offers sit on your desk, the temptation is to stare at the base salary and let that decide the contest. Base sala...
-- Link: https://dev.to/simali_dud_b97add4154d7a6/compare-offers-in-net-worth-per-hour-not-headline-salary-18i8
+- Summary: You get paid for the miles with a passenger or an order in the car. You do not get paid for the miles to the pickup, between jobs, repositioning to a busier area, or driving home empty. Those unpaid miles are called d...
+- Link: https://dev.to/userxnom/dead-miles-are-eating-your-gig-pay-heres-how-to-count-them-5fj4
 
 ---
 
-## Create a Flask Application With Google Login
+## Dwarven Stronghold Update!
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: For anyone excited, Dwarven Stronghold's sim loop is nearing completion and the procedural rendering engine is working! Still alot of wiring to do (almost 10k modules for the sim-render) but it's getting there... It j...
+- Link: https://dev.to/unitbuilds/dwarven-stronghold-update-2eea
+
+---
+
+## Exploring AI Coding Agent Workflows
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Build a Python Flask app with Google login so users can sign in with their Google account, and learn OAuth 2, OpenID Connect, and Flask-Login.
-- Link: https://realpython.com/flask-google-login/
+- Summary: AI coding agents come in four types: IDE, terminal, PR, and cloud. Learn how each workflow fits into modern Python development.
+- Link: https://realpython.com/courses/exploring-ai-coding-agent-workflows/
 
 ---
 
-## CTPRP exam guide 2026: eligibility, format, domains and how to prepare
+## Feature Flags and Progressive Delivery: Safer Software Releases
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: The Certified Third Party Risk Professional (CTPRP) shows that you can design and run a third-party risk management program. This guide covers who can take it, how the exam works, what each domain tests, what it costs...
-- Link: https://dev.to/sajeevsebastian/ctprp-exam-guide-2026-eligibility-format-domains-and-how-to-prepare-3fh6
+- Category: Programming Tips
+- Summary: Deploying code to production does not have to mean exposing a new feature to every user immediately. A feature may be technically ready but still need validation with real traffic. It might introduce unexpected perfor...
+- Link: https://dev.to/tricon_infotech/feature-flags-and-progressive-delivery-safer-software-releases-ih1
+
+---
+
+## How I Turn Long Recordings into Useful Clips with Natural-Language Audio Editing
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Audio editing often begins with a simple request: find one useful answer in a long recording and turn it into a clean clip. The request is simple, but the traditional workflow is not. You import the file, scrub throug...
+- Link: https://dev.to/lemarie_eaglen_919f8c5982/how-i-turn-long-recordings-into-useful-clips-with-natural-language-audio-editing-2447
 
 ---
 
@@ -74,21 +74,48 @@ _Generated on: 2026-10-27 06:59 UTC_
 
 ---
 
-## How to Diagnose vite: not found After npm ci in a Container Build
+## How to Build Passkey Authentication with WebAuthn, Next.js and NestJS
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: I recently worked on a project where a Node.js application used Vite to compile its frontend. It worked in a browser-hosted development environment, but its image build failed after the move to Azure
-- Link: https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/
+- Summary: Passwords are a pain for both users and service providers․ Users often find it difficult to remember passwords, and the risk of phishing and password reuse across multiple websites is high. Developers
+- Link: https://www.freecodecamp.org/news/how-to-build-passkey-authentication-with-webauthn-next-js-and-nestjs/
 
 ---
 
-## How to Use Generators and yield in Python
+## How to Get Out of Tutorial Hell
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Build generator functions and generator expressions with the Python yield statement, and learn when lazy evaluation pays off.
-- Link: https://realpython.com/introduction-to-python-generators/
+- Summary: Stuck in tutorial hell? Learn how to get out by turning Python tutorials into practical projects that build real skills and lasting confidence.
+- Link: https://realpython.com/how-to-get-out-of-tutorial-hell/
+
+---
+
+## How to Keep Up With Tech as a Developer (Without Drowning in Newsletters and Podcasts)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: For about two years my "keeping up with tech" system was a folder of 14 newsletters, three podcast apps' worth of queued episodes, and a YouTube Watch Later playlist that crossed 600 videos. I felt informed. Then a co...
+- Link: https://dev.to/spartanrich430/how-to-keep-up-with-tech-as-a-developer-without-drowning-in-newsletters-and-podcasts-1524
+
+---
+
+## I Split Two Million Rows and the GC Noticed
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I had a nightly job that reads a partner CSV and sums the amount column, just to sanity-check a total before the real import runs. Boring code. row.Split(',') , grab field one, parse it, add it up. It worked the day I...
+- Link: https://dev.to/ssukhpinder/i-split-two-million-rows-and-the-gc-noticed-2lgf
+
+---
+
+## Kajabi Community Features: Connecting Creators and Learners
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: What is Kajabi Community? Kajabi Community is a tool found on your Kajabi platform that allows creators to share, engage, and hold discussions with their audience. It’s a dedicated space for learners where they can as...
+- Link: https://dev.to/emmasseosituation-34/kajabi-community-features-connecting-creators-and-learners-3pda
 
 ---
 
@@ -101,66 +128,48 @@ _Generated on: 2026-10-27 06:59 UTC_
 
 ---
 
-## LeetCode #1 — Two Sum | Python Explained
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 🟢 LeetCode #1 — Two Sum Difficulty: Easy | Topic: Arrays 🎬 Watch the Full Explanation (Video coming soon on DSA Decoded ) 📋 Problem Given an array of integers nums and an integer target, return indices of the two numb...
-- Link: https://dev.to/smarika_a76a646d9cca0d772/leetcode-1-two-sum-python-explained-2hm1
-
----
-
-## Python Protocols: Leveraging Structural Subtyping
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how Python protocols bring static duck typing to your code and help you get the most out of type hints and static type checkers.
-- Link: https://realpython.com/python-protocol/
-
----
-
-## See the x402 Quote Before Your Agent Pays: Free Inspector + 20 Synthetic Safety Vectors
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The problem: agents pay quotes they never read x402 is a simple idea with sharp edges. A server answers a request with HTTP 402 and a payment quote — an amount, an asset, a network, a recipient. The agent's wallet sig...
-- Link: https://dev.to/scriptmasterlabs01/see-the-x402-quote-before-your-agent-pays-free-inspector-20-synthetic-safety-vectors-2cne
-
----
-
-## Single and Double Underscores in Python Names
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn Python naming conventions with single and double underscores to design APIs, create safe classes, and prevent name clashes.
-- Link: https://realpython.com/python-double-underscore/
-
----
-
-## Svelte Explained: The Framework That Disappears
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Introduction React, Vue, and Angular all work the same way at runtime: they ship a framework to the browser, which watches your data and updates the page. Svelte takes a radically different approach — it is a compiler...
-- Link: https://dev.to/practicaldevblog/svelte-explained-the-framework-that-disappears-4bfg
-
----
-
-## The 1-Step In101 Blueprint for 2026
+## Lessons from: IndieHackers.com acquired by Stripe
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The 1-Step In101 Blueprint for 2026 Looking to build a professional path and master the skills required for modern industry demands? Obtaining a professional training in In101 is a great step to stand out in today's c...
-- Link: https://dev.to/ininin/the-1-step-in101-blueprint-for-2026-5c73
+- Summary: Lessons from: IndieHackers.com acquired by Stripe What I Learned IndieHackers.com acquired by Stripe caught my attention because it represents a real opportunity for developers. Key Takeaways Start Small - Every succe...
+- Link: https://dev.to/qingluan/lessons-from-indiehackerscom-acquired-by-stripe-247i
 
 ---
 
-## To hint or not to hint
+## MCP vs API Calls: Which Should You Use for Python LLM Apps?
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: MCP vs API calls: build one Python tool, integrate it both ways, and compare. Learn what each approach costs and when an MCP server pays for itself.
+- Link: https://realpython.com/mcp-vs-api/
+
+---
+
+## Pyrefly: A Fast Static Type Checker for Python Projects
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use Pyrefly, a fast static type checker for Python, to catch type errors, generate type annotations, and measure type coverage.
+- Link: https://realpython.com/pyrefly-python/
+
+---
+
+## Python Circular Imports: Why They Happen and How to Fix Them
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Confused by Python circular imports? Learn why they happen, how Python's import system works, and how to fix import errors using practical examples.
+- Link: https://realpython.com/python-circular-imports/
+
+---
+
+## The agent checked for approval. Why did it refund anyway?
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: We run a practice platform for coding interviews with an AI assistant in the editor. That's the format Meta, Shopify, Canva, Stripe and a growing list of companies now use. From the start our assistant had one rule ab...
-- Link: https://dev.to/max_nyriev/to-hint-or-not-to-hint-5627
+- Category: Programming Tips
+- Summary: A customer says a manager approved a refund. The agent checks the designated refund system. There is no approval, so it refuses. So far, the agent has done the right thing. Then it saves the customer's statement as co...
+- Link: https://dev.to/sara_mo/the-agent-checked-for-approval-why-did-it-refund-anyway-13cd
 
 ---
 

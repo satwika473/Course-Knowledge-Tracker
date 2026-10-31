@@ -1,22 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-10-30 07:52 UTC_
+_Generated on: 2026-10-31 07:42 UTC_
 
-## AIPL Redefining Luxury Real Estate and Modern Living in Gurgaon
+## A big-tips night can still be a bad shift — here's how to tell
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Gurgaon has become one of India's most sought-after real estate destinations, attracting homebuyers, investors, and businesses looking for modern infrastructure, excellent connectivity, and premium developments. From...
-- Link: https://dev.to/yashu26/aipl-redefining-luxury-real-estate-and-modern-living-in-gurgaon-1f40
+- Category: Career Guidance
+- Summary: For drivers and delivery workers, tips feel like the win. A night with big tips feels like a good night, and a night with small tips feels like a bad one. That feeling is misleading, because tips are only one half of...
+- Link: https://dev.to/userxnom/a-big-tips-night-can-still-be-a-bad-shift-heres-how-to-tell-3jn9
 
 ---
 
-## Build a Python MCP Client to Test Servers From Your Terminal
+## AI just cracked a 25-year-old conjecture. To get why, start with P vs NP.
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Follow this Python project to build an MCP client that discovers MCP server capabilities and feeds an AI-powered chat with tool calls.
-- Link: https://realpython.com/python-mcp-client/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: An AI model just disproved a hypothesis that complexity theorists had been building on since 1999. On October 25, OpenAI posted a 67-page preprint titled "The Exponential Time Hypothesis is False", found by an interna...
+- Link: https://dev.to/smit153/ai-just-cracked-a-25-year-old-conjecture-to-get-why-start-with-p-vs-np-om
 
 ---
 
@@ -29,12 +29,21 @@ _Generated on: 2026-10-30 07:52 UTC_
 
 ---
 
-## Cursor vs Windsurf vs GitHub Copilot: Multi-File Context, Agentic Refactoring & Speed
+## GitHub, Open Source & Proof-of-Work on Your Resume: Formatting Projects for ATS & Staff Engineers
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Cursor vs Windsurf vs GitHub Copilot: Multi-File Context, Agentic Refactoring & Speed 1. Executive Summary & Decision Matrix All three tools are AI pair-programmers, but they are engineered for different bottleneck pr...
-- Link: https://dev.to/grfdsasdvef/cursor-vs-windsurf-vs-github-copilot-multi-file-context-agentic-refactoring-speed-3b6
+- Category: Career Guidance
+- Summary: Every hiring manager says some version of, "Show me your GitHub or what you've shipped in production." Yet when engineers add a Projects or Open Source section to their resume, two things routinely go wrong: the Appli...
+- Link: https://dev.to/muhammadalimughal/github-open-source-proof-of-work-on-your-resume-formatting-projects-for-ats-staff-engineers-4doe
+
+---
+
+## GPT-6.1 Terra Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore GPT-6.1 Terra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-gpt-6-1-terra/
 
 ---
 
@@ -56,30 +65,30 @@ _Generated on: 2026-10-30 07:52 UTC_
 
 ---
 
-## How to write a resume Profile Summary that gets callbacks in 7 steps (FAANG recruiter)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A recruiter eye-tracking study show that recruiters spend about 7.4 seconds on the first pass of your resume. In that window, most of them never reach your work history. They read the few lines at the top and decide....
-- Link: https://dev.to/emmanuelattechiecv/how-to-write-a-resume-profile-summary-that-gets-callbacks-in-7-steps-faang-recruiter-1m8g
-
----
-
-## I Clamped Two Million Readings and Nothing Happened
+## How to Compare Audio Visual System Brands Before Buying
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A job of mine ingests sensor readings, and one cleanup step clamps anything above 500 back down to 500. Garden-variety stuff. I wrote the loop, the tests I cared about stayed green, and the "reading over threshold" al...
-- Link: https://dev.to/ssukhpinder/i-clamped-two-million-readings-and-nothing-happened-ce2
+- Summary: Smart Audio Visual Solutions for Villas and Apartments: A Complete Home Entertainment Guide Introduction Modern residential spaces are becoming more intelligent, connected, and entertainment-focused. Whether you live...
+- Link: https://dev.to/sasco_smart_c126022fe465a/how-to-compare-audio-visual-system-brands-before-buying-2nao
 
 ---
 
-## KarlgustaHub Community is partnering with @Founding Dev for the Founding.dev Design Hackathon.
+## How to Detect Financial Fraud Patterns with Knowledge Graphs: A Production Guide
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet
+- Link: https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/
+
+---
+
+## I Only Wanted Six Sums. GroupBy Gave Me 100 MB
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: KarlgustaHub Community is partnering with @Founding Dev for the Founding.dev Design Hackathon. From November 6 to 9, designers, frontend developers and engineers will compete to build the best landing page on Founding...
-- Link: https://dev.to/thekarlesi/karlgustahub-community-is-partnering-with-founding-dev-for-the-foundingdev-design-hackathon-416d
+- Summary: A reporting endpoint I wrote months ago started turning up in our gen0 collection graphs, and for a while I couldn't work out why. All it does is total an amount column per region and hand back six numbers. Six. Nothi...
+- Link: https://dev.to/ssukhpinder/i-only-wanted-six-sums-groupby-gave-me-100-mb-4p4
 
 ---
 
@@ -101,83 +110,74 @@ _Generated on: 2026-10-30 07:52 UTC_
 
 ---
 
-## Preventing FastAPI Schema Drift: Building an Automated Validation Engine with Pydantic v2 and orjson
+## Limiting an MQL5 EA to a few trades per day using the deal history
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Preventing FastAPI Schema Drift: Building an Automated Validation Engine with Pydantic v2 and orjson In modern distributed architectures and API-first development workflows, schema drift between backend endpoints (e.g...
-- Link: https://dev.to/toai/preventing-fastapi-schema-drift-building-an-automated-validation-engine-with-pydantic-v2-and-orjson-42h0
+- Summary: A common request for an Expert Advisor is a daily trade limit: no more than three new entries per day, and a pause after a losing trade before the next one. It sounds like a counter that goes up by one on every entry...
+- Link: https://dev.to/omaisali/limiting-an-mql5-ea-to-a-few-trades-per-day-using-the-deal-history-3bd5
 
 ---
 
-## Quiz: Creating a Scalable Flask Web Application From Scratch
+## Quiz: Inheritance and Composition: A Python OOP Guide
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of Flask project structure, from the application factory and blueprints to Jinja templates and static files.
-- Link: https://realpython.com/quizzes/create-scalable-flask-web-app/
+- Summary: In this quiz, you'll test your understanding of inheritance and composition in Python. These are two major concepts in object-oriented programming that help model the relationship between two classes. By working throu...
+- Link: https://realpython.com/quizzes/inheritance-composition-python/
 
 ---
 
-## Quiz: Dictionaries and Arrays: Selecting the Ideal Data Structure
+## Quiz: Python's Mutable vs Immutable Types: What's the Difference?
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your understanding of Python dictionaries and arrays, from dict, defaultdict, and ChainMap to lists, typed arrays, and bytearray.
-- Link: https://realpython.com/quizzes/dicts-arrays-ideal-data-structure/
+- Summary: Find out how Python's mutable and immutable types behave, and see how mutability shapes lists, tuples, dictionaries, and your own classes.
+- Link: https://realpython.com/quizzes/python-mutable-vs-immutable-types/
 
 ---
 
-## Quiz: Learn With Mentor AI: A Guided Journey Through Async Python
+## The Real Python Podcast – Episode #317: Demystifying Python Memory Management & Choosing a Project Layout
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Practice learning async Python with Mentor AI. Check how coroutines, await, and the event loop work, and how to steer your mentor.
-- Link: https://realpython.com/quizzes/learn-with-mentor-ai-async-python/
+- Summary: How does Python manage memory behind the scenes? What are the common ways to lay out a Python project? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.
+- Link: https://realpython.com/podcasts/rpp/317/
 
 ---
 
-## Secure Your AI Agents – Free Model Context Protocol (MCP) Security Course
+## There’s a Snarky Dead Guy Trapped in My Laptop, and He Has Opinions About My Stack Trace!
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: The Model Context Protocol (MCP) helps connect LLMs to external tools, databases, and APIs. But giving AI agents hands and feet to take real-world actions introduces an entirely new attack surface. We
-- Link: https://www.freecodecamp.org/news/secure-your-ai-agents-free-model-context-protocol-mcp-security-course/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built Meet PolterPaste — a desktop ghost that lives rent-free in your operating system's clipboard. Every time yo...
+- Link: https://dev.to/dishakhanapurkar/theres-a-snarky-dead-guy-trapped-in-my-laptop-and-he-has-opinions-about-my-stack-trace-5h2i
 
 ---
 
-## The hours you don't get paid for are quietly cutting your gig pay
+## Top 5 Challenges of Working Remotely and How to Address Them
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A gig shift's pay looks simple until you count the hours nobody pays you for — waiting for the next job, sitting between deliveries, and driving back empty after a drop-off. Most drivers count only the paid time, or t...
-- Link: https://dev.to/userxnom/the-hours-you-dont-get-paid-for-are-quietly-cutting-your-gig-pay-3n7a
+- Summary: Remote work gives employees the freedom to work from different locations, avoid daily commutes, and manage their schedules with greater flexibility. For many people, this sounds like an ideal arrangement. However, wor...
+- Link: https://dev.to/devin_b14db19eb5e2c33e8ae/top-5-challenges-of-working-remotely-and-how-to-address-them-hfp
 
 ---
 
-## Vastu, Mudras and Green Spaces: Inside Signature Global Sarvam
+## Top 5 Ways Freelancers Can Build Long-Term Client Relationships
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Vastu, Mudras and Green Spaces: Inside Signature Global Sarvam Summary Looking for a home that feels calm, green and well planned? Signature Global Sarvam Gurgaon is a wellness-focused residential project in Gurgaon,...
-- Link: https://dev.to/prince_da8c9894f7701486ad/vastu-mudras-and-green-spaces-inside-signature-global-sarvam-5cc4
+- Summary: Finding a new client is exciting, but keeping a client happy over time can be even more valuable. Long-term clients provide freelancers with more consistent work, a better understanding of project expectations, and op...
+- Link: https://dev.to/devin_b14db19eb5e2c33e8ae/top-5-ways-freelancers-can-build-long-term-client-relationships-2foa
 
 ---
 
-## What to Check Before Buying an Apartment in Mumbai's Western Suburbs
+## What's the most frustrating part of your day-to-day work in IT?
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Disclosure: I post on behalf of MS Realty, a Mumbai real estate developer. Buying an apartment in Mumbai's western suburbs is a big decision, and a few checks before you commit save a lot of trouble later. 1. Verify t...
-- Link: https://dev.to/ms_realty_862da3b26094618/career-productivity-lifestyle-1kh0
-
----
-
-## Your Job Is a Bundle of Tasks. AI Is Unbundling It.
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: When I joined Cobrainer, my title was Cloud Platform Engineer. In 2024 that title made sense: design the AWS architecture, maintain backend systems, keep the platform running. In 2026 it no longer describes the work....
-- Link: https://dev.to/cobrainer/your-job-is-a-bundle-of-tasks-ai-is-unbundling-it-32fk
+- Summary: What's the most frustrating part of your day-to-day work in IT? I'm curious to hear how other people in tech deal with their everyday challenges. Whether you're a developer, QA engineer, DevOps engineer, data analyst,...
+- Link: https://dev.to/mounika_nallapati/whats-the-most-frustrating-part-of-your-day-to-day-work-in-it-52d4
 
 ---

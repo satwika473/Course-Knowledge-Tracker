@@ -1,22 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-10-31 07:42 UTC_
+_Generated on: 2026-11-01 08:21 UTC_
 
-## A big-tips night can still be a bad shift — here's how to tell
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: For drivers and delivery workers, tips feel like the win. A night with big tips feels like a good night, and a night with small tips feels like a bad one. That feeling is misleading, because tips are only one half of...
-- Link: https://dev.to/userxnom/a-big-tips-night-can-still-be-a-bad-shift-heres-how-to-tell-3jn9
-
----
-
-## AI just cracked a 25-year-old conjecture. To get why, start with P vs NP.
+## 6 Best Platforms to Buy Fully Verified Binance Accounts …
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: An AI model just disproved a hypothesis that complexity theorists had been building on since 1999. On October 25, OpenAI posted a 67-page preprint titled "The Exponential Time Hypothesis is False", found by an interna...
-- Link: https://dev.to/smit153/ai-just-cracked-a-25-year-old-conjecture-to-get-why-start-with-p-vs-np-om
+- Summary: 6 Best Platforms to Buy Fully Verified Binance Accounts … 24 hours response/(Contact US) ➤ WhatsApp: +1 (262) 452-2139 ➤ Telegram: @pvasmmmarket ➤ Email: pvasmmmarket@gmail.com Digital finance has become an important...
+- Link: https://dev.to/pvasmmmarket6454/6-best-platforms-to-buy-fully-verified-binance-accounts--2l2k
 
 ---
 
@@ -29,12 +20,21 @@ _Generated on: 2026-10-31 07:42 UTC_
 
 ---
 
-## GitHub, Open Source & Proof-of-Work on Your Resume: Formatting Projects for ATS & Staff Engineers
+## DeepSeek's dsh-superagent is a proactive coding agent that waits to be asked: router, tickets, and the observe default
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Every hiring manager says some version of, "Show me your GitHub or what you've shipped in production." Yet when engineers add a Projects or Open Source section to their resume, two things routinely go wrong: the Appli...
-- Link: https://dev.to/muhammadalimughal/github-open-source-proof-of-work-on-your-resume-formatting-projects-for-ats-staff-engineers-4doe
+- Category: Programming Tips
+- Summary: On October 31, DeepSeek's Harness team announced an open-source coding agent on WeChat, and by November 1 Bloomberg was framing it as a challenge to Claude Code. The repo is deepseek-ai/dsh-superagent-prototype , MIT...
+- Link: https://dev.to/piekwerk/deepseeks-dsh-superagent-is-a-proactive-coding-agent-that-waits-to-be-asked-router-tickets-and-o8m
+
+---
+
+## Fast Crash Recovery: WAL, Checkpoints & Replica Repair
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Why write-ahead logging is the last line between you and data loss How incremental checkpoints shrink recovery time without breaking durability How group commit and safe-commit protocols balance latency with durable c...
+- Link: https://dev.to/beefedai/fast-crash-recovery-wal-checkpoints-replica-repair-5ea7
 
 ---
 
@@ -65,15 +65,6 @@ _Generated on: 2026-10-31 07:42 UTC_
 
 ---
 
-## How to Compare Audio Visual System Brands Before Buying
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Smart Audio Visual Solutions for Villas and Apartments: A Complete Home Entertainment Guide Introduction Modern residential spaces are becoming more intelligent, connected, and entertainment-focused. Whether you live...
-- Link: https://dev.to/sasco_smart_c126022fe465a/how-to-compare-audio-visual-system-brands-before-buying-2nao
-
----
-
 ## How to Detect Financial Fraud Patterns with Knowledge Graphs: A Production Guide
 
 - Source: freeCodeCamp News
@@ -83,12 +74,21 @@ _Generated on: 2026-10-31 07:42 UTC_
 
 ---
 
-## I Only Wanted Six Sums. GroupBy Gave Me 100 MB
+## Inheritance and Composition: A Python OOP Guide
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how inheritance and composition in Python model is-a and has-a relationships, and when to use each to design flexible object-oriented code.
+- Link: https://realpython.com/inheritance-composition-python/
+
+---
+
+## Know your break-even number before you accept the next shift
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A reporting endpoint I wrote months ago started turning up in our gen0 collection graphs, and for a while I couldn't work out why. All it does is total an amount column per region and hand back six numbers. Six. Nothi...
-- Link: https://dev.to/ssukhpinder/i-only-wanted-six-sums-groupby-gave-me-100-mb-4p4
+- Category: Career Guidance
+- Summary: Every gig shift has a hidden price tag: the minimum it must pay before it is worth your time at all. If you do not know that number, you accept shifts that feel busy and still leave you poorer at the end of the week....
+- Link: https://dev.to/userxnom/know-your-break-even-number-before-you-accept-the-next-shift-4p56
 
 ---
 
@@ -101,83 +101,74 @@ _Generated on: 2026-10-31 07:42 UTC_
 
 ---
 
-## Learn With Mentor AI: A Guided Journey Through Async Python
+## OpenAI Halves the Price of Its New Everyday AI Model
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Experience a new way of learning on Real Python by working through async Python in conversation with Mentor AI, one well-placed question at a time.
-- Link: https://realpython.com/learn-with-mentor-ai-async-python/
+- Summary: Real Python's weekly AI news for October 24–30, 2026, explained in plain language: Cheaper OpenAI Model, Free Mistral Model, and New Kimi Model.
+- Link: https://realpython.com/ai-news-weekly-2026-10-30/
 
 ---
 
-## Limiting an MQL5 EA to a few trades per day using the deal history
+## Python range(): Represent Numerical Ranges
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Master the Python range() function, see how it works under the hood, and learn when enumerate() or zip() beat ranges in your loops.
+- Link: https://realpython.com/python-range/
+
+---
+
+## Quiz: Socket Programming in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: In this quiz, you'll test your understanding of Python sockets. With this knowledge, you'll be able to create your own client-server applications, handle multiple connections simultaneously, and send messages and data...
+- Link: https://realpython.com/quizzes/socket-programming-in-python/
+
+---
+
+## The best engineers are curious
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The best engineers I know all have one thing in common: they know a little about a lot of things. They aren't experts in everything, but they understand the basics of databases, network protocols, design patterns, and...
+- Link: https://dev.to/hassan_aziz_88b11714fef8b/the-best-engineers-are-curious-2kik
+
+---
+
+## Using CLAUDE.md and AGENTS.md in the Same Project
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A common request for an Expert Advisor is a daily trade limit: no more than three new entries per day, and a pause after a losing trade before the next one. It sounds like a counter that goes up by one on every entry...
-- Link: https://dev.to/omaisali/limiting-an-mql5-ea-to-a-few-trades-per-day-using-the-deal-history-3bd5
+- Summary: Shared project rules for Claude Code and Codex, a small import when needed, and a separate record of unfinished work. Cover: AI-generated illustration. When I moved work from Codex to Claude Code, I sometimes spent th...
+- Link: https://dev.to/anoushohadi/using-claudemd-and-agentsmd-in-the-same-project-463b
 
 ---
 
-## Quiz: Inheritance and Composition: A Python OOP Guide
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: In this quiz, you'll test your understanding of inheritance and composition in Python. These are two major concepts in object-oriented programming that help model the relationship between two classes. By working throu...
-- Link: https://realpython.com/quizzes/inheritance-composition-python/
-
----
-
-## Quiz: Python's Mutable vs Immutable Types: What's the Difference?
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Find out how Python's mutable and immutable types behave, and see how mutability shapes lists, tuples, dictionaries, and your own classes.
-- Link: https://realpython.com/quizzes/python-mutable-vs-immutable-types/
-
----
-
-## The Real Python Podcast – Episode #317: Demystifying Python Memory Management & Choosing a Project Layout
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: How does Python manage memory behind the scenes? What are the common ways to lay out a Python project? Christopher Trudeau is back on the show this week with another batch of PyCoder's Weekly articles and projects.
-- Link: https://realpython.com/podcasts/rpp/317/
-
----
-
-## There’s a Snarky Dead Guy Trapped in My Laptop, and He Has Opinions About My Stack Trace!
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine What I Built Meet PolterPaste — a desktop ghost that lives rent-free in your operating system's clipboard. Every time yo...
-- Link: https://dev.to/dishakhanapurkar/theres-a-snarky-dead-guy-trapped-in-my-laptop-and-he-has-opinions-about-my-stack-trace-5h2i
-
----
-
-## Top 5 Challenges of Working Remotely and How to Address Them
+## WARN Act and Outplacement Services: What Help Employers Must (and Don't Have To) Offer After a Layoff
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Remote work gives employees the freedom to work from different locations, avoid daily commutes, and manage their schedules with greater flexibility. For many people, this sounds like an ideal arrangement. However, wor...
-- Link: https://dev.to/devin_b14db19eb5e2c33e8ae/top-5-challenges-of-working-remotely-and-how-to-address-them-hfp
+- Summary: WARN Act and Outplacement Services: What Help Employers Must (and Don't Have To) Offer After a Layoff When a WARN notice arrives, the first question is about the last day of work. The second comes soon after: what hel...
+- Link: https://dev.to/layoffatlas/warn-act-and-outplacement-services-what-help-employers-must-and-dont-have-to-offer-after-a-474e
 
 ---
 
-## Top 5 Ways Freelancers Can Build Long-Term Client Relationships
+## Why I Started Contributing to Open Source (and What Happened in the First Few Months)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Finding a new client is exciting, but keeping a client happy over time can be even more valuable. Long-term clients provide freelancers with more consistent work, a better understanding of project expectations, and op...
-- Link: https://dev.to/devin_b14db19eb5e2c33e8ae/top-5-ways-freelancers-can-build-long-term-client-relationships-2foa
+- Summary: A few months ago, I made a decision. I wanted to start contributing to open source. I work as a Java backend developer at Wipro, building REST APIs with Spring Boot. I like my work, but there is one problem with it: t...
+- Link: https://dev.to/vinu2730/why-i-started-contributing-to-open-source-and-what-happened-in-the-first-few-months-1fak
 
 ---
 
-## What's the most frustrating part of your day-to-day work in IT?
+## Writing System Design, Reliability & Cost-Reduction Bullets for Backend & DevOps Resumes
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: What's the most frustrating part of your day-to-day work in IT? I'm curious to hear how other people in tech deal with their everyday challenges. Whether you're a developer, QA engineer, DevOps engineer, data analyst,...
-- Link: https://dev.to/mounika_nallapati/whats-the-most-frustrating-part-of-your-day-to-day-work-in-it-52d4
+- Summary: "Responsible for maintaining Kubernetes clusters, CI/CD pipelines and monitoring." Some version of that bullet shows up on a huge number of backend and DevOps resumes, including senior ones. It describes a job posting...
+- Link: https://dev.to/muhammadalimughal/writing-system-design-reliability-cost-reduction-bullets-for-backend-devops-resumes-2gb9
 
 ---

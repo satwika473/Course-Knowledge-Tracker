@@ -1,67 +1,67 @@
 # Learning Insights
 
-_Generated on: 2026-11-03 08:47 UTC_
+_Generated on: 2026-11-04 08:16 UTC_
 
-## AI Coding Agent 2026 เลือกตัวไหนดี? เงิน 20 ดอลลาร์ซื้ออะไรได้จากสี่ค่าย
+## #Day-3 of My Web Development Learning Journey
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: โดย Nokka (นก-กา) | 1 พ.ย. 2026 คำถามที่ผมเจอบ่อยในวงสนทนาช่วงนี้คือ Claude Code, Codex, Cursor หรือ Copilot ตัวไหนดีที่สุด ผมคิดว่าคำถามนี้ตั้งผิดตั้งแต่ต้น เพราะทั้งสี่ตัวไม่ได้ขายสิ่งเดียวกัน บางตัวขายโมเดล บางตัวข...
-- Link: https://dev.to/sarantoon/ai-coding-agent-2026-eluuektawaihndii-engin-20-dllaarchuueaairaidcchaaksiikhaay-d10
+- Summary: Today, I explored some important CSS concepts and continued my hands-on practice with HTML. Margin: Controls the space outside an element. Padding: Controls the space inside an element. Global Selector (*): Applies st...
+- Link: https://dev.to/harish_karunanithi_78e999/day-3-of-my-web-development-learning-journey-25l3
 
 ---
 
-## Build with Gemini 4 Argon – Fast-Track API Crash Course
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Google just released Gemini 4 Argon which is its most capable model designed specifically for complex reasoning, advanced coding, math, and science. To help you get building right away, we just publis
-- Link: https://www.freecodecamp.org/news/build-with-gemini-4-argon-fast-track-api-crash-course/
-
----
-
-## Documenting Python Code: A Complete Guide
+## Converting Documents to Markdown With MarkItDown
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: A complete guide to documenting Python code. Whether you're documenting a small script or a large project, this guide covers what you need to know.
-- Link: https://realpython.com/documenting-python-code/
+- Summary: Learn how to use MarkItDown to convert Excel files, PDFs, and images into clean Markdown that's ready for LLMs and AI workflows.
+- Link: https://realpython.com/courses/converting-documents-markdown-markitdown/
 
 ---
 
-## FlowSkill launches on Product Hunt — November 3
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: FlowSkill launches on Product Hunt — November 3 Tagline: Stop your AI agent from faking 'done' I have watched an AI coding agent finish a task, report it as done, and leave behind code that did not actually do what wa...
-- Link: https://dev.to/flowskill/flowskill-launches-on-product-hunt-november-3-5gja
-
----
-
-## High-Speed Decision Pipelines: Jev and Prefill-Only Inference from Scratch
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Autoregressive token generation is notoriously slow and memory-intensive, especially when you only need a model to make a structured classification or routing decision rather than write out paragraphs
-- Link: https://www.freecodecamp.org/news/high-speed-decision-pipelines-jev-and-prefill-only-inference-from-scratch/
-
----
-
-## How AI-Powered Search Works: A Guide for Devs on AI Visibility
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Searched worked in a familiar way for decades: you'd type in your query, get back a list of pages, and choose one to click on. Behind the scenes, Google would find the pages it thought you might want,
-- Link: https://www.freecodecamp.org/news/ai-search-visibility/
-
----
-
-## How an agent finds paid work in one JSON file
+## Design docs that get approved
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A bounty board is only useful if an agent can tell, without reading a single listing, which jobs will cost more to enter than they pay. Agent Bounty Feed publishes that answer as one JSON file. This is the smallest cl...
-- Link: https://dev.to/llmrt/how-an-agent-finds-paid-work-in-one-json-file-4ijb
+- Summary: At staff level, much of your impact flows through documents: design docs, proposals, decision records. A good one gets a team aligned in a week; a bad one generates forty comments and a meeting that ends with "let's t...
+- Link: https://dev.to/ayushwing/design-docs-that-get-approved-2a6a
+
+---
+
+## Enterprise App Delivery: Modernizing Legacy Software Systems with Governed Agentic AI
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Modern enterprise software ecosystems are rarely built on clean slates. Chief Technology Officers and enterprise architects manage complex environments filled with core legacy systems, transactional databases, legacy...
+- Link: https://dev.to/melissadissouza/enterprise-app-delivery-modernizing-legacy-software-systems-with-governed-agentic-ai-1b1c
+
+---
+
+## Free mock interview with no sign-up: practise out loud and get feedback in seconds
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Quick answer: if you want to practise a job interview out loud right now, for free, without making an account, try the free mock interview at Nail My Interview . Pick your job, answer 3 real interview questions out lo...
+- Link: https://dev.to/akeed_rifza_622572aeb6d61/free-mock-interview-with-no-sign-up-practise-out-loud-and-get-feedback-in-seconds-23me
+
+---
+
+## Google's Jules shuts down December 31: 7 days left to export your coding agent's memories and setup
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Google is shutting down Jules, its asynchronous coding agent, on December 31, 2026. The official notice landed on October 29, and it carries a tighter deadline that most coverage buried: you have until November 11 to...
+- Link: https://dev.to/piekwerk/googles-jules-shuts-down-december-31-7-days-left-to-export-your-coding-agents-memories-and-setup-5oi
+
+---
+
+## How to Automate Docker Image Creation for Postgres Using Shell Commands
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th
+- Link: https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/
 
 ---
 
@@ -74,48 +74,57 @@ _Generated on: 2026-11-03 08:47 UTC_
 
 ---
 
-## How to Start Freelancing as a Beginner: Get Your First Client
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Originally published on CodingCush . You can start freelancing as a beginner with one sellable skill, a free profile on a marketplace, and a few low priced first orders that win you reviews. No degree, no office and n...
-- Link: https://dev.to/kushkrg/how-to-start-freelancing-as-a-beginner-get-your-first-client-84m
-
----
-
-## How to Track Serial Numbers in a Distribution Business
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Tracking individual units requires mapping each serial number as a distinct database entity linked to parent stock codes, purchase orders, storage bins, and dispatch manifests. We enforce intake and dispatch validatio...
-- Link: https://dev.to/anas_kanafani/how-to-track-serial-numbers-in-a-distribution-business-36a8
-
----
-
-## Learn Real-World Penetration Testing: Hands-On Ethical Hacking Crash Course
+## How to Find and Fix Common Technical SEO Issues on Your Website
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Understanding how malicious actors infiltrate networks is the first step to building resilient infrastructure. To help developers and aspiring security analysts learn the fundamentals of offensive sec
-- Link: https://www.freecodecamp.org/news/learn-real-world-penetration-testing-hands-on-ethical-hacking-crash-course/
+- Summary: Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan
+- Link: https://www.freecodecamp.org/news/fix-common-technical-seo-issues/
 
 ---
 
-## Lottery Income Under Old Tax And New Tax Act
+## How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join
+- Link: https://www.freecodecamp.org/news/freelance-developer-design-studios/
+
+---
+
+## Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps
+- Link: https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/
+
+---
+
+## Mock, Mock. Who’s There? What to Mock in Integration Tests
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Winning a lottery is something that many people dream about. Imagine buying a lottery ticket for an amount and suddenly winning a prize worth several lakh or even several crore rupees. It may feel like life has change...
-- Link: https://dev.to/dadas_nikita_987106792549/lottery-income-under-old-tax-and-new-tax-act-3bn7
+- Summary: Integration tests get a bad rep. Web tests, API tests. Even unit tests. You say it and people get what you mean. But integration tests? Everyone’s got their own interpretation. Which leaks into how we test them. And w...
+- Link: https://dev.to/testingil/mock-mock-whos-there-what-to-mock-in-integration-tests-3154
 
 ---
 
-## Operator and Function Overloading in Custom Python Classes
+## Parakeet AI alternatives in 2026: cheaper ways to get live interview help
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Use Python operator overloading to make built-in functions and operators work with your own classes, and write more Pythonic code.
-- Link: https://realpython.com/operator-function-overloading/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Quick answer: if ParakeetAI is too expensive for you, the best alternative for most people is Nail My Interview : live answers from your resume for $14.99 a month, a free plan you can test on a real call, and nothing...
+- Link: https://dev.to/akeed_rifza_622572aeb6d61/parakeet-ai-alternatives-in-2026-cheaper-ways-to-get-live-interview-help-46ni
+
+---
+
+## PostgreSQL 18 vs MySQL 9: Partitioning, Parallel Query Execution, and JSONB Benchmarks
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: PostgreSQL 18 vs MySQL 9: Partitioning, Parallel Query Execution, and JSONB Benchmarks Executive Summary & Decision Matrix Test rig for every figure below: AWS c7i.4xlarge (16 vCPU Intel Sapphire Rapids, 32 GB RAM), 2...
+- Link: https://dev.to/grfdsasdvef/postgresql-18-vs-mysql-9-partitioning-parallel-query-execution-and-jsonb-benchmarks-4gnb
 
 ---
 
@@ -128,56 +137,47 @@ _Generated on: 2026-11-03 08:47 UTC_
 
 ---
 
-## Quiz: Advanced Git Tips for Python Developers
+## Quiz: Converting Documents to Markdown With MarkItDown
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your advanced Git skills: selecting revisions and ranges, stashing work, comparing commits, and rewriting local history safely.
-- Link: https://realpython.com/quizzes/advanced-git-for-pythonistas/
+- Summary: Check your MarkItDown skills. Convert documents to LLM-ready Markdown, use the MCP server, and get image descriptions. Try the quiz.
+- Link: https://realpython.com/quizzes/converting-documents-markdown-markitdown/
 
 ---
 
-## Recursion in Python: An Introduction
+## Quiz: How to Use Claude Code Skills for Better Python Docstrings
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Get to grips with Python recursion: what it is, how it works, when to reach for it, and how recursive and iterative solutions compare.
-- Link: https://realpython.com/python-recursion/
+- Summary: Check your understanding of Claude Code skills, from SKILL.md frontmatter and reference files to bundled scripts and personal skills.
+- Link: https://realpython.com/quizzes/claude-code-skills/
 
 ---
 
-## RISC-V industrial: qué busca resolver la pila de ERICI
+## SimPy: Simulating Real-World Processes With Python
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: ERICI llegó esta semana con un objetivo preciso: lograr que una placa con el perfil RISC-V RVA23 arranque como una computadora industrial real, con Linux y un sistema de tiempo real corriendo a la vez en el mismo chip...
-- Link: https://dev.to/lu1tr0n/risc-v-industrial-que-busca-resolver-la-pila-de-erici-2eo
-
----
-
-## SaaS Black Friday 2026: How I Cap Tool Spend Before the % Off Badge Does
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Retail Black Friday is loud. SaaS and AI Black Friday is quieter — and easier to overspend on. A landing page that says “60% off annual” does not tell you whether you still need the seats, whether usage limits will bi...
-- Link: https://dev.to/checklistlab/saas-black-friday-2026-how-i-cap-tool-spend-before-the-off-badge-does-7do
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Use the SimPy package to model real-world processes in Python, then design and run a simulation that shows where a system gets congested.
+- Link: https://realpython.com/simpy-simulating-with-python/
 
 ---
 
-## WARN Act and Tuition Reimbursement: What Happens to Education Benefits After a Layoff
+## WARN Act and Background Checks: What a Layoff Notice Means for Your Next Job Search
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: WARN Act and Tuition Reimbursement: What Happens to Education Benefits After a Layoff A layoff notice raises an urgent question for workers who are mid-degree or mid-course: what happens to tuition reimbursement? The...
-- Link: https://dev.to/layoffatlas/warn-act-and-tuition-reimbursement-what-happens-to-education-benefits-after-a-layoff-cpi
+- Summary: WARN Act and Background Checks: What a Layoff Notice Means for Your Next Job Search A layoff notice raises a question for the job hunt that follows: will the next employer's background check show that you were laid of...
+- Link: https://dev.to/layoffatlas/warn-act-and-background-checks-what-a-layoff-notice-means-for-your-next-job-search-39f4
 
 ---
 
-## You May Soon Have a Learning Budget That Follows You Between Jobs
+## Why Your Side Projects Never See Production (And How to Fix It)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: For most of your career, learning has been something your employer decides on. There is a training budget, or there is not. A course is approved, or it waits until next year. When you leave, whatever was left in that...
-- Link: https://dev.to/asael_shinder_9f53bdca840/you-may-soon-have-a-learning-budget-that-follows-you-between-jobs-25ep
+- Summary: As a developer, I have a confession to make: my GitHub commit history looks like a crime scene. You know the drill. It’s Friday night. Caffeine is flowing. You get a "brilliant" idea for a SaaS, a CLI tool, or a hyper...
+- Link: https://dev.to/chamod_madhushan/why-your-side-projects-never-see-production-and-how-to-fix-it-5dcl
 
 ---

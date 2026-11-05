@@ -1,13 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-11-04 08:16 UTC_
+_Generated on: 2026-11-05 08:41 UTC_
 
-## #Day-3 of My Web Development Learning Journey
+## A Wardrobe Raid for Sparkle Emoji, an Oompa Loompa Shift for Every Ticket, and a Draw 25 Card Called Accept All
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Today, I explored some important CSS concepts and continued my hands-on practice with HTML. Margin: Controls the space outside an element. Padding: Controls the space inside an element. Global Selector (*): Applies st...
-- Link: https://dev.to/harish_karunanithi_78e999/day-3-of-my-web-development-learning-journey-25l3
+- Summary: What Not to Ship, Susannah! Trinny and Susannah never asked what you fancied wearing. They opened the wardrobe, held up the worst offender and told you exactly why it had to go. AI-built screens need the same treatmen...
+- Link: https://dev.to/thereactnativerewind/a-wardrobe-raid-for-sparkle-emoji-an-oompa-loompa-shift-for-every-ticket-and-a-draw-25-card-1pdj
 
 ---
 
@@ -20,39 +20,12 @@ _Generated on: 2026-11-04 08:16 UTC_
 
 ---
 
-## Design docs that get approved
+## Executive Biography: How to Write One People Trust
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: At staff level, much of your impact flows through documents: design docs, proposals, decision records. A good one gets a team aligned in a week; a bad one generates forty comments and a meeting that ends with "let's t...
-- Link: https://dev.to/ayushwing/design-docs-that-get-approved-2a6a
-
----
-
-## Enterprise App Delivery: Modernizing Legacy Software Systems with Governed Agentic AI
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Modern enterprise software ecosystems are rarely built on clean slates. Chief Technology Officers and enterprise architects manage complex environments filled with core legacy systems, transactional databases, legacy...
-- Link: https://dev.to/melissadissouza/enterprise-app-delivery-modernizing-legacy-software-systems-with-governed-agentic-ai-1b1c
-
----
-
-## Free mock interview with no sign-up: practise out loud and get feedback in seconds
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Quick answer: if you want to practise a job interview out loud right now, for free, without making an account, try the free mock interview at Nail My Interview . Pick your job, answer 3 real interview questions out lo...
-- Link: https://dev.to/akeed_rifza_622572aeb6d61/free-mock-interview-with-no-sign-up-practise-out-loud-and-get-feedback-in-seconds-23me
-
----
-
-## Google's Jules shuts down December 31: 7 days left to export your coding agent's memories and setup
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Google is shutting down Jules, its asynchronous coding agent, on December 31, 2026. The official notice landed on October 29, and it carries a tighter deadline that most coverage buried: you have until November 11 to...
-- Link: https://dev.to/piekwerk/googles-jules-shuts-down-december-31-7-days-left-to-export-your-coding-agents-memories-and-setup-5oi
+- Summary: Executive Biography: How to Write One People Trust By ReputeLabs editorial · ReputeLabs is a JC TechLabs brand An executive biography is often the first thing people read about you. It appears on a conference page, in...
+- Link: https://dev.to/jctechlabs/executive-biography-how-to-write-one-people-trust-4a2d
 
 ---
 
@@ -62,15 +35,6 @@ _Generated on: 2026-11-04 08:16 UTC_
 - Category: Learning Article
 - Summary: If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th
 - Link: https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/
-
----
-
-## How to Detect Financial Fraud Patterns with Knowledge Graphs: A Production Guide
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Most anti-fraud architectures in enterprise payment workflows evaluate transactions in isolation. When an invoice arrives, an automated rules engine checks it against static thresholds. It checks whet
-- Link: https://www.freecodecamp.org/news/how-to-detect-financial-fraud-patterns-with-knowledge-graphs-a-production-guide/
 
 ---
 
@@ -92,48 +56,39 @@ _Generated on: 2026-11-04 08:16 UTC_
 
 ---
 
-## Learn Vector Databases for Beginners – Embeddings, Similarity Search & ChromaDB
+## How to Use Google Gemini in Cline for Free (Tested Setup & Rate Limit Fix)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Author's Note: This hands-on setup guide and benchmark was originally tested and published with full high-resolution UI screenshots, latency logs, and reproducible troubleshooting steps on AISparkHub . If you have bee...
+- Link: https://dev.to/muthamizh_chelvan/how-to-use-google-gemini-in-cline-for-free-tested-setup-rate-limit-fix-23jm
+
+---
+
+## Introducing Socrates and the New freeCodeCamp Forum
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: A vector database stores data as lists of numbers called embeddings, which lets it search by meaning instead of matching exact keywords. It's the piece behind a lot of recommendation systems, RAG apps
-- Link: https://www.freecodecamp.org/news/learn-vector-databases-for-beginners-embeddings-similarity-search-chromadb/
+- Summary: freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool
+- Link: https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/
 
 ---
 
-## Mock, Mock. Who’s There? What to Mock in Integration Tests
+## Please explain why Hash Tables are so special? I see html tables doing the same thing with dynamic data and some CSS....
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Integration tests get a bad rep. Web tests, API tests. Even unit tests. You say it and people get what you mean. But integration tests? Everyone’s got their own interpretation. Which leaks into how we test them. And w...
-- Link: https://dev.to/testingil/mock-mock-whos-there-what-to-mock-in-integration-tests-3154
+- Summary: 
+- Link: https://dev.to/ferventuracast_codin/please-explain-why-hash-tables-are-so-special-i-see-html-tables-doing-the-same-thing-with-dynamic-11h8
 
 ---
 
-## Parakeet AI alternatives in 2026: cheaper ways to get live interview help
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Quick answer: if ParakeetAI is too expensive for you, the best alternative for most people is Nail My Interview : live answers from your resume for $14.99 a month, a free plan you can test on a real call, and nothing...
-- Link: https://dev.to/akeed_rifza_622572aeb6d61/parakeet-ai-alternatives-in-2026-cheaper-ways-to-get-live-interview-help-46ni
-
----
-
-## PostgreSQL 18 vs MySQL 9: Partitioning, Parallel Query Execution, and JSONB Benchmarks
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: PostgreSQL 18 vs MySQL 9: Partitioning, Parallel Query Execution, and JSONB Benchmarks Executive Summary & Decision Matrix Test rig for every figure below: AWS c7i.4xlarge (16 vCPU Intel Sapphire Rapids, 32 GB RAM), 2...
-- Link: https://dev.to/grfdsasdvef/postgresql-18-vs-mysql-9-partitioning-parallel-query-execution-and-jsonb-benchmarks-4gnb
-
----
-
-## Python 3.15 Ships and Other Python News for November 2026
+## Positron IDE: A Hands-on Python Tutorial
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Python 3.15 ships, 3.16 eyes None-aware operators, eight broken CA keys trigger security releases, and Anthropic drops temperature.
-- Link: https://realpython.com/python-news-november-2026/
+- Summary: Learn how to use Positron IDE for Python data analysis: clean, visualize, and explore data manually or with the help of AI.
+- Link: https://realpython.com/positron-ide/
 
 ---
 
@@ -155,29 +110,74 @@ _Generated on: 2026-11-04 08:16 UTC_
 
 ---
 
-## SimPy: Simulating Real-World Processes With Python
+## Quiz: Positron IDE: A Hands-on Python Tutorial
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Use the SimPy package to model real-world processes in Python, then design and run a simulation that shows where a system gets congested.
-- Link: https://realpython.com/simpy-simulating-with-python/
+- Summary: Check your understanding of Positron IDE for Python data analysis, from exploring raw data to cleaning it in scripts and notebooks.
+- Link: https://realpython.com/quizzes/positron-ide/
 
 ---
 
-## WARN Act and Background Checks: What a Layoff Notice Means for Your Next Job Search
+## What a CAPTCHA Farm Attack Actually Looks Like
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: WARN Act and Background Checks: What a Layoff Notice Means for Your Next Job Search A layoff notice raises a question for the job hunt that follows: will the next employer's background check show that you were laid of...
-- Link: https://dev.to/layoffatlas/warn-act-and-background-checks-what-a-layoff-notice-means-for-your-next-job-search-39f4
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r
+- Link: https://www.freecodecamp.org/news/captcha-farm-attack/
 
 ---
 
-## Why Your Side Projects Never See Production (And How to Fix It)
+## What's actually free in "free" resume builders (2026, checked from each pricing page)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: As a developer, I have a confession to make: my GitHub commit history looks like a crime scene. You know the drill. It’s Friday night. Caffeine is flowing. You get a "brilliant" idea for a SaaS, a CLI tool, or a hyper...
-- Link: https://dev.to/chamod_madhushan/why-your-side-projects-never-see-production-and-how-to-fix-it-5dcl
+- Summary: Disclosure: I make ResumeSutra. Everything about the other tools below is quoted from their own pricing pages on 5 November 2026, with links. Plans change, so check before you pay. Most "free" resume builders let you...
+- Link: https://dev.to/swayamgupta0708/whats-actually-free-in-free-resume-builders-2026-checked-from-each-pricing-page-4pjk
+
+---
+
+## Why is the this keyword spammed in LinkedLists is this how data is organized in this concept?
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: 
+- Link: https://dev.to/ferventuracast_codin/why-is-the-this-keyword-spammed-in-linkedlists-is-this-how-data-is-organized-in-this-concept-if3
+
+---
+
+## Why Workplace Trust Can Affect POSH Complaint Reporting
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A workplace may have a formal policy against sexual harassment, a properly constituted Internal Committee and clearly documented complaint procedures. Yet, employees may still hesitate to report inappropriate behaviou...
+- Link: https://dev.to/grelvoryn_legal123/why-workplace-trust-can-affect-posh-complaint-reporting-2af4
+
+---
+
+## Your AI Agent Passed Its Evals. 5 Ways the Evals Might Be Lying
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Your agent's eval suite is green. Every case passes, the dashboard shows a nice high number, and you ship the prompt change. A week later a user hits a failure that should have been impossible. The usual takeaway is "...
+- Link: https://dev.to/promptmaster/your-ai-agent-passed-its-evals-5-ways-the-evals-might-be-lying-3997
+
+---
+
+## Your Company Wants Everyone Back in the Office Five Days a Week
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The email from leadership arrives on a Tuesday afternoon. From the start of next quarter, everyone is expected in the office five days a week. There is a paragraph about collaboration and culture, and a link to a page...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-company-wants-everyone-back-in-the-office-five-days-a-week-569b
+
+---
+
+## Your Mentee Has Offered to Pay You
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You have been meeting for about eight months. At the end of the call your mentee hesitates, then says it. I feel bad taking so much of your time for nothing. Could I pay you something? Even a small amount each month....
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentee-has-offered-to-pay-you-adl
 
 ---

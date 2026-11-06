@@ -1,31 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-11-05 08:41 UTC_
+_Generated on: 2026-11-06 08:43 UTC_
 
-## A Wardrobe Raid for Sparkle Emoji, an Oompa Loompa Shift for Every Ticket, and a Draw 25 Card Called Accept All
+## 4 Words That Explain How the Modern Internet Actually Works
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: What Not to Ship, Susannah! Trinny and Susannah never asked what you fancied wearing. They opened the wardrobe, held up the worst offender and told you exactly why it had to go. AI-built screens need the same treatmen...
-- Link: https://dev.to/thereactnativerewind/a-wardrobe-raid-for-sparkle-emoji-an-oompa-loompa-shift-for-every-ticket-and-a-draw-25-card-1pdj
+- Summary: Usenet was a pre-web worldwide distributed newsgroup network where Linus Torvalds famously announced Linux in August 1991. MINIX was a small educational operating system created by Andrew Tanenbaum in 1987, which insp...
+- Link: https://dev.to/uzair_ul_hassan/4-words-that-explain-how-the-modern-internet-actually-works-2anl
 
 ---
 
-## Converting Documents to Markdown With MarkItDown
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use MarkItDown to convert Excel files, PDFs, and images into clean Markdown that's ready for LLMs and AI workflows.
-- Link: https://realpython.com/courses/converting-documents-markdown-markitdown/
-
----
-
-## Executive Biography: How to Write One People Trust
+## Final Round AI vs LockedIn AI vs Parakeet AI: what their refund policies actually say (Nov 2026)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Executive Biography: How to Write One People Trust By ReputeLabs editorial · ReputeLabs is a JC TechLabs brand An executive biography is often the first thing people read about you. It appears on a conference page, in...
-- Link: https://dev.to/jctechlabs/executive-biography-how-to-write-one-people-trust-4a2d
+- Summary: Most people compare interview copilots on features. Latency, stealth, which models they use. Fair enough. But the complaints I keep reading on Trustpilot and G2 are almost never about features. They are about money: r...
+- Link: https://dev.to/maheshbandaru_ba8cc2/final-round-ai-vs-lockedin-ai-vs-parakeet-ai-what-their-refund-policies-actually-say-nov-2026-463o
 
 ---
 
@@ -47,21 +38,21 @@ _Generated on: 2026-11-05 08:41 UTC_
 
 ---
 
-## How to Partner with Design Studios on Client Builds: A Freelance Developer's Guide
+## How to Use shadcn/ui in React Native Applications [Full Handbook]
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Let's say a design studio gets a new client project. The branding is ready, the wireframes are approved, the Figma file is polished, and every screen looks pretty much perfect. Then the developer join
-- Link: https://www.freecodecamp.org/news/freelance-developer-design-studios/
+- Summary: If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha
+- Link: https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/
 
 ---
 
-## How to Use Google Gemini in Cline for Free (Tested Setup & Rate Limit Fix)
+## I Stamped Every Row With DateTime.Now and Paid Twice
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Author's Note: This hands-on setup guide and benchmark was originally tested and published with full high-resolution UI screenshots, latency logs, and reproducible troubleshooting steps on AISparkHub . If you have bee...
-- Link: https://dev.to/muthamizh_chelvan/how-to-use-google-gemini-in-cline-for-free-tested-setup-rate-limit-fix-23jm
+- Summary: I had a batch importer stamping DateTime.Now onto every row it processed. A few hundred thousand rows, one timestamp each, nothing I'd ever think twice about. Then I put a profiler on the thing because it was slower t...
+- Link: https://dev.to/ssukhpinder/i-stamped-every-row-with-datetimenow-and-paid-twice-4fcg
 
 ---
 
@@ -74,12 +65,21 @@ _Generated on: 2026-11-05 08:41 UTC_
 
 ---
 
-## Please explain why Hash Tables are so special? I see html tables doing the same thing with dynamic data and some CSS....
+## Learn With Mentor AI: Getting More Out of Video Courses
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Use Mentor AI while you watch Real Python video courses. Ask what the instructor just said, chase side questions, and quiz yourself before the next lesson.
+- Link: https://realpython.com/learn-with-mentor-ai-video-courses/
+
+---
+
+## NVKE: la fábrica de NVIDIA para Kubernetes bare metal
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: 
-- Link: https://dev.to/ferventuracast_codin/please-explain-why-hash-tables-are-so-special-i-see-html-tables-doing-the-same-thing-with-dynamic-11h8
+- Summary: Instalar NVIDIA GPU Operator da por hecho que ya tenés un cluster de Kubernetes corriendo, con nodos listos y un control plane funcionando. NVIDIA acaba de publicar en estado preview un proyecto que ataca el problema...
+- Link: https://dev.to/lu1tr0n/nvke-la-fabrica-de-nvidia-para-kubernetes-bare-metal-1cng
 
 ---
 
@@ -92,30 +92,84 @@ _Generated on: 2026-11-05 08:41 UTC_
 
 ---
 
-## Quiz: Converting Documents to Markdown With MarkItDown
+## Quiz: Beautiful Soup: Build a Web Scraper With Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your MarkItDown skills. Convert documents to LLM-ready Markdown, use the MCP server, and get image descriptions. Try the quiz.
-- Link: https://realpython.com/quizzes/converting-documents-markdown-markitdown/
+- Summary: In this quiz, you'll test your understanding of web scraping using Python. By working through this quiz, you'll revisit how to inspect the HTML structure of a target site, decipher data encoded in URLs, and use Reques...
+- Link: https://realpython.com/quizzes/beautiful-soup-web-scraper-python/
 
 ---
 
-## Quiz: How to Use Claude Code Skills for Better Python Docstrings
+## Quiz: Learn With Mentor AI: Getting More Out of Video Courses
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of Claude Code skills, from SKILL.md frontmatter and reference files to bundled scripts and personal skills.
-- Link: https://realpython.com/quizzes/claude-code-skills/
+- Summary: Check how you use Mentor AI with Real Python video courses, from asking what the instructor said to quizzing yourself after a lesson.
+- Link: https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/
 
 ---
 
-## Quiz: Positron IDE: A Hands-on Python Tutorial
+## Quiz: Python Plotting With Matplotlib (Guide)
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check your understanding of Positron IDE for Python data analysis, from exploring raw data to cleaning it in scripts and notebooks.
-- Link: https://realpython.com/quizzes/positron-ide/
+- Summary: Test your understanding of Python plotting with matplotlib, from Figure and Axes objects to subplots, pandas plotting, and styling.
+- Link: https://realpython.com/quizzes/python-matplotlib-guide/
+
+---
+
+## Resilient SIP Trunk Architecture for Enterprise Voice
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Why SIP trunk resilience matters Architectures that deliver 99.99% voice availability Pairing SBCs and carriers for secure, diverse connectivity Failover signals, health checks, and intelligent call routing Monitoring...
+- Link: https://dev.to/beefedai/resilient-sip-trunk-architecture-for-enterprise-voice-517o
+
+---
+
+## Stated Hours vs Real Weeks: How Long Popular AI Programs Take
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Originally published on academies.ai: https://academies.ai/guides/ai-course-hours-stated-vs-realistic/ Divide a programme's listed hours by your weekly pace, and do not trust the headline alone: at 5 hours a week, the...
+- Link: https://dev.to/jaafarmourtada/stated-hours-vs-real-weeks-how-long-popular-ai-programs-take-169n
+
+---
+
+## The test field, and the two refusals that passed every check
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: For worxwap, who asked for the failure case after reading the longer version. Everyone else is welcome. The field Four slots, not one. The check. The yes/no, written as a comparison. Two lines of a file that must be i...
+- Link: https://dev.to/suki_ilands/the-test-field-and-the-two-refusals-that-passed-every-check-n51
+
+---
+
+## TimescaleDB vs ClickHouse: Real-Time Time-Series Ingestion, Compression & Query Latency
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: TimescaleDB vs ClickHouse: Real-Time Time-Series Ingestion, Compression & Query Latency Executive Summary & Decision Matrix Metric TimescaleDB 2.17 (PostgreSQL 17) ClickHouse 24.10 Delta Single-node ingest (32 cores,...
+- Link: https://dev.to/grfdsasdvef/timescaledb-vs-clickhouse-real-time-time-series-ingestion-compression-query-latency-1bli
+
+---
+
+## WARN Act and Your Personnel File — Get Your Employment Records Before Your Last Day
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: WARN Act and Your Personnel File — Get Your Employment Records Before Your Last Day When a layoff takes effect, your access to work ends with it. Your email, your pay portal, your HR system — all of it switches off, o...
+- Link: https://dev.to/layoffatlas/warn-act-and-your-personnel-file-get-your-employment-records-before-your-last-day-4pna
+
+---
+
+## We analyzed 100,000 job applications — here's what ATS systems actually look for
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The data behind this post Over the last 18 months, our Chrome extension — AutoApplyMax — has helped 10,000+ users submit more than 100,000 job applications across LinkedIn Easy Apply, Indeed, Glassdoor and Workday. Al...
+- Link: https://dev.to/member_5d0fa3ad/we-analyzed-100000-job-applications-heres-what-ats-systems-actually-look-for-35l8
 
 ---
 
@@ -125,59 +179,5 @@ _Generated on: 2026-11-05 08:41 UTC_
 - Category: Learning Article
 - Summary: CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r
 - Link: https://www.freecodecamp.org/news/captcha-farm-attack/
-
----
-
-## What's actually free in "free" resume builders (2026, checked from each pricing page)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Disclosure: I make ResumeSutra. Everything about the other tools below is quoted from their own pricing pages on 5 November 2026, with links. Plans change, so check before you pay. Most "free" resume builders let you...
-- Link: https://dev.to/swayamgupta0708/whats-actually-free-in-free-resume-builders-2026-checked-from-each-pricing-page-4pjk
-
----
-
-## Why is the this keyword spammed in LinkedLists is this how data is organized in this concept?
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 
-- Link: https://dev.to/ferventuracast_codin/why-is-the-this-keyword-spammed-in-linkedlists-is-this-how-data-is-organized-in-this-concept-if3
-
----
-
-## Why Workplace Trust Can Affect POSH Complaint Reporting
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A workplace may have a formal policy against sexual harassment, a properly constituted Internal Committee and clearly documented complaint procedures. Yet, employees may still hesitate to report inappropriate behaviou...
-- Link: https://dev.to/grelvoryn_legal123/why-workplace-trust-can-affect-posh-complaint-reporting-2af4
-
----
-
-## Your AI Agent Passed Its Evals. 5 Ways the Evals Might Be Lying
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Your agent's eval suite is green. Every case passes, the dashboard shows a nice high number, and you ship the prompt change. A week later a user hits a failure that should have been impossible. The usual takeaway is "...
-- Link: https://dev.to/promptmaster/your-ai-agent-passed-its-evals-5-ways-the-evals-might-be-lying-3997
-
----
-
-## Your Company Wants Everyone Back in the Office Five Days a Week
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The email from leadership arrives on a Tuesday afternoon. From the start of next quarter, everyone is expected in the office five days a week. There is a paragraph about collaboration and culture, and a link to a page...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-company-wants-everyone-back-in-the-office-five-days-a-week-569b
-
----
-
-## Your Mentee Has Offered to Pay You
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: You have been meeting for about eight months. At the end of the call your mentee hesitates, then says it. I feel bad taking so much of your time for nothing. Could I pay you something? Even a small amount each month....
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentee-has-offered-to-pay-you-adl
 
 ---

@@ -1,40 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-11-06 08:43 UTC_
+_Generated on: 2026-11-07 07:58 UTC_
 
-## 4 Words That Explain How the Modern Internet Actually Works
+## A Fake Claude Code Extension Tried to Open a Backdoor to Your PC
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Real Python's weekly AI news for October 31–November 6, 2026, explained in plain language: A Rigged AI Add-On, an AI Bug Hunter, and Siri Opens Up.
+- Link: https://realpython.com/ai-news-weekly-2026-11-06/
+
+---
+
+## Building Your Own Hermes AI Hacking Agent: A Complete Setup Guide
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Usenet was a pre-web worldwide distributed newsgroup network where Linus Torvalds famously announced Linux in August 1991. MINIX was a small educational operating system created by Andrew Tanenbaum in 1987, which insp...
-- Link: https://dev.to/uzair_ul_hassan/4-words-that-explain-how-the-modern-internet-actually-works-2anl
+- Summary: Why Most Guides Get This Wrong Most "AI hacking agent" tutorials throw you into a wall of commands. You copy-paste half of it, miss a critical step, and end up with a very expensive chatbot that occasionally runs curl...
+- Link: https://dev.to/denoroy737/building-your-own-hermes-ai-hacking-agent-a-complete-setup-guide-4337
 
 ---
 
-## Final Round AI vs LockedIn AI vs Parakeet AI: what their refund policies actually say (Nov 2026)
+## Engineering Leadership Bullets: Mentoring, Hiring and Incident Command Without Fluff
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Most people compare interview copilots on features. Latency, stealth, which models they use. Fair enough. But the complaints I keep reading on Trustpilot and G2 are almost never about features. They are about money: r...
-- Link: https://dev.to/maheshbandaru_ba8cc2/final-round-ai-vs-lockedin-ai-vs-parakeet-ai-what-their-refund-policies-actually-say-nov-2026-463o
+- Summary: Senior engineers lose interviews over leadership bullets more often than over technical ones. "Mentored junior developers" and "led incident response" appear on almost every staff-level resume I review, and they tell...
+- Link: https://dev.to/muhammadalimughal/engineering-leadership-bullets-mentoring-hiring-and-incident-command-without-fluff-h34
 
 ---
 
-## How to Automate Docker Image Creation for Postgres Using Shell Commands
+## Godot 4 Roguelike Course – Build a Complete Top-Down Action Game
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: If you have certain lines of code that repeat over and over again in a project, there's a pretty standard solution for it: using a function. But what about when you have the same project file setup th
-- Link: https://www.freecodecamp.org/news/how-to-automate-docker-image-creation-for-postgres-using-shell/
+- Summary: A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho
+- Link: https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/
 
 ---
 
-## How to Find and Fix Common Technical SEO Issues on Your Website
+## How to Build a PDF Storyboard Generator Using JavaScript
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Let's say you've built a website. You've invested in the design, bought a domain, and so on. But a website isn't only what you see on the screen. A lot happens behind the scenes. You have to understan
-- Link: https://www.freecodecamp.org/news/fix-common-technical-seo-issues/
+- Summary: PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so
+- Link: https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/
 
 ---
 
@@ -47,12 +56,12 @@ _Generated on: 2026-11-06 08:43 UTC_
 
 ---
 
-## I Stamped Every Row With DateTime.Now and Paid Twice
+## How We Keep a Chat Widget to 4 KB on Every Page Load
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I had a batch importer stamping DateTime.Now onto every row it processed. A few hundred thousand rows, one timestamp each, nothing I'd ever think twice about. Then I put a profiler on the thing because it was slower t...
-- Link: https://dev.to/ssukhpinder/i-stamped-every-row-with-datetimenow-and-paid-twice-4fcg
+- Summary: Most visitors never open a chat widget, but every one of them downloads it. That was the problem we wanted to avoid when building an embeddable chat widget. Customers paste one script tag on their site, so our code ru...
+- Link: https://dev.to/rutvik_patel_05b3a7219ebb/how-we-keep-a-chat-widget-to-4-kb-on-every-page-load-29h9
 
 ---
 
@@ -65,111 +74,93 @@ _Generated on: 2026-11-06 08:43 UTC_
 
 ---
 
-## Learn With Mentor AI: Getting More Out of Video Courses
+## Introduction to Python SQL Libraries
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Use Mentor AI while you watch Real Python video courses. Ask what the instructor just said, chase side questions, and quiz yourself before the next lesson.
-- Link: https://realpython.com/learn-with-mentor-ai-video-courses/
+- Summary: Connect to SQLite, MySQL, and PostgreSQL databases with Python SQL libraries, then run common queries from a single Python application.
+- Link: https://realpython.com/python-sql-libraries/
 
 ---
 
-## NVKE: la fábrica de NVIDIA para Kubernetes bare metal
+## Our Email Gate Printed Every Verdict and Saved None of Them
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Instalar NVIDIA GPU Operator da por hecho que ya tenés un cluster de Kubernetes corriendo, con nodos listos y un control plane funcionando. NVIDIA acaba de publicar en estado preview un proyecto que ataca el problema...
-- Link: https://dev.to/lu1tr0n/nvke-la-fabrica-de-nvidia-para-kubernetes-bare-metal-1cng
+- Summary: Originally published at https://thicket.sh/blog/a-gate-that-prints-the-answer-and-acts-on-nothing . ← Back to Journal Engineering The verdict was printed above every send. The gate never read it. By Thicket AI Team ·...
+- Link: https://dev.to/yonatan_naor_5642e43447ea/our-email-gate-printed-every-verdict-and-saved-none-of-them-3ja5
 
 ---
 
-## Positron IDE: A Hands-on Python Tutorial
+## Regular Expressions: Regexes in Python (Part 1)
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how to use Positron IDE for Python data analysis: clean, visualize, and explore data manually or with the help of AI.
-- Link: https://realpython.com/positron-ide/
+- Summary: Learn regex matching in Python with re.search(), and use metacharacters, groups, lookarounds, and flags to find complex patterns in strings.
+- Link: https://realpython.com/regex-python/
 
 ---
 
-## Quiz: Beautiful Soup: Build a Web Scraper With Python
+## Regular Expressions: Regexes in Python (Part 2)
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: In this quiz, you'll test your understanding of web scraping using Python. By working through this quiz, you'll revisit how to inspect the HTML structure of a target site, decipher data encoded in URLs, and use Reques...
-- Link: https://realpython.com/quizzes/beautiful-soup-web-scraper-python/
+- Summary: Explore more regex tools in Python, including the re module's search, substitution, and utility functions, compiled regexes, and match objects.
+- Link: https://realpython.com/regex-python-part-2/
 
 ---
 
-## Quiz: Learn With Mentor AI: Getting More Out of Video Courses
+## Searching for a job in the AI era, part 1: the setup and the first 16 days
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I was laid off in August. I didn’t start searching for a new job immediately; I took some time for myself first: to decompress, handle the burnout that was affecting me, and to start a few personal improvement plans,...
+- Link: https://dev.to/asdmaster/searching-for-a-job-in-the-ai-era-part-1-the-setup-and-the-first-16-days-3pj7
+
+---
+
+## The fake take-home that --ignore-scripts can't stop
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Fake job interviews are all over my feed. One fake take-home reported to OpenSSF in October 2026 had no install scripts, so --ignore-scripts wouldn't save you. The malicious code ran from the Tailwind config the momen...
+- Link: https://dev.to/argbetech/the-fake-take-home-that-ignore-scripts-cant-stop-16a9
+
+---
+
+## The Linux Certification Guide That Actually Prepares You for the Exam
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most certification guides have the same flaw. They cover the material the exam tests, but they stop before the part that actually matters: practice questions, a study schedule, and a review of the exam objectives . Yo...
+- Link: https://dev.to/kandz/the-linux-certification-guide-that-actually-prepares-you-for-the-exam-132b
+
+---
+
+## The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check how you use Mentor AI with Real Python video courses, from asking what the instructor said to quizzing yourself after a lesson.
-- Link: https://realpython.com/quizzes/learn-with-mentor-ai-video-courses/
+- Summary: Why should every Python developer know about the CPython ABI? This week on the show, we speak with Nathan Goldbaum about free-threaded Python and the changes to the Python Application Binary Interface.
+- Link: https://realpython.com/podcasts/rpp/318/
 
 ---
 
-## Quiz: Python Plotting With Matplotlib (Guide)
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Python plotting with matplotlib, from Figure and Axes objects to subplots, pandas plotting, and styling.
-- Link: https://realpython.com/quizzes/python-matplotlib-guide/
-
----
-
-## Resilient SIP Trunk Architecture for Enterprise Voice
+## Vibe Coding Pre-Launch Checklist: 20 Things to Do Before Launching Your AI-Built Application
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Why SIP trunk resilience matters Architectures that deliver 99.99% voice availability Pairing SBCs and carriers for secure, diverse connectivity Failover signals, health checks, and intelligent call routing Monitoring...
-- Link: https://dev.to/beefedai/resilient-sip-trunk-architecture-for-enterprise-voice-517o
+- Summary: AI coding tools have made it incredibly easy to build and launch software. With tools like Cursor, Claude Code, and GitHub Copilot, developers can now turn ideas into functional applications in days, sometimes even ho...
+- Link: https://dev.to/msnmongare/vibe-coding-pre-launch-checklist-20-things-to-do-before-launching-your-ai-built-application-55ob
 
 ---
 
-## Stated Hours vs Real Weeks: How Long Popular AI Programs Take
+## WARN Act and Your Car Loan — What Happens to Your Auto Loan After a Layoff
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Originally published on academies.ai: https://academies.ai/guides/ai-course-hours-stated-vs-realistic/ Divide a programme's listed hours by your weekly pace, and do not trust the headline alone: at 5 hours a week, the...
-- Link: https://dev.to/jaafarmourtada/stated-hours-vs-real-weeks-how-long-popular-ai-programs-take-169n
-
----
-
-## The test field, and the two refusals that passed every check
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: For worxwap, who asked for the failure case after reading the longer version. Everyone else is welcome. The field Four slots, not one. The check. The yes/no, written as a comparison. Two lines of a file that must be i...
-- Link: https://dev.to/suki_ilands/the-test-field-and-the-two-refusals-that-passed-every-check-n51
-
----
-
-## TimescaleDB vs ClickHouse: Real-Time Time-Series Ingestion, Compression & Query Latency
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: TimescaleDB vs ClickHouse: Real-Time Time-Series Ingestion, Compression & Query Latency Executive Summary & Decision Matrix Metric TimescaleDB 2.17 (PostgreSQL 17) ClickHouse 24.10 Delta Single-node ingest (32 cores,...
-- Link: https://dev.to/grfdsasdvef/timescaledb-vs-clickhouse-real-time-time-series-ingestion-compression-query-latency-1bli
-
----
-
-## WARN Act and Your Personnel File — Get Your Employment Records Before Your Last Day
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: WARN Act and Your Personnel File — Get Your Employment Records Before Your Last Day When a layoff takes effect, your access to work ends with it. Your email, your pay portal, your HR system — all of it switches off, o...
-- Link: https://dev.to/layoffatlas/warn-act-and-your-personnel-file-get-your-employment-records-before-your-last-day-4pna
-
----
-
-## We analyzed 100,000 job applications — here's what ATS systems actually look for
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The data behind this post Over the last 18 months, our Chrome extension — AutoApplyMax — has helped 10,000+ users submit more than 100,000 job applications across LinkedIn Easy Apply, Indeed, Glassdoor and Workday. Al...
-- Link: https://dev.to/member_5d0fa3ad/we-analyzed-100000-job-applications-heres-what-ats-systems-actually-look-for-35l8
+- Summary: A layoff notice is about your job. Your car loan does not know that. The payments keep coming due on the same schedule, and a single payment more than 30 days late can land on your credit report. The WARN Act's 60-day...
+- Link: https://dev.to/layoffatlas/warn-act-and-your-car-loan-what-happens-to-your-auto-loan-after-a-layoff-1712
 
 ---
 
@@ -179,5 +170,14 @@ _Generated on: 2026-11-06 08:43 UTC_
 - Category: Learning Article
 - Summary: CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r
 - Link: https://www.freecodecamp.org/news/captcha-farm-attack/
+
+---
+
+## What is a Change Request in a Software Project?
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A change request in a software project is a formal proposal to modify agreed work, architecture, or deliverables after technical baselines have been approved. It evaluates how altering functional specifications change...
+- Link: https://dev.to/anas_kanafani/what-is-a-change-request-in-a-software-project-4bg1
 
 ---

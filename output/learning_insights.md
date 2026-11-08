@@ -1,31 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-11-07 07:58 UTC_
+_Generated on: 2026-11-08 08:15 UTC_
 
-## A Fake Claude Code Extension Tried to Open a Backdoor to Your PC
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Real Python's weekly AI news for October 31–November 6, 2026, explained in plain language: A Rigged AI Add-On, an AI Bug Hunter, and Siri Opens Up.
-- Link: https://realpython.com/ai-news-weekly-2026-11-06/
-
----
-
-## Building Your Own Hermes AI Hacking Agent: A Complete Setup Guide
+## A Free SQL Curriculum — 131 Chapters, From `SELECT` to Distributed Databases
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Why Most Guides Get This Wrong Most "AI hacking agent" tutorials throw you into a wall of commands. You copy-paste half of it, miss a critical step, and end up with a very expensive chatbot that occasionally runs curl...
-- Link: https://dev.to/denoroy737/building-your-own-hermes-ai-hacking-agent-a-complete-setup-guide-4337
+- Summary: Most SQL tutorials teach the same thing: SELECT , WHERE , JOIN , GROUP BY . Maybe window functions. Then they stop. The real questions come after that. Why is this query slow? What does the execution plan mean? How do...
+- Link: https://dev.to/kandz/a-free-sql-curriculum-131-chapters-from-select-to-distributed-databases-109g
 
 ---
 
-## Engineering Leadership Bullets: Mentoring, Hiring and Incident Command Without Fluff
+## Absolute vs Relative Imports in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Compare Python relative imports with absolute imports, weigh the pros and cons of each, and learn best practices for writing clean import statements.
+- Link: https://realpython.com/absolute-vs-relative-python-imports/
+
+---
+
+## Don't Write More Prompts. Install These 10 Trending 'Skills' Instead
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Senior engineers lose interviews over leadership bullets more often than over technical ones. "Mentored junior developers" and "led incident response" appear on almost every staff-level resume I review, and they tell...
-- Link: https://dev.to/muhammadalimughal/engineering-leadership-bullets-mentoring-hiring-and-incident-command-without-fluff-h34
+- Category: Programming Tips
+- Summary: I found 10 trending skills on GitHub that can boost your agent power a lot, and I had to test them this week :) Not your skills. Agent Skills. Small folders with a SKILL.md inside that teach your AI agent to do one th...
+- Link: https://dev.to/taqui/dont-write-more-prompts-install-these-10-trending-skills-instead-3lpc
 
 ---
 
@@ -35,6 +35,15 @@ _Generated on: 2026-11-07 07:58 UTC_
 - Category: Learning Article
 - Summary: A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho
 - Link: https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/
+
+---
+
+## How I Handle Ambiguous API Timeouts in an AI Video App
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: A video-generation request times out. There is no task ID in the response. Should the application send it again? The awkward answer is that the provider might already be generating the video. The response could have d...
+- Link: https://dev.to/hex_builder/how-i-handle-ambiguous-api-timeouts-in-an-ai-video-app-5fno
 
 ---
 
@@ -56,15 +65,6 @@ _Generated on: 2026-11-07 07:58 UTC_
 
 ---
 
-## How We Keep a Chat Widget to 4 KB on Every Page Load
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Most visitors never open a chat widget, but every one of them downloads it. That was the problem we wanted to avoid when building an embeddable chat widget. Customers paste one script tag on their site, so our code ru...
-- Link: https://dev.to/rutvik_patel_05b3a7219ebb/how-we-keep-a-chat-widget-to-4-kb-on-every-page-load-29h9
-
----
-
 ## Introducing Socrates and the New freeCodeCamp Forum
 
 - Source: freeCodeCamp News
@@ -74,93 +74,75 @@ _Generated on: 2026-11-07 07:58 UTC_
 
 ---
 
-## Introduction to Python SQL Libraries
+## Managing Multiple Python Versions With pyenv
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Connect to SQLite, MySQL, and PostgreSQL databases with Python SQL libraries, then run common queries from a single Python application.
-- Link: https://realpython.com/python-sql-libraries/
+- Summary: Learn how to use pyenv to manage multiple Python versions, prevent conflicts, and keep your projects compatible and development smooth.
+- Link: https://realpython.com/intro-to-pyenv/
 
 ---
 
-## Our Email Gate Printed Every Verdict and Saved None of Them
+## Mitigating Webhook Duplication at Scale: A Production Guide to Redis Distributed Locks in Python
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Originally published at https://thicket.sh/blog/a-gate-that-prints-the-answer-and-acts-on-nothing . ← Back to Journal Engineering The verdict was printed above every send. The gate never read it. By Thicket AI Team ·...
-- Link: https://dev.to/yonatan_naor_5642e43447ea/our-email-gate-printed-every-verdict-and-saved-none-of-them-3ja5
+- Summary: Mitigating Webhook Duplication at Scale: A Production Guide to Redis Distributed Locks in Python Handling incoming webhooks from payment gateways and SaaS platforms (such as Stripe, Shopify, or GitHub) presents a clas...
+- Link: https://dev.to/toai/mitigating-webhook-duplication-at-scale-a-production-guide-to-redis-distributed-locks-in-python-3g39
 
 ---
 
-## Regular Expressions: Regexes in Python (Part 1)
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn regex matching in Python with re.search(), and use metacharacters, groups, lookarounds, and flags to find complex patterns in strings.
-- Link: https://realpython.com/regex-python/
-
----
-
-## Regular Expressions: Regexes in Python (Part 2)
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore more regex tools in Python, including the re module's search, substitution, and utility functions, compiled regexes, and match objects.
-- Link: https://realpython.com/regex-python-part-2/
-
----
-
-## Searching for a job in the AI era, part 1: the setup and the first 16 days
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I was laid off in August. I didn’t start searching for a new job immediately; I took some time for myself first: to decompress, handle the burnout that was affecting me, and to start a few personal improvement plans,...
-- Link: https://dev.to/asdmaster/searching-for-a-job-in-the-ai-era-part-1-the-setup-and-the-first-16-days-3pj7
-
----
-
-## The fake take-home that --ignore-scripts can't stop
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Fake job interviews are all over my feed. One fake take-home reported to OpenSSF in October 2026 had no install scripts, so --ignore-scripts wouldn't save you. The malicious code ran from the Tailwind config the momen...
-- Link: https://dev.to/argbetech/the-fake-take-home-that-ignore-scripts-cant-stop-16a9
-
----
-
-## The Linux Certification Guide That Actually Prepares You for the Exam
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Most certification guides have the same flaw. They cover the material the exam tests, but they stop before the part that actually matters: practice questions, a study schedule, and a review of the exam objectives . Yo...
-- Link: https://dev.to/kandz/the-linux-certification-guide-that-actually-prepares-you-for-the-exam-132b
-
----
-
-## The Real Python Podcast – Episode #318: Free-Threaded Python: Why Python Devs Should Know About the ABI
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Why should every Python developer know about the CPython ABI? This week on the show, we speak with Nathan Goldbaum about free-threaded Python and the changes to the Python Application Binary Interface.
-- Link: https://realpython.com/podcasts/rpp/318/
-
----
-
-## Vibe Coding Pre-Launch Checklist: 20 Things to Do Before Launching Your AI-Built Application
+## My bug reproduction agent trusts the container, not the model
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: AI coding tools have made it incredibly easy to build and launch software. With tools like Cursor, Claude Code, and GitHub Copilot, developers can now turn ideas into functional applications in days, sometimes even ho...
-- Link: https://dev.to/msnmongare/vibe-coding-pre-launch-checklist-20-things-to-do-before-launching-your-ai-built-application-55ob
+- Summary: A quick update since this first went up on AWS Builder Center on Nov 6: Phase 3 passed its gate that same evening. The live fixture run on Qwen3-Coder came back 7 of 10 reproduced with zero setup failures, the malicio...
+- Link: https://dev.to/muhammad_abdullahshah_96/my-bug-reproduction-agent-trusts-the-container-not-the-model-4he5
 
 ---
 
-## WARN Act and Your Car Loan — What Happens to Your Auto Loan After a Layoff
+## Python Project Structure: How to Choose the Right Layout
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps.
+- Link: https://realpython.com/python-application-layouts/
+
+---
+
+## Quiz: Managing Multiple Python Versions With pyenv
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your knowledge of pyenv with this quiz and see how well you can manage multiple Python versions, virtual environments, and dependencies.
+- Link: https://realpython.com/quizzes/intro-to-pyenv/
+
+---
+
+## Take-Home Tests That Prove Depth Without Unpaid Labor Theater
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A layoff notice is about your job. Your car loan does not know that. The payments keep coming due on the same schedule, and a single payment more than 30 days late can land on your credit report. The WARN Act's 60-day...
-- Link: https://dev.to/layoffatlas/warn-act-and-your-car-loan-what-happens-to-your-auto-loan-after-a-layoff-1712
+- Summary: Your resume got you past the screener. Now a recruiter sends a "short" take-home that turns out to be a full CRUD app with auth, tests, Docker and a deployed demo, due Monday. You can spend the weekend building a free...
+- Link: https://dev.to/muhammadalimughal/take-home-tests-that-prove-depth-without-unpaid-labor-theater-2ak
+
+---
+
+## Thonny: The Beginner-Friendly Python Editor
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use Thonny, the free Python IDE built for beginners, to write, run, and debug your code with its step-by-step debugger.
+- Link: https://realpython.com/python-thonny/
+
+---
+
+## Two consulting slots this week: one hour, one iOS problem
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I'm taking two consulting slots this week — one-hour, focused sessions on a single concrete iOS/macOS problem. What I'm good at (13 years native Apple platforms): A crash you can't reproduce, or a frame-rate drop that...
+- Link: https://dev.to/devinios/two-consulting-slots-this-week-one-hour-one-ios-problem-3o8e
 
 ---
 
@@ -173,11 +155,29 @@ _Generated on: 2026-11-07 07:58 UTC_
 
 ---
 
-## What is a Change Request in a Software Project?
+## What an Agent Skill actually is: a non-coder's read
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A change request in a software project is a formal proposal to modify agreed work, architecture, or deliverables after technical baselines have been approved. It evaluates how altering functional specifications change...
-- Link: https://dev.to/anas_kanafani/what-is-a-change-request-in-a-software-project-4bg1
+- Category: Career Guidance
+- Summary: Agent Skills sound like a developer thing. The idea behind them is simple enough that anyone who writes instructions for a team can understand it, and it is worth knowing even if you never open a code editor. The shor...
+- Link: https://dev.to/devesh_sarkaar/what-an-agent-skill-actually-is-a-non-coders-read-1gh8
+
+---
+
+## What Is the Hardest Thing About Learning to Code? Mine Isn't Code.
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: People assume the hard part of learning to code is the code. For me, it honestly isn't. I study naval architecture in Bangladesh, and nearly all my coding happens after a full day of classes, in a small room, at aroun...
+- Link: https://dev.to/aheadkit/what-is-the-hardest-thing-about-learning-to-code-mine-isnt-code-4ee2
+
+---
+
+## Why my evidence logs use two clocks: building AETHER-0
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most logging systems stamp an event with one wall-clock time and move on. That's fine for debugging. It isn't enough when someone may later ask a court to accept a log as evidence. AETHER-0 is my portfolio project: a...
+- Link: https://dev.to/trgreene4/why-my-evidence-logs-use-two-clocks-building-aether-0-1jf
 
 ---

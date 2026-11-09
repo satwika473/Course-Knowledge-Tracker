@@ -1,15 +1,6 @@
 # Learning Insights
 
-_Generated on: 2026-11-08 08:15 UTC_
-
-## A Free SQL Curriculum — 131 Chapters, From `SELECT` to Distributed Databases
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Most SQL tutorials teach the same thing: SELECT , WHERE , JOIN , GROUP BY . Maybe window functions. Then they stop. The real questions come after that. Why is this query slow? What does the execution plan mean? How do...
-- Link: https://dev.to/kandz/a-free-sql-curriculum-131-chapters-from-select-to-distributed-databases-109g
-
----
+_Generated on: 2026-11-09 08:50 UTC_
 
 ## Absolute vs Relative Imports in Python
 
@@ -20,12 +11,30 @@ _Generated on: 2026-11-08 08:15 UTC_
 
 ---
 
-## Don't Write More Prompts. Install These 10 Trending 'Skills' Instead
+## BenchUp: diseño 3D de muebles gratis y de código abierto
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I found 10 trending skills on GitHub that can boost your agent power a lot, and I had to test them this week :) Not your skills. Agent Skills. Small folders with a SKILL.md inside that teach your AI agent to do one th...
-- Link: https://dev.to/taqui/dont-write-more-prompts-install-these-10-trending-skills-instead-3lpc
+- Summary: Cortar mal una tabla de madera cara duele el bolsillo y el orgullo. BenchUp resuelve ese problema con diseño 3D de muebles gratuito y de código abierto: modelá el mueble completo, con medidas exactas, antes de que la...
+- Link: https://dev.to/lu1tr0n/benchup-diseno-3d-de-muebles-gratis-y-de-codigo-abierto-e15
+
+---
+
+## Can you register for Claude Certified Architect (CCA-F / CCAR-F) without a partner?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: No. As of 9 October 2026, you cannot register for any Claude exam, Claude Certified Architect (CCAR-F) included, without a Claude Partner Network organization and an email on its domain. You have four routes: check wh...
+- Link: https://dev.to/szymonpaluch/can-you-register-for-claude-certified-architect-cca-f-ccar-f-without-a-partner-25no
+
+---
+
+## Frameworks UI declarativos vs imperativos: ¿Cuál garantiza mayor mantenibilidad y velocidad de desarrollo?
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Introducción Los equipos de desarrollo se enfrentan a una decisión que va más allá de la estética: elegir entre un enfoque imperativo o declarativo para sus interfaces de usuario. En los últimos años, los frameworks d...
+- Link: https://dev.to/alvaro_martin_crespo_frontend/frameworks-ui-declarativos-vs-imperativos-cual-garantiza-mayor-mantenibilidad-y-velocidad-de-3ka0
 
 ---
 
@@ -35,15 +44,6 @@ _Generated on: 2026-11-08 08:15 UTC_
 - Category: Learning Article
 - Summary: A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho
 - Link: https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/
-
----
-
-## How I Handle Ambiguous API Timeouts in an AI Video App
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: A video-generation request times out. There is no task ID in the response. Should the application send it again? The awkward answer is that the provider might already be generating the video. The response could have d...
-- Link: https://dev.to/hex_builder/how-i-handle-ambiguous-api-timeouts-in-an-ai-video-app-5fno
 
 ---
 
@@ -65,12 +65,30 @@ _Generated on: 2026-11-08 08:15 UTC_
 
 ---
 
+## I Expected string.Create to Be Faster. It Just Stopped Allocating.
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I had a hot loop stamping out order keys — little strings like ORD-0000042-US — a couple million of them per refresh. The code was the most boring thing in the file, so of course that's where the allocation profiler k...
+- Link: https://dev.to/ssukhpinder/i-expected-stringcreate-to-be-faster-it-just-stopped-allocating-18fp
+
+---
+
 ## Introducing Socrates and the New freeCodeCamp Forum
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool
 - Link: https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/
+
+---
+
+## Kubernetes HPA vs KEDA for Spiky Mobile Backend Traffic
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: --- title : " Kubernetes HPA vs KEDA: Taming Spiky Mobile Backend Traffic" published : true description : " Why CPU-based HPA fails during push notification campaigns, and how KEDA's event-driven autoscaling cuts the...
+- Link: https://dev.to/software_mvp-factory/kubernetes-hpa-vs-keda-for-spiky-mobile-backend-traffic-2g1c
 
 ---
 
@@ -83,21 +101,30 @@ _Generated on: 2026-11-08 08:15 UTC_
 
 ---
 
-## Mitigating Webhook Duplication at Scale: A Production Guide to Redis Distributed Locks in Python
+## Memory Management in Python
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Mitigating Webhook Duplication at Scale: A Production Guide to Redis Distributed Locks in Python Handling incoming webhooks from payment gateways and SaaS platforms (such as Stripe, Shopify, or GitHub) presents a clas...
-- Link: https://dev.to/toai/mitigating-webhook-duplication-at-scale-a-production-guide-to-redis-distributed-locks-in-python-3g39
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Take a deep dive into Python memory management and learn how CPython allocates and frees memory for your objects with arenas, pools, and blocks.
+- Link: https://realpython.com/python-memory-management/
 
 ---
 
-## My bug reproduction agent trusts the container, not the model
+## New Jersey Layoffs November 2026: WARN Numbers Explained
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: A quick update since this first went up on AWS Builder Center on Nov 6: Phase 3 passed its gate that same evening. The live fixture run on Qwen3-Coder came back 7 of 10 reproduced with zero setup failures, the malicio...
-- Link: https://dev.to/muhammad_abdullahshah_96/my-bug-reproduction-agent-trusts-the-container-not-the-model-4he5
+- Category: Career Guidance
+- Summary: New Jersey Layoffs November 2026: WARN Numbers Explained New Jersey has 142 WARN notices reporting 18,011 workers so far in 2026, according to Layoff Atlas. That is already well ahead of the whole of 2025, when the st...
+- Link: https://dev.to/layoffatlas/new-jersey-layoffs-november-2026-warn-numbers-explained-413a
+
+---
+
+## Pennsylvania Layoffs November 2026: WARN Numbers Explained
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Pennsylvania Layoffs November 2026: WARN Numbers Explained Pennsylvania has 80 WARN notices reporting 12,830 workers so far in 2026 — well behind California (21,514) and Washington (17,411), the two giants of the curr...
+- Link: https://dev.to/layoffatlas/pennsylvania-layoffs-november-2026-warn-numbers-explained-1b00
 
 ---
 
@@ -110,39 +137,39 @@ _Generated on: 2026-11-08 08:15 UTC_
 
 ---
 
-## Quiz: Managing Multiple Python Versions With pyenv
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your knowledge of pyenv with this quiz and see how well you can manage multiple Python versions, virtual environments, and dependencies.
-- Link: https://realpython.com/quizzes/intro-to-pyenv/
-
----
-
-## Take-Home Tests That Prove Depth Without Unpaid Labor Theater
+## System Design Interviews From Production Scars, Not Blog Diagrams
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Your resume got you past the screener. Now a recruiter sends a "short" take-home that turns out to be a full CRUD app with auth, tests, Docker and a deployed demo, due Monday. You can spend the weekend building a free...
-- Link: https://dev.to/muhammadalimughal/take-home-tests-that-prove-depth-without-unpaid-labor-theater-2ak
+- Summary: The interviewer asks you to design a URL shortener. You draw the same boxes everyone draws: load balancer, app servers, cache, database, maybe Kafka because it looks serious. Twenty minutes later the interviewer asks,...
+- Link: https://dev.to/muhammadalimughal/system-design-interviews-from-production-scars-not-blog-diagrams-35gb
 
 ---
 
-## Thonny: The Beginner-Friendly Python Editor
+## Temporal.io vs Cadence vs AWS Step Functions: Distributed Workflow Orchestration & State Durability
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use Thonny, the free Python IDE built for beginners, to write, run, and debug your code with its step-by-step debugger.
-- Link: https://realpython.com/python-thonny/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Temporal.io vs Cadence vs AWS Step Functions: Distributed Workflow Orchestration & State Durability Executive Summary & Decision Matrix All three systems solve the same core problem — durable execution: a workflow fun...
+- Link: https://dev.to/grfdsasdvef/temporalio-vs-cadence-vs-aws-step-functions-distributed-workflow-orchestration-state-durability-25eg
 
 ---
 
-## Two consulting slots this week: one hour, one iOS problem
+## Trading Psychology for Beginners: Why the Best Trading Academy Teaches Discipline First
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I'm taking two consulting slots this week — one-hour, focused sessions on a single concrete iOS/macOS problem. What I'm good at (13 years native Apple platforms): A crash you can't reproduce, or a frame-rate drop that...
-- Link: https://dev.to/devinios/two-consulting-slots-this-week-one-hour-one-ios-problem-3o8e
+- Summary: Every beginner thinks trading is about finding the perfect strategy. After a few weeks in the market, most of them learn something different: the hardest part of trading is not the chart, it is the mind. Fear, greed,...
+- Link: https://dev.to/marketing_department_d285/trading-psychology-for-beginners-why-the-best-trading-academy-teaches-discipline-first-3img
+
+---
+
+## Using Python's pip to Manage Your Projects' Dependencies
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: What is pip? Learn how to use pip, Python's standard package manager, to install and manage packages that aren't part of the standard library.
+- Link: https://realpython.com/what-is-pip/
 
 ---
 
@@ -152,32 +179,5 @@ _Generated on: 2026-11-08 08:15 UTC_
 - Category: Learning Article
 - Summary: CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r
 - Link: https://www.freecodecamp.org/news/captcha-farm-attack/
-
----
-
-## What an Agent Skill actually is: a non-coder's read
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Agent Skills sound like a developer thing. The idea behind them is simple enough that anyone who writes instructions for a team can understand it, and it is worth knowing even if you never open a code editor. The shor...
-- Link: https://dev.to/devesh_sarkaar/what-an-agent-skill-actually-is-a-non-coders-read-1gh8
-
----
-
-## What Is the Hardest Thing About Learning to Code? Mine Isn't Code.
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: People assume the hard part of learning to code is the code. For me, it honestly isn't. I study naval architecture in Bangladesh, and nearly all my coding happens after a full day of classes, in a small room, at aroun...
-- Link: https://dev.to/aheadkit/what-is-the-hardest-thing-about-learning-to-code-mine-isnt-code-4ee2
-
----
-
-## Why my evidence logs use two clocks: building AETHER-0
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Most logging systems stamp an event with one wall-clock time and move on. That's fine for debugging. It isn't enough when someone may later ask a court to accept a log as evidence. AETHER-0 is my portfolio project: a...
-- Link: https://dev.to/trgreene4/why-my-evidence-logs-use-two-clocks-building-aether-0-1jf
 
 ---

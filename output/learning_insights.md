@@ -1,40 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-11-09 08:50 UTC_
+_Generated on: 2026-11-10 08:55 UTC_
 
-## Absolute vs Relative Imports in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Compare Python relative imports with absolute imports, weigh the pros and cons of each, and learn best practices for writing clean import statements.
-- Link: https://realpython.com/absolute-vs-relative-python-imports/
-
----
-
-## BenchUp: diseño 3D de muebles gratis y de código abierto
+## Amazon reemplaza a Sonnet 4.6 por un modelo de decisión
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Cortar mal una tabla de madera cara duele el bolsillo y el orgullo. BenchUp resuelve ese problema con diseño 3D de muebles gratuito y de código abierto: modelá el mueble completo, con medidas exactas, antes de que la...
-- Link: https://dev.to/lu1tr0n/benchup-diseno-3d-de-muebles-gratis-y-de-codigo-abierto-e15
+- Summary: Para un millón de tickets etiquetados, Amazon pasó de pagar unos $22.200 con Claude Sonnet 4.6 a pagar cerca de $500 con un modelo de decisión propio, según relata el equipo de Strands Agents . El mismo trabajo, el mi...
+- Link: https://dev.to/lu1tr0n/amazon-reemplaza-a-sonnet-46-por-un-modelo-de-decision-3joo
 
 ---
 
-## Can you register for Claude Certified Architect (CCA-F / CCAR-F) without a partner?
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: No. As of 9 October 2026, you cannot register for any Claude exam, Claude Certified Architect (CCAR-F) included, without a Claude Partner Network organization and an email on its domain. You have four routes: check wh...
-- Link: https://dev.to/szymonpaluch/can-you-register-for-claude-certified-architect-cca-f-ccar-f-without-a-partner-25no
-
----
-
-## Frameworks UI declarativos vs imperativos: ¿Cuál garantiza mayor mantenibilidad y velocidad de desarrollo?
+## El secreto para no saturar el contexto de tu IA: El patrón de agentes en capas
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Introducción Los equipos de desarrollo se enfrentan a una decisión que va más allá de la estética: elegir entre un enfoque imperativo o declarativo para sus interfaces de usuario. En los últimos años, los frameworks d...
-- Link: https://dev.to/alvaro_martin_crespo_frontend/frameworks-ui-declarativos-vs-imperativos-cual-garantiza-mayor-mantenibilidad-y-velocidad-de-3ka0
+- Summary: La imagen de portada pertenece a jonakoh_ Si como yo, has utilizado la suscripción de Opencode OpencodeGo quizás te cueste llegar a fin de mes con los tokens que se ofrecen. Tras un año usando Opencode te puedo decir...
+- Link: https://dev.to/pyramidbuilder/como-ahorrar-tokens-en-opencode-2pb2
 
 ---
 
@@ -56,6 +38,15 @@ _Generated on: 2026-11-09 08:50 UTC_
 
 ---
 
+## How to Delete a Page Break in Word: 4 Methods for Different Scenarios
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Have you ever opened a Word document and found an unexpected blank page in the middle of the content? Or copied text from another document only to discover that the paragraphs no longer flow naturally across pages? Th...
+- Link: https://dev.to/jenll/how-to-delete-a-page-break-in-word-4-methods-for-different-scenarios-lim
+
+---
+
 ## How to Use shadcn/ui in React Native Applications [Full Handbook]
 
 - Source: freeCodeCamp News
@@ -65,12 +56,21 @@ _Generated on: 2026-11-09 08:50 UTC_
 
 ---
 
-## I Expected string.Create to Be Faster. It Just Stopped Allocating.
+## I'm building a free community for people applying for UK and US talent visas
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I'm preparing my own UK Global Talent application. A few months in, the part that took the most time was keeping track of everything around the application: which official page said what, which evidence I had already...
+- Link: https://dev.to/efe_genc/im-building-a-free-community-for-people-applying-for-uk-and-us-talent-visas-2fcn
+
+---
+
+## Instagram Clone Backend — Part 1: Language and Runtime with Python & Asyncio
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I had a hot loop stamping out order keys — little strings like ORD-0000042-US — a couple million of them per refresh. The code was the most boring thing in the file, so of course that's where the allocation profiler k...
-- Link: https://dev.to/ssukhpinder/i-expected-stringcreate-to-be-faster-it-just-stopped-allocating-18fp
+- Summary: Building an Instagram Clone Backend — Part 1: Language and Runtime with Python & Asyncio Welcome to the first part of our backend engineering series! In this tutorial, we will explore the core engine behind our scalab...
+- Link: https://dev.to/deepika_pusala/instagram-clone-backend-part-1-language-and-runtime-with-python-asyncio-4h32
 
 ---
 
@@ -83,21 +83,12 @@ _Generated on: 2026-11-09 08:50 UTC_
 
 ---
 
-## Kubernetes HPA vs KEDA for Spiky Mobile Backend Traffic
+## Kentucky Layoffs November 2026: WARN Numbers Explained
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: --- title : " Kubernetes HPA vs KEDA: Taming Spiky Mobile Backend Traffic" published : true description : " Why CPU-based HPA fails during push notification campaigns, and how KEDA's event-driven autoscaling cuts the...
-- Link: https://dev.to/software_mvp-factory/kubernetes-hpa-vs-keda-for-spiky-mobile-backend-traffic-2g1c
-
----
-
-## Managing Multiple Python Versions With pyenv
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use pyenv to manage multiple Python versions, prevent conflicts, and keep your projects compatible and development smooth.
-- Link: https://realpython.com/intro-to-pyenv/
+- Category: Career Guidance
+- Summary: Kentucky Layoffs November 2026: WARN Numbers Explained Kentucky's 2026 layoff picture is quiet — and, unusually for state layoff data, that quiet is fairly believable. Layoff Atlas's imported archive for Kentucky hold...
+- Link: https://dev.to/layoffatlas/kentucky-layoffs-november-2026-warn-numbers-explained-1fg4
 
 ---
 
@@ -110,57 +101,66 @@ _Generated on: 2026-11-09 08:50 UTC_
 
 ---
 
-## New Jersey Layoffs November 2026: WARN Numbers Explained
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: New Jersey Layoffs November 2026: WARN Numbers Explained New Jersey has 142 WARN notices reporting 18,011 workers so far in 2026, according to Layoff Atlas. That is already well ahead of the whole of 2025, when the st...
-- Link: https://dev.to/layoffatlas/new-jersey-layoffs-november-2026-warn-numbers-explained-413a
-
----
-
-## Pennsylvania Layoffs November 2026: WARN Numbers Explained
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Pennsylvania Layoffs November 2026: WARN Numbers Explained Pennsylvania has 80 WARN notices reporting 12,830 workers so far in 2026 — well behind California (21,514) and Washington (17,411), the two giants of the curr...
-- Link: https://dev.to/layoffatlas/pennsylvania-layoffs-november-2026-warn-numbers-explained-1b00
-
----
-
-## Python Project Structure: How to Choose the Right Layout
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps.
-- Link: https://realpython.com/python-application-layouts/
-
----
-
-## System Design Interviews From Production Scars, Not Blog Diagrams
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The interviewer asks you to design a URL shortener. You draw the same boxes everyone draws: load balancer, app servers, cache, database, maybe Kafka because it looks serious. Twenty minutes later the interviewer asks,...
-- Link: https://dev.to/muhammadalimughal/system-design-interviews-from-production-scars-not-blog-diagrams-35gb
-
----
-
-## Temporal.io vs Cadence vs AWS Step Functions: Distributed Workflow Orchestration & State Durability
+## Parsing Escape from Tarkov screenshot filenames into a live minimap in Go
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Temporal.io vs Cadence vs AWS Step Functions: Distributed Workflow Orchestration & State Durability Executive Summary & Decision Matrix All three systems solve the same core problem — durable execution: a workflow fun...
-- Link: https://dev.to/grfdsasdvef/temporalio-vs-cadence-vs-aws-step-functions-distributed-workflow-orchestration-state-durability-25eg
+- Summary: I built a small overlay for Escape from Tarkov called TarkyMappy. It shows a rotating minimap, exits, hazards, quest points and a loot route on top of the game. The part I want to talk about is not the UI, though. The...
+- Link: https://dev.to/snowbizzon/parsing-escape-from-tarkov-screenshot-filenames-into-a-live-minimap-in-go-bpb
 
 ---
 
-## Trading Psychology for Beginners: Why the Best Trading Academy Teaches Discipline First
+## Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check your grasp of TDD with AI agents in Python. Write the contract and tests first, then let a coding agent implement code that passes them.
+- Link: https://realpython.com/quizzes/tdd-ai-agents/
+
+---
+
+## Satu Orang, Lima Pekerjaan: Mengukur Fenomena Multitasking Berlebihan di Dunia Kerja Indonesia
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Every beginner thinks trading is about finding the perfect strategy. After a few weeks in the market, most of them learn something different: the hardest part of trading is not the chart, it is the mind. Fear, greed,...
-- Link: https://dev.to/marketing_department_d285/trading-psychology-for-beginners-why-the-best-trading-academy-teaches-discipline-first-3img
+- Summary: Bayangkan kamu melamar sebagai admin. Di deskripsi pekerjaan, ternyata kamu juga diminta membalas pelanggan, mengurus stok, membuat konten, menyusun invoice, dan membantu promosi. Masih satu posisi, tetapi fungsi yang...
+- Link: https://dev.to/wingky_alexandrazulvi_1c/satu-orang-lima-pekerjaan-mengukur-fenomena-multitasking-berlebihan-di-dunia-kerja-indonesia-575p
+
+---
+
+## Strategy for a Software Developer in Egypt to Transition from Unpaid Family Labor to Financial Independence Through C...
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Systemic Architecture Analysis At a critical juncture marked by the milestone of age 30, the subject operates within a tightly coupled socio-economic feedback loop combining centralized household finances, unpaid ente...
+- Link: https://dev.to/ilyatech/strategy-for-a-software-developer-in-egypt-to-transition-from-unpaid-family-labor-to-financial-1p0f
+
+---
+
+## TCS Interview Questions for Freshers (2026): NQT Pattern, Technical, Coding and HR Rounds
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: TCS hires more freshers than almost any company in India, and the process is predictable once you know how it works. This post covers the NQT exam pattern, the three tracks, and the questions that come up again and ag...
+- Link: https://dev.to/brevis_dewald_c67c3dedbf7/tcs-interview-questions-for-freshers-2026-nqt-pattern-technical-coding-and-hr-rounds-5aj7
+
+---
+
+## TDD With AI Agents: Design the Tests First, Let the Agent Implement
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use test-driven development (TDD) with AI agents in Python. Design the tests first, then let a coding agent write code that passes them.
+- Link: https://realpython.com/tdd-ai-agents/
+
+---
+
+## Thonny: The Beginner-Friendly Python Editor
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to use Thonny, the free Python IDE built for beginners, to write, run, and debug your code with its step-by-step debugger.
+- Link: https://realpython.com/python-thonny/
 
 ---
 

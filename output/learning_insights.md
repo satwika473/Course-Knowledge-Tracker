@@ -1,22 +1,49 @@
 # Learning Insights
 
-_Generated on: 2026-11-10 08:55 UTC_
+_Generated on: 2026-11-11 08:36 UTC_
 
-## Amazon reemplaza a Sonnet 4.6 por un modelo de decisión
+## 800 MB of Arrays Nobody Asked For
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Para un millón de tickets etiquetados, Amazon pasó de pagar unos $22.200 con Claude Sonnet 4.6 a pagar cerca de $500 con un modelo de decisión propio, según relata el equipo de Strands Agents . El mismo trabajo, el mi...
-- Link: https://dev.to/lu1tr0n/amazon-reemplaza-a-sonnet-46-por-un-modelo-de-decision-3joo
+- Summary: I was profiling a request handler last week and the gen0 line on the allocation chart kept ticking up on a path that, as far as I could tell, allocated nothing. No LINQ, no string building, nothing getting new -ed up....
+- Link: https://dev.to/ssukhpinder/800-mb-of-arrays-nobody-asked-for-2gj8
 
 ---
 
-## El secreto para no saturar el contexto de tu IA: El patrón de agentes en capas
+## After the AI Writes, Part 1: Don't Carry Someone Else's Work Into Your Commit
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: La imagen de portada pertenece a jonakoh_ Si como yo, has utilizado la suscripción de Opencode OpencodeGo quizás te cueste llegar a fin de mes con los tokens que se ofrecen. Tras un año usando Opencode te puedo decir...
-- Link: https://dev.to/pyramidbuilder/como-ahorrar-tokens-en-opencode-2pb2
+- Summary: Three AI sessions are working in the same checkout. One of them has just finished; you glance at the diff, it looks right, and you run: git add -A && git commit -m "feat: ..." Ten minutes later you open the commit, an...
+- Link: https://dev.to/rain6fish/after-the-ai-writes-part-1-dont-carry-someone-elses-work-into-your-commit-17di
+
+---
+
+## Building a Developer Portfolio: Turning Technical Skills into a Professional Online Presence
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Building a Developer Portfolio: Turning Technical Skills into a Professional Online Presence A personal portfolio website is more than just an online introduction. It is a platform where developers can demonstrate the...
+- Link: https://dev.to/sanni_kumar_bb9c9372bca9f/building-a-developer-portfolio-turning-technical-skills-into-a-professional-online-presence-2n4l
+
+---
+
+## Claude Fable 5.2 Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Claude Fable 5.2's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-claude-fable-5-2/
+
+---
+
+## DeepSeek R1 vs OpenAI o1-preview: Reasoning Accuracy, Token Economics, and Self-Hosting TCO
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: DeepSeek R1 vs OpenAI o1-preview: Reasoning Accuracy, Token Economics, and Self-Hosting TCO Executive Summary & Decision Matrix The core engineering trade is a 27–40x inference price differential for a 2–5 point accur...
+- Link: https://dev.to/grfdsasdvef/deepseek-r1-vs-openai-o1-preview-reasoning-accuracy-token-economics-and-self-hosting-tco-36n8
 
 ---
 
@@ -38,15 +65,6 @@ _Generated on: 2026-11-10 08:55 UTC_
 
 ---
 
-## How to Delete a Page Break in Word: 4 Methods for Different Scenarios
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Have you ever opened a Word document and found an unexpected blank page in the middle of the content? Or copied text from another document only to discover that the paragraphs no longer flow naturally across pages? Th...
-- Link: https://dev.to/jenll/how-to-delete-a-page-break-in-word-4-methods-for-different-scenarios-lim
-
----
-
 ## How to Use shadcn/ui in React Native Applications [Full Handbook]
 
 - Source: freeCodeCamp News
@@ -56,128 +74,110 @@ _Generated on: 2026-11-10 08:55 UTC_
 
 ---
 
-## I'm building a free community for people applying for UK and US talent visas
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I'm preparing my own UK Global Talent application. A few months in, the part that took the most time was keeping track of everything around the application: which official page said what, which evidence I had already...
-- Link: https://dev.to/efe_genc/im-building-a-free-community-for-people-applying-for-uk-and-us-talent-visas-2fcn
-
----
-
-## Instagram Clone Backend — Part 1: Language and Runtime with Python & Asyncio
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Building an Instagram Clone Backend — Part 1: Language and Runtime with Python & Asyncio Welcome to the first part of our backend engineering series! In this tutorial, we will explore the core engine behind our scalab...
-- Link: https://dev.to/deepika_pusala/instagram-clone-backend-part-1-language-and-runtime-with-python-asyncio-4h32
-
----
-
-## Introducing Socrates and the New freeCodeCamp Forum
+## Learn Agentic Coding with Codex & AI Coding Agents
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: freeCodeCamp just turned 12 years old. And so did our beloved forum. And today I'm thrilled to say that the forum is now focused on discussions rather than Q&A. This is thanks to Socrates, a new tool
-- Link: https://www.freecodecamp.org/news/introducing-socrates-and-the-new-freecodecamp-forum/
+- Summary: AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi
+- Link: https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/
 
 ---
 
-## Kentucky Layoffs November 2026: WARN Numbers Explained
+## My cold outreach read like spam until I anchored it to the person
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Kentucky Layoffs November 2026: WARN Numbers Explained Kentucky's 2026 layoff picture is quiet — and, unusually for state layoff data, that quiet is fairly believable. Layoff Atlas's imported archive for Kentucky hold...
-- Link: https://dev.to/layoffatlas/kentucky-layoffs-november-2026-warn-numbers-explained-1fg4
+- Summary: I sent recruiter messages the lazy way: a templated paragraph with the role name swapped in. The reply rate was near zero, and fair enough — the messages sounded like they'd gone to a thousand people, because they had...
+- Link: https://dev.to/lixingliangsy/my-cold-outreach-read-like-spam-until-i-anchored-it-to-the-person-2ngm
 
 ---
 
-## Memory Management in Python
+## Python Coding Interview Practice: Hashing, Pointers, and Windows
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Take a deep dive into Python memory management and learn how CPython allocates and frees memory for your objects with arenas, pools, and blocks.
-- Link: https://realpython.com/python-memory-management/
+- Summary: Practice hashing, two pointers, and sliding windows in Python through 20 coding interview exercises with tests, hints, and guided code reviews.
+- Link: https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/
 
 ---
 
-## Parsing Escape from Tarkov screenshot filenames into a live minimap in Go
+## Python Coding Interview Practice: Prefix Sums and Binary Search
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Practice prefix sums and binary search in Python through 14 coding interview exercises with tests, efficiency checks, hints, and code reviews.
+- Link: https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/
+
+---
+
+## Quiz: Getting Started With Git
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your Git basics, from configuring your identity and committing changes to rewriting history and ignoring files you don't need.
+- Link: https://realpython.com/quizzes/getting-started-with-git/
+
+---
+
+## Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check your grasp of hashing, two pointers, and sliding windows, and learn to pick an approach from a problem's time and space constraints.
+- Link: https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/
+
+---
+
+## Table Top Games: Why Classic Games Like Table Checker Still Matter
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I built a small overlay for Escape from Tarkov called TarkyMappy. It shows a rotating minimap, exits, hazards, quest points and a loot route on top of the game. The part I want to talk about is not the UI, though. The...
-- Link: https://dev.to/snowbizzon/parsing-escape-from-tarkov-screenshot-filenames-into-a-live-minimap-in-go-bpb
+- Summary: Table Top Games: Why Classic Games Like Table Checker Still Matter In a world filled with digital entertainment, traditional tabletop games continue to offer something special. They bring people together, encourage fa...
+- Link: https://dev.to/homiax/table-top-games-why-classic-games-like-table-checker-still-matter-5fhg
 
 ---
 
-## Quiz: TDD With AI Agents: Design the Tests First, Let the Agent Implement
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Check your grasp of TDD with AI agents in Python. Write the contract and tests first, then let a coding agent implement code that passes them.
-- Link: https://realpython.com/quizzes/tdd-ai-agents/
-
----
-
-## Satu Orang, Lima Pekerjaan: Mengukur Fenomena Multitasking Berlebihan di Dunia Kerja Indonesia
+## We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Bayangkan kamu melamar sebagai admin. Di deskripsi pekerjaan, ternyata kamu juga diminta membalas pelanggan, mengurus stok, membuat konten, menyusun invoice, dan membantu promosi. Masih satu posisi, tetapi fungsi yang...
-- Link: https://dev.to/wingky_alexandrazulvi_1c/satu-orang-lima-pekerjaan-mengukur-fenomena-multitasking-berlebihan-di-dunia-kerja-indonesia-575p
+- Category: Programming Tips
+- Summary: An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who benefits from the AI rush. Recently, I published an article on DEV.to about our company's AI testing practices and the o...
+- Link: https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma
 
 ---
 
-## Strategy for a Software Developer in Egypt to Transition from Unpaid Family Labor to Financial Independence Through C...
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Systemic Architecture Analysis At a critical juncture marked by the milestone of age 30, the subject operates within a tightly coupled socio-economic feedback loop combining centralized household finances, unpaid ente...
-- Link: https://dev.to/ilyatech/strategy-for-a-software-developer-in-egypt-to-transition-from-unpaid-family-labor-to-financial-1p0f
-
----
-
-## TCS Interview Questions for Freshers (2026): NQT Pattern, Technical, Coding and HR Rounds
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: TCS hires more freshers than almost any company in India, and the process is predictable once you know how it works. This post covers the NQT exam pattern, the three tracks, and the questions that come up again and ag...
-- Link: https://dev.to/brevis_dewald_c67c3dedbf7/tcs-interview-questions-for-freshers-2026-nqt-pattern-technical-coding-and-hr-rounds-5aj7
-
----
-
-## TDD With AI Agents: Design the Tests First, Let the Agent Implement
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use test-driven development (TDD) with AI agents in Python. Design the tests first, then let a coding agent write code that passes them.
-- Link: https://realpython.com/tdd-ai-agents/
-
----
-
-## Thonny: The Beginner-Friendly Python Editor
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use Thonny, the free Python IDE built for beginners, to write, run, and debug your code with its step-by-step debugger.
-- Link: https://realpython.com/python-thonny/
-
----
-
-## Using Python's pip to Manage Your Projects' Dependencies
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: What is pip? Learn how to use pip, Python's standard package manager, to install and manage packages that aren't part of the standard library.
-- Link: https://realpython.com/what-is-pip/
-
----
-
-## What a CAPTCHA Farm Attack Actually Looks Like
+## What Happens When You Upload a Large File & Generate a Temporary Download Link
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: CAPTCHAs are something most of us have come across while browsing the internet. Sometimes we're asked to identify traffic lights in pictures, solve a small puzzle, or simply tick a box to confirm we'r
-- Link: https://www.freecodecamp.org/news/captcha-farm-attack/
+- Summary: Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr
+- Link: https://www.freecodecamp.org/news/how-file-transfer-services-work/
+
+---
+
+## What Skills Are Required to Build a Career in Cryptocurrency?
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The cryptocurrency industry has evolved significantly, creating career opportunities across finance, technology, cybersecurity, blockchain development, and digital asset management. As businesses increasingly explore...
+- Link: https://dev.to/georgiaweston/what-skills-are-required-to-build-a-career-in-cryptocurrency-j07
+
+---
+
+## Your Mentee Wants You to Look at Their Take Home Test Before They Submit It
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Your mentee has reached the take home stage for a job they really want. They send you a link to their repository with a short message. Could you have a quick look before I submit it on Friday? Just tell me if anything...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentee-wants-you-to-look-at-their-take-home-test-before-they-submit-it-42mn
+
+---
+
+## Your Team Is Being Restructured and You Have to Apply for Your Own Job
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The meeting invitation had a vague title. The news was that your department is being reorganised. There will be fewer roles at your level, the roles will have new descriptions, and everyone currently in them is invite...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-team-is-being-restructured-and-you-have-to-apply-for-your-own-job-4gn1
 
 ---

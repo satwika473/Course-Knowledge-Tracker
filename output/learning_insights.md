@@ -1,31 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-11-11 08:36 UTC_
+_Generated on: 2026-11-12 08:56 UTC_
 
-## 800 MB of Arrays Nobody Asked For
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I was profiling a request handler last week and the gen0 line on the allocation chart kept ticking up on a path that, as far as I could tell, allocated nothing. No LINQ, no string building, nothing getting new -ed up....
-- Link: https://dev.to/ssukhpinder/800-mb-of-arrays-nobody-asked-for-2gj8
-
----
-
-## After the AI Writes, Part 1: Don't Carry Someone Else's Work Into Your Commit
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Three AI sessions are working in the same checkout. One of them has just finished; you glance at the diff, it looks right, and you run: git add -A && git commit -m "feat: ..." Ten minutes later you open the commit, an...
-- Link: https://dev.to/rain6fish/after-the-ai-writes-part-1-dont-carry-someone-elses-work-into-your-commit-17di
-
----
-
-## Building a Developer Portfolio: Turning Technical Skills into a Professional Online Presence
+## 10 Free Corporate Office Calculators for HR, Payroll and Managers (No Signup)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Building a Developer Portfolio: Turning Technical Skills into a Professional Online Presence A personal portfolio website is more than just an online introduction. It is a platform where developers can demonstrate the...
-- Link: https://dev.to/sanni_kumar_bb9c9372bca9f/building-a-developer-portfolio-turning-technical-skills-into-a-professional-online-presence-2n4l
+- Summary: Workplace math is repetitive. How many business days until a deadline? When does a notice period end? What does an employee really cost the company? Most of us open a spreadsheet, rebuild the same formula, and hope we...
+- Link: https://dev.to/bellal_hossain_057bfd620a/10-free-corporate-office-calculators-for-hr-payroll-and-managers-no-signup-4p9o
+
+---
+
+## CB Manufacturing Files 143-Worker WARN Notice in Prince George's County, Effective November 13
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: CB Manufacturing Files 143-Worker WARN Notice in Prince George's County, Effective November 13 CB Manufacturing, Inc., doing business as Pepsi Beverages, has filed a WARN notice covering 143 workers at its facility in...
+- Link: https://dev.to/layoffatlas/cb-manufacturing-files-143-worker-warn-notice-in-prince-georges-county-effective-november-13-2okg
 
 ---
 
@@ -38,12 +29,39 @@ _Generated on: 2026-11-11 08:36 UTC_
 
 ---
 
-## DeepSeek R1 vs OpenAI o1-preview: Reasoning Accuracy, Token Economics, and Self-Hosting TCO
+## Everyone Can Vibe Code Now. Nobody Talks About the Bill.
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: DeepSeek R1 vs OpenAI o1-preview: Reasoning Accuracy, Token Economics, and Self-Hosting TCO Executive Summary & Decision Matrix The core engineering trade is a 27–40x inference price differential for a 2–5 point accur...
-- Link: https://dev.to/grfdsasdvef/deepseek-r1-vs-openai-o1-preview-reasoning-accuracy-token-economics-and-self-hosting-tco-36n8
+- Summary: I am not going to lie to you, AI made building things stupidly easy. A weekend project that used to take me a month now takes an afternoon. Claude writes the code, GPT reviews it, Gemini drafts the docs. Everyone I kn...
+- Link: https://dev.to/james24k/everyone-can-vibe-code-now-nobody-talks-about-the-bill-5ha3
+
+---
+
+## Free HR Tools: 18 Online Generators for Offer Letters, Salary Certificates, NOCs & More
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you've ever worked at a startup, a small business, or an HR desk, you know this moment: someone asks for a salary certificate or an experience letter , and you open a blank document to rebuild the same format from...
+- Link: https://dev.to/bellal_hossain_057bfd620a/free-hr-tools-18-online-generators-for-offer-letters-salary-certificates-nocs-more-4emb
+
+---
+
+## Gemini 4 Carbon Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Gemini 4 Carbon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-gemini-4-carbon/
+
+---
+
+## Gemini 4 Carbon Explained: Google's Model That Thinks Longer
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Gemini 4 Carbon is Google's new reasoning model. Learn what it is, what it costs, and how to call it from Python with the google-genai SDK.
+- Link: https://realpython.com/gemini-4-carbon/
 
 ---
 
@@ -65,12 +83,39 @@ _Generated on: 2026-11-11 08:36 UTC_
 
 ---
 
+## How to Use Feature Flags to Roll Out AI Features Without Breaking Production
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Adding an AI feature to an application is easy. Releasing it safely to thousands of users is much harder. A feature may work perfectly during development and still behave differently when it encounters real production...
+- Link: https://dev.to/aiworkflowresearch/how-to-use-feature-flags-to-roll-out-ai-features-without-breaking-production-3p5b
+
+---
+
 ## How to Use shadcn/ui in React Native Applications [Full Handbook]
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha
 - Link: https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/
+
+---
+
+## I Built a Free ATS Resume Checker That Runs 100% in Your Browser (No Upload, No Signup)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You spent hours polishing your resume. It looks great. You hit "Apply"... and hear nothing back. Sometimes the problem isn't your experience. It's that the software read your resume wrong . That's why we built the Fre...
+- Link: https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-ats-resume-checker-that-runs-100-in-your-browser-no-upload-no-signup-46em
+
+---
+
+## I Built a Free Tool That Ranks 200 Resumes Against a Job Post (Privately, in Your Browser)
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Hiring for one role can mean 50, 100 or even 200 resumes in your inbox. Reading them in the order they arrived is slow, and it's unfair to the people at the bottom of the pile. So I built the Free Applicant Checker on...
+- Link: https://dev.to/bellal_hossain_057bfd620a/i-built-a-free-tool-that-ranks-200-resumes-against-a-job-post-privately-in-your-browser-3f7e
 
 ---
 
@@ -83,66 +128,30 @@ _Generated on: 2026-11-11 08:36 UTC_
 
 ---
 
-## My cold outreach read like spam until I anchored it to the person
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: I sent recruiter messages the lazy way: a templated paragraph with the role name swapped in. The reply rate was near zero, and fair enough — the messages sounded like they'd gone to a thousand people, because they had...
-- Link: https://dev.to/lixingliangsy/my-cold-outreach-read-like-spam-until-i-anchored-it-to-the-person-2ngm
-
----
-
-## Python Coding Interview Practice: Hashing, Pointers, and Windows
+## Python HTTPX: Making HTTP Requests With HTTPX2
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Practice hashing, two pointers, and sliding windows in Python through 20 coding interview exercises with tests, hints, and guided code reviews.
-- Link: https://realpython.com/courses/coding-interview-practice-hashing-two-pointers-sliding-windows/
+- Summary: Learn how to use Python HTTPX (now HTTPX2) to make HTTP requests, send async calls, set safe timeouts, stream large downloads, and enable HTTP/2.
+- Link: https://realpython.com/python-httpx/
 
 ---
 
-## Python Coding Interview Practice: Prefix Sums and Binary Search
+## Quiz: Python HTTPX: Making HTTP Requests With HTTPX2
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Practice prefix sums and binary search in Python through 14 coding interview exercises with tests, efficiency checks, hints, and code reviews.
-- Link: https://realpython.com/courses/coding-interview-practice-prefix-sums-binary-search/
+- Summary: Test your knowledge of Python HTTPX2 by reusing clients, sending async requests, setting timeouts, streaming responses, and enabling HTTP/2.
+- Link: https://realpython.com/quizzes/python-httpx/
 
 ---
 
-## Quiz: Getting Started With Git
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your Git basics, from configuring your identity and committing changes to rewriting history and ignoring files you don't need.
-- Link: https://realpython.com/quizzes/getting-started-with-git/
-
----
-
-## Quiz: Python Coding Interview Practice: Hashing, Pointers, and Windows
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Check your grasp of hashing, two pointers, and sliding windows, and learn to pick an approach from a problem's time and space constraints.
-- Link: https://realpython.com/quizzes/coding-interview-practice-hashing-two-pointers-sliding-windows/
-
----
-
-## Table Top Games: Why Classic Games Like Table Checker Still Matter
+## UUID Validator: UUIDs schnell und einfach überprüfen
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Table Top Games: Why Classic Games Like Table Checker Still Matter In a world filled with digital entertainment, traditional tabletop games continue to offer something special. They bring people together, encourage fa...
-- Link: https://dev.to/homiax/table-top-games-why-classic-games-like-table-checker-still-matter-5fhg
-
----
-
-## We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: An anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who benefits from the AI rush. Recently, I published an article on DEV.to about our company's AI testing practices and the o...
-- Link: https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma
+- Summary: UUIDs werden häufig in APIs, Datenbanken und Softwareanwendungen verwendet. Doch was passiert, wenn eine UUID ein falsches Format hat? Statt jedes Mal ein eigenes Skript zu schreiben, kannst du ein Online-Tool verwend...
+- Link: https://dev.to/uuidtools/uuid-validator-uuids-schnell-und-einfach-uberprufen-278g
 
 ---
 
@@ -155,29 +164,20 @@ _Generated on: 2026-11-11 08:36 UTC_
 
 ---
 
-## What Skills Are Required to Build a Career in Cryptocurrency?
+## Wiring gRPC-Web to a Kotlin Multiplatform Backend
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: The cryptocurrency industry has evolved significantly, creating career opportunities across finance, technology, cybersecurity, blockchain development, and digital asset management. As businesses increasingly explore...
-- Link: https://dev.to/georgiaweston/what-skills-are-required-to-build-a-career-in-cryptocurrency-j07
+- Category: Programming Tips
+- Summary: --- title : "gRPC-Web + Kotlin Multiplatform: Protobuf at Scale" published : true description : "Wire gRPC-Web to a KMP shared client layer using buf CLI, expect/actual transport boundaries, coroutine streaming lifecy...
+- Link: https://dev.to/software_mvp-factory/wiring-grpc-web-to-a-kotlin-multiplatform-backend-2619
 
 ---
 
-## Your Mentee Wants You to Look at Their Take Home Test Before They Submit It
+## Your Quote Said 2.67 and the Invoice Said 2.68 Because toFixed Never Saw 2.675
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Your mentee has reached the take home stage for a job they really want. They send you a link to their repository with a short message. Could you have a quick look before I submit it on Friday? Just tell me if anything...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentee-wants-you-to-look-at-their-take-home-test-before-they-submit-it-42mn
-
----
-
-## Your Team Is Being Restructured and You Have to Apply for Your Own Job
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The meeting invitation had a vague title. The news was that your department is being reorganised. There will be fewer roles at your level, the roles will have new descriptions, and everyone currently in them is invite...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-team-is-being-restructured-and-you-have-to-apply-for-your-own-job-4gn1
+- Category: Programming Tips
+- Summary: Trade prices were kept to a tenth of a penny. Screws by the hundred, cable by the metre, 2.675 a unit. The quote page rounded each line for display. price.toFixed(2) The finance system rounded the same line when it ra...
+- Link: https://dev.to/sergueyasaelshinder/your-quote-said-267-and-the-invoice-said-268-because-tofixed-never-saw-2675-1o2o
 
 ---

@@ -1,85 +1,85 @@
 # Learning Insights
 
-_Generated on: 2026-11-13 08:52 UTC_
+_Generated on: 2026-11-14 08:16 UTC_
 
-## Claude Code rarely runs out of context now. Here's what you still pay for.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: People still run into usage limits with their coding agents. On GitHub, the Claude Code issue "Instantly hitting usage limits with Max subscription" has 1,499 comments. A usage limit is about spend, and running out is...
-- Link: https://dev.to/extractdata/claude-code-rarely-runs-out-of-context-now-heres-what-you-still-pay-for-3476
-
----
-
-## Claude Fable 5.2 Draws a Python Reading a Book
+## Anthropic and Google Make Their Best AI Models Cheaper
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Explore Claude Fable 5.2's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-claude-fable-5-2/
+- Summary: Real Python's weekly AI news for November 7–13, 2026, explained in plain language: Cheaper Claude, Google's Strongest Gemini, and a Faster Gemini.
+- Link: https://realpython.com/ai-news-weekly-2026-11-13/
 
 ---
 
-## Code review prompts for Claude Code, Codex and ChatGPT
+## Armbat: Running ARMv7 Android Apps on ARM64-Only Devices
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A code review prompt is a reusable instruction that asks an AI model to review a diff. The prompts that work set the scope to the changed lines, ask for a severity, a file and line and the evidence for each finding, t...
-- Link: https://dev.to/wendyz7756/code-review-prompts-for-claude-code-codex-and-chatgpt-20ep
+- Summary: Android is gradually moving away from 32-bit application support. While modern devices increasingly ship with 64-bit-only Android environments, there are still plenty of ARMv7 applications that people want to run. I s...
+- Link: https://dev.to/dimaxd/armbat-running-armv7-android-apps-on-arm64-only-devices-4l2p
 
 ---
 
-## December 18 Is the Newest Week on the WARN Calendar — 5,003 Workers Scheduled
+## From Intent to Fulfillment: How an Agentic Commerce Order Actually Flows
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: December 18 Is the Newest Week on the WARN Calendar — 5,003 Workers Scheduled A new week has appeared on the WARN layoff calendar. The week of December 18 now shows 5,003 workers with scheduled layoffs, the latest eff...
-- Link: https://dev.to/layoffatlas/december-18-is-the-newest-week-on-the-warn-calendar-5003-workers-scheduled-317d
+- Summary: From Intent to Fulfillment: How an Agentic Commerce Order Actually Flows November 14, 2026 An agentic purchase is more than "the agent clicks buy." It is a sequence of distinct steps, each with its own trust boundary....
+- Link: https://dev.to/brudy_dev24/from-intent-to-fulfillment-how-an-agentic-commerce-order-actually-flows-51p9
 
 ---
 
-## Godot 4 Roguelike Course – Build a Complete Top-Down Action Game
+## Get Started With Meta Muse in Python: Spark and Glimmer
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Get started with Meta Muse in Python. Make your first Muse Spark call, then add streaming, images, and tool calls, and try the open-weights Glimmer.
+- Link: https://realpython.com/meta-muse-python/
+
+---
+
+## How AI Agents Buy Things: A Plain-English Guide to Agentic Commerce
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: How AI Agents Buy Things: A Plain-English Guide to Agentic Commerce November 14, 2026 You tell an assistant what you want, and it goes and buys it. That is agentic commerce, and in 2026 it is moving from demos to real...
+- Link: https://dev.to/brudy_dev24/how-ai-agents-buy-things-a-plain-english-guide-to-agentic-commerce-35o0
+
+---
+
+## How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: A top-down action roguelite only works when combat feels sharp, rooms feel connected, and every run asks you to trade power for risk. Godot 4 has the tools for that, but most tutorials stop before tho
-- Link: https://www.freecodecamp.org/news/godot-4-roguelike-course-build-a-complete-top-down-action-game/
+- Summary: Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a
+- Link: https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/
 
 ---
 
-## How to Add a Blur Effect to an Image in Laravel 13 with Intervention Image 4
+## How to Speed Up CI in the Age of AI-Written Code
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in
+- Link: https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/
+
+---
+
+## I built a free spreadsheet that tells freelancers exactly how much to set aside for taxes
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Freelancing has a tax problem nobody warns you about: no employer withholds anything. Your whole invoice lands in your account, it feels like yours, and then April (or a quarterly deadline) shows up with a bill for 25...
+- Link: https://dev.to/ledgerlinehq/i-built-a-free-spreadsheet-that-tells-freelancers-exactly-how-much-to-set-aside-for-taxes-3bnm
+
+---
+
+## I built a programming language at 13: Begamix (C++ transpiler + epoll runtime)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: To blur an image in Laravel 13, decode it with Intervention Image 4 and call $image->blur($level) , where the level is a number from 0 to 100. A low level such as 3 to 10 gives a soft blur, a high level hides the cont...
-- Link: https://dev.to/muhammadyasiramin/how-to-add-a-blur-effect-to-an-image-in-laravel-13-with-intervention-image-4-2hbe
-
----
-
-## How to Build a PDF Storyboard Generator Using JavaScript
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: PDF files are commonly used to share presentations, scripts, reports, lesson materials, comic pages, and other visual documents. But reviewing a long PDF page by page can take time, especially when so
-- Link: https://www.freecodecamp.org/news/build-pdf-storyboard-generator-javascript/
-
----
-
-## How to Use shadcn/ui in React Native Applications [Full Handbook]
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: If you've built a couple of React Native apps, the following probably feels familiar. You start with a colors.ts file and a simple Button component. Everything looks fine at first. Then the design cha
-- Link: https://www.freecodecamp.org/news/how-to-use-shadcn-ui-in-react-native-applications-full-handbook/
-
----
-
-## Is Claude Certified Architect worth it? Jobs and demand in 2026
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A CCA credential can matter when working with Claude partners because firm tiers depend in part on active certified people. Large firms’ certification commitments are not counts of job openings, though. This article e...
-- Link: https://dev.to/szymonpaluch/is-claude-certified-architect-worth-it-jobs-and-demand-in-2026-5270
+- Summary: Hi everyone! I'm a 13-year-old developer from Russia. I've been working on my own programming language called Begamix . What is Begamix? It's a compiled language that transpiles to C++ and then to machine code. I buil...
+- Link: https://dev.to/timofey_zapasnoy_697c325e/i-built-a-programming-language-at-13-begamix-c-transpiler-epoll-runtime-40j2
 
 ---
 
@@ -101,66 +101,66 @@ _Generated on: 2026-11-13 08:52 UTC_
 
 ---
 
-## llamport: Codex models 90% cheaper than the official API — real upstream, no fakes, no swaps
+## Quiz: Working With JSON in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of Python's json module, from serializing and deserializing data to encoding and decoding custom types.
+- Link: https://realpython.com/quizzes/working-json-data-python/
+
+---
+
+## Schema Drift vs. Semantic Drift in Data Pipelines
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c
+- Link: https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/
+
+---
+
+## Should code comments link to Stack Overflow answers? Let's argue about it
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: We build llamport , a prepaid LLM API. Buy credit, create one key, and plug it into the tools you already use: Codex CLI, Claude Code, and the OpenAI and Anthropic SDKs. What's inside 5 Codex models: gpt-6.1-sol , gpt...
-- Link: https://dev.to/llamport/llamport-codex-models-90-cheaper-than-the-official-api-real-upstream-no-fakes-no-swaps-2j7n
+- Summary: Scheduled broken-link and redirect checks that tell you the moment a link breaks — linkbruno.com Open any mature codebase and search for stackoverflow.com . You'll find a few dozen comments like this: // Safari doesn'...
+- Link: https://dev.to/linkbruno/should-code-comments-link-to-stack-overflow-answers-lets-argue-about-it-33nh
 
 ---
 
-## Python HTTPX: Making HTTP Requests With HTTPX2
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use Python HTTPX (now HTTPX2) to make HTTP requests, send async calls, set safe timeouts, stream large downloads, and enable HTTP/2.
-- Link: https://realpython.com/python-httpx/
-
----
-
-## Quiz: Learn With Mentor AI: Working Through a Coding Exercise
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Practice getting unstuck on a Python coding exercise with Mentor AI, from mutable default arguments to checking for None with is.
-- Link: https://realpython.com/quizzes/mentor-ai-coding-exercise/
-
----
-
-## Quiz: Python HTTPX: Making HTTP Requests With HTTPX2
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your knowledge of Python HTTPX2 by reusing clients, sending async requests, setting timeouts, streaming responses, and enabling HTTP/2.
-- Link: https://realpython.com/quizzes/python-httpx/
-
----
-
-## Securing AI is now a job market: what 226 open AI security roles ask for and pay
+## Stuck on a Bug? Your Brain Solves It Better on the Edge of Sleep
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A year ago "AI security" on a résumé mostly meant you had read about prompt injection. Today it is a hiring market of its own. On 12 November 2026, 226 of the roughly 2,050 security roles open at about 300 employers t...
-- Link: https://dev.to/cyberjobscc/securing-ai-is-now-a-job-market-what-226-open-ai-security-roles-ask-for-and-pay-1el7
+- Summary: Some bugs get fixed at the keyboard. A surprising number get fixed in the shower. You know the pattern. You stare at a failing test for two hours. Nothing. You give up, go make dinner, and halfway through chopping an...
+- Link: https://dev.to/spartanrich430/stuck-on-a-bug-your-brain-solves-it-better-on-the-edge-of-sleep-18o6
 
 ---
 
-## Should Junior Developers Learn to Code Without AI First?
+## Supabase “permission denied for table” (42501) after the Oct 30 change: the fix
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: Should Junior Developers Learn to Code Without AI First? AI can make developers faster. But are we giving the next generation enough opportunities to learn how software actually works? Something That Got Me Thinking Y...
-- Link: https://dev.to/rimonnassory/should-junior-developers-learn-to-code-without-ai-first-111l
+- Category: Programming Tips
+- Summary: You create a new table, add RLS policies that look perfect, and your API calls fail with: error code 42501: permission denied for table profiles No policy is wrong. The problem is one layer below RLS, and Supabase’s r...
+- Link: https://dev.to/syed_shaameerali_52c39bf/supabase-permission-denied-for-table-42501-after-the-oct-30-change-the-fix-3dco
 
 ---
 
-## The Question I Never Asked
+## The Real Python Podcast – Episode #319: Mentoring Developers Beyond the Code With Tim Schilling
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: What's it take to be a mentor to developers? Where in an engineer's career can a mentor make an impact? This week we speak with Tim Schilling, Django Steering Council member and Djangonaut Space administrator, about m...
+- Link: https://realpython.com/podcasts/rpp/319/
+
+---
+
+## The skills nobody teaches at work
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The word landed in the middle of a Tuesday meeting, in the big room, the one where the air conditioner hummed like it was thinking about quitting. We were redesigning the sync service, and the lead said, "We'll go wit...
-- Link: https://dev.to/aheadkit/the-question-i-never-asked-40dd
+- Summary: Nobody gets hired for them, nobody gets trained in them, and everybody is judged by them. Office life runs on a hidden curriculum: Documenting your own work before review season turns it into an archaeology project. R...
+- Link: https://dev.to/chong_newbee_c74302531d2e/the-skills-nobody-teaches-at-work-5eeo
 
 ---
 
@@ -170,14 +170,5 @@ _Generated on: 2026-11-13 08:52 UTC_
 - Category: Learning Article
 - Summary: Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr
 - Link: https://www.freecodecamp.org/news/how-file-transfer-services-work/
-
----
-
-## What yodaman-ctx Does for You
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: A plain-language tour of a local code-search tool that finds code by its name or by what it does, answers with its sources, and keeps your code on your own machine. You have just joined a project. Nobody has time to w...
-- Link: https://dev.to/trust_mutemasango_c24e776/what-yodaman-ctx-does-for-you-24i4
 
 ---

@@ -1,6 +1,6 @@
 # Learning Insights
 
-_Generated on: 2026-11-14 08:16 UTC_
+_Generated on: 2026-11-15 08:36 UTC_
 
 ## Anthropic and Google Make Their Best AI Models Cheaper
 
@@ -11,21 +11,21 @@ _Generated on: 2026-11-14 08:16 UTC_
 
 ---
 
-## Armbat: Running ARMv7 Android Apps on ARM64-Only Devices
+## Build and Train a GLM-5.3-Flash Model From Scratch with Python
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Android is gradually moving away from 32-bit application support. While modern devices increasingly ship with 64-bit-only Android environments, there are still plenty of ARMv7 applications that people want to run. I s...
-- Link: https://dev.to/dimaxd/armbat-running-armv7-android-apps-on-arm64-only-devices-4l2p
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and
+- Link: https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/
 
 ---
 
-## From Intent to Fulfillment: How an Agentic Commerce Order Actually Flows
+## Country Briefing: United States - Hiring 50 Sales Professionals
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: From Intent to Fulfillment: How an Agentic Commerce Order Actually Flows November 14, 2026 An agentic purchase is more than "the agent clicks buy." It is a sequence of distinct steps, each with its own trust boundary....
-- Link: https://dev.to/brudy_dev24/from-intent-to-fulfillment-how-an-agentic-commerce-order-actually-flows-51p9
+- Summary: Scenario: A foreign company opening a 50-person regional sales office and hiring young professionals (22–35) Prepared: November 2026 | Sample briefing for the "Send Me a Country" experiment 1. Wages & True Employment...
+- Link: https://dev.to/feet_greet_ca43f275a38303/country-briefing-united-states-hiring-50-sales-professionals-16b0
 
 ---
 
@@ -38,12 +38,12 @@ _Generated on: 2026-11-14 08:16 UTC_
 
 ---
 
-## How AI Agents Buy Things: A Plain-English Guide to Agentic Commerce
+## Half the Rocket Made History, Half Blew Up: What Starship Flight 15 Taught Me About Shipping
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: How AI Agents Buy Things: A Plain-English Guide to Agentic Commerce November 14, 2026 You tell an assistant what you want, and it goes and buys it. That is agentic commerce, and in 2026 it is moving from demos to real...
-- Link: https://dev.to/brudy_dev24/how-ai-agents-buy-things-a-plain-english-guide-to-agentic-commerce-35o0
+- Summary: Yesterday, November 14, 2026, a spaceship spent about 22 hours in orbit, came back to Texas, and the tower that launched it caught it in mid-air. On the same flight, the other half of the rocket blew up over the Gulf...
+- Link: https://dev.to/sergheipogor/half-the-rocket-made-history-half-blew-up-what-starship-flight-15-taught-me-about-shipping-3lk4
 
 ---
 
@@ -56,30 +56,21 @@ _Generated on: 2026-11-14 08:16 UTC_
 
 ---
 
+## How to Do a Binary Search in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Use the bisect module to do a binary search in Python, then implement this classic algorithm yourself, both iteratively and recursively.
+- Link: https://realpython.com/binary-search-python/
+
+---
+
 ## How to Speed Up CI in the Age of AI-Written Code
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in
 - Link: https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/
-
----
-
-## I built a free spreadsheet that tells freelancers exactly how much to set aside for taxes
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Freelancing has a tax problem nobody warns you about: no employer withholds anything. Your whole invoice lands in your account, it feels like yours, and then April (or a quarterly deadline) shows up with a bill for 25...
-- Link: https://dev.to/ledgerlinehq/i-built-a-free-spreadsheet-that-tells-freelancers-exactly-how-much-to-set-aside-for-taxes-3bnm
-
----
-
-## I built a programming language at 13: Begamix (C++ transpiler + epoll runtime)
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Hi everyone! I'm a 13-year-old developer from Russia. I've been working on my own programming language called Begamix . What is Begamix? It's a compiled language that transpiles to C++ and then to machine code. I buil...
-- Link: https://dev.to/timofey_zapasnoy_697c325e/i-built-a-programming-language-at-13-begamix-c-transpiler-epoll-runtime-40j2
 
 ---
 
@@ -92,12 +83,21 @@ _Generated on: 2026-11-14 08:16 UTC_
 
 ---
 
-## Learn With Mentor AI: Working Through a Coding Exercise
+## Mock Interview AI Bot: Practice System Design Daily
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to use Mentor AI on a Real Python coding exercise. Ask why a test failed, get hints instead of the answer, and check your understanding.
-- Link: https://realpython.com/mentor-ai-coding-exercise/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Why Automate Content Creation Creating content manually for 9 channels would take 8+ hours daily. I have a full-time job as VP at JPMorgan. The math doesnt work. The Pipeline Trending Topic CSV ↓ AI Script (Ollama/Gem...
+- Link: https://dev.to/amrendra_n_mishra/mock-interview-ai-bot-practice-system-design-daily-1g9j
+
+---
+
+## Protecting Client Relationships When Outsourcing Development
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: To protect client relationships when outsourcing software engineering, an agency or consultancy must establish strict contractual boundaries, complete commercial separation, and shared visibility over quality. When a...
+- Link: https://dev.to/anas_kanafani/protecting-client-relationships-when-outsourcing-development-n7e
 
 ---
 
@@ -119,30 +119,39 @@ _Generated on: 2026-11-14 08:16 UTC_
 
 ---
 
-## Should code comments link to Stack Overflow answers? Let's argue about it
+## Terminal Mastery-Navigating the File System Like a Pro Master directories
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Scheduled broken-link and redirect checks that tell you the moment a link breaks — linkbruno.com Open any mature codebase and search for stackoverflow.com . You'll find a few dozen comments like this: // Safari doesn'...
-- Link: https://dev.to/linkbruno/should-code-comments-link-to-stack-overflow-answers-lets-argue-about-it-33nh
+- Summary: 02 of 10 — Terminal Mastery A practical guide to managing files and directories using Windows PowerShell, macOS, and Linux terminals. Imagine you're working on a React project. You need to create a new folder, move co...
+- Link: https://dev.to/hamedfarazi/terminal-mastery-navigating-the-file-system-like-a-promaster-directories-2g8n
 
 ---
 
-## Stuck on a Bug? Your Brain Solves It Better on the Edge of Sleep
+## Terminal Mastery-Pipes, Redirection and Command Chaining
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: 4/10 Terminal Mastery Pipes, Redirection and Command Chaining: Mastering Terminal Workflows So far in this series, we've learned how to navigate the file system, create and manage files, and search through their conte...
+- Link: https://dev.to/hamedfarazi/terminal-mastery-pipes-redirection-and-command-chaining-32o1
+
+---
+
+## Terminal Mastery-Searching, Reading and Managing Files from the Terminal
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: 03 of 10 — Terminal Mastery A practical guide to finding files, searching text, reading content, and filtering results on Windows, macOS, and Linux. Imagine you're working on a large React application. Your project co...
+- Link: https://dev.to/hamedfarazi/terminal-mastery-searching-reading-and-managing-files-from-the-terminal-39p8
+
+---
+
+## The Backup Habit I Couldn't Explain, Until I Needed It
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Some bugs get fixed at the keyboard. A surprising number get fixed in the shower. You know the pattern. You stare at a failing test for two hours. Nothing. You give up, go make dinner, and halfway through chopping an...
-- Link: https://dev.to/spartanrich430/stuck-on-a-bug-your-brain-solves-it-better-on-the-edge-of-sleep-18o6
-
----
-
-## Supabase “permission denied for table” (42501) after the Oct 30 change: the fix
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: You create a new table, add RLS policies that look perfect, and your API calls fail with: error code 42501: permission denied for table profiles No policy is wrong. The problem is one layer below RLS, and Supabase’s r...
-- Link: https://dev.to/syed_shaameerali_52c39bf/supabase-permission-denied-for-table-42501-after-the-oct-30-change-the-fix-3dco
+- Summary: A few months ago, I started keeping a second copy of my important files on a separate drive. No real reason. No disaster had prompted it. I just... started doing it, and kept doing it out of habit, the way you keep lo...
+- Link: https://dev.to/nikhil-gautam-dev/the-backup-habit-i-couldnt-explain-until-i-needed-it-23e9
 
 ---
 
@@ -155,20 +164,20 @@ _Generated on: 2026-11-14 08:16 UTC_
 
 ---
 
-## The skills nobody teaches at work
+## Tips to Work on Your Side Project While Working Full-Time
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Nobody gets hired for them, nobody gets trained in them, and everybody is judged by them. Office life runs on a hidden curriculum: Documenting your own work before review season turns it into an archaeology project. R...
-- Link: https://dev.to/chong_newbee_c74302531d2e/the-skills-nobody-teaches-at-work-5eeo
+- Summary: Here's a scene you might know. It's 8:40 PM. Dinner is done. You open your laptop to finally work on your side project, and you read the same function three times without understanding it. So you check one tab. Then a...
+- Link: https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50
 
 ---
 
-## What Happens When You Upload a Large File & Generate a Temporary Download Link
+## Total overtime pay 3: the shortcut behind the new overtime deduction, and where it breaks
 
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Sending a 5 GB video file might seem simple. You select the file, click Upload, wait for the progress bar to finish, and share a link with someone. But there are several things happening in the backgr
-- Link: https://www.freecodecamp.org/news/how-file-transfer-services-work/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: The new federal deduction for overtime (from the 2025 budget law, claimed on Schedule 1-A) doesn't cover your overtime pay. It covers the premium part of it, the extra half in time-and-a-half. I'm building a free payr...
+- Link: https://dev.to/saurabh_sharma_7a9a61107d/total-overtime-pay-3-the-shortcut-behind-the-new-overtime-deduction-and-where-it-breaks-1fo4
 
 ---

@@ -1,6 +1,15 @@
 # Learning Insights
 
-_Generated on: 2026-11-15 08:36 UTC_
+_Generated on: 2026-11-16 08:45 UTC_
+
+## Advance Your IT Skills with Next IT Career
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: The IT industry continues to create opportunities for students, freshers, and working professionals who want to develop practical technical skills. Next IT Career provides training opportunities for learners intereste...
+- Link: https://dev.to/nextitcareer05/advance-your-it-skills-with-next-it-career-419m
+
+---
 
 ## Anthropic and Google Make Their Best AI Models Cheaper
 
@@ -20,30 +29,12 @@ _Generated on: 2026-11-15 08:36 UTC_
 
 ---
 
-## Country Briefing: United States - Hiring 50 Sales Professionals
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Scenario: A foreign company opening a 50-person regional sales office and hiring young professionals (22–35) Prepared: November 2026 | Sample briefing for the "Send Me a Country" experiment 1. Wages & True Employment...
-- Link: https://dev.to/feet_greet_ca43f275a38303/country-briefing-united-states-hiring-50-sales-professionals-16b0
-
----
-
 ## Get Started With Meta Muse in Python: Spark and Glimmer
 
 - Source: Real Python
 - Category: Developer Blog
 - Summary: Get started with Meta Muse in Python. Make your first Muse Spark call, then add streaming, images, and tool calls, and try the open-weights Glimmer.
 - Link: https://realpython.com/meta-muse-python/
-
----
-
-## Half the Rocket Made History, Half Blew Up: What Starship Flight 15 Taught Me About Shipping
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Yesterday, November 14, 2026, a spaceship spent about 22 hours in orbit, came back to Texas, and the tower that launched it caught it in mid-air. On the same flight, the other half of the rocket blew up over the Gulf...
-- Link: https://dev.to/sergheipogor/half-the-rocket-made-history-half-blew-up-what-starship-flight-15-taught-me-about-shipping-3lk4
 
 ---
 
@@ -74,6 +65,15 @@ _Generated on: 2026-11-15 08:36 UTC_
 
 ---
 
+## I Wrote a 40-Line Script to Count Title Tags and Got the Answer Wrong Twice
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: The script is 40 lines. It takes a sitemap, fetches every URL one at a time, pulls <title> , and prints a length. I ran it against a flashcard site we run and got 160 pages over 60 characters. The real number is 144....
+- Link: https://dev.to/mediadownloaderguides/i-wrote-a-40-line-script-to-count-title-tags-and-got-the-answer-wrong-twice-504p
+
+---
+
 ## Learn Agentic Coding with Codex & AI Coding Agents
 
 - Source: freeCodeCamp News
@@ -83,30 +83,39 @@ _Generated on: 2026-11-15 08:36 UTC_
 
 ---
 
-## Mock Interview AI Bot: Practice System Design Daily
+## Only 5% of cybersecurity job postings ask for a clearance: what each level pays (Nov 2026)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Why Automate Content Creation Creating content manually for 9 channels would take 8+ hours daily. I have a full-time job as VP at JPMorgan. The math doesnt work. The Pipeline Trending Topic CSV ↓ AI Script (Ollama/Gem...
-- Link: https://dev.to/amrendra_n_mishra/mock-interview-ai-bot-practice-system-design-daily-1g9j
+- Summary: A US security clearance is often described as the fastest way into a well-paid security job. The open postings tell a narrower story. Of 3,029 open cybersecurity roles we read on 15 November 2026, 162 (about 5%) ask f...
+- Link: https://dev.to/cyberjobscc/only-5-of-cybersecurity-job-postings-ask-for-a-clearance-what-each-level-pays-nov-2026-4bpg
 
 ---
 
-## Protecting Client Relationships When Outsourcing Development
+## Operating Systems for UNISOC Feature Phones: Hardware Fit and Validation
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: To protect client relationships when outsourcing software engineering, an agency or consultancy must establish strict contractual boundaries, complete commercial separation, and shared visibility over quality. When a...
-- Link: https://dev.to/anas_kanafani/protecting-client-relationships-when-outsourcing-development-n7e
+- Summary: Direct answer PMAOS Mobile and supplier supported Mocor firmware are candidates for manufacturers evaluating UNISOC feature phone projects. Choose against the exact chipset, board, peripherals, memory configuration an...
+- Link: https://dev.to/pmaosofficial/operating-systems-for-unisoc-feature-phones-hardware-fit-and-validation-184i
 
 ---
 
-## Quiz: Working With JSON in Python
+## Personal Branding From the Buyer's Side of the Desk: What Clients Actually Check Before Hiring
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Python's json module, from serializing and deserializing data to encoding and decoding custom types.
-- Link: https://realpython.com/quizzes/working-json-data-python/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most advice about personal branding is written from the freelancer's side of the desk: pick a niche, post consistently, grow an audience. This piece flips the camera around and looks at the same problem from the buyer...
+- Link: https://dev.to/tanit365/personal-branding-from-the-buyers-side-of-the-desk-what-clients-actually-check-before-hiring-1i4b
+
+---
+
+## Ping64|What I Learned When a Summer Intern Shadowed Me for a Week and Wrote Down Every Question
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A couple of months ago our team got a summer intern, and since I was the only one without back-to-back meetings, she got assigned to shadow me for a week. I expected to spend five days narrating ticket queues and expl...
+- Link: https://dev.to/ppping/ping64what-i-learned-when-a-summer-intern-shadowed-me-for-a-week-and-wrote-down-every-question-3ihi
 
 ---
 
@@ -119,39 +128,21 @@ _Generated on: 2026-11-15 08:36 UTC_
 
 ---
 
-## Terminal Mastery-Navigating the File System Like a Pro Master directories
+## Scientific Python: Using SciPy for Optimization
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 02 of 10 — Terminal Mastery A practical guide to managing files and directories using Windows PowerShell, macOS, and Linux terminals. Imagine you're working on a React project. You need to create a new folder, move co...
-- Link: https://dev.to/hamedfarazi/terminal-mastery-navigating-the-file-system-like-a-promaster-directories-2g8n
-
----
-
-## Terminal Mastery-Pipes, Redirection and Command Chaining
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 4/10 Terminal Mastery Pipes, Redirection and Command Chaining: Mastering Terminal Workflows So far in this series, we've learned how to navigate the file system, create and manage files, and search through their conte...
-- Link: https://dev.to/hamedfarazi/terminal-mastery-pipes-redirection-and-command-chaining-32o1
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how the SciPy ecosystem differs from the SciPy library, then install SciPy and use its clustering and optimization modules in Python.
+- Link: https://realpython.com/python-scipy-cluster-optimize/
 
 ---
 
-## Terminal Mastery-Searching, Reading and Managing Files from the Terminal
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 03 of 10 — Terminal Mastery A practical guide to finding files, searching text, reading content, and filtering results on Windows, macOS, and Linux. Imagine you're working on a large React application. Your project co...
-- Link: https://dev.to/hamedfarazi/terminal-mastery-searching-reading-and-managing-files-from-the-terminal-39p8
-
----
-
-## The Backup Habit I Couldn't Explain, Until I Needed It
+## Stop Writing "Tutorial Code": How to Build Production-Ready Habits Early
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: A few months ago, I started keeping a second copy of my important files on a separate drive. No real reason. No disaster had prompted it. I just... started doing it, and kept doing it out of habit, the way you keep lo...
-- Link: https://dev.to/nikhil-gautam-dev/the-backup-habit-i-couldnt-explain-until-i-needed-it-23e9
+- Summary: Every developer remembers the exact moment they finished their first big tutorial. You followed along, typed every line, ran npm start, and watched your app come to life on localhost:3000. It felt amazing. Then came t...
+- Link: https://dev.to/work_kodetocareer_577c77a/stop-writing-tutorial-code-how-to-build-production-ready-habits-early-13ih
 
 ---
 
@@ -164,20 +155,29 @@ _Generated on: 2026-11-15 08:36 UTC_
 
 ---
 
-## Tips to Work on Your Side Project While Working Full-Time
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Here's a scene you might know. It's 8:40 PM. Dinner is done. You open your laptop to finally work on your side project, and you read the same function three times without understanding it. So you check one tab. Then a...
-- Link: https://dev.to/startupcafe/tips-to-work-on-your-side-project-while-working-full-time-n50
-
----
-
-## Total overtime pay 3: the shortcut behind the new overtime deduction, and where it breaks
+## Too many gotchas in CLAUDE.md? Delete, enforce, scope or keep
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The new federal deduction for overtime (from the 2025 budget law, claimed on Schedule 1-A) doesn't cover your overtime pay. It covers the premium part of it, the extra half in time-and-a-half. I'm building a free payr...
-- Link: https://dev.to/saurabh_sharma_7a9a61107d/total-overtime-pay-3-the-shortcut-behind-the-new-overtime-deduction-and-where-it-breaks-1fo4
+- Summary: When most of your CLAUDE.md is gotchas, sort each one into four piles: delete, enforce with a check, scope to a folder, or keep. A worked example cut 20 gotchas to 5 and the always-on section from 561 tokens to 100. O...
+- Link: https://dev.to/clogmeter/too-many-gotchas-in-claudemd-delete-enforce-scope-or-keep-1kf3
+
+---
+
+## Website Launch Checklist: Những lỗi dễ bỏ sót trước khi bàn giao dự án
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Một website có thể hiển thị đẹp, các trang đều truy cập được và giao diện chạy ổn trên máy tính của lập trình viên, nhưng điều đó chưa có nghĩa là dự án đã sẵn sàng để bàn giao. Trong thực tế, những vấn đề nghiêm trọn...
+- Link: https://dev.to/elvo/website-launch-checklist-nhung-loi-de-bo-sot-truoc-khi-ban-giao-du-an-1649
+
+---
+
+## Your Self Assessment Is Due on Friday and You Do Not Know What to Write
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The annual review form has arrived. Before your manager writes anything, you are asked to assess yourself. What did you achieve this year? Where did you grow? What would you do differently? There are three empty boxes...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-self-assessment-is-due-on-friday-and-you-do-not-know-what-to-write-3l4l
 
 ---

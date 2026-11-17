@@ -1,22 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-11-16 08:45 UTC_
+_Generated on: 2026-11-17 09:52 UTC_
 
-## Advance Your IT Skills with Next IT Career
+## Argentinian MSDOS Truco Game Got Hacked!
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The IT industry continues to create opportunities for students, freshers, and working professionals who want to develop practical technical skills. Next IT Career provides training opportunities for learners intereste...
-- Link: https://dev.to/nextitcareer05/advance-your-it-skills-with-next-it-career-419m
+- Summary: I always find old game hacking fascinating, and even more if that game is a rare one. https://0x705h.com/go/arbiser-bl-en-devto
+- Link: https://dev.to/fustaz0/argentinian-msdos-truco-game-got-hacked-30a1
 
 ---
 
-## Anthropic and Google Make Their Best AI Models Cheaper
+## Best Construction Company in Delhi – Sense Projects
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Real Python's weekly AI news for November 7–13, 2026, explained in plain language: Cheaper Claude, Google's Strongest Gemini, and a Faster Gemini.
-- Link: https://realpython.com/ai-news-weekly-2026-11-13/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Construction is an important part of developing modern homes, commercial properties, and business spaces. Whether you are planning a residential building, an office, or a commercial development, choosing the right con...
+- Link: https://dev.to/ajisha_rinsi_e8207155c627/best-construction-companies-in-delhi-sense-projects-3g8k
+
+---
+
+## Beyond the Code: The Product Decisions That Shaped King Ice Quiz
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: When developers talk about building applications, we often focus on the technologies: React, Node.js, databases, APIs, and everything that makes an application work. But there's another side of software development th...
+- Link: https://dev.to/kingice97/beyond-the-code-the-product-decisions-that-shaped-king-ice-quiz-3126
 
 ---
 
@@ -29,6 +38,24 @@ _Generated on: 2026-11-16 08:45 UTC_
 
 ---
 
+## C# 15 Union Types: What Changed and When I’d Actually Use Them
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: C# 15 is here with .NET 11, and one of the features that caught my attention immediately is union types . If you have worked with F#, TypeScript, Rust, Kotlin, or other languages with sum types or discriminated unions...
+- Link: https://dev.to/farzadslash33/c-15-union-types-what-changed-and-when-id-actually-use-them-3k8i
+
+---
+
+## From Code Dump to Portfolio: How I Cleaned Up My Github Repositories
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: From 2024 to early 2026, I built a lot of projects, and I pushed them to Github the way many developers do: commit, push, move on. There was no README, no screenshot and no explanation. My profile was a list of reposi...
+- Link: https://dev.to/hidayatmramon/from-code-dump-to-portfolio-how-i-cleaned-up-my-github-repositories-296o
+
+---
+
 ## Get Started With Meta Muse in Python: Spark and Glimmer
 
 - Source: Real Python
@@ -38,12 +65,30 @@ _Generated on: 2026-11-16 08:45 UTC_
 
 ---
 
-## How to Build a Browser-Based Image Storyboard to PDF Tool Using JavaScript
+## Hackearon al Truco Arbiser (el de MSDOS de los 80's)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Artículo completo en: https://0x705h.com/go/arbiser-bl-devto
+- Link: https://dev.to/fustaz0/hackearon-al-truco-arbiser-el-de-msdos-de-los-80s-2bib
+
+---
+
+## How to Build a Translator with Chrome’s Built-In AI
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Before anyone films a video, shoots an ad or draws the final pages of a comic, someone usually sketches the plan as a storyboard: one picture per shot, in order, with a short note about what happens a
-- Link: https://www.freecodecamp.org/news/build-image-storyboard-to-pdf-tool-javascript/
+- Summary: Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and
+- Link: https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/
+
+---
+
+## How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses
+- Link: https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/
 
 ---
 
@@ -56,6 +101,15 @@ _Generated on: 2026-11-16 08:45 UTC_
 
 ---
 
+## How to Set Up a Python Project for Agentic Coding
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to set up a Python project for agentic coding, with the tests, types, and hooks that give AI coding agents fast feedback.
+- Link: https://realpython.com/python-project-for-agentic-coding/
+
+---
+
 ## How to Speed Up CI in the Age of AI-Written Code
 
 - Source: freeCodeCamp News
@@ -65,57 +119,12 @@ _Generated on: 2026-11-16 08:45 UTC_
 
 ---
 
-## I Wrote a 40-Line Script to Count Title Tags and Got the Answer Wrong Twice
+## Quiz: How to Set Up a Python Project for Agentic Coding
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: The script is 40 lines. It takes a sitemap, fetches every URL one at a time, pulls <title> , and prints a length. I ran it against a flashcard site we run and got 160 pages over 60 characters. The real number is 144....
-- Link: https://dev.to/mediadownloaderguides/i-wrote-a-40-line-script-to-count-title-tags-and-got-the-answer-wrong-twice-504p
-
----
-
-## Learn Agentic Coding with Codex & AI Coding Agents
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: AI coding agents such as Codex read your codebase, edit multiple files, and run commands and tests while they work through larger tasks with you. In Codex, an AGENTS.md file holds persistent instructi
-- Link: https://www.freecodecamp.org/news/learn-agentic-coding-with-codex-ai-coding-agents/
-
----
-
-## Only 5% of cybersecurity job postings ask for a clearance: what each level pays (Nov 2026)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A US security clearance is often described as the fastest way into a well-paid security job. The open postings tell a narrower story. Of 3,029 open cybersecurity roles we read on 15 November 2026, 162 (about 5%) ask f...
-- Link: https://dev.to/cyberjobscc/only-5-of-cybersecurity-job-postings-ask-for-a-clearance-what-each-level-pays-nov-2026-4bpg
-
----
-
-## Operating Systems for UNISOC Feature Phones: Hardware Fit and Validation
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Direct answer PMAOS Mobile and supplier supported Mocor firmware are candidates for manufacturers evaluating UNISOC feature phone projects. Choose against the exact chipset, board, peripherals, memory configuration an...
-- Link: https://dev.to/pmaosofficial/operating-systems-for-unisoc-feature-phones-hardware-fit-and-validation-184i
-
----
-
-## Personal Branding From the Buyer's Side of the Desk: What Clients Actually Check Before Hiring
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Most advice about personal branding is written from the freelancer's side of the desk: pick a niche, post consistently, grow an audience. This piece flips the camera around and looks at the same problem from the buyer...
-- Link: https://dev.to/tanit365/personal-branding-from-the-buyers-side-of-the-desk-what-clients-actually-check-before-hiring-1i4b
-
----
-
-## Ping64|What I Learned When a Summer Intern Shadowed Me for a Week and Wrote Down Every Question
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A couple of months ago our team got a summer intern, and since I was the only one without back-to-back meetings, she got assigned to shadow me for a week. I expected to spend five days narrating ticket queues and expl...
-- Link: https://dev.to/ppping/ping64what-i-learned-when-a-summer-intern-shadowed-me-for-a-week-and-wrote-down-every-question-3ihi
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check how well you can set up a Python project for agentic coding, with the tests, type checks, linting, and hooks that give AI agents fast feedback.
+- Link: https://realpython.com/quizzes/python-project-for-agentic-coding/
 
 ---
 
@@ -137,47 +146,38 @@ _Generated on: 2026-11-16 08:45 UTC_
 
 ---
 
-## Stop Writing "Tutorial Code": How to Build Production-Ready Habits Early
+## The Arrogance of Having Outgrown Arrogance
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Every developer remembers the exact moment they finished their first big tutorial. You followed along, typed every line, ran npm start, and watched your app come to life on localhost:3000. It felt amazing. Then came t...
-- Link: https://dev.to/work_kodetocareer_577c77a/stop-writing-tutorial-code-how-to-build-production-ready-habits-early-13ih
+- Summary: A few days ago, I met up with a happily retired principal engineer for a chat. He wasn't a complete stranger I'd randomly approached—though I do that sometimes. We'd met at an event a while back but hadn't had much ch...
+- Link: https://dev.to/adamthedeveloper/the-arrogance-of-having-outgrown-arrogance-1pl1
 
 ---
 
-## The Real Python Podcast – Episode #319: Mentoring Developers Beyond the Code With Tim Schilling
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: What's it take to be a mentor to developers? Where in an engineer's career can a mentor make an impact? This week we speak with Tim Schilling, Django Steering Council member and Djangonaut Space administrator, about m...
-- Link: https://realpython.com/podcasts/rpp/319/
-
----
-
-## Too many gotchas in CLAUDE.md? Delete, enforce, scope or keep
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: When most of your CLAUDE.md is gotchas, sort each one into four piles: delete, enforce with a check, scope to a folder, or keep. A worked example cut 20 gotchas to 5 and the always-on section from 561 tokens to 100. O...
-- Link: https://dev.to/clogmeter/too-many-gotchas-in-claudemd-delete-enforce-scope-or-keep-1kf3
-
----
-
-## Website Launch Checklist: Những lỗi dễ bỏ sót trước khi bàn giao dự án
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Một website có thể hiển thị đẹp, các trang đều truy cập được và giao diện chạy ổn trên máy tính của lập trình viên, nhưng điều đó chưa có nghĩa là dự án đã sẵn sàng để bàn giao. Trong thực tế, những vấn đề nghiêm trọn...
-- Link: https://dev.to/elvo/website-launch-checklist-nhung-loi-de-bo-sot-truoc-khi-ban-giao-du-an-1649
-
----
-
-## Your Self Assessment Is Due on Friday and You Do Not Know What to Write
+## Top Construction Companies in Delhi: Choosing The Right Construction Partner
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The annual review form has arrived. Before your manager writes anything, you are asked to assess yourself. What did you achieve this year? Where did you grow? What would you do differently? There are three empty boxes...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-self-assessment-is-due-on-friday-and-you-do-not-know-what-to-write-3l4l
+- Summary: Explore what makes the top construction companies in Delhi stand out and discover how Sense Projects delivers quality, reliable, and professional construction solutions. Introduction Choosing the right construction co...
+- Link: https://dev.to/ajisha_rinsi_e8207155c627/top-construction-companies-in-delhi-choosing-the-right-construction-partner-52k0
+
+---
+
+## We ran OpenSpec + Superpowers end to end twice. The reviewer decided the score.
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: OpenSpec plans a change. Superpowers controls how an agent builds it. People keep asking whether the two work together, and the usual answer is a community schema called superpowers-bridge . Its README lists OpenSpec...
+- Link: https://dev.to/speccoding/we-ran-openspec-superpowers-end-to-end-twice-the-reviewer-decided-the-score-462l
+
+---
+
+## Which applicant tracking systems do employers use? Counting 26,000 career sites and 1.4 million open jobs
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you build anything around job data, one question comes first: where do companies actually post their jobs? Every vendor publishes a market share figure, and they rarely agree. So I counted instead. I took the publi...
+- Link: https://dev.to/makerio/which-applicant-tracking-systems-do-employers-use-counting-26000-career-sites-and-14-million-3ed3
 
 ---

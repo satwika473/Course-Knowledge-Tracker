@@ -1,13 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-11-18 09:27 UTC_
+_Generated on: 2026-11-19 09:38 UTC_
 
-## Best Workday HCM Course in Noida
+## A Checklist I Run in a TikTok Viewer Before I Paste Notes Into a Ticket
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Many companies are increasingly adopting cloud based solutions for managing human resources. As a result, Workday HCM has become one of the most popular Enterprise solutions to streamline and automate human resource p...
-- Link: https://dev.to/victor_e685c2800430aa0d77/best-workday-hcm-course-in-noida-a9c
+- Summary: When a ticket lands on my desk with a repo link, a stack trace, and a failing test, I know what to do. Every so often I get a different kind of ticket: a public TikTok username and a request to write down what’s actua...
+- Link: https://dev.to/jenny_wei_4c0cd46995b0786/a-checklist-i-run-in-a-tiktok-viewer-before-i-paste-notes-into-a-ticket-3713
 
 ---
 
@@ -20,30 +20,39 @@ _Generated on: 2026-11-18 09:27 UTC_
 
 ---
 
-## Do cybersecurity certifications raise pay? Postings that name one advertise 13.8% less (Nov 2026)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Ask how to earn more in cybersecurity and the usual answer is a certification. We checked that against the job postings themselves. In open postings read between 11 and 17 November 2026, roles whose posting names a ce...
-- Link: https://dev.to/cyberjobscc/do-cybersecurity-certifications-raise-pay-postings-that-name-one-advertise-138-less-nov-2026-29i5
-
----
-
-## Free Software Development Internship for Students: Getting Started with Practical Experience
+## Build-Time OG Cards with Pillow and CJK Line Breaking
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: A free software development internship can be a good way for students to get practical experience. But it works best when you know what to expect and how to start. Here is a simple guide. 1. What a Free Internship for...
-- Link: https://dev.to/mamo_technolabs/free-software-development-internship-for-students-getting-started-with-practical-experience-4p61
+- Summary: Until this week, no post on this blog had an og:image . Shared links showed a bare text preview, and the JSON-LD for each article had no image , which is one of the fields search engines look for in article markup. Th...
+- Link: https://dev.to/tlaboratory/build-time-og-cards-with-pillow-and-cjk-line-breaking-2pi1
 
 ---
 
-## Getting Started With Git
+## Cold Email for Founder-Led Sales: Cold Email Templates, Sales Tips and a Follow-Up Sequence That Book Discovery Calls
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most founder-led sales starts the same way: a cold email that sounds like a product announcement. It gets no reply, the founder decides "outbound doesn't work for us", and the pipeline goes back to waiting for referra...
+- Link: https://dev.to/kulissa/cold-email-for-founder-led-sales-cold-email-templates-sales-tips-and-a-follow-up-sequence-that-3kc7
+
+---
+
+## GPT-6.2 Astra Draws a Python Reading a Book
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how to set up Git, create a repository, track and commit changes, undo mistakes with git reset, and ignore files using .gitignore.
-- Link: https://realpython.com/courses/getting-started-with-git/
+- Summary: Explore GPT-6.2 Astra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-gpt-6-2-astra/
+
+---
+
+## GPT-6.2 Sol Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore GPT-6.2 Sol's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-gpt-6-2-sol/
 
 ---
 
@@ -65,15 +74,6 @@ _Generated on: 2026-11-18 09:27 UTC_
 
 ---
 
-## How to Set Up a Python Project for Agentic Coding
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to set up a Python project for agentic coding, with the tests, types, and hooks that give AI coding agents fast feedback.
-- Link: https://realpython.com/python-project-for-agentic-coding/
-
----
-
 ## How to Speed Up CI in the Age of AI-Written Code
 
 - Source: freeCodeCamp News
@@ -83,39 +83,48 @@ _Generated on: 2026-11-18 09:27 UTC_
 
 ---
 
-## If.. else.. in Python
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: In Python, the if statement allows us to run or skip a block of code based on specified condition. Eg., raining = False if raining == True : print ( "Take Umbrella" ) else : print ( "No need" ) Output: No need
-- Link: https://dev.to/nandhu_1105/if-else-in-python-1993
-
----
-
-## Interviewer just changed the constraints? Recapture, then explain the update yourself
+## Interviews changed with AI, so I built a practice tool for the new skills
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The first version of the problem is usually the easy part. You have an approach, maybe a first draft in the editor, and then the interviewer says something like: "What if the intervals can also touch?" or "Can you do...
-- Link: https://dev.to/jamieleegrowth/interviewer-just-changed-the-constraints-recapture-then-explain-the-update-yourself-40m2
+- Summary: AI writes a lot of code now. What's left for us, and what interviews increasingly test, is working with code we didn't write. That's three skills: Debugging someone else's code from a bug report. Adding a feature with...
+- Link: https://dev.to/kennycandra/interviews-changed-with-ai-so-i-built-a-practice-tool-for-the-new-skills-l1b
 
 ---
 
-## Learn These 5 Data Engineering Skills Before 2027
+## ISTQB CTFL in 2027: is it still worth it? What changes, what does not
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: It feels like every few weeks, the technology industry gives us something new to learn. AI is evolving, cloud platforms are expanding, and businesses are finding new ways to collect and use data. But while much of the...
-- Link: https://dev.to/intelidata/learn-these-5-data-engineering-skills-before-2027-1nii
+- Summary: Short answer: yes if you are starting in testing or switching into it, with realistic expectations. CTFL v4.0 is still the current syllabus and ISTQB has announced no new Foundation version at the date of writing (19...
+- Link: https://dev.to/automationdatacamp/istqb-ctfl-in-2027-is-it-still-worth-it-what-changes-what-does-not-13km
 
 ---
 
-## Massachusetts Has No Mini-WARN Law — Federal WARN Is the Only Notice Workers Get
+## Learn Data Structures and Algorithms in Python with Visualizations
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota
+- Link: https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/
+
+---
+
+## Nevada Has No Mini-WARN Law — Federal WARN Is the Only Notice Workers Get
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Massachusetts Has No Mini-WARN Law — Federal WARN Is the Only Notice Workers Get Massachusetts workers facing a layoff might assume the state adds its own advance-notice law on top of the federal WARN Act. It does not...
-- Link: https://dev.to/layoffatlas/massachusetts-has-no-mini-warn-law-federal-warn-is-the-only-notice-workers-get-be2
+- Summary: Nevada Has No Mini-WARN Law — Federal WARN Is the Only Notice Workers Get Nevada has no mini-WARN law. There is no state statute that requires employers to give advance notice of a mass layoff or plant closure beyond...
+- Link: https://dev.to/layoffatlas/nevada-has-no-mini-warn-law-federal-warn-is-the-only-notice-workers-get-2pp5
+
+---
+
+## Nuitka: Compile Python Into a Standalone Executable
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn to compile Python into a standalone executable with Nuitka. Compare standalone and onefile builds, test speed, and see when PyInstaller fits better.
+- Link: https://realpython.com/nuitka/
 
 ---
 
@@ -128,56 +137,47 @@ _Generated on: 2026-11-18 09:27 UTC_
 
 ---
 
-## Quiz: How to Set Up a Python Project for Agentic Coding
+## Quadruped Robot Software — Ch.01: Quadruped Robot Fundamentals [EN]
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 01 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_01_Quadruped_Robot_Fundamentals/Chapter_01_Quadruped_Robot_Fund...
+- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch01-quadruped-robot-fundamentals-en-3161
+
+---
+
+## Quadruped Robot Software — Ch.02: Legged Locomotion Architecture [EN]
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 02 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_02_Legged_Locomotion_Architecture/Chapter_02_Legged_Locomotion_...
+- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch02-legged-locomotion-architecture-en-2fei
+
+---
+
+## Quadruped Robot Software — Ch.03: Gait Generation and Control [EN]
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 03 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_03_Gait_Generation_and_Control/Chapter_03_Gait_Generation_and_C...
+- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch03-gait-generation-and-control-en-2bj2
+
+---
+
+## Quadruped Robot Software — Ch.04: Terrain Perception [EN]
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 04 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_04_Terrain_Perception/Chapter_04_Terrain_Perception_EN.md Volum...
+- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch04-terrain-perception-en-neh
+
+---
+
+## Quiz: Nuitka: Compile Python Into a Standalone Executable
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Check how well you can set up a Python project for agentic coding, with the tests, type checks, linting, and hooks that give AI agents fast feedback.
-- Link: https://realpython.com/quizzes/python-project-for-agentic-coding/
-
----
-
-## Quiz: Understanding Python Namespace Packages
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Python namespace packages, how they differ from regular packages, and how to build, publish, and install them with uv.
-- Link: https://realpython.com/quizzes/understanding-python-namespace-packages/
-
----
-
-## Schema Drift vs. Semantic Drift in Data Pipelines
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: When a column is removed from a source database or dataset, the next pipeline run usually fails, making the problem easy to detect. But when a field keeps the same name and data type but its meaning c
-- Link: https://www.freecodecamp.org/news/schema-drift-vs-semantic-drift-in-data-pipelines/
-
----
-
-## The AI Revolution Has a Hidden Problem: Intelligence Without Reliability
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Artificial Intelligence is becoming more powerful every single day. We have models that can write code, analyze complex documents, generate images, solve mathematical problems, and even operate computers. AI agents ca...
-- Link: https://dev.to/image19imagecode/the-ai-revolution-has-a-hidden-problem-intelligence-without-reliability-3mg2
-
----
-
-## Why 1.2.3 means different things in npm and Cargo
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Imagine you’re reviewing two dependency changes, one in package.json and one in Cargo.toml . Both use 1.2.3 . If version 1.5.0 is available, can the package manager select it? Cargo can. npm needs a wider range. The s...
-- Link: https://dev.to/haowanz68316/why-123-means-different-things-in-npm-and-cargo-2cbl
-
----
-
-## Your coding agents need a WIP limit
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: When two changes are waiting on you, starting a third coding agent can be the wrong move—even if the agent is cheap and the task is ready. Agent utilization and finished changes are different things. A worker can fini...
-- Link: https://dev.to/hefty_69a4c2d631c9dd70724/your-coding-agents-need-a-wip-limit-2e04
+- Summary: Test your understanding of compiling Python with Nuitka, from standalone and onefile builds to speedups and when PyInstaller fits better.
+- Link: https://realpython.com/quizzes/nuitka/
 
 ---

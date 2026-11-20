@@ -1,40 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-11-19 09:38 UTC_
+_Generated on: 2026-11-20 09:22 UTC_
 
-## A Checklist I Run in a TikTok Viewer Before I Paste Notes Into a Ticket
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: When a ticket lands on my desk with a repo link, a stack trace, and a failing test, I know what to do. Every so often I get a different kind of ticket: a public TikTok username and a request to write down what’s actua...
-- Link: https://dev.to/jenny_wei_4c0cd46995b0786/a-checklist-i-run-in-a-tiktok-viewer-before-i-paste-notes-into-a-ticket-3713
-
----
-
-## Build and Train a GLM-5.3-Flash Model From Scratch with Python
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: GLM-5.3-Flash combines linear and sparse attention, a mixture-of-experts design, and manifold constrained hyperconnections. A scaled-down version with 25 million parameters can be built in Python and
-- Link: https://www.freecodecamp.org/news/build-and-train-a-glm-53-flash-model-from-scratch-with-python/
-
----
-
-## Build-Time OG Cards with Pillow and CJK Line Breaking
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Until this week, no post on this blog had an og:image . Shared links showed a bare text preview, and the JSON-LD for each article had no image , which is one of the fields search engines look for in article markup. Th...
-- Link: https://dev.to/tlaboratory/build-time-og-cards-with-pillow-and-cjk-line-breaking-2pi1
-
----
-
-## Cold Email for Founder-Led Sales: Cold Email Templates, Sales Tips and a Follow-Up Sequence That Book Discovery Calls
+## A Colleague Followed Your Feedback and It Made Things Worse
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Most founder-led sales starts the same way: a cold email that sounds like a product announcement. It gets no reply, the founder decides "outbound doesn't work for us", and the pipeline goes back to waiting for referra...
-- Link: https://dev.to/kulissa/cold-email-for-founder-led-sales-cold-email-templates-sales-tips-and-a-follow-up-sequence-that-3kc7
+- Summary: A month ago you told a colleague their pull request descriptions were too short, and that reviewers struggled to understand the changes. They took it seriously. Now every description is a page long, with background, a...
+- Link: https://dev.to/asael_shinder_9f53bdca840/a-colleague-followed-your-feedback-and-it-made-things-worse-3lal
+
+---
+
+## Build an AI Agent From Scratch in Python: The Agentic Loop
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how the agentic loop works by building a Python AI agent from scratch, with conversation context and tool calling in about 90 lines of code.
+- Link: https://realpython.com/agentic-loop/
+
+---
+
+## Data Management With Python, SQLite, and SQLAlchemy
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Store and retrieve data with Python, SQLite, and SQLAlchemy. You'll compare flat files with SQL and work with your data as Python objects.
+- Link: https://realpython.com/python-sqlite-sqlalchemy/
 
 ---
 
@@ -47,21 +38,12 @@ _Generated on: 2026-11-19 09:38 UTC_
 
 ---
 
-## GPT-6.2 Sol Draws a Python Reading a Book
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore GPT-6.2 Sol's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-gpt-6-2-sol/
-
----
-
-## How to Build a Translator with Chrome’s Built-In AI
+## How to Build a Browser-Based PDF Password Protector Using JavaScript
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Most translation features work the same way. The user types text, your app sends it to a translation API, and the API sends a translation back. That works, but every request adds cost and latency, and
-- Link: https://www.freecodecamp.org/news/how-to-build-a-translator-with-chrome-s-built-in-ai/
+- Summary: Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f
+- Link: https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/
 
 ---
 
@@ -74,30 +56,30 @@ _Generated on: 2026-11-19 09:38 UTC_
 
 ---
 
-## How to Speed Up CI in the Age of AI-Written Code
+## How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Coding agents now write code faster than most CI pipelines can check it. In April 2026, GitHub COO Kyle Daigle said that his platform was handling 275 million commits a week, on pace for 14 billion in
-- Link: https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/
+- Summary: Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati
+- Link: https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/
 
 ---
 
-## Interviews changed with AI, so I built a practice tool for the new skills
+## How to Scrape Websites in Python with Olostep
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: AI writes a lot of code now. What's left for us, and what interviews increasingly test, is working with code we didn't write. That's three skills: Debugging someone else's code from a bug report. Adding a feature with...
-- Link: https://dev.to/kennycandra/interviews-changed-with-ai-so-i-built-a-practice-tool-for-the-new-skills-l1b
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c
+- Link: https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/
 
 ---
 
-## ISTQB CTFL in 2027: is it still worth it? What changes, what does not
+## Hy4 flash Draws a Python Reading a Book
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Short answer: yes if you are starting in testing or switching into it, with realistic expectations. CTFL v4.0 is still the current syllabus and ISTQB has announced no new Foundation version at the date of writing (19...
-- Link: https://dev.to/automationdatacamp/istqb-ctfl-in-2027-is-it-still-worth-it-what-changes-what-does-not-13km
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Hy4 flash's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-hy4-flash/
 
 ---
 
@@ -110,74 +92,92 @@ _Generated on: 2026-11-19 09:38 UTC_
 
 ---
 
-## Nevada Has No Mini-WARN Law — Federal WARN Is the Only Notice Workers Get
+## My Journey So Far as a Freshman SWE at YIBS / ISEST
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Starting my journey as a Software Engineering student at YIBS / ISEST has been an interesting experience so far. Honestly, before coming into this field, I had little knowledge of programming. I knew software engineer...
+- Link: https://dev.to/neba_samuel_fbdb2463376e2/my-journey-so-far-as-a-freshman-swe-at-yibs-isest-1gk6
+
+---
+
+## PHP and OpenJDK Patch Critical RCE Flaws, Gemini 4 Neon Launches
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: This week's security news is the headline: PHP and OpenJDK both shipped patches for remote code execution bugs that affect production systems directly, and Ruby followed with fixes for seven regex and case-conversion...
+- Link: https://dev.to/devsignal/php-and-openjdk-patch-critical-rce-flaws-gemini-4-neon-launches-52ho
+
+---
+
+## Quiz: Exploring the Python math Module
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your knowledge of Python's math module, from constants and rounding to logarithms, gcd(), and isqrt(), plus how it compares with cmath and NumPy.
+- Link: https://realpython.com/quizzes/exploring-python-math-module/
+
+---
+
+## SAP S/4HANA Training – Complete Guide to SAP FICO, MM, SD, PP, HCM, ABAP & BASIS
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Nevada Has No Mini-WARN Law — Federal WARN Is the Only Notice Workers Get Nevada has no mini-WARN law. There is no state statute that requires employers to give advance notice of a mass layoff or plant closure beyond...
-- Link: https://dev.to/layoffatlas/nevada-has-no-mini-warn-law-federal-warn-is-the-only-notice-workers-get-2pp5
+- Summary: Welcome to Daksha SAP Academy, a career-oriented training platform focused on practical and industry-relevant SAP learning. Daksha SAP Academy provides professional SAP training for students, job seekers, and working...
+- Link: https://dev.to/daksha_global_2846a37ade7/sap-s4hana-training-complete-guide-to-sap-fico-mm-sd-pp-hcm-abap-basis-2g70
 
 ---
 
-## Nuitka: Compile Python Into a Standalone Executable
+## The Consultant Your Company Hired Is Recommending Something You Know Will Not Work Here
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn to compile Python into a standalone executable with Nuitka. Compare standalone and onefile builds, test speed, and see when PyInstaller fits better.
-- Link: https://realpython.com/nuitka/
-
----
-
-## Python Bindings: Calling C or C++ From Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how Python bindings let you call C or C++ code from Python, and compare tools like ctypes, CFFI, PyBind11, and Cython.
-- Link: https://realpython.com/python-bindings-overview/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The consultants have been with your company for three weeks. Today they present their recommendation to the engineering team. Move all the services to a single shared database to simplify operations. The senior people...
+- Link: https://dev.to/asael_shinder_9f53bdca840/the-consultant-your-company-hired-is-recommending-something-you-know-will-not-work-here-1hdg
 
 ---
 
-## Quadruped Robot Software — Ch.01: Quadruped Robot Fundamentals [EN]
+## Use it or lose it
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 01 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_01_Quadruped_Robot_Fundamentals/Chapter_01_Quadruped_Robot_Fund...
-- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch01-quadruped-robot-fundamentals-en-3161
+- Summary: How do you prevent any kind of atrophy? Muscles you don’t use get weaker. Languages you don’t speak often fade. So why do you think skills are any different? Skills you don’t practice atrophy. So the fix is quite obvi...
+- Link: https://dev.to/lukapeharda/use-it-or-lose-it-14mm
 
 ---
 
-## Quadruped Robot Software — Ch.02: Legged Locomotion Architecture [EN]
+## Vonage Holdings 84-Worker WARN Notice in Holmdel, New Jersey, Effective February 16, 2027
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Vonage Holdings 84-Worker WARN Notice in Holmdel, New Jersey, Effective February 16, 2027 Vonage Holdings has filed a WARN notice covering 84 workers at its Holmdel, New Jersey location, with the layoffs effective Feb...
+- Link: https://dev.to/layoffatlas/vonage-holdings-84-worker-warn-notice-in-holmdel-new-jersey-effective-february-16-2027-oen
+
+---
+
+## Your GitHub Profile Is Your First Interview. Here's a README That Makes Recruiters Scroll
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: You put your GitHub link on your resume. A hiring manager clicks it. Now you have about 30 seconds. What do they see? For most people: an empty profile, six forked tutorial repos, and a green contribution graph that s...
+- Link: https://dev.to/prasuk_i2interfaces/your-github-profile-is-your-first-interview-heres-a-readme-that-makes-recruiters-scroll-3ll5
+
+---
+
+## Контроль non-billable часу
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 02 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_02_Legged_Locomotion_Architecture/Chapter_02_Legged_Locomotion_...
-- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch02-legged-locomotion-architecture-en-2fei
+- Summary: В будь-якому сервісному IT-бізнесі non-billable час (мітинги, внутрішнє навчання, пресейли) тихо їсть маржинальність. Якщо розробник витрачає 40% часу на задачі, які клієнт не оплачує, проєкт швидко йде в мінус. Як ми...
+- Link: https://dev.to/nexoralabs_h/kontrol-non-billable-chasu-2081
 
 ---
 
-## Quadruped Robot Software — Ch.03: Gait Generation and Control [EN]
+## 🌍 Say Hello in Your Language! 👋🏻
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 03 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_03_Gait_Generation_and_Control/Chapter_03_Gait_Generation_and_C...
-- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch03-gait-generation-and-control-en-2bj2
-
----
-
-## Quadruped Robot Software — Ch.04: Terrain Perception [EN]
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: STATERA Library · Series 08 · Volume 21 · Chapter 04 · EN Source: https://github.com/Statera-Library/08_Vol_21_Quadruped_Robot_Software/blob/main/Chapter_04_Terrain_Perception/Chapter_04_Terrain_Perception_EN.md Volum...
-- Link: https://dev.to/richard_minsoogo/quadruped-robot-software-ch04-terrain-perception-en-neh
-
----
-
-## Quiz: Nuitka: Compile Python Into a Standalone Executable
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of compiling Python with Nuitka, from standalone and onefile builds to speedups and when PyInstaller fits better.
-- Link: https://realpython.com/quizzes/nuitka/
+- Summary: 𝐋𝐞𝐭'𝐬 𝐦𝐚𝐤𝐞 𝐭𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐦𝐨𝐫𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐨𝐮𝐫 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬! ❤️🌍 𝐄𝐯𝐞𝐫𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐡𝐚𝐬 𝐢𝐭𝐬 𝐨𝐰𝐧 𝐛𝐞𝐚𝐮𝐭𝐲, 𝐜𝐮𝐥𝐭𝐮𝐫𝐞, 𝐚𝐧𝐝 𝐢𝐝𝐞𝐧𝐭𝐢𝐭𝐲. 𝐀 𝐬𝐢𝐦𝐩𝐥𝐞 "𝐇𝐞𝐥𝐥𝐨" 𝐜𝐚𝐧 𝐛𝐫𝐢𝐧𝐠 𝐩𝐞𝐨𝐩𝐥𝐞 𝐟𝐫𝐨𝐦 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐜𝐨𝐫𝐧𝐞𝐫𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫! ✨ 𝐈'𝐥𝐥 𝐬𝐭𝐚𝐫...
+- Link: https://dev.to/necoz/say-hello-in-your-language-4ckf
 
 ---

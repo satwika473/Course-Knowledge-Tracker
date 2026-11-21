@@ -1,13 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-11-20 09:22 UTC_
+_Generated on: 2026-11-21 08:57 UTC_
 
-## A Colleague Followed Your Feedback and It Made Things Worse
+## Aztec Connect was shut down in 2024. It still lost $2.19M.
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: A month ago you told a colleague their pull request descriptions were too short, and that reviewers struggled to understand the changes. They took it seriously. Now every description is a page long, with background, a...
-- Link: https://dev.to/asael_shinder_9f53bdca840/a-colleague-followed-your-feedback-and-it-made-things-worse-3lal
+- Category: Programming Tips
+- Summary: On June 14, 2026, an attacker drained about $2.19M from Aztec Connect's RollupProcessorV3 contract. Aztec Connect had been shut down three years earlier. Admin keys were surrendered in 2024. The contract became immuta...
+- Link: https://dev.to/qanzhi111/aztec-connect-was-shut-down-in-2024-it-still-lost-219m-49do
+
+---
+
+## Best Digital Marketing Company For Roas: How Analytix9 Engineers Profitable Revenue Scale
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Best Digital Marketing Company For Roas: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for best digital marketing company for roas is one of the highest-use growth decisions a busines...
+- Link: https://dev.to/a9leads_1f0037dca685ef4af/best-digital-marketing-company-for-roas-how-analytix9-engineers-profitable-revenue-scale-4gpl
 
 ---
 
@@ -29,12 +38,21 @@ _Generated on: 2026-11-20 09:22 UTC_
 
 ---
 
-## GPT-6.2 Astra Draws a Python Reading a Book
+## How Claude Code's Code Mode works
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore GPT-6.2 Astra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-gpt-6-2-astra/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Normally, Claude Code works one tool call at a time. Claude asks for a search and reads the result. Then it asks for an edit and reads the diff. Then it asks for the tests and reads the output. Each step is a trip bac...
+- Link: https://dev.to/arindam_1729/how-claude-codes-code-mode-works-4107
+
+---
+
+## How to Break Into Salesforce Without a CS Degree: The 4 Steps I'd Follow Again
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I don't have a computer science degree. Mine is in Business Administration. Ten years into my career I work as a Salesforce Product Manager, and I spend a lot of my time helping other people make the same kind of move...
+- Link: https://dev.to/blazer2role/how-to-break-into-salesforce-without-a-cs-degree-the-4-steps-id-follow-again-2bk2
 
 ---
 
@@ -47,21 +65,21 @@ _Generated on: 2026-11-20 09:22 UTC_
 
 ---
 
-## How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Therapy progress notes are written records of what happened during a therapy session. They may include what a client said, what the therapist observed, the topics discussed, and plans for the next ses
-- Link: https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/
-
----
-
 ## How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati
 - Link: https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/
+
+---
+
+## How to Refactor Python Code With an AI Agent
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to refactor Python code with AI safely: find code smells, check that tests pin the behavior, and let an agent apply one refactoring at a time.
+- Link: https://realpython.com/ai-refactor-python/
 
 ---
 
@@ -74,12 +92,21 @@ _Generated on: 2026-11-20 09:22 UTC_
 
 ---
 
-## Hy4 flash Draws a Python Reading a Book
+## How to Write an API Migration Guide (With a Real Example)
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore Hy4 flash's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-hy4-flash/
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou
+- Link: https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/
+
+---
+
+## Humanity Protocol lost $36M because a multisig quorum was on a laptop
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A $36M loss where no smart contract was exploited, no bridge was broken, and no code was hacked. The entry point was a phishing email. The reason it cost $36M instead of a password reset was that production keys had b...
+- Link: https://dev.to/qanzhi111/humanity-protocol-lost-36m-because-a-multisig-quorum-was-on-a-laptop-lb6
 
 ---
 
@@ -92,92 +119,65 @@ _Generated on: 2026-11-20 09:22 UTC_
 
 ---
 
-## My Journey So Far as a Freshman SWE at YIBS / ISEST
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Starting my journey as a Software Engineering student at YIBS / ISEST has been an interesting experience so far. Honestly, before coming into this field, I had little knowledge of programming. I knew software engineer...
-- Link: https://dev.to/neba_samuel_fbdb2463376e2/my-journey-so-far-as-a-freshman-swe-at-yibs-isest-1gk6
-
----
-
-## PHP and OpenJDK Patch Critical RCE Flaws, Gemini 4 Neon Launches
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: This week's security news is the headline: PHP and OpenJDK both shipped patches for remote code execution bugs that affect production systems directly, and Ruby followed with fixes for seven regex and case-conversion...
-- Link: https://dev.to/devsignal/php-and-openjdk-patch-critical-rce-flaws-gemini-4-neon-launches-52ho
-
----
-
-## Quiz: Exploring the Python math Module
+## OpenAI Cuts the Price of Its Best AI Model by 20 Percent
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your knowledge of Python's math module, from constants and rounding to logarithms, gcd(), and isqrt(), plus how it compares with cmath and NumPy.
-- Link: https://realpython.com/quizzes/exploring-python-math-module/
+- Summary: Real Python's weekly AI news for November 14–20, 2026, explained in plain language: Cheaper GPT-6.2, a Poisoned AI Toolkit, and Gemini 4 Neon.
+- Link: https://realpython.com/ai-news-weekly-2026-11-20/
 
 ---
 
-## SAP S/4HANA Training – Complete Guide to SAP FICO, MM, SD, PP, HCM, ABAP & BASIS
+## Quiz: Python Practice Problems: Parsing CSV Files
 
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Welcome to Daksha SAP Academy, a career-oriented training platform focused on practical and industry-relevant SAP learning. Daksha SAP Academy provides professional SAP training for students, job seekers, and working...
-- Link: https://dev.to/daksha_global_2846a37ade7/sap-s4hana-training-complete-guide-to-sap-fico-mm-sd-pp-hcm-abap-basis-2g70
-
----
-
-## The Consultant Your Company Hired Is Recommending Something You Know Will Not Work Here
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The consultants have been with your company for three weeks. Today they present their recommendation to the engineering team. Move all the services to a single shared database to simplify operations. The senior people...
-- Link: https://dev.to/asael_shinder_9f53bdca840/the-consultant-your-company-hired-is-recommending-something-you-know-will-not-work-here-1hdg
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Practice parsing CSV files in Python with the csv module, generators, pytest, and pandas, and get ready to discuss your solutions in an interview.
+- Link: https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/
 
 ---
 
-## Use it or lose it
+## Real-Time Rendering & Simulation at Scale: Analyzing GTA 6 on the PS5 Pro
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: How do you prevent any kind of atrophy? Muscles you don’t use get weaker. Languages you don’t speak often fade. So why do you think skills are any different? Skills you don’t practice atrophy. So the fix is quite obvi...
-- Link: https://dev.to/lukapeharda/use-it-or-lose-it-14mm
+- Summary: Balancing multi-threaded physics, crowd simulation AI, and ray-traced lighting within a strict 16.6ms frame budget (60 FPS) is one of the toughest challenges in real-time software engineering. 🎮 Rockstar Games' Grand...
+- Link: https://dev.to/trendzbetagames/real-time-rendering-simulation-at-scale-analyzing-gta-6-on-the-ps5-pro-3dfk
 
 ---
 
-## Vonage Holdings 84-Worker WARN Notice in Holmdel, New Jersey, Effective February 16, 2027
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Vonage Holdings 84-Worker WARN Notice in Holmdel, New Jersey, Effective February 16, 2027 Vonage Holdings has filed a WARN notice covering 84 workers at its Holmdel, New Jersey location, with the layoffs effective Feb...
-- Link: https://dev.to/layoffatlas/vonage-holdings-84-worker-warn-notice-in-holmdel-new-jersey-effective-february-16-2027-oen
-
----
-
-## Your GitHub Profile Is Your First Interview. Here's a README That Makes Recruiters Scroll
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: You put your GitHub link on your resume. A hiring manager clicks it. Now you have about 30 seconds. What do they see? For most people: an empty profile, six forked tutorial repos, and a green contribution graph that s...
-- Link: https://dev.to/prasuk_i2interfaces/your-github-profile-is-your-first-interview-heres-a-readme-that-makes-recruiters-scroll-3ll5
-
----
-
-## Контроль non-billable часу
+## The Programmer's Fulcrum 20 November, 2026
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: В будь-якому сервісному IT-бізнесі non-billable час (мітинги, внутрішнє навчання, пресейли) тихо їсть маржинальність. Якщо розробник витрачає 40% часу на задачі, які клієнт не оплачує, проєкт швидко йде в мінус. Як ми...
-- Link: https://dev.to/nexoralabs_h/kontrol-non-billable-chasu-2081
+- Summary: This post originally appeared on The Fulcrum . Welcome to this week's The Programmer's Fulcrum. It's your weekly curation of the essential news in the Open Media Network and Open Social development communities with a...
+- Link: https://dev.to/reubenwalker64/the-programmers-fulcrum-20-november-2026-9k8
 
 ---
 
-## 🌍 Say Hello in Your Language! 👋🏻
+## WARN Act and Your Parental Leave — What Happens to Your Leave Benefits After a Layoff Notice
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: 𝐋𝐞𝐭'𝐬 𝐦𝐚𝐤𝐞 𝐭𝐡𝐢𝐬 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐦𝐨𝐫𝐞 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐨𝐮𝐫 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬! ❤️🌍 𝐄𝐯𝐞𝐫𝐲 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐡𝐚𝐬 𝐢𝐭𝐬 𝐨𝐰𝐧 𝐛𝐞𝐚𝐮𝐭𝐲, 𝐜𝐮𝐥𝐭𝐮𝐫𝐞, 𝐚𝐧𝐝 𝐢𝐝𝐞𝐧𝐭𝐢𝐭𝐲. 𝐀 𝐬𝐢𝐦𝐩𝐥𝐞 "𝐇𝐞𝐥𝐥𝐨" 𝐜𝐚𝐧 𝐛𝐫𝐢𝐧𝐠 𝐩𝐞𝐨𝐩𝐥𝐞 𝐟𝐫𝐨𝐦 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐭 𝐜𝐨𝐫𝐧𝐞𝐫𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐰𝐨𝐫𝐥𝐝 𝐭𝐨𝐠𝐞𝐭𝐡𝐞𝐫! ✨ 𝐈'𝐥𝐥 𝐬𝐭𝐚𝐫...
-- Link: https://dev.to/necoz/say-hello-in-your-language-4ckf
+- Category: Career Guidance
+- Summary: WARN Act and Your Parental Leave — What Happens to Your Leave Benefits After a Layoff Notice A WARN notice is bad timing. When it arrives while you are expecting a child, have just had one, or are planning parental le...
+- Link: https://dev.to/layoffatlas/warn-act-and-your-parental-leave-what-happens-to-your-leave-benefits-after-a-layoff-notice-1bkg
+
+---
+
+## WARN Act and Your Voluntary Benefits — What Happens to the Extra Coverage You Pay For After a Layoff Notice
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: WARN Act and Your Voluntary Benefits — What Happens to the Extra Coverage You Pay For After a Layoff Notice When a WARN notice lands, most workers focus on the big questions: health insurance, unemployment, severance....
+- Link: https://dev.to/layoffatlas/warn-act-and-your-voluntary-benefits-what-happens-to-the-extra-coverage-you-pay-for-after-a-1lc8
+
+---
+
+## Your ¥7 Million Offer Is Not ¥7 Million: Reading a Japanese Salary Before You Sign
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A Japanese job offer usually fits on one page, and the biggest number on it — the annual salary — is the one number you should trust least. Not because employers are dishonest, but because a Japanese salary is a struc...
+- Link: https://dev.to/kyshepard/your-y7-million-offer-is-not-y7-million-reading-a-japanese-salary-before-you-sign-28ge
 
 ---

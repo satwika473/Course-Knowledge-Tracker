@@ -1,58 +1,31 @@
 # Learning Insights
 
-_Generated on: 2026-11-21 08:57 UTC_
+_Generated on: 2026-11-22 09:00 UTC_
 
-## Aztec Connect was shut down in 2024. It still lost $2.19M.
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: On June 14, 2026, an attacker drained about $2.19M from Aztec Connect's RollupProcessorV3 contract. Aztec Connect had been shut down three years earlier. Admin keys were surrendered in 2024. The contract became immuta...
-- Link: https://dev.to/qanzhi111/aztec-connect-was-shut-down-in-2024-it-still-lost-219m-49do
-
----
-
-## Best Digital Marketing Company For Roas: How Analytix9 Engineers Profitable Revenue Scale
+## AI-Assisted Riemann Hypothesis Proof Passes Lean Verification, Marking a Major Moment for Formal Mathematics
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Best Digital Marketing Company For Roas: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for best digital marketing company for roas is one of the highest-use growth decisions a busines...
-- Link: https://dev.to/a9leads_1f0037dca685ef4af/best-digital-marketing-company-for-roas-how-analytix9-engineers-profitable-revenue-scale-4gpl
+- Summary: The Lean and Mathlib communities have endorsed Levent Alpöge's formal proof developed with Claude. However, the Clay Mathematics Institute continues to list the famous problem as unsolved. A major development in mathe...
+- Link: https://dev.to/iwanaradoewic/ai-assisted-riemann-hypothesis-proof-passes-lean-verification-marking-a-major-moment-for-formal-4in4
 
 ---
 
-## Build an AI Agent From Scratch in Python: The Agentic Loop
+## Gemini 4 Neon Draws a Python Reading a Book
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how the agentic loop works by building a Python AI agent from scratch, with conversation context and tool calling in about 90 lines of code.
-- Link: https://realpython.com/agentic-loop/
+- Summary: Explore Gemini 4 Neon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-gemini-4-neon/
 
 ---
 
-## Data Management With Python, SQLite, and SQLAlchemy
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Store and retrieve data with Python, SQLite, and SQLAlchemy. You'll compare flat files with SQL and work with your data as Python objects.
-- Link: https://realpython.com/python-sqlite-sqlalchemy/
-
----
-
-## How Claude Code's Code Mode works
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Normally, Claude Code works one tool call at a time. Claude asks for a search and reads the result. Then it asks for an edit and reads the diff. Then it asks for the tests and reads the output. Each step is a trip bac...
-- Link: https://dev.to/arindam_1729/how-claude-codes-code-mode-works-4107
-
----
-
-## How to Break Into Salesforce Without a CS Degree: The 4 Steps I'd Follow Again
+## Get new jobs within the hour: have Claude or Codex check for you on a schedule
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I don't have a computer science degree. Mine is in Business Administration. Ten years into my career I work as a Salesforce Product Manager, and I spend a lot of my time helping other people make the same kind of move...
-- Link: https://dev.to/blazer2role/how-to-break-into-salesforce-without-a-cs-degree-the-4-steps-id-follow-again-2bk2
+- Summary: Short answer: turn on job alerts in ApplyKoala, then give your AI a scheduled task that runs every hour: "check my new jobs, read each one, save the ones that fit me". Claude Code can run it in the cloud with your lap...
+- Link: https://dev.to/applykoala/get-new-jobs-within-the-hour-have-claude-or-codex-check-for-you-on-a-schedule-k4j
 
 ---
 
@@ -62,6 +35,15 @@ _Generated on: 2026-11-21 08:57 UTC_
 - Category: Learning Article
 - Summary: Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f
 - Link: https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/
+
+---
+
+## How to Build a Real-Time Web Search Tool for Any AI Agent (Universal Python Guide)
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: If you have been building autonomous AI agents or experimenting with LLM tool calling recently, you have likely run into the infamous knowledge cutoff problem: User: "What was the score of yesterday's Champions League...
+- Link: https://dev.to/serqoio/how-to-build-a-real-time-web-search-tool-for-any-ai-agent-universal-python-guide-1nnl
 
 ---
 
@@ -92,6 +74,15 @@ _Generated on: 2026-11-21 08:57 UTC_
 
 ---
 
+## How to Use any() in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Use any() in Python to check whether at least one condition is true, simplify complex conditionals, and see how it compares to the or operator.
+- Link: https://realpython.com/any-python/
+
+---
+
 ## How to Write an API Migration Guide (With a Real Example)
 
 - Source: freeCodeCamp News
@@ -101,12 +92,21 @@ _Generated on: 2026-11-21 08:57 UTC_
 
 ---
 
-## Humanity Protocol lost $36M because a multisig quorum was on a laptop
+## I Built a Tool Where You Break System Architectures to Learn How They Work published: true
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: A $36M loss where no smart contract was exploited, no bridge was broken, and no code was hacked. The entry point was a phishing email. The reason it cost $36M instead of a password reset was that production keys had b...
-- Link: https://dev.to/qanzhi111/humanity-protocol-lost-36m-because-a-multisig-quorum-was-on-a-laptop-lb6
+- Category: Programming Tips
+- Summary: Every system design resource I found had the same problem: static diagrams and theoretical explanations. "Add a load balancer here." "Use caching." But what actually happens when your database hits 195 out of 200 conn...
+- Link: https://dev.to/saurabhd01/i-built-a-tool-where-you-break-system-architectures-to-learn-how-they-workpublished-true-5c2h
+
+---
+
+## Inkling 2 Mini Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore Inkling 2 Mini's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-inkling-2-mini/
 
 ---
 
@@ -128,56 +128,56 @@ _Generated on: 2026-11-21 08:57 UTC_
 
 ---
 
-## Quiz: Python Practice Problems: Parsing CSV Files
+## Running a job search with Claude Code and Codex, and what we learned building the MCP server behind it
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Practice parsing CSV files in Python with the csv module, generators, pytest, and pandas, and get ready to discuss your solutions in an interview.
-- Link: https://realpython.com/quizzes/python-interview-problem-parsing-csv-files/
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A lot of people now let an AI agent do the boring parts of a job search: finding postings, reading them, judging fit, filling in forms. Claude Code and Codex are surprisingly good at this. What they are bad at is reme...
+- Link: https://dev.to/applykoala/running-a-job-search-with-claude-code-and-codex-and-what-we-learned-building-the-mcp-server-behind-3gdd
 
 ---
 
-## Real-Time Rendering & Simulation at Scale: Analyzing GTA 6 on the PS5 Pro
+## The Bug Reached Forty Thousand Customers and You Felt What You Felt for Four Hundred
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Two incidents in the same week. On Monday a checkout bug hit four hundred customers. On Thursday a pricing bug hit forty thousand. You read both reports. You felt bad about both. About the same amount. The team spent...
+- Link: https://dev.to/sergueyasaelshinder/the-bug-reached-forty-thousand-customers-and-you-felt-what-you-felt-for-four-hundred-1m6k
+
+---
+
+## Top 40+ Email APIs and Services for Developers (Updated 2026)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Balancing multi-threaded physics, crowd simulation AI, and ray-traced lighting within a strict 16.6ms frame budget (60 FPS) is one of the toughest challenges in real-time software engineering. 🎮 Rockstar Games' Grand...
-- Link: https://dev.to/trendzbetagames/real-time-rendering-simulation-at-scale-analyzing-gta-6-on-the-ps5-pro-3dfk
+- Summary: I first posted a bare list of email APIs in 2024. It was a table of names and links, and it still gets visitors from Google every week, so it deserves a proper rewrite. Same URL, the original 35 tools plus the newer o...
+- Link: https://dev.to/shreyvijayvargiya/top-40-email-apis-and-services-for-developers-updated-2026-iio
 
 ---
 
-## The Programmer's Fulcrum 20 November, 2026
+## You Have Been Asked to Lead Your Company's Frontend Guild
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Your company has a dozen product teams, and each has one or two frontend developers. They rarely talk to each other. Someone senior has an idea. Let us start a frontend guild, a group that meets across teams to share...
+- Link: https://dev.to/asael_shinder_9f53bdca840/you-have-been-asked-to-lead-your-companys-frontend-guild-1an2
+
+---
+
+## You Zipped the Prices Onto the Products and Python Quietly Dropped the Last Three
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: This post originally appeared on The Fulcrum . Welcome to this week's The Programmer's Fulcrum. It's your weekly curation of the essential news in the Open Media Network and Open Social development communities with a...
-- Link: https://dev.to/reubenwalker64/the-programmers-fulcrum-20-november-2026-9k8
+- Summary: The price update came as two columns. Product codes in one file. New prices in the other. Same order, the supplier promised. One line put them together: for sku, price in zip(skus, prices): update_price(sku, price) It...
+- Link: https://dev.to/sergueyasaelshinder/you-zipped-the-prices-onto-the-products-and-python-quietly-dropped-the-last-three-1a28
 
 ---
 
-## WARN Act and Your Parental Leave — What Happens to Your Leave Benefits After a Layoff Notice
+## Your Mentee's New Project Is Confidential and They Cannot Tell You What It Is
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: WARN Act and Your Parental Leave — What Happens to Your Leave Benefits After a Layoff Notice A WARN notice is bad timing. When it arrives while you are expecting a child, have just had one, or are planning parental le...
-- Link: https://dev.to/layoffatlas/warn-act-and-your-parental-leave-what-happens-to-your-leave-benefits-after-a-layoff-notice-1bkg
-
----
-
-## WARN Act and Your Voluntary Benefits — What Happens to the Extra Coverage You Pay For After a Layoff Notice
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: WARN Act and Your Voluntary Benefits — What Happens to the Extra Coverage You Pay For After a Layoff Notice When a WARN notice lands, most workers focus on the big questions: health insurance, unemployment, severance....
-- Link: https://dev.to/layoffatlas/warn-act-and-your-voluntary-benefits-what-happens-to-the-extra-coverage-you-pay-for-after-a-1lc8
-
----
-
-## Your ¥7 Million Offer Is Not ¥7 Million: Reading a Japanese Salary Before You Sign
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A Japanese job offer usually fits on one page, and the biggest number on it — the annual salary — is the one number you should trust least. Not because employers are dishonest, but because a Japanese salary is a struc...
-- Link: https://dev.to/kyshepard/your-y7-million-offer-is-not-y7-million-reading-a-japanese-salary-before-you-sign-28ge
+- Summary: Your mentee arrives looking excited and a little awkward. They have been moved onto a new project, and it is the biggest thing they have worked on. Then they add, I am not allowed to say what it is. Not the product, n...
+- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentees-new-project-is-confidential-and-they-cannot-tell-you-what-it-is-1nih
 
 ---

@@ -1,13 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-11-22 09:00 UTC_
+_Generated on: 2026-11-23 09:58 UTC_
 
-## AI-Assisted Riemann Hypothesis Proof Passes Lean Verification, Marking a Major Moment for Formal Mathematics
+## Automating Invoice Data Entry: Turning Raw Bills into Ready-to-Use Accounting Data
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The Lean and Mathlib communities have endorsed Levent Alpöge's formal proof developed with Claude. However, the Clay Mathematics Institute continues to list the famous problem as unsolved. A major development in mathe...
-- Link: https://dev.to/iwanaradoewic/ai-assisted-riemann-hypothesis-proof-passes-lean-verification-marking-a-major-moment-for-formal-4in4
+- Summary: In every office, accounts team, or warehouse, someone spends hours every day doing one tedious task: opening paper bills, PDFs, or photos of invoices and manually typing every detail—vendor names, invoice numbers, lin...
+- Link: https://dev.to/omkar270048/automating-invoice-data-entry-turning-raw-bills-into-ready-to-use-accounting-data-106j
+
+---
+
+## Cold Call Voicemail Scripts: Cold Calling Tips and Sales Scripts for Voicemails That Get Callbacks
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most cold calling tips stop at the moment someone picks up. But on a lot of dials, nobody does. You hear a beep, and you have about 20 seconds to either sound like a real person with a real reason, or sound like every...
+- Link: https://dev.to/kulissa/cold-call-voicemail-scripts-cold-calling-tips-and-sales-scripts-for-voicemails-that-get-callbacks-12aj
+
+---
+
+## DaisyRose 27B Draws a Python Reading a Book
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore DaisyRose 27B's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
+- Link: https://realpython.com/ai-benchmark-daisyrose-27b/
+
+---
+
+## Data Driven Paid Media Agency: How Analytix9 Engineers Profitable Revenue Scale
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Data Driven Paid Media Agency: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for data driven paid media agency is one of the highest-use growth decisions a business leader can make. Y...
+- Link: https://dev.to/a9leads_1f0037dca685ef4af/data-driven-paid-media-agency-how-analytix9-engineers-profitable-revenue-scale-a1b
 
 ---
 
@@ -20,15 +47,6 @@ _Generated on: 2026-11-22 09:00 UTC_
 
 ---
 
-## Get new jobs within the hour: have Claude or Codex check for you on a schedule
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Short answer: turn on job alerts in ApplyKoala, then give your AI a scheduled task that runs every hour: "check my new jobs, read each one, save the ones that fit me". Claude Code can run it in the cloud with your lap...
-- Link: https://dev.to/applykoala/get-new-jobs-within-the-hour-have-claude-or-codex-check-for-you-on-a-schedule-k4j
-
----
-
 ## How to Build a Browser-Based PDF Password Protector Using JavaScript
 
 - Source: freeCodeCamp News
@@ -38,30 +56,12 @@ _Generated on: 2026-11-22 09:00 UTC_
 
 ---
 
-## How to Build a Real-Time Web Search Tool for Any AI Agent (Universal Python Guide)
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: If you have been building autonomous AI agents or experimenting with LLM tool calling recently, you have likely run into the infamous knowledge cutoff problem: User: "What was the score of yesterday's Champions League...
-- Link: https://dev.to/serqoio/how-to-build-a-real-time-web-search-tool-for-any-ai-agent-universal-python-guide-1nnl
-
----
-
 ## How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial
 
 - Source: freeCodeCamp News
 - Category: Learning Article
 - Summary: Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati
 - Link: https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/
-
----
-
-## How to Refactor Python Code With an AI Agent
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how to refactor Python code with AI safely: find code smells, check that tests pin the behavior, and let an agent apply one refactoring at a time.
-- Link: https://realpython.com/ai-refactor-python/
 
 ---
 
@@ -92,15 +92,6 @@ _Generated on: 2026-11-22 09:00 UTC_
 
 ---
 
-## I Built a Tool Where You Break System Architectures to Learn How They Work published: true
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Every system design resource I found had the same problem: static diagrams and theoretical explanations. "Add a load balancer here." "Use caching." But what actually happens when your database hits 195 out of 200 conn...
-- Link: https://dev.to/saurabhd01/i-built-a-tool-where-you-break-system-architectures-to-learn-how-they-workpublished-true-5c2h
-
----
-
 ## Inkling 2 Mini Draws a Python Reading a Book
 
 - Source: Real Python
@@ -128,56 +119,65 @@ _Generated on: 2026-11-22 09:00 UTC_
 
 ---
 
-## Running a job search with Claude Code and Codex, and what we learned building the MCP server behind it
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A lot of people now let an AI agent do the boring parts of a job search: finding postings, reading them, judging fit, filling in forms. Claude Code and Codex are surprisingly good at this. What they are bad at is reme...
-- Link: https://dev.to/applykoala/running-a-job-search-with-claude-code-and-codex-and-what-we-learned-building-the-mcp-server-behind-3gdd
-
----
-
-## The Bug Reached Forty Thousand Customers and You Felt What You Felt for Four Hundred
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Two incidents in the same week. On Monday a checkout bug hit four hundred customers. On Thursday a pricing bug hit forty thousand. You read both reports. You felt bad about both. About the same amount. The team spent...
-- Link: https://dev.to/sergueyasaelshinder/the-bug-reached-forty-thousand-customers-and-you-felt-what-you-felt-for-four-hundred-1m6k
-
----
-
-## Top 40+ Email APIs and Services for Developers (Updated 2026)
+## Python Trending Weekly #176 (with Issue 126 full text): In Memoriam: Tim Peters (1952–2026); Microsoft agent-framewor...
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: I first posted a bare list of email APIs in 2024. It was a table of names and links, and it still gets visitors from Google every week, so it deserves a proper rewrite. Same URL, the original 35 tools plus the newer o...
-- Link: https://dev.to/shreyvijayvargiya/top-40-email-apis-and-services-for-developers-updated-2026-iio
+- Summary: Welcome to Python Trending Weekly - your gateway to cutting-edge Python intelligence! Curated by Python Cat from 400+ premium sources worldwide, we deliver the most valuable articles, tutorials, open-source projects,...
+- Link: https://dev.to/pythoncat/python-trending-weekly-176-with-issue-126-full-text-in-memoriam-tim-peters-1952-2026-2oja
 
 ---
 
-## You Have Been Asked to Lead Your Company's Frontend Guild
+## SAP Classes in Coimbatore – SAP FICO, SAP MM, SAP SF & SAP SD Training
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Your company has a dozen product teams, and each has one or two frontend developers. They rarely talk to each other. Someone senior has an idea. Let us start a frontend guild, a group that meets across teams to share...
-- Link: https://dev.to/asael_shinder_9f53bdca840/you-have-been-asked-to-lead-your-companys-frontend-guild-1an2
+- Summary: Looking for SAP classes in Coimbatore? Techmaax offers professional SAP FICO, SAP MM, SAP SF and SAP SD training with practical learning and industry-focused guidance. Explore SAP S/4HANA Finance, Materials Management...
+- Link: https://dev.to/techmaax_coimbatore/sap-classes-in-coimbatore-sap-fico-sap-mm-sap-sf-sap-sd-training-4g4k
 
 ---
 
-## You Zipped the Prices Onto the Products and Python Quietly Dropped the Last Three
+## Thoughtflows Medical Coding Academy
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: ThoughtFlows Medical Coding Academy in Saravanampatti, Coimbatore, offers professional medical coding training and certification programs for students and healthcare professionals. With a focus on practical learning a...
+- Link: https://dev.to/thought_flows_24c5966122d/thoughtflows-medical-coding-academy-4fd6
+
+---
+
+## Understanding AML/CTF Compliance Requirements for Australian Businesses
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: The price update came as two columns. Product codes in one file. New prices in the other. Same order, the supplier promised. One line put them together: for sku, price in zip(skus, prices): update_price(sku, price) It...
-- Link: https://dev.to/sergueyasaelshinder/you-zipped-the-prices-onto-the-products-and-python-quietly-dropped-the-last-three-1a28
+- Summary: Businesses across Australia are facing increasing responsibilities when it comes to anti-money laundering and counter-terrorism financing (AML/CTF) compliance. For regulated businesses, understanding these obligations...
+- Link: https://dev.to/kestrel_assurance_01/understanding-amlctf-compliance-requirements-for-australian-businesses-4g17
 
 ---
 
-## Your Mentee's New Project Is Confidential and They Cannot Tell You What It Is
+## WARN Act and Your Surrogacy Benefits: What Happens to Your Surrogacy Coverage After a Layoff Notice
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Your mentee arrives looking excited and a little awkward. They have been moved onto a new project, and it is the biggest thing they have worked on. Then they add, I am not allowed to say what it is. Not the product, n...
-- Link: https://dev.to/asael_shinder_9f53bdca840/your-mentees-new-project-is-confidential-and-they-cannot-tell-you-what-it-is-1nih
+- Summary: WARN Act and Your Surrogacy Benefits: What Happens to Your Surrogacy Coverage After a Layoff Notice A layoff notice is bad timing for any family plan — worse in the middle of a surrogacy journey. A full gestational su...
+- Link: https://dev.to/layoffatlas/warn-act-and-your-surrogacy-benefits-what-happens-to-your-surrogacy-coverage-after-a-layoff-notice-2chj
+
+---
+
+## Why Big Tech Never Updates Legacy UIs: The Enterprise Engineering Rule Even Google Obeys
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Every junior engineer eventually runs into the same wall on an enterprise project: an internal screen that looks straight out of Windows 2000, built with nested tables, raw HTML, and zero responsive design. Your first...
+- Link: https://dev.to/totolis_it/why-big-tech-never-updates-legacy-uis-the-enterprise-engineering-rule-even-google-obeys-31k3
+
+---
+
+## Your Dates Are Broken Because of Epoch Time — Here's How to Debug Them Fast
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Your app just displayed a birthday as January 20, 1970. Or a payment timestamp landed in 1969. Or two services disagree about an event by exactly 1,000×. Congratulations — you've met the three classic epoch time bugs....
+- Link: https://dev.to/webtoolshub/your-dates-are-broken-because-of-epoch-time-heres-how-to-debug-them-fast-39l3
 
 ---

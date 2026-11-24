@@ -1,22 +1,22 @@
 # Learning Insights
 
-_Generated on: 2026-11-23 09:58 UTC_
+_Generated on: 2026-11-24 11:46 UTC_
 
-## Automating Invoice Data Entry: Turning Raw Bills into Ready-to-Use Accounting Data
+## AI Network Firewalls for Enterprise Security Architecture
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: In every office, accounts team, or warehouse, someone spends hours every day doing one tedious task: opening paper bills, PDFs, or photos of invoices and manually typing every detail—vendor names, invoice numbers, lin...
-- Link: https://dev.to/omkar270048/automating-invoice-data-entry-turning-raw-bills-into-ready-to-use-accounting-data-106j
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An
+- Link: https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/
 
 ---
 
-## Cold Call Voicemail Scripts: Cold Calling Tips and Sales Scripts for Voicemails That Get Callbacks
+## Best Digital Marketing Agency in Hyderabad | 9+ Years
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Most cold calling tips stop at the moment someone picks up. But on a lot of dials, nobody does. You hear a beep, and you have about 20 seconds to either sound like a real person with a real reason, or sound like every...
-- Link: https://dev.to/kulissa/cold-call-voicemail-scripts-cold-calling-tips-and-sales-scripts-for-voicemails-that-get-callbacks-12aj
+- Summary: Searching for the best digital marketing agency in Hyderabad can feel overwhelming because every company claims to be number one. The truth is that the best agency is the one that understands your goals, proves its wo...
+- Link: https://dev.to/omnipresentperforman/best-digital-marketing-agency-in-hyderabad-9-years-36pd
 
 ---
 
@@ -29,30 +29,12 @@ _Generated on: 2026-11-23 09:58 UTC_
 
 ---
 
-## Data Driven Paid Media Agency: How Analytix9 Engineers Profitable Revenue Scale
+## How AI Is Reshaping Business Travel: What Companies Need to Know
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Data Driven Paid Media Agency: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for data driven paid media agency is one of the highest-use growth decisions a business leader can make. Y...
-- Link: https://dev.to/a9leads_1f0037dca685ef4af/data-driven-paid-media-agency-how-analytix9-engineers-profitable-revenue-scale-a1b
-
----
-
-## Gemini 4 Neon Draws a Python Reading a Book
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore Gemini 4 Neon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-gemini-4-neon/
-
----
-
-## How to Build a Browser-Based PDF Password Protector Using JavaScript
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Contracts, invoices, medical reports, and scanned ID cards are often converted to PDF files. And if one of them ends up in the wrong inbox or on a shared drive, anyone can open it. Adding a password f
-- Link: https://www.freecodecamp.org/news/build-pdf-password-protector-javascript/
+- Category: Career Guidance
+- Summary: Artificial intelligence has moved from buzzword to everyday tool in business travel. It now helps companies find better fares, predict disruptions and personalize trips for every traveller. For organizations that send...
+- Link: https://dev.to/corporatetravelguide/how-ai-is-reshaping-business-travel-what-companies-need-to-know-d75
 
 ---
 
@@ -65,21 +47,21 @@ _Generated on: 2026-11-23 09:58 UTC_
 
 ---
 
-## How to Scrape Websites in Python with Olostep
+## How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Web scraping in Python usually starts with requests and Beautiful Soup. While this works well for static pages, it gets harder when a site loads content with JavaScript, blocks repeated requests, or c
-- Link: https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/
+- Summary: Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl
+- Link: https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/
 
 ---
 
-## How to Use any() in Python
+## How to Use the GitHub CLI with GitHub Actions
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Use any() in Python to check whether at least one condition is true, simplify complex conditionals, and see how it compares to the or operator.
-- Link: https://realpython.com/any-python/
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing
+- Link: https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/
 
 ---
 
@@ -101,83 +83,101 @@ _Generated on: 2026-11-23 09:58 UTC_
 
 ---
 
-## Learn Data Structures and Algorithms in Python with Visualizations
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Data structures such as arrays, linked lists, stacks, queues, hash tables, trees, heaps, and graphs determine how a program stores data and how fast it can search, insert, and remove items. Big O nota
-- Link: https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/
-
----
-
-## OpenAI Cuts the Price of Its Best AI Model by 20 Percent
+## LangChain Tutorial: From Prompts to RAG and AI Agents
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Real Python's weekly AI news for November 14–20, 2026, explained in plain language: Cheaper GPT-6.2, a Poisoned AI Toolkit, and Gemini 4 Neon.
-- Link: https://realpython.com/ai-news-weekly-2026-11-20/
+- Summary: Learn LangChain in Python step by step. This hands-on LangChain tutorial covers chat models, prompt templates, LCEL chains, RAG, and tool-calling agents.
+- Link: https://realpython.com/langchain-tutorial/
 
 ---
 
-## Python Trending Weekly #176 (with Issue 126 full text): In Memoriam: Tim Peters (1952–2026); Microsoft agent-framewor...
+## Quiz: LangChain Tutorial: From Prompts to RAG and AI Agents
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Check your grasp of LangChain in Python, from chat messages and prompt templates to LCEL chains, RAG retrieval, and tool-calling agents.
+- Link: https://realpython.com/quizzes/langchain-tutorial/
+
+---
+
+## SEO Services in Hyderabad | Rank Higher, Get Leads
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Most customers begin their buying journey on Google, which makes SEO services in Hyderabad one of the most reliable ways to attract visitors who are already looking for what you sell. Unlike ads, SEO keeps working lon...
+- Link: https://dev.to/omnipresentperforman/seo-services-in-hyderabad-rank-higher-get-leads-52fp
+
+---
+
+## Single Coding Agent vs Cross-Model Review (Codex + Claude): A 5-Task Blind Experiment
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Welcome to Python Trending Weekly - your gateway to cutting-edge Python intelligence! Curated by Python Cat from 400+ premium sources worldwide, we deliver the most valuable articles, tutorials, open-source projects,...
-- Link: https://dev.to/pythoncat/python-trending-weekly-176-with-issue-126-full-text-in-memoriam-tim-peters-1952-2026-2oja
+- Summary: Across 5 blind coding tasks on Node v24.22.1 with zero external dependencies, a single Codex agent scored 22/22 on small scoped fixes in under 80 seconds, while cross-model read-only review ( gpt-6.2-astra coding + cl...
+- Link: https://dev.to/songsu_ze/single-coding-agent-vs-cross-model-review-codex-claude-a-5-task-blind-experiment-3c2
 
 ---
 
-## SAP Classes in Coimbatore – SAP FICO, SAP MM, SAP SF & SAP SD Training
+## Top Python Game Engines
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Explore the top Python game engines, code a basic example and a full game in each, and learn the strengths and weaknesses of every engine.
+- Link: https://realpython.com/top-python-game-engines/
+
+---
+
+## UAE Golden Visa for Professionals vs Golden Visa with Mortgaged Property: Which Route Fits, and What to Check Before...
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Looking for SAP classes in Coimbatore? Techmaax offers professional SAP FICO, SAP MM, SAP SF and SAP SD training with practical learning and industry-focused guidance. Explore SAP S/4HANA Finance, Materials Management...
-- Link: https://dev.to/techmaax_coimbatore/sap-classes-in-coimbatore-sap-fico-sap-mm-sap-sf-sap-sd-training-4g4k
+- Summary: Most people who search for the UAE Golden Visa are not investors with suitcases of cash. They are salaried managers, doctors, engineers and founders who have lived in the UAE for years and want residency that doesn't...
+- Link: https://dev.to/ajmal_maliyekkal/uae-golden-visa-for-professionals-vs-golden-visa-with-mortgaged-property-which-route-fits-and-3fof
 
 ---
 
-## Thoughtflows Medical Coding Academy
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: ThoughtFlows Medical Coding Academy in Saravanampatti, Coimbatore, offers professional medical coding training and certification programs for students and healthcare professionals. With a focus on practical learning a...
-- Link: https://dev.to/thought_flows_24c5966122d/thoughtflows-medical-coding-academy-4fd6
-
----
-
-## Understanding AML/CTF Compliance Requirements for Australian Businesses
+## Variations of interaction Shaders
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Businesses across Australia are facing increasing responsibilities when it comes to anti-money laundering and counter-terrorism financing (AML/CTF) compliance. For regulated businesses, understanding these obligations...
-- Link: https://dev.to/kestrel_assurance_01/understanding-amlctf-compliance-requirements-for-australian-businesses-4g17
+- Summary: In this episode of my UE5 Trial & Error Series, I’m experimenting with interaction shader variations, exploring different ways to highlight objects and make them stand out within the environment. From subtle effects t...
+- Link: https://dev.to/startupcafe/variations-of-interaction-shaders-5f20
 
 ---
 
-## WARN Act and Your Surrogacy Benefits: What Happens to Your Surrogacy Coverage After a Layoff Notice
+## What Does App Testing Cost in India? A Scoping Guide for Developers, Plus What Mystery Shopping Jobs Involve for Testers
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: WARN Act and Your Surrogacy Benefits: What Happens to Your Surrogacy Coverage After a Layoff Notice A layoff notice is bad timing for any family plan — worse in the middle of a surrogacy journey. A full gestational su...
-- Link: https://dev.to/layoffatlas/warn-act-and-your-surrogacy-benefits-what-happens-to-your-surrogacy-coverage-after-a-layoff-notice-2chj
+- Summary: "How much does it cost to test my app?" is one of the first questions developers ask, and one of the hardest to answer honestly in a single line. Any number quoted without knowing your scope is a guess, and usually a...
+- Link: https://dev.to/testlancer/what-does-app-testing-cost-in-india-a-scoping-guide-for-developers-plus-what-mystery-shopping-1geh
 
 ---
 
-## Why Big Tech Never Updates Legacy UIs: The Enterprise Engineering Rule Even Google Obeys
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Every junior engineer eventually runs into the same wall on an enterprise project: an internal screen that looks straight out of Windows 2000, built with nested tables, raw HTML, and zero responsive design. Your first...
-- Link: https://dev.to/totolis_it/why-big-tech-never-updates-legacy-uis-the-enterprise-engineering-rule-even-google-obeys-31k3
-
----
-
-## Your Dates Are Broken Because of Epoch Time — Here's How to Debug Them Fast
+## Why Decimal shows extra digits after Python decodes a JSON price as a float
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Your app just displayed a birthday as January 20, 1970. Or a payment timestamp landed in 1969. Or two services disagree about an event by exactly 1,000×. Congratulations — you've met the three classic epoch time bugs....
-- Link: https://dev.to/webtoolshub/your-dates-are-broken-because-of-epoch-time-heres-how-to-debug-them-fast-39l3
+- Summary: In Python 3.12.16, json.loads with parse_float=Decimal preserved the JSON price 1795.86 exactly. The price came from prices.values[0] in assets/trade-reviews/EP-0080/case.json . The reconciliation records 1795.86 USDT...
+- Link: https://dev.to/algorover1/why-decimal-shows-extra-digits-after-python-decodes-a-json-price-as-a-float-42jo
+
+---
+
+## Your Business Doesn't Need to Sleep When You Do: Building AI-Powered Business Automation
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Your Business Doesn't Need to Sleep When You Do: Building AI-Powered Business Automation Imagine this. It's 11:47 PM. A potential customer messages your business: "Hi, are you open tomorrow? How much for the full pack...
+- Link: https://dev.to/wetake_fwd/your-business-doesnt-need-to-sleep-when-you-do-building-ai-powered-business-automation-5558
+
+---
+
+## “Improve onboarding” needs an owner, a source, and a way to check it
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Adding a link to an onboarding page looks like a small documentation change. The difficult part may be deciding where that link is allowed to go. The instructions could be outdated. Employees and contractors might fol...
+- Link: https://dev.to/hiroshi_takamura_c851fe71/improve-onboarding-needs-an-owner-a-source-and-a-way-to-check-it-4f5f
 
 ---

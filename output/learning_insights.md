@@ -1,49 +1,76 @@
 # Learning Insights
 
-_Generated on: 2026-11-24 11:46 UTC_
+_Generated on: 2026-11-25 10:40 UTC_
 
-## AI Network Firewalls for Enterprise Security Architecture
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: Enterprise AI traffic is hard to secure because security-relevant information is often inside an otherwise legitimate connection. A developer can send source code to a coding assistant over HTTPS. An
-- Link: https://www.freecodecamp.org/news/ai-network-firewalls-for-enterprise-security-architecture/
-
----
-
-## Best Digital Marketing Agency in Hyderabad | 9+ Years
+## BGGame678 – Colour Trading & Prediction Gaming Platform
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Searching for the best digital marketing agency in Hyderabad can feel overwhelming because every company claims to be number one. The truth is that the best agency is the one that understands your goals, proves its wo...
-- Link: https://dev.to/omnipresentperforman/best-digital-marketing-agency-in-hyderabad-9-years-36pd
+- Summary: Explore BGGame678, an online colour trading and prediction gaming platform designed for users who enjoy interactive digital gaming experiences. The platform features a simple interface, easy login and registration opt...
+- Link: https://dev.to/bggame_678_398be8152802cd/bggame678-colour-trading-prediction-gaming-platform-m3l
 
 ---
 
-## DaisyRose 27B Draws a Python Reading a Book
+## Build an AI Agent From Scratch in Python
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Explore DaisyRose 27B's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-daisyrose-27b/
+- Summary: Learn how the agentic loop works by building an AI agent from scratch in Python, with conversation context and tool calling in about 90 lines of code.
+- Link: https://realpython.com/courses/build-ai-agent-scratch-python/
 
 ---
 
-## How AI Is Reshaping Business Travel: What Companies Need to Know
+## Building High-Converting Company Profile Pages for Niche Job Boards and Directories
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Artificial intelligence has moved from buzzword to everyday tool in business travel. It now helps companies find better fares, predict disruptions and personalize trips for every traveller. For organizations that send...
-- Link: https://dev.to/corporatetravelguide/how-ai-is-reshaping-business-travel-what-companies-need-to-know-d75
+- Summary: When developers and hiring teams evaluate companies on niche job boards, the company profile page often acts as the real landing page—not the corporate homepage. Whether someone discovers an organization through a dev...
+- Link: https://dev.to/william345231/building-high-converting-company-profile-pages-for-niche-job-boards-and-directories-leg
 
 ---
 
-## How to Generate Synthetic Healthcare Data Using Synthea: A Hands On Tutorial
+## Conditional Statements in Python
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Master Python conditional statements: write if, elif, and else blocks, and build the complex decision-making logic your programs need.
+- Link: https://realpython.com/python-conditional-statements/
+
+---
+
+## got tired of bloated productivity apps, so I built two minimalist ones instead
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Have you ever downloaded a simple habit tracker or step counter, opened it up, and immediately got hit with a forced account creation screen, a 12-step onboarding quiz, and a $14.99/month subscription paywall before y...
+- Link: https://dev.to/itech_accesories_b86af4c5/got-tired-of-bloated-productivity-apps-so-i-built-two-minimalist-ones-instead-3o3g
+
+---
+
+## How Can a Pallet Scanner Reduce Shipping Dock Bottlenecks?
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Outbound delays do not always begin at the dock door. They can start a few yards earlier when a forklift reaches a verification point and waits while dimensions, weight, and shipment data are collected. That delay may...
+- Link: https://dev.to/mariam_bd51121341825a2528/how-can-a-pallet-scanner-reduce-shipping-dock-bottlenecks-3i9o
+
+---
+
+## How Phishing Attacks Actually Work (And How Developers Can Spot Them)
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Healthcare generates huge amounts of data every day, from patient visits and lab results to diagnoses, medications, and medical imaging. For developers and data engineers building healthcare applicati
-- Link: https://www.freecodecamp.org/news/how-to-generate-synthetic-healthcare-data-using-synthea-a-hands-on-tutorial/
+- Summary: Phishing attacks are getting harder to recognize. And no, it isn't just because hackers have become better at hiding spelling mistakes. Some phishing emails now look almost identical to genuine securi
+- Link: https://www.freecodecamp.org/news/how-phishing-attacks-work/
+
+---
+
+## How to Set Up and Customize Light and Dark Mode in shadcn with Next.js
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: If you've created a Next.js project with shadcn/ui recently, there's a good chance dark mode is already set up. I noticed this while looking through a fresh project. I opened app/globals.css expecting
+- Link: https://www.freecodecamp.org/news/how-to-set-up-and-customize-light-and-dark-mode-in-shadcn-with-next-js/
 
 ---
 
@@ -65,119 +92,92 @@ _Generated on: 2026-11-24 11:46 UTC_
 
 ---
 
-## How to Write an API Migration Guide (With a Real Example)
+## How to Verify Long-Running Claude Code Sessions
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Part 3 of 3 in the series “Rethinking Claude Code Best Practices.” When a developer watches every step, they receive continuous evidence about what the coding agent is doing. When the agent works independently for hou...
+- Link: https://dev.to/wadizaatour/how-to-verify-long-running-claude-code-sessions-37oh
+
+---
+
+## I Built WalkingCalorieCalc.com to Make Walking and Fitness Calculations Easier
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Hi everyone! I'm Zain Taseer, a web developer passionate about technology, digital projects, and building useful online tools. Recently, I created WalkingCalorieCalc a free online platform designed to help people unde...
+- Link: https://dev.to/zain_taseer_dev/i-built-walkingcaloriecalccom-to-make-walking-and-fitness-calculations-easier-4la3
+
+---
+
+## K-Means Clustering in Python: A Practical Guide
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Learn how to perform k-means clustering in Python with scikit-learn, choose the right number of clusters, and build an end-to-end clustering pipeline.
+- Link: https://realpython.com/k-means-clustering-python/
+
+---
+
+## Pass the Microsoft Azure AI Fundamentals (AI-901) Certification Exam
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: When an API releases a new version, every developer using it has to update their code. If they only get a changelog entry that says “pagination now uses cursors,” then they’ll have to figure things ou
-- Link: https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/
+- Summary: The Microsoft Azure AI Fundamentals (AI-901) is an entry-level certification that covers AI concepts, Microsoft Foundry, and a set of Azure AI services. It replaces the AI-900, and its exam guide is o
+- Link: https://www.freecodecamp.org/news/pass-the-microsoft-azure-ai-fundamentals-ai-901-certification-exam/
 
 ---
 
-## Inkling 2 Mini Draws a Python Reading a Book
+## Performance Marketing Agency San Diego: How Analytix9 Engineers Profitable Revenue Scale
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Explore Inkling 2 Mini's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions.
-- Link: https://realpython.com/ai-benchmark-inkling-2-mini/
-
----
-
-## LangChain Tutorial: From Prompts to RAG and AI Agents
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn LangChain in Python step by step. This hands-on LangChain tutorial covers chat models, prompt templates, LCEL chains, RAG, and tool-calling agents.
-- Link: https://realpython.com/langchain-tutorial/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Performance Marketing Agency San Diego: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for performance marketing agency san diego is one of the highest-use growth decisions a business...
+- Link: https://dev.to/a9leads_1f0037dca685ef4af/performance-marketing-agency-san-diego-how-analytix9-engineers-profitable-revenue-scale-4179
 
 ---
 
-## Quiz: LangChain Tutorial: From Prompts to RAG and AI Agents
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Check your grasp of LangChain in Python, from chat messages and prompt templates to LCEL chains, RAG retrieval, and tool-calling agents.
-- Link: https://realpython.com/quizzes/langchain-tutorial/
-
----
-
-## SEO Services in Hyderabad | Rank Higher, Get Leads
+## Private Colleges in Haryana – 2026 Guide
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Most customers begin their buying journey on Google, which makes SEO services in Hyderabad one of the most reliable ways to attract visitors who are already looking for what you sell. Unlike ads, SEO keeps working lon...
-- Link: https://dev.to/omnipresentperforman/seo-services-in-hyderabad-rank-higher-get-leads-52fp
+- Summary: Haryana is home to several reputed private colleges and universities offering undergraduate and postgraduate programs in Engineering, Management, Computer Applications, Pharmacy, Law, Medical Sciences and other fields...
+- Link: https://dev.to/iitmsonipat/private-colleges-in-haryana-2026-guide-41ib
 
 ---
 
-## Single Coding Agent vs Cross-Model Review (Codex + Claude): A 5-Task Blind Experiment
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Across 5 blind coding tasks on Node v24.22.1 with zero external dependencies, a single Codex agent scored 22/22 on small scoped fixes in under 80 seconds, while cross-model read-only review ( gpt-6.2-astra coding + cl...
-- Link: https://dev.to/songsu_ze/single-coding-agent-vs-cross-model-review-codex-claude-a-5-task-blind-experiment-3c2
-
----
-
-## Top Python Game Engines
+## Quiz: Plotting Declarative Charts With Altair
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Explore the top Python game engines, code a basic example and a full game in each, and learn the strengths and weaknesses of every engine.
-- Link: https://realpython.com/top-python-game-engines/
+- Summary: Test your knowledge of Altair, from marks and encoding channels to linked interactive charts and HTML export, in this quick Python quiz.
+- Link: https://realpython.com/quizzes/plotting-declarative-charts-with-altair/
 
 ---
 
-## UAE Golden Visa for Professionals vs Golden Visa with Mortgaged Property: Which Route Fits, and What to Check Before...
+## Quiz: Python Conditional Statements
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of Python conditional statements. You'll practice using if, elif, and else to control the flow of your programs.
+- Link: https://realpython.com/quizzes/python-conditional-statements/
+
+---
+
+## What to Expect from a CPMAI Certification Course Online
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Most people who search for the UAE Golden Visa are not investors with suitcases of cash. They are salaried managers, doctors, engineers and founders who have lived in the UAE for years and want residency that doesn't...
-- Link: https://dev.to/ajmal_maliyekkal/uae-golden-visa-for-professionals-vs-golden-visa-with-mortgaged-property-which-route-fits-and-3fof
+- Summary: Enrolling in an online PMI Certified Professional in Managing AI (PMI-CPMAI) certification course gives you a structured, vendor-neutral framework to lead AI projects from initial problem framing to production operati...
+- Link: https://dev.to/keerthana_v_6111ef241b10c/what-to-expect-from-a-cpmai-certification-course-online-52f3
 
 ---
 
-## Variations of interaction Shaders
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: In this episode of my UE5 Trial & Error Series, I’m experimenting with interaction shader variations, exploring different ways to highlight objects and make them stand out within the environment. From subtle effects t...
-- Link: https://dev.to/startupcafe/variations-of-interaction-shaders-5f20
-
----
-
-## What Does App Testing Cost in India? A Scoping Guide for Developers, Plus What Mystery Shopping Jobs Involve for Testers
+## Zero-Auth Public JSON APIs for Greenhouse, Ashby & Lever Job Boards (+ Free Live Tester)
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: "How much does it cost to test my app?" is one of the first questions developers ask, and one of the hardest to answer honestly in a single line. Any number quoted without knowing your scope is a guess, and usually a...
-- Link: https://dev.to/testlancer/what-does-app-testing-cost-in-india-a-scoping-guide-for-developers-plus-what-mystery-shopping-1geh
-
----
-
-## Why Decimal shows extra digits after Python decodes a JSON price as a float
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: In Python 3.12.16, json.loads with parse_float=Decimal preserved the JSON price 1795.86 exactly. The price came from prices.values[0] in assets/trade-reviews/EP-0080/case.json . The reconciliation records 1795.86 USDT...
-- Link: https://dev.to/algorover1/why-decimal-shows-extra-digits-after-python-decodes-a-json-price-as-a-float-42jo
-
----
-
-## Your Business Doesn't Need to Sleep When You Do: Building AI-Powered Business Automation
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Your Business Doesn't Need to Sleep When You Do: Building AI-Powered Business Automation Imagine this. It's 11:47 PM. A potential customer messages your business: "Hi, are you open tomorrow? How much for the full pack...
-- Link: https://dev.to/wetake_fwd/your-business-doesnt-need-to-sleep-when-you-do-building-ai-powered-business-automation-5558
-
----
-
-## “Improve onboarding” needs an owner, a source, and a way to check it
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Adding a link to an onboarding page looks like a small documentation change. The difficult part may be deciding where that link is allowed to go. The instructions could be outdated. Employees and contractors might fol...
-- Link: https://dev.to/hiroshi_takamura_c851fe71/improve-onboarding-needs-an-owner-a-source-and-a-way-to-check-it-4f5f
+- Summary: Most job-board scrapers waste proxies and headless browsers scraping aggregator sites packed with stale ghost jobs. Meanwhile, the three biggest tech-company ATS platforms ( Greenhouse , Ashby , and Lever ) expose off...
+- Link: https://dev.to/wonderpick/zero-auth-public-json-apis-for-greenhouse-ashby-lever-job-boards-free-live-tester-4c77
 
 ---

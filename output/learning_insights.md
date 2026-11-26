@@ -1,31 +1,13 @@
 # Learning Insights
 
-_Generated on: 2026-11-25 10:40 UTC_
+_Generated on: 2026-11-26 10:10 UTC_
 
-## BGGame678 – Colour Trading & Prediction Gaming Platform
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Explore BGGame678, an online colour trading and prediction gaming platform designed for users who enjoy interactive digital gaming experiences. The platform features a simple interface, easy login and registration opt...
-- Link: https://dev.to/bggame_678_398be8152802cd/bggame678-colour-trading-prediction-gaming-platform-m3l
-
----
-
-## Build an AI Agent From Scratch in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Learn how the agentic loop works by building an AI agent from scratch in Python, with conversation context and tool calling in about 90 lines of code.
-- Link: https://realpython.com/courses/build-ai-agent-scratch-python/
-
----
-
-## Building High-Converting Company Profile Pages for Niche Job Boards and Directories
+## 1.类的序列化和写入文件
 
 - Source: DEV Community
-- Category: Career Guidance
-- Summary: When developers and hiring teams evaluate companies on niche job boards, the company profile page often acts as the real landing page—not the corporate homepage. Whether someone discovers an organization through a dev...
-- Link: https://dev.to/william345231/building-high-converting-company-profile-pages-for-niche-job-boards-and-directories-leg
+- Category: Programming Tips
+- Summary: 这是一个比较常用的需求，类的数据需要保存在硬盘上。然后又能从硬盘上读取。 这其中涉及到两个功能，类的序列化和文件读写。 一、先定义一个自定义类 假设我们有一个 Person 类： #include <iostream> #include <fstream> #include <string> using namespace std ; class Person { public : int age ; double height...
+- Link: https://dev.to/bitcoinman/1lei-de-xu-lie-hua-he-xie-ru-wen-jian-2lg7
 
 ---
 
@@ -38,21 +20,30 @@ _Generated on: 2026-11-25 10:40 UTC_
 
 ---
 
-## got tired of bloated productivity apps, so I built two minimalist ones instead
+## Data Engineer Jobs: BLS Says Architects Grow 9%, DBAs Flat
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Have you ever downloaded a simple habit tracker or step counter, opened it up, and immediately got hit with a forced account creation screen, a 12-step onboarding quiz, and a $14.99/month subscription paywall before y...
-- Link: https://dev.to/itech_accesories_b86af4c5/got-tired-of-bloated-productivity-apps-so-i-built-two-minimalist-ones-instead-3o3g
+- Category: Career Guidance
+- Summary: The first time I watched a company move its production database onto a managed cloud service, about half the runbook I'd written went straight in the trash. Backups, patching, failover; somebody else's problem now. Th...
+- Link: https://dev.to/datadriven/data-engineer-jobs-bls-says-architects-grow-9-dbas-flat-1pho
 
 ---
 
-## How Can a Pallet Scanner Reduce Shipping Dock Bottlenecks?
+## Etsy listing #129 expired and dropped out of the catalogue
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Outbound delays do not always begin at the dock door. They can start a few yards earlier when a forklift reaches a verification point and waits while dimensions, weight, and shipment data are collected. That delay may...
-- Link: https://dev.to/mariam_bd51121341825a2528/how-can-a-pallet-scanner-reduce-shipping-dock-bottlenecks-3i9o
+- Summary: On 2026-11-13 at 04:46 our renewal check raised a warning alert, listing_renewal, titled "Odnowienia: wygasło 1". One listing had expired on Etsy since the previous morning and had come off our catalogue: #129, Ship-R...
+- Link: https://dev.to/robswierk/etsy-listing-129-expired-and-dropped-out-of-the-catalogue-cn5
+
+---
+
+## Git Merge vs Rebase: Key Differences, Examples and When to Use Each
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Git merge vs rebase comes down to one thing: the history you want to keep. Both git merge and git rebase take the work from one branch and integrate it into another, and both produce the same final code. Merge joins t...
+- Link: https://dev.to/dipak_suryawanshi_d17/git-merge-vs-rebase-key-differences-examples-and-when-to-use-each-4jm9
 
 ---
 
@@ -65,6 +56,15 @@ _Generated on: 2026-11-25 10:40 UTC_
 
 ---
 
+## How to Deploy to Amazon S3 Using GitLab CI/CD and AWS OIDC Without AWS Access Keys
+
+- Source: freeCodeCamp News
+- Category: Learning Article
+- Summary: When you're learning AWS, Amazon S3 is one of the services you're likely to come across early. Storage is one of the core components of cloud computing, and S3 makes it easy to store and manage files
+- Link: https://www.freecodecamp.org/news/how-to-deploy-to-amazon-s3-using-gitlab-ci-cd-and-aws-oidc-without-aws-access-keys/
+
+---
+
 ## How to Set Up and Customize Light and Dark Mode in shadcn with Next.js
 
 - Source: freeCodeCamp News
@@ -74,48 +74,66 @@ _Generated on: 2026-11-25 10:40 UTC_
 
 ---
 
-## How to Standardize MLOps Reporting and Evaluation using an Open Source Python Package
+## How to use a real-time AI assistant in a technical interview without sounding scripted
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: A real-time interview assistant listens to the call, recognises the question and shows you an answer while the interviewer is still talking. That sounds like it should make interviews easy. In practice it helps a lot...
+- Link: https://dev.to/theinterviewcopilot/how-to-use-a-real-time-ai-assistant-in-a-technical-interview-without-sounding-scripted-27pf
+
+---
+
+## How Wearables Can Turn Your Body Into a Dashboard
 
 - Source: freeCodeCamp News
 - Category: Learning Article
-- Summary: Working on machine learning projects in production can be a bit challenging. If you've built models in real-world environments, you know how quickly things get complicated once you step outside the cl
-- Link: https://www.freecodecamp.org/news/how-to-standardize-mlops-reporting-and-evaluation-using-an-open-source-python-package/
+- Summary: Have you ever found yourself waking up feeling perfectly normal and then being told by your wearable app that you've slept poorly? And perhaps not only that, but somehow finding yourself starting to f
+- Link: https://www.freecodecamp.org/news/how-wearables-can-turn-your-body-into-a-dashboard/
 
 ---
 
-## How to Use the GitHub CLI with GitHub Actions
-
-- Source: freeCodeCamp News
-- Category: Learning Article
-- Summary: GitHub CLI is a command-line tool that lets you manage GitHub's web features right in your local terminal. You can manage repositories, issues, pull requests, and automation workflows without needing
-- Link: https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/
-
----
-
-## How to Verify Long-Running Claude Code Sessions
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Part 3 of 3 in the series “Rethinking Claude Code Best Practices.” When a developer watches every step, they receive continuous evidence about what the coding agent is doing. When the agent works independently for hou...
-- Link: https://dev.to/wadizaatour/how-to-verify-long-running-claude-code-sessions-37oh
-
----
-
-## I Built WalkingCalorieCalc.com to Make Walking and Fitness Calculations Easier
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: Hi everyone! I'm Zain Taseer, a web developer passionate about technology, digital projects, and building useful online tools. Recently, I created WalkingCalorieCalc a free online platform designed to help people unde...
-- Link: https://dev.to/zain_taseer_dev/i-built-walkingcaloriecalccom-to-make-walking-and-fitness-calculations-easier-4la3
-
----
-
-## K-Means Clustering in Python: A Practical Guide
+## LLM Evaluation in Python: Build an Eval Harness From Scratch
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Learn how to perform k-means clustering in Python with scikit-learn, choose the right number of clusters, and build an end-to-end clustering pipeline.
-- Link: https://realpython.com/k-means-clustering-python/
+- Summary: Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels.
+- Link: https://realpython.com/llm-evaluation/
+
+---
+
+## Mission:Employable - Field Notes From the Junior Dev Job Market
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The briefing I got into tech because of spy movies. Not the explosions. The scenes where someone is handed an impossible problem, a locked door, a dead drop, a system nobody is supposed to get into, and works their wa...
+- Link: https://dev.to/rykelly/missionemployable-field-notes-from-the-junior-dev-job-market-1eg5
+
+---
+
+## My Mentor Is an External Contractor?! Welcome to Enterprise IT and Multi-Tier Subcontracting
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Landing an entry-level tech job right now is brutal enough that moving across the world starts looking like a reasonable career strategy. So when Alex finally makes it to a Japanese IT firm—anime dreams intact—he’s re...
+- Link: https://dev.to/totolis_it/my-mentor-is-an-external-contractor-welcome-to-enterprise-it-and-multi-tier-subcontracting-550n
+
+---
+
+## Nemotron 3.5 Parse: Open Datasets, Fine-Tuning and Faster Inference Explained
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: NVIDIA Just Open-Sourced the Recipe Behind Its Document Parser — and the Model Is the Least Interesting Part NVIDIA didn't drop a new frontier model. It dropped something more useful: the training data, the fine-tunin...
+- Link: https://dev.to/kami_butt_69b922ade8de012/nemotron-35-parse-open-datasets-fine-tuning-and-faster-inference-explained-43d0
+
+---
+
+## pandas Project: Make a Gradebook With Python & pandas
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Build a pandas project that calculates class grades from several data sources. Load, merge, and save data, then plot summary statistics with pandas.
+- Link: https://realpython.com/pandas-project-gradebook/
 
 ---
 
@@ -128,56 +146,38 @@ _Generated on: 2026-11-25 10:40 UTC_
 
 ---
 
-## Performance Marketing Agency San Diego: How Analytix9 Engineers Profitable Revenue Scale
+## Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your understanding of LLM evaluation in Python, from rubrics and code checks to LLM judges, calibration, and release gates.
+- Link: https://realpython.com/quizzes/llm-evaluation/
+
+---
+
+## The Log Says Alive. The File Says Dead.
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Performance Marketing Agency San Diego: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for performance marketing agency san diego is one of the highest-use growth decisions a business...
-- Link: https://dev.to/a9leads_1f0037dca685ef4af/performance-marketing-agency-san-diego-how-analytix9-engineers-profitable-revenue-scale-4179
+- Summary: The pid existed. The process was dead. That is the whole run, and it took me five minutes of checking three signals to learn which one of those sentences was true. heinrichneb lost 38 minutes to the same confusion. Hi...
+- Link: https://dev.to/aheadkit/the-log-says-alive-the-file-says-dead-297f
 
 ---
 
-## Private Colleges in Haryana – 2026 Guide
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Haryana is home to several reputed private colleges and universities offering undergraduate and postgraduate programs in Engineering, Management, Computer Applications, Pharmacy, Law, Medical Sciences and other fields...
-- Link: https://dev.to/iitmsonipat/private-colleges-in-haryana-2026-guide-41ib
-
----
-
-## Quiz: Plotting Declarative Charts With Altair
+## The No AI Slop Manifesto: A Pledge to Own What Agents Ship
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: Test your knowledge of Altair, from marks and encoding channels to linked interactive charts and HTML export, in this quick Python quiz.
-- Link: https://realpython.com/quizzes/plotting-declarative-charts-with-altair/
+- Summary: The No AI Slop Manifesto explained: what the slop manifesto says, why it appeared now, and what its beliefs mean for Python developers using AI.
+- Link: https://realpython.com/no-ai-slop-manifesto/
 
 ---
 
-## Quiz: Python Conditional Statements
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of Python conditional statements. You'll practice using if, elif, and else to control the flow of your programs.
-- Link: https://realpython.com/quizzes/python-conditional-statements/
-
----
-
-## What to Expect from a CPMAI Certification Course Online
+## WARN Act and Your Divorce — What Happens to Support and Benefits After a Layoff Notice
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: Enrolling in an online PMI Certified Professional in Managing AI (PMI-CPMAI) certification course gives you a structured, vendor-neutral framework to lead AI projects from initial problem framing to production operati...
-- Link: https://dev.to/keerthana_v_6111ef241b10c/what-to-expect-from-a-cpmai-certification-course-online-52f3
-
----
-
-## Zero-Auth Public JSON APIs for Greenhouse, Ashby & Lever Job Boards (+ Free Live Tester)
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Most job-board scrapers waste proxies and headless browsers scraping aggregator sites packed with stale ghost jobs. Meanwhile, the three biggest tech-company ATS platforms ( Greenhouse , Ashby , and Lever ) expose off...
-- Link: https://dev.to/wonderpick/zero-auth-public-json-apis-for-greenhouse-ashby-lever-job-boards-free-live-tester-4c77
+- Summary: WARN Act and Your Divorce — What Happens to Support and Benefits After a Layoff Notice A WARN notice is bad timing at the best of times. When it arrives in the middle of a divorce — or shortly after one is finalized —...
+- Link: https://dev.to/layoffatlas/warn-act-and-your-divorce-what-happens-to-support-and-benefits-after-a-layoff-notice-3k01
 
 ---

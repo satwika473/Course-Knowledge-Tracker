@@ -1,49 +1,58 @@
 # Learning Insights
 
-_Generated on: 2026-11-26 10:10 UTC_
+_Generated on: 2026-11-27 10:16 UTC_
 
-## 1.类的序列化和写入文件
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: 这是一个比较常用的需求，类的数据需要保存在硬盘上。然后又能从硬盘上读取。 这其中涉及到两个功能，类的序列化和文件读写。 一、先定义一个自定义类 假设我们有一个 Person 类： #include <iostream> #include <fstream> #include <string> using namespace std ; class Person { public : int age ; double height...
-- Link: https://dev.to/bitcoinman/1lei-de-xu-lie-hua-he-xie-ru-wen-jian-2lg7
-
----
-
-## Conditional Statements in Python
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Master Python conditional statements: write if, elif, and else blocks, and build the complex decision-making logic your programs need.
-- Link: https://realpython.com/python-conditional-statements/
-
----
-
-## Data Engineer Jobs: BLS Says Architects Grow 9%, DBAs Flat
+## A Script That Picks Live-Online or Campus Training for You
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The first time I watched a company move its production database onto a managed cloud service, about half the runbook I'd written went straight in the trash. Backups, patching, failover; somebody else's problem now. Th...
-- Link: https://dev.to/datadriven/data-engineer-jobs-bls-says-architects-grow-9-dbas-flat-1pho
+- Summary: "It depends on your situation" is true and also not very useful the night before you have to actually commit to one format. Here's a small script that turns "it depends" into an actual number, using your own commute,...
+- Link: https://dev.to/usman_sherdil_582e626a7db/a-script-that-picks-live-online-or-campus-training-for-you-211g
 
 ---
 
-## Etsy listing #129 expired and dropped out of the catalogue
+## B2b Digital Marketing Agency In Maryland: How Analytix9 Engineers Profitable Revenue Scale
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: On 2026-11-13 at 04:46 our renewal check raised a warning alert, listing_renewal, titled "Odnowienia: wygasło 1". One listing had expired on Etsy since the previous morning and had come off our catalogue: #129, Ship-R...
-- Link: https://dev.to/robswierk/etsy-listing-129-expired-and-dropped-out-of-the-catalogue-cn5
+- Summary: B2b Digital Marketing Agency In Maryland: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for b2b digital marketing agency in maryland is one of the highest-use growth decisions a busin...
+- Link: https://dev.to/a9leads_1f0037dca685ef4af/b2b-digital-marketing-agency-in-maryland-how-analytix9-engineers-profitable-revenue-scale-30ef
 
 ---
 
-## Git Merge vs Rebase: Key Differences, Examples and When to Use Each
+## Best IT Certifications in 2026: How to Choose by Role, Not by Ranking
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: If you can only pick one direction in 2026, pick AI, cloud or security — in that order of hiring demand — and pick a certification that proves you can do the work, not just pass a vocabulary test. That order is not a...
+- Link: https://dev.to/iictp/best-it-certifications-in-2026-how-to-choose-by-role-not-by-ranking-24kg
+
+---
+
+## Claude Sonnet: 117 calls in 10 days, 3.3 second median, one at 59.5
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: Git merge vs rebase comes down to one thing: the history you want to keep. Both git merge and git rebase take the work from one branch and integrate it into another, and both produce the same final code. Merge joins t...
-- Link: https://dev.to/dipak_suryawanshi_d17/git-merge-vs-rebase-key-differences-examples-and-when-to-use-each-4jm9
+- Summary: We called Claude, specifically claude-sonnet-5-5 through the anthropic service, 117 times between 2026-11-13 and 2026-11-23. Those calls covered 14 different jobs, from blog and note rewrites to currency extraction an...
+- Link: https://dev.to/robswierk/claude-sonnet-117-calls-in-10-days-33-second-median-one-at-595-26bb
+
+---
+
+## Debugging Google OAuth in Desktop Apps: A Practical Guide to PKCE, Callbacks, and Token Errors
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: When a desktop application tells you that Google OAuth has failed, what exactly has failed? Did the browser reach the callback listener? Did the application reject the authorization response? Did Google refuse to exch...
+- Link: https://dev.to/lorqai/debugging-google-oauth-in-desktop-apps-a-practical-guide-to-pkce-callbacks-and-token-errors-1gl
+
+---
+
+## Global Inspira 2 BHK Grande: Spacious Planning With Elegant Design Touches
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: The 2 BHK Grande is described as spacious with elegant design touches. It may suit couples who want a home office corner or space for visiting guests. Visit Now - https://globalinspira-hinjewadi.com/ Company Name - Bu...
+- Link: https://dev.to/buyindia_homes23_940cad12/global-inspira-2-bhk-grande-spacious-planning-with-elegant-design-touches-3ak0
 
 ---
 
@@ -74,15 +83,6 @@ _Generated on: 2026-11-26 10:10 UTC_
 
 ---
 
-## How to use a real-time AI assistant in a technical interview without sounding scripted
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: A real-time interview assistant listens to the call, recognises the question and shows you an answer while the interviewer is still talking. That sounds like it should make interviews easy. In practice it helps a lot...
-- Link: https://dev.to/theinterviewcopilot/how-to-use-a-real-time-ai-assistant-in-a-technical-interview-without-sounding-scripted-27pf
-
----
-
 ## How Wearables Can Turn Your Body Into a Dashboard
 
 - Source: freeCodeCamp News
@@ -98,33 +98,6 @@ _Generated on: 2026-11-26 10:10 UTC_
 - Category: Developer Blog
 - Summary: Build an LLM evaluation harness in Python that scores model outputs with code-based checks and an LLM judge you calibrate against human labels.
 - Link: https://realpython.com/llm-evaluation/
-
----
-
-## Mission:Employable - Field Notes From the Junior Dev Job Market
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: The briefing I got into tech because of spy movies. Not the explosions. The scenes where someone is handed an impossible problem, a locked door, a dead drop, a system nobody is supposed to get into, and works their wa...
-- Link: https://dev.to/rykelly/missionemployable-field-notes-from-the-junior-dev-job-market-1eg5
-
----
-
-## My Mentor Is an External Contractor?! Welcome to Enterprise IT and Multi-Tier Subcontracting
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Landing an entry-level tech job right now is brutal enough that moving across the world starts looking like a reasonable career strategy. So when Alex finally makes it to a Japanese IT firm—anime dreams intact—he’s re...
-- Link: https://dev.to/totolis_it/my-mentor-is-an-external-contractor-welcome-to-enterprise-it-and-multi-tier-subcontracting-550n
-
----
-
-## Nemotron 3.5 Parse: Open Datasets, Fine-Tuning and Faster Inference Explained
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: NVIDIA Just Open-Sourced the Recipe Behind Its Document Parser — and the Model Is the Least Interesting Part NVIDIA didn't drop a new frontier model. It dropped something more useful: the training data, the fine-tunin...
-- Link: https://dev.to/kami_butt_69b922ade8de012/nemotron-35-parse-open-datasets-fine-tuning-and-faster-inference-explained-43d0
 
 ---
 
@@ -155,12 +128,21 @@ _Generated on: 2026-11-26 10:10 UTC_
 
 ---
 
-## The Log Says Alive. The File Says Dead.
+## Quiz: Python and TOML: Read, Write, and Configure with tomllib
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Test your knowledge of TOML in Python. Review the syntax for tables and arrays, and read and write config files with tomllib, tomli_w, and tomlkit.
+- Link: https://realpython.com/quizzes/python-toml/
+
+---
+
+## The Friday 5pm Deploy Rule Applies to Your Whole Life
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: The pid existed. The process was dead. That is the whole run, and it took me five minutes of checking three signals to learn which one of those sentences was true. heinrichneb lost 38 minutes to the same confusion. Hi...
-- Link: https://dev.to/aheadkit/the-log-says-alive-the-file-says-dead-297f
+- Category: Career Guidance
+- Summary: Every development team I've worked with has some version of the same rule: don't deploy on Friday afternoon. It's not written in any handbook. Nobody signs anything. But everyone knows it, usually because someone lear...
+- Link: https://dev.to/sergheipogor/the-friday-5pm-deploy-rule-applies-to-your-whole-life-1c97
 
 ---
 
@@ -173,11 +155,29 @@ _Generated on: 2026-11-26 10:10 UTC_
 
 ---
 
-## WARN Act and Your Divorce — What Happens to Support and Benefits After a Layoff Notice
+## Three Years of Shipping Production AI: What I Built, What Got Hard, What I Learned
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: WARN Act and Your Divorce — What Happens to Support and Benefits After a Layoff Notice A WARN notice is bad timing at the best of times. When it arrives in the middle of a divorce — or shortly after one is finalized —...
-- Link: https://dev.to/layoffatlas/warn-act-and-your-divorce-what-happens-to-support-and-benefits-after-a-layoff-notice-3k01
+- Summary: I have spent about three years building AI systems that real people depend on, and I have never written about it as a whole. This is that post: what I worked on, what went wrong or got hard, and what I would tell a te...
+- Link: https://dev.to/abuzar18/three-years-of-shipping-production-ai-what-i-built-what-got-hard-what-i-learned-47g0
+
+---
+
+## Time to solve DSA in Bhojpuri lol
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: I Built a Programming Language in Bhojpuri from Scratch Using Go CoderZ90 CoderZ90 CoderZ90 Follow Nov 27 I Built a Programming Language in Bhojpuri from Scratch Using Go # computerscience # go # opensource # programm...
+- Link: https://dev.to/official_fire/-1040
+
+---
+
+## Why Soil Moisture Monitoring Matters for Long-Term Forest Health
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Forests are shaped by more than the trees we see above the ground. Under the canopy, soil moisture affects how plants grow, how nutrients become available, how water moves and how ecosystems respond to shifts in weath...
+- Link: https://dev.to/abhilash_abhi_5a1e33390c3/why-soil-moisture-monitoring-matters-for-long-term-forest-health-26p3
 
 ---

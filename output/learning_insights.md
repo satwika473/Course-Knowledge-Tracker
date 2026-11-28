@@ -1,58 +1,40 @@
 # Learning Insights
 
-_Generated on: 2026-11-27 10:16 UTC_
+_Generated on: 2026-11-28 09:35 UTC_
 
-## A Script That Picks Live-Online or Campus Training for You
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: "It depends on your situation" is true and also not very useful the night before you have to actually commit to one format. Here's a small script that turns "it depends" into an actual number, using your own commute,...
-- Link: https://dev.to/usman_sherdil_582e626a7db/a-script-that-picks-live-online-or-campus-training-for-you-211g
-
----
-
-## B2b Digital Marketing Agency In Maryland: How Analytix9 Engineers Profitable Revenue Scale
+## A Practical Markdown & Obsidian Setup for Software Engineers (ADRs, Bug Logs, and Clean Git Sync)
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: B2b Digital Marketing Agency In Maryland: How Analytix9 Engineers Profitable Revenue Scale Finding an exceptional partner for b2b digital marketing agency in maryland is one of the highest-use growth decisions a busin...
-- Link: https://dev.to/a9leads_1f0037dca685ef4af/b2b-digital-marketing-agency-in-maryland-how-analytix9-engineers-profitable-revenue-scale-30ef
+- Summary: Most engineering knowledge bases fail for the exact same reason: they mix fragile workspace state with raw notes, rely on proprietary cloud exports, or dump everything into an unsearchable scratchpad. When your notes...
+- Link: https://dev.to/larkandlever/a-practical-markdown-obsidian-setup-for-software-engineers-adrs-bug-logs-and-clean-git-sync-567i
 
 ---
 
-## Best IT Certifications in 2026: How to Choose by Role, Not by Ranking
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: If you can only pick one direction in 2026, pick AI, cloud or security — in that order of hiring demand — and pick a certification that proves you can do the work, not just pass a vocabulary test. That order is not a...
-- Link: https://dev.to/iictp/best-it-certifications-in-2026-how-to-choose-by-role-not-by-ranking-24kg
-
----
-
-## Claude Sonnet: 117 calls in 10 days, 3.3 second median, one at 59.5
+## Building a Lightweight Markdown Table Formatter SDK in Python
 
 - Source: DEV Community
 - Category: Programming Tips
-- Summary: We called Claude, specifically claude-sonnet-5-5 through the anthropic service, 117 times between 2026-11-13 and 2026-11-23. Those calls covered 14 different jobs, from blog and note rewrites to currency extraction an...
-- Link: https://dev.to/robswierk/claude-sonnet-117-calls-in-10-days-33-second-median-one-at-595-26bb
+- Summary: Building a Robust Markdown Table Formatter in Python When generating markdown documentation programmatically, formatting clean tables with consistent alignment ( left , right , center ) is often a repetitive and error...
+- Link: https://dev.to/bi_quang_f7db903e86c1505/building-a-lightweight-markdown-table-formatter-sdk-in-python-4dog
 
 ---
 
-## Debugging Google OAuth in Desktop Apps: A Practical Guide to PKCE, Callbacks, and Token Errors
-
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: When a desktop application tells you that Google OAuth has failed, what exactly has failed? Did the browser reach the callback listener? Did the application reject the authorization response? Did Google refuse to exch...
-- Link: https://dev.to/lorqai/debugging-google-oauth-in-desktop-apps-a-practical-guide-to-pkce-callbacks-and-token-errors-1gl
-
----
-
-## Global Inspira 2 BHK Grande: Spacious Planning With Elegant Design Touches
+## Digital Marketing Agency in Chennai: Grow Your Business Online with MS Digital Media
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: The 2 BHK Grande is described as spacious with elegant design touches. It may suit couples who want a home office corner or space for visiting guests. Visit Now - https://globalinspira-hinjewadi.com/ Company Name - Bu...
-- Link: https://dev.to/buyindia_homes23_940cad12/global-inspira-2-bhk-grande-spacious-planning-with-elegant-design-touches-3ak0
+- Summary: As a digital marketing agency in Chennai , we work with businesses to improve their visibility across search engines, social media, and online advertising platforms. Whether you are building a new brand or looking to...
+- Link: https://dev.to/msdm_seo_403c68b6b70f4e2c/digital-marketing-agency-in-chennai-grow-your-business-online-with-ms-digital-media-33h0
+
+---
+
+## Google Sets a Deadline for AI Agents Working in Gmail
+
+- Source: Real Python
+- Category: Developer Blog
+- Summary: Real Python's weekly AI news for November 21–27, 2026, explained in plain language: Workspace Agent Rules, Claude Skills, and Stolen Prompts.
+- Link: https://realpython.com/ai-news-weekly-2026-11-27/
 
 ---
 
@@ -92,6 +74,24 @@ _Generated on: 2026-11-27 10:16 UTC_
 
 ---
 
+## HTTP Basics: Read Every Line of curl -v
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Series: HTTP lecture 1/6 (beginner). For new developers who use APIs every day but have never looked at the raw messages. By the end you will start a web server in one command, read every line of curl -v , and know wh...
+- Link: https://dev.to/tlaboratory/http-basics-read-every-line-of-curl-v-573f
+
+---
+
+## I spent November in hackathons. One answer is still out.
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: Today is 28 November in Manila. Nestlé Vietnam came back: we didn't get it. One result is still out, from UGREEN. I am writing this anyway, before I know. I am 57. I work from Manila, alone, with a team of AI agents t...
+- Link: https://dev.to/pinoycoach/i-spent-november-in-hackathons-one-answer-is-still-out-58io
+
+---
+
 ## LLM Evaluation in Python: Build an Eval Harness From Scratch
 
 - Source: Real Python
@@ -101,12 +101,12 @@ _Generated on: 2026-11-27 10:16 UTC_
 
 ---
 
-## pandas Project: Make a Gradebook With Python & pandas
+## NodFirst: make your AI coding agent wait for your yes
 
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Build a pandas project that calculates class grades from several data sources. Load, merge, and save data, then plot summary statistics with pandas.
-- Link: https://realpython.com/pandas-project-gradebook/
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Ask a coding agent to "build me an app" and it will start building. Along the way it decides what your words meant, which edge cases matter and which libraries to add. You often find out after the code exists. NodFirs...
+- Link: https://dev.to/kaylit/nodfirst-make-your-ai-coding-agent-wait-for-your-yes-kn9
 
 ---
 
@@ -119,15 +119,6 @@ _Generated on: 2026-11-27 10:16 UTC_
 
 ---
 
-## Quiz: LLM Evaluation in Python: Build an Eval Harness From Scratch
-
-- Source: Real Python
-- Category: Developer Blog
-- Summary: Test your understanding of LLM evaluation in Python, from rubrics and code checks to LLM judges, calibration, and release gates.
-- Link: https://realpython.com/quizzes/llm-evaluation/
-
----
-
 ## Quiz: Python and TOML: Read, Write, and Configure with tomllib
 
 - Source: Real Python
@@ -137,47 +128,56 @@ _Generated on: 2026-11-27 10:16 UTC_
 
 ---
 
-## The Friday 5pm Deploy Rule Applies to Your Whole Life
-
-- Source: DEV Community
-- Category: Career Guidance
-- Summary: Every development team I've worked with has some version of the same rule: don't deploy on Friday afternoon. It's not written in any handbook. Nobody signs anything. But everyone knows it, usually because someone lear...
-- Link: https://dev.to/sergheipogor/the-friday-5pm-deploy-rule-applies-to-your-whole-life-1c97
-
----
-
-## The No AI Slop Manifesto: A Pledge to Own What Agents Ship
+## Quiz: Python Timer Functions: Three Ways to Monitor Your Code
 
 - Source: Real Python
 - Category: Developer Blog
-- Summary: The No AI Slop Manifesto explained: what the slop manifesto says, why it appeared now, and what its beliefs mean for Python developers using AI.
-- Link: https://realpython.com/no-ai-slop-manifesto/
+- Summary: Test your knowledge of Python timer functions, from time.perf_counter() to timers built with classes, context managers, and decorators.
+- Link: https://realpython.com/quizzes/python-timer/
 
 ---
 
-## Three Years of Shipping Production AI: What I Built, What Got Hard, What I Learned
+## Securing Webhooks in Python: A Lightweight HMAC Signer with Replay Attack Protection
+
+- Source: DEV Community
+- Category: Programming Tips
+- Summary: Securing Webhooks in Python: A Lightweight HMAC Signer with Replay Attack Protection Webhooks are essential for modern event-driven architectures (like payment gateways, CI/CD pipelines, and SaaS integrations). Howeve...
+- Link: https://dev.to/bi_quang_f7db903e86c1505/securing-webhooks-in-python-a-lightweight-hmac-signer-with-replay-attack-protection-535l
+
+---
+
+## The real cost of studying abroad: a 7-step check before you accept an offer
 
 - Source: DEV Community
 - Category: Career Guidance
-- Summary: I have spent about three years building AI systems that real people depend on, and I have never written about it as a whole. This is that post: what I worked on, what went wrong or got hard, and what I would tell a te...
-- Link: https://dev.to/abuzar18/three-years-of-shipping-production-ai-what-i-built-what-got-hard-what-i-learned-47g0
+- Summary: Tuition is the number everyone compares, and it's often less than half of what a degree abroad really costs. Before you choose between offers, work out the full yearly cost of each one. I'm building SchoolUp, a study-...
+- Link: https://dev.to/ishan_dahal_8132aa7ef9acd/the-real-cost-of-studying-abroad-a-7-step-check-before-you-accept-an-offer-64a
 
 ---
 
-## Time to solve DSA in Bhojpuri lol
+## The Real Python Podcast – Episode #320: Optimizing Python Performance & Building a Django Static Site
 
-- Source: DEV Community
-- Category: Programming Tips
-- Summary: I Built a Programming Language in Bhojpuri from Scratch Using Go CoderZ90 CoderZ90 CoderZ90 Follow Nov 27 I Built a Programming Language in Bhojpuri from Scratch Using Go # computerscience # go # opensource # programm...
-- Link: https://dev.to/official_fire/-1040
+- Source: Real Python
+- Category: Developer Blog
+- Summary: What goes into moving from profiling the performance of a Python program to optimizing it? What are common techniques you should consider for speeding up your code, and which ones should you avoid? Christopher Trudeau...
+- Link: https://realpython.com/podcasts/rpp/320/
 
 ---
 
-## Why Soil Moisture Monitoring Matters for Long-Term Forest Health
+## Which hiring software do companies use? 34,235 career sites counted (Nov 2026)
 
 - Source: DEV Community
-- Category: Programming Tips
-- Summary: Forests are shaped by more than the trees we see above the ground. Under the canopy, soil moisture affects how plants grow, how nutrients become available, how water moves and how ecosystems respond to shifts in weath...
-- Link: https://dev.to/abhilash_abhi_5a1e33390c3/why-soil-moisture-monitoring-matters-for-long-term-forest-health-26p3
+- Category: Career Guidance
+- Summary: Every company career page runs on some applicant tracking system (ATS). We read the public job feeds of 34,235 company career sites with at least one open job, across 10 platforms, on 17 November 2026. Together they h...
+- Link: https://dev.to/prostyropor_data/which-hiring-software-do-companies-use-34235-career-sites-counted-nov-2026-3e6g
+
+---
+
+## Why a Personal Free AI Account at Work Is a Real Risk
+
+- Source: DEV Community
+- Category: Career Guidance
+- Summary: I understand why people do it. A task lands on the desk, a personal ChatGPT or Gemini tab is already open, and pasting a paragraph feels faster than asking whether the company has an approved tool. I still think it is...
+- Link: https://dev.to/sauliussteponkus/why-a-personal-free-ai-account-at-work-is-a-real-risk-4kah
 
 ---
